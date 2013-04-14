@@ -1,0 +1,862 @@
+{
+  "id" : "5m6a-enkt",
+  "name" : "Building Complaints",
+  "attribution" : "Department of Buildings (DOB)",
+  "averageRating" : 0,
+  "category" : "Property",
+  "createdAt" : 1332596263,
+  "description" : "Daily updates of building complaint records. This data is replaced daily; historical data is not yet available.",
+  "displayType" : "table",
+  "downloadCount" : 299,
+  "numberOfComments" : 4,
+  "oid" : 3182787,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365858026,
+  "publicationGroup" : 303727,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365858025,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "tableId" : 793733,
+  "totalTimesRated" : 0,
+  "viewCount" : 882,
+  "viewLastModified" : 1365858026,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 57642489,
+    "name" : "Complaint Number",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_number",
+    "position" : 1,
+    "rdfProperties" : "",
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355766,
+    "width" : 130,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "1316774",
+      "null" : 0,
+      "largest" : "5103473",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4528917"
+      }, {
+        "count" : 19,
+        "item" : "3415654"
+      }, {
+        "count" : 18,
+        "item" : "3417453"
+      }, {
+        "count" : 17,
+        "item" : "2182873"
+      }, {
+        "count" : 16,
+        "item" : "3418141"
+      }, {
+        "count" : 15,
+        "item" : "2182875"
+      }, {
+        "count" : 14,
+        "item" : "4545419"
+      }, {
+        "count" : 13,
+        "item" : "3441258"
+      }, {
+        "count" : 12,
+        "item" : "3441122"
+      }, {
+        "count" : 11,
+        "item" : "3437906"
+      }, {
+        "count" : 10,
+        "item" : "2183990"
+      }, {
+        "count" : 9,
+        "item" : "3441278"
+      }, {
+        "count" : 8,
+        "item" : "3440942"
+      }, {
+        "count" : 7,
+        "item" : "2183991"
+      }, {
+        "count" : 6,
+        "item" : "1345160"
+      }, {
+        "count" : 5,
+        "item" : "5103470"
+      }, {
+        "count" : 4,
+        "item" : "3441279"
+      }, {
+        "count" : 3,
+        "item" : "1332728"
+      }, {
+        "count" : 2,
+        "item" : "2183992"
+      }, {
+        "count" : 1,
+        "item" : "5103012"
+      } ]
+    },
+    "format" : {
+      "aggregate" : "count",
+      "align" : "left",
+      "rdf" : ""
+    }
+  }, {
+    "id" : 57642490,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355767,
+    "width" : 72,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "ACTIVE",
+      "null" : 0,
+      "largest" : "CLOSED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CLOSED"
+      }, {
+        "count" : 19,
+        "item" : "ACTIVE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642491,
+    "name" : "Date Entered",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "date_entered",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2355768,
+    "width" : 152,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "2004-05-20T00:00:00",
+      "null" : 0,
+      "largest" : "2013-04-12T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-04-12T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-04-03T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2013-04-09T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2013-04-10T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2013-04-05T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-03-21T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2013-04-01T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-04-11T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-03-29T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2013-04-08T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-04-04T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-04-02T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-03-07T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-03-01T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-03-22T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-12T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-03-05T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-03-18T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2012-08-30T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-03-14T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642492,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "fieldName" : "address",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355769,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "100-21 87 AVENUE",
+      "null" : 0,
+      "largest" : "989 EAST 167 STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3411 IRWIN AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "124 WEST 134 STREET"
+      }, {
+        "count" : 18,
+        "item" : "335 HERKIMER STREET"
+      }, {
+        "count" : 17,
+        "item" : "1011 WHITE PLAINS ROAD"
+      }, {
+        "count" : 16,
+        "item" : "147-19 84 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "138 NEVINS STREET"
+      }, {
+        "count" : 14,
+        "item" : "17 DEVOE STREET"
+      }, {
+        "count" : 13,
+        "item" : "2813 OCEAN AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "1245 STRATFORD AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "1133 EAST 35 STREET"
+      }, {
+        "count" : 10,
+        "item" : "3121 AVENUE P"
+      }, {
+        "count" : 9,
+        "item" : "3697 MAROLLA PLACE"
+      }, {
+        "count" : 8,
+        "item" : "228 EAST 52 STREET"
+      }, {
+        "count" : 7,
+        "item" : "833 ANNADALE ROAD"
+      }, {
+        "count" : 6,
+        "item" : "1705 RALPH AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "525 WEST END AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "779 CONCOURSE VILLAGE EAST"
+      }, {
+        "count" : 3,
+        "item" : "30 MERLE PLACE"
+      }, {
+        "count" : 2,
+        "item" : "420 CLINTON AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "1415 PARKER STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642493,
+    "name" : "BIN",
+    "dataTypeName" : "text",
+    "fieldName" : "bin",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355770,
+    "width" : 65,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "1001100",
+      "null" : 0,
+      "largest" : "5862972",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2083678"
+      }, {
+        "count" : 19,
+        "item" : "1058234"
+      }, {
+        "count" : 18,
+        "item" : "2068024"
+      }, {
+        "count" : 17,
+        "item" : "2090511"
+      }, {
+        "count" : 16,
+        "item" : "4208625"
+      }, {
+        "count" : 15,
+        "item" : "3335917"
+      }, {
+        "count" : 14,
+        "item" : "3338157"
+      }, {
+        "count" : 13,
+        "item" : "3203179"
+      }, {
+        "count" : 12,
+        "item" : "2025350"
+      }, {
+        "count" : 11,
+        "item" : "3208202"
+      }, {
+        "count" : 10,
+        "item" : "3211401"
+      }, {
+        "count" : 9,
+        "item" : "2828740"
+      }, {
+        "count" : 8,
+        "item" : "1071878"
+      }, {
+        "count" : 7,
+        "item" : "5080057"
+      }, {
+        "count" : 6,
+        "item" : "3223376"
+      }, {
+        "count" : 5,
+        "item" : "1033916"
+      }, {
+        "count" : 4,
+        "item" : "2116939"
+      }, {
+        "count" : 3,
+        "item" : "5044328"
+      }, {
+        "count" : 2,
+        "item" : "3055969"
+      }, {
+        "count" : 1,
+        "item" : "2041597"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 57642494,
+    "name" : "Community Board",
+    "dataTypeName" : "number",
+    "fieldName" : "community_board",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 2355771,
+    "width" : 133,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "101",
+      "sum" : "186848",
+      "null" : 0,
+      "average" : "307.8220757825371",
+      "largest" : "503",
+      "top" : [ {
+        "count" : 20,
+        "item" : "316"
+      }, {
+        "count" : 19,
+        "item" : "401"
+      }, {
+        "count" : 18,
+        "item" : "301"
+      }, {
+        "count" : 17,
+        "item" : "305"
+      }, {
+        "count" : 16,
+        "item" : "403"
+      }, {
+        "count" : 15,
+        "item" : "502"
+      }, {
+        "count" : 14,
+        "item" : "307"
+      }, {
+        "count" : 13,
+        "item" : "501"
+      }, {
+        "count" : 12,
+        "item" : "412"
+      }, {
+        "count" : 11,
+        "item" : "105"
+      }, {
+        "count" : 10,
+        "item" : "306"
+      }, {
+        "count" : 9,
+        "item" : "102"
+      }, {
+        "count" : 8,
+        "item" : "315"
+      }, {
+        "count" : 7,
+        "item" : "405"
+      }, {
+        "count" : 6,
+        "item" : "402"
+      }, {
+        "count" : 5,
+        "item" : "407"
+      }, {
+        "count" : 4,
+        "item" : "410"
+      }, {
+        "count" : 3,
+        "item" : "304"
+      }, {
+        "count" : 2,
+        "item" : "413"
+      }, {
+        "count" : 1,
+        "item" : "302"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642495,
+    "name" : "Special District",
+    "dataTypeName" : "text",
+    "fieldName" : "special_district",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355772,
+    "width" : 118,
+    "cachedContents" : {
+      "non_null" : 6,
+      "smallest" : "IBZ",
+      "null" : 601,
+      "largest" : "IBZ",
+      "top" : [ {
+        "count" : 20,
+        "item" : "IBZ"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642496,
+    "name" : "Complaint Category",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_category",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355773,
+    "width" : 143,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "01",
+      "null" : 0,
+      "largest" : "93",
+      "top" : [ {
+        "count" : 20,
+        "item" : "73"
+      }, {
+        "count" : 19,
+        "item" : "4B"
+      }, {
+        "count" : 18,
+        "item" : "05"
+      }, {
+        "count" : 17,
+        "item" : "71"
+      }, {
+        "count" : 16,
+        "item" : "45"
+      }, {
+        "count" : 15,
+        "item" : "63"
+      }, {
+        "count" : 14,
+        "item" : "37"
+      }, {
+        "count" : 13,
+        "item" : "59"
+      }, {
+        "count" : 12,
+        "item" : "91"
+      }, {
+        "count" : 11,
+        "item" : "85"
+      }, {
+        "count" : 10,
+        "item" : "83"
+      }, {
+        "count" : 9,
+        "item" : "30"
+      }, {
+        "count" : 8,
+        "item" : "58"
+      }, {
+        "count" : 7,
+        "item" : "04"
+      }, {
+        "count" : 6,
+        "item" : "4A"
+      }, {
+        "count" : 5,
+        "item" : "35"
+      }, {
+        "count" : 4,
+        "item" : "09"
+      }, {
+        "count" : 3,
+        "item" : "76"
+      }, {
+        "count" : 2,
+        "item" : "23"
+      }, {
+        "count" : 1,
+        "item" : "10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642497,
+    "name" : "Unit",
+    "dataTypeName" : "text",
+    "fieldName" : "unit",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355774,
+    "width" : 73,
+    "cachedContents" : {
+      "non_null" : 607,
+      "smallest" : "BEST",
+      "null" : 0,
+      "largest" : "STALL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BKLYN"
+      }, {
+        "count" : 19,
+        "item" : "SEP"
+      }, {
+        "count" : 18,
+        "item" : "QNS."
+      }, {
+        "count" : 17,
+        "item" : "PLUMB"
+      }, {
+        "count" : 16,
+        "item" : "MAN."
+      }, {
+        "count" : 15,
+        "item" : "BRONX"
+      }, {
+        "count" : 14,
+        "item" : "ELEVR"
+      }, {
+        "count" : 13,
+        "item" : "ST.IS"
+      }, {
+        "count" : 12,
+        "item" : "ERT"
+      }, {
+        "count" : 11,
+        "item" : "ELCTR"
+      }, {
+        "count" : 10,
+        "item" : "BOILR"
+      }, {
+        "count" : 9,
+        "item" : "SPOPS"
+      }, {
+        "count" : 8,
+        "item" : "CITY"
+      }, {
+        "count" : 7,
+        "item" : "BEST"
+      }, {
+        "count" : 6,
+        "item" : "SCFLD"
+      }, {
+        "count" : 5,
+        "item" : "EXCAV"
+      }, {
+        "count" : 4,
+        "item" : "FEU"
+      }, {
+        "count" : 3,
+        "item" : "INTDM"
+      }, {
+        "count" : 2,
+        "item" : "STALL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642498,
+    "name" : "Disposition Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "disposition_date",
+    "position" : 10,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2355776,
+    "width" : 162,
+    "cachedContents" : {
+      "non_null" : 377,
+      "smallest" : "2013-04-12T00:00:00",
+      "null" : 230,
+      "largest" : "2013-04-12T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-04-12T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642499,
+    "name" : "Disposition Code",
+    "dataTypeName" : "text",
+    "fieldName" : "disposition_code",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2355777,
+    "width" : 134,
+    "cachedContents" : {
+      "non_null" : 377,
+      "smallest" : "A1",
+      "null" : 230,
+      "largest" : "Y3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "I2"
+      }, {
+        "count" : 19,
+        "item" : "C1"
+      }, {
+        "count" : 18,
+        "item" : "C2"
+      }, {
+        "count" : 17,
+        "item" : "C4"
+      }, {
+        "count" : 16,
+        "item" : "A9"
+      }, {
+        "count" : 15,
+        "item" : "L2"
+      }, {
+        "count" : 14,
+        "item" : "A3"
+      }, {
+        "count" : 13,
+        "item" : "K1"
+      }, {
+        "count" : 12,
+        "item" : "I1"
+      }, {
+        "count" : 11,
+        "item" : "Y2"
+      }, {
+        "count" : 10,
+        "item" : "A8"
+      }, {
+        "count" : 9,
+        "item" : "L3"
+      }, {
+        "count" : 8,
+        "item" : "H1"
+      }, {
+        "count" : 7,
+        "item" : "J1"
+      }, {
+        "count" : 6,
+        "item" : "W1"
+      }, {
+        "count" : 5,
+        "item" : "C3"
+      }, {
+        "count" : 4,
+        "item" : "L1"
+      }, {
+        "count" : 3,
+        "item" : "Y3"
+      }, {
+        "count" : 2,
+        "item" : "P6"
+      }, {
+        "count" : 1,
+        "item" : "A1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57642500,
+    "name" : "Inspection Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "inspection_date",
+    "position" : 12,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 2355775,
+    "width" : 149,
+    "cachedContents" : {
+      "non_null" : 377,
+      "smallest" : "2012-04-09T00:00:00",
+      "null" : 230,
+      "largest" : "2013-04-12T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2013-04-10T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2013-04-05T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2013-04-09T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2013-04-04T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2013-04-12T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-04-11T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-04-09T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-04-02T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-03-27T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2013-04-08T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-04-01T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-03-18T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-03-29T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-03-15T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-04-03T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-25T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-03-30T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2012-08-30T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-04-07T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-03-08T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1365432220,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 57642489,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 57642489,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1365432220,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "building", "buildings", "complaints", "clean web" ],
+  "flags" : [ "default" ]
+}

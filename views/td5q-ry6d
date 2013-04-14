@@ -1,0 +1,397 @@
+{
+  "id" : "td5q-ry6d",
+  "name" : "Medallion Drivers - Trained",
+  "attribution" : "Taxi and Limousine Commission (TLC)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1362165708,
+  "description" : "This list contains information on the status of current medallion drivers who had completed Passenger Assistance Training.",
+  "displayType" : "table",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 3185622,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1365883255,
+  "publicationGroup" : 707782,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1365883252,
+  "rowsUpdatedBy" : "5fuc-pqz2",
+  "signed" : false,
+  "tableId" : 794254,
+  "totalTimesRated" : 0,
+  "viewCount" : 46,
+  "viewLastModified" : 1365883255,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 57683349,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "description" : "TLC license number",
+    "fieldName" : "license_number",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271723,
+    "width" : 143,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "222889",
+      "null" : 0,
+      "largest" : "5470924",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5437190"
+      }, {
+        "count" : 19,
+        "item" : "5437297"
+      }, {
+        "count" : 18,
+        "item" : "5437328"
+      }, {
+        "count" : 17,
+        "item" : "5437330"
+      }, {
+        "count" : 16,
+        "item" : "5437456"
+      }, {
+        "count" : 15,
+        "item" : "5437610"
+      }, {
+        "count" : 14,
+        "item" : "5437646"
+      }, {
+        "count" : 13,
+        "item" : "5437665"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57683351,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Name of the driver",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271724,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "ABABOU,ANAS",
+      "null" : 0,
+      "largest" : "ZWEIGHT,HANZ,NICOLAS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ALSHAMYLEH,ABEDALROHMAN,SAMEEH"
+      }, {
+        "count" : 19,
+        "item" : "KUMAR,VIJAY"
+      }, {
+        "count" : 18,
+        "item" : "ELCHIEV,MURASBEK,SAITALIEVICH"
+      }, {
+        "count" : 17,
+        "item" : "KAZAKPAEV,DANIIAR"
+      }, {
+        "count" : 16,
+        "item" : "ELAOUNI,MOHAMMED"
+      }, {
+        "count" : 15,
+        "item" : "MUJTABA,IKTEAR,UDDIN"
+      }, {
+        "count" : 14,
+        "item" : "BOEV,FARHODJON"
+      }, {
+        "count" : 13,
+        "item" : "AHMED,SHARIF,U"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57683353,
+    "name" : "Type",
+    "dataTypeName" : "text",
+    "description" : "Category the driver falls into",
+    "fieldName" : "type",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271725,
+    "width" : 200,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "MEDALLION TAXI DRIVER",
+      "null" : 0,
+      "largest" : "MEDALLION TAXI DRIVER",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MEDALLION TAXI DRIVER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57683355,
+    "name" : "Expiration Date",
+    "dataTypeName" : "text",
+    "description" : "Expiration date of license",
+    "fieldName" : "expiration_date",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271735,
+    "width" : 167,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "01/01/2014",
+      "null" : 0,
+      "largest" : "12/31/2014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "01/09/2015"
+      }, {
+        "count" : 19,
+        "item" : "03/01/2015"
+      }, {
+        "count" : 18,
+        "item" : "02/24/2015"
+      }, {
+        "count" : 17,
+        "item" : "03/15/2015"
+      }, {
+        "count" : 16,
+        "item" : "03/23/2015"
+      }, {
+        "count" : 15,
+        "item" : "02/28/2015"
+      }, {
+        "count" : 14,
+        "item" : "02/23/2015"
+      }, {
+        "count" : 13,
+        "item" : "04/11/2015"
+      }, {
+        "count" : 12,
+        "item" : "04/06/2015"
+      }, {
+        "count" : 11,
+        "item" : "05/25/2013"
+      }, {
+        "count" : 10,
+        "item" : "04/12/2015"
+      }, {
+        "count" : 9,
+        "item" : "04/10/2015"
+      }, {
+        "count" : 8,
+        "item" : "05/10/2013"
+      }, {
+        "count" : 7,
+        "item" : "06/18/2013"
+      }, {
+        "count" : 6,
+        "item" : "06/05/2013"
+      }, {
+        "count" : 5,
+        "item" : "05/04/2013"
+      }, {
+        "count" : 4,
+        "item" : "05/09/2013"
+      }, {
+        "count" : 3,
+        "item" : "07/19/2013"
+      }, {
+        "count" : 2,
+        "item" : "06/13/2013"
+      }, {
+        "count" : 1,
+        "item" : "06/19/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57683357,
+    "name" : "Completed Both Training",
+    "dataTypeName" : "text",
+    "description" : "Two training that were completed by Licensee",
+    "fieldName" : "completed_both_training",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271738,
+    "width" : 185,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "YES",
+      "null" : 0,
+      "largest" : "YES",
+      "top" : [ {
+        "count" : 20,
+        "item" : "YES"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57683359,
+    "name" : "Last Updated Date",
+    "dataTypeName" : "text",
+    "description" : "Data set creation date and time",
+    "fieldName" : "last_updated_date",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271773,
+    "width" : 153,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "03/07/2013",
+      "null" : 0,
+      "largest" : "04/13/2013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "03/07/2013"
+      }, {
+        "count" : 19,
+        "item" : "03/08/2013"
+      }, {
+        "count" : 18,
+        "item" : "03/11/2013"
+      }, {
+        "count" : 17,
+        "item" : "03/12/2013"
+      }, {
+        "count" : 16,
+        "item" : "03/13/2013"
+      }, {
+        "count" : 15,
+        "item" : "03/14/2013"
+      }, {
+        "count" : 14,
+        "item" : "03/15/2013"
+      }, {
+        "count" : 13,
+        "item" : "03/18/2013"
+      }, {
+        "count" : 12,
+        "item" : "03/19/2013"
+      }, {
+        "count" : 11,
+        "item" : "03/20/2013"
+      }, {
+        "count" : 10,
+        "item" : "03/21/2013"
+      }, {
+        "count" : 9,
+        "item" : "03/22/2013"
+      }, {
+        "count" : 8,
+        "item" : "03/25/2013"
+      }, {
+        "count" : 7,
+        "item" : "03/26/2013"
+      }, {
+        "count" : 6,
+        "item" : "03/27/2013"
+      }, {
+        "count" : 5,
+        "item" : "03/28/2013"
+      }, {
+        "count" : 4,
+        "item" : "03/29/2013"
+      }, {
+        "count" : 3,
+        "item" : "04/01/2013"
+      }, {
+        "count" : 2,
+        "item" : "03/30/2013"
+      }, {
+        "count" : 1,
+        "item" : "04/02/2013"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 57683361,
+    "name" : "Last Updated Time",
+    "dataTypeName" : "text",
+    "description" : "Data set creation time in 24 hour format.",
+    "fieldName" : "last_updated_time",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 8271789,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 74997,
+      "smallest" : "13:20",
+      "null" : 0,
+      "largest" : "13:36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13:36"
+      }, {
+        "count" : 19,
+        "item" : "13:30"
+      }, {
+        "count" : 18,
+        "item" : "13:20"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 57683359,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 57683359
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "taxi", "taxicab", "tlc", "limousine", "taxi driver", "medallion", "taxi license", "driver" ],
+  "flags" : [ "default" ]
+}
