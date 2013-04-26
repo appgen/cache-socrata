@@ -1,0 +1,863 @@
+{
+  "id" : "yqz9-aduk",
+  "name" : "DYCD SYEP (Summer Youth Employment)",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318027011,
+  "description" : "Summer Youth Employment",
+  "displayType" : "map",
+  "downloadCount" : 40,
+  "numberOfComments" : 0,
+  "oid" : 341825,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318027031,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243909,
+  "totalTimesRated" : 0,
+  "viewCount" : 183,
+  "viewLastModified" : 1360612173,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980187,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561308,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "1",
+      "sum" : "2016",
+      "null" : 0,
+      "average" : "32",
+      "largest" : "63",
+      "top" : [ {
+        "count" : 20,
+        "item" : "42"
+      }, {
+        "count" : 19,
+        "item" : "43"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "45"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "48"
+      }, {
+        "count" : 13,
+        "item" : "49"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "51"
+      }, {
+        "count" : 10,
+        "item" : "52"
+      }, {
+        "count" : 9,
+        "item" : "53"
+      }, {
+        "count" : 8,
+        "item" : "54"
+      }, {
+        "count" : 7,
+        "item" : "55"
+      }, {
+        "count" : 6,
+        "item" : "56"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "58"
+      }, {
+        "count" : 3,
+        "item" : "59"
+      }, {
+        "count" : 2,
+        "item" : "60"
+      }, {
+        "count" : 1,
+        "item" : "61"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980188,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561309,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : {
+        "longitude" : "-73.99237667999995",
+        "latitude" : "40.733515976000035"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.93676214499993",
+        "latitude" : "40.81872137900007"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.00935881499993",
+          "latitude" : "40.65113265600007"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.96104418999994",
+          "latitude" : "40.69259086100004"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.93906676799992",
+          "latitude" : "40.71184423900007"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9403462969999",
+          "latitude" : "40.681011014000035"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.91471098099993",
+          "latitude" : "40.812699482000085"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.91878747699991",
+          "latitude" : "40.83254812700005"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.90867559499992",
+          "latitude" : "40.84855623800007"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.88074906599991",
+          "latitude" : "40.88148751400007"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.89721822699994",
+          "latitude" : "40.81728904100004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.89336160599993",
+          "latitude" : "40.82124302800008"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.89356833099993",
+          "latitude" : "40.84831409900005"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.9287115109999",
+          "latitude" : "40.834667257000035"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.92402989399994",
+          "latitude" : "40.86789715100008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.99126615099993",
+          "latitude" : "40.72007152200007"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.93507460799992",
+          "latitude" : "40.84292710300008"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93527878999993",
+          "latitude" : "40.80153226400006"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.95457570399992",
+          "latitude" : "40.81180119800007"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.95297635199995",
+          "latitude" : "40.81123433000005"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.98271779599992",
+          "latitude" : "40.714246175000085"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.92451637599993",
+          "latitude" : "40.86613811800004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980189,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561310,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "1",
+      "sum" : "2103",
+      "null" : 0,
+      "average" : "33.38095238095238",
+      "largest" : "66",
+      "top" : [ {
+        "count" : 20,
+        "item" : "18"
+      }, {
+        "count" : 19,
+        "item" : "20"
+      }, {
+        "count" : 18,
+        "item" : "21"
+      }, {
+        "count" : 17,
+        "item" : "23"
+      }, {
+        "count" : 16,
+        "item" : "24"
+      }, {
+        "count" : 15,
+        "item" : "26"
+      }, {
+        "count" : 14,
+        "item" : "27"
+      }, {
+        "count" : 13,
+        "item" : "29"
+      }, {
+        "count" : 12,
+        "item" : "32"
+      }, {
+        "count" : 11,
+        "item" : "33"
+      }, {
+        "count" : 10,
+        "item" : "35"
+      }, {
+        "count" : 9,
+        "item" : "36"
+      }, {
+        "count" : 8,
+        "item" : "38"
+      }, {
+        "count" : 7,
+        "item" : "40"
+      }, {
+        "count" : 6,
+        "item" : "41"
+      }, {
+        "count" : 5,
+        "item" : "43"
+      }, {
+        "count" : 4,
+        "item" : "44"
+      }, {
+        "count" : 3,
+        "item" : "46"
+      }, {
+        "count" : 2,
+        "item" : "47"
+      }, {
+        "count" : 1,
+        "item" : "49"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980190,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561311,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "Job and Internships",
+      "null" : 0,
+      "largest" : "Job and Internships",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Job and Internships"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980191,
+    "name" : "DIVISIONNA",
+    "dataTypeName" : "text",
+    "description" : "DIVISIONNA",
+    "fieldName" : "divisionna",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561312,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Woodycrest Center For Human Development",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Police Athletic League, Inc."
+      }, {
+        "count" : 19,
+        "item" : "St. Nicholas Neighborhood Preservation Corporation"
+      }, {
+        "count" : 18,
+        "item" : "Vannguard Urban Improvement Association, Inc. - Vulnerable Youth"
+      }, {
+        "count" : 17,
+        "item" : "Aspira of New York, Inc."
+      }, {
+        "count" : 16,
+        "item" : "Citizens Advice Bureau, Inc."
+      }, {
+        "count" : 15,
+        "item" : "Community Association of Progressive Dominicans"
+      }, {
+        "count" : 14,
+        "item" : "Mosholu Montefiore Community Center, Inc."
+      }, {
+        "count" : 13,
+        "item" : "Simpson Street Development Association"
+      }, {
+        "count" : 12,
+        "item" : "Wildcat Service Corporation"
+      }, {
+        "count" : 11,
+        "item" : "Woodycrest Center For Human Development"
+      }, {
+        "count" : 10,
+        "item" : "Childrens Arts & Science Workshops, Inc. -Man"
+      }, {
+        "count" : 9,
+        "item" : "Chinese American Planning Council"
+      }, {
+        "count" : 8,
+        "item" : "East Harlem Employment Services"
+      }, {
+        "count" : 7,
+        "item" : "Ecumenical Community Development Organization"
+      }, {
+        "count" : 6,
+        "item" : "Harlem Commonwealth Council Inc"
+      }, {
+        "count" : 5,
+        "item" : "Henry Street Settlement, Inc."
+      }, {
+        "count" : 4,
+        "item" : "Inwood Community Services, Inc"
+      }, {
+        "count" : 3,
+        "item" : "New York City Housing Authority"
+      }, {
+        "count" : 2,
+        "item" : "New York City Mission Society"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980192,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561313,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "10-25 41st Avenue",
+      "null" : 0,
+      "largest" : "999 Jamaica Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "345 43rd Street"
+      }, {
+        "count" : 19,
+        "item" : "230 Classon Avenue"
+      }, {
+        "count" : 18,
+        "item" : "850 Grand Street"
+      }, {
+        "count" : 17,
+        "item" : "613-619 Throop Avenue, 3rd Fl"
+      }, {
+        "count" : 16,
+        "item" : "545 East 146th Street"
+      }, {
+        "count" : 15,
+        "item" : "1130 Grand Concourse"
+      }, {
+        "count" : 14,
+        "item" : "1865 Morris Avenue"
+      }, {
+        "count" : 13,
+        "item" : "3450 Dekalb Avenue"
+      }, {
+        "count" : 12,
+        "item" : "991 Longwood Avenue"
+      }, {
+        "count" : 11,
+        "item" : "997 East 163rd Street"
+      }, {
+        "count" : 10,
+        "item" : "560 E. 179th Street"
+      }, {
+        "count" : 9,
+        "item" : "153 West 165th Street"
+      }, {
+        "count" : 8,
+        "item" : "686 West 204th Street"
+      }, {
+        "count" : 7,
+        "item" : "165 Eldridge Street"
+      }, {
+        "count" : 6,
+        "item" : "2268 Amsterdam Avenue"
+      }, {
+        "count" : 5,
+        "item" : "240 East 123rd Street, 3rd FL"
+      }, {
+        "count" : 4,
+        "item" : "413 West 125th Street"
+      }, {
+        "count" : 3,
+        "item" : "361 West 125 Street"
+      }, {
+        "count" : 2,
+        "item" : "301 Henry Street"
+      }, {
+        "count" : 1,
+        "item" : "651 Academy Street , Top Flr"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980193,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561314,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "Astoria",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Flushing"
+      }, {
+        "count" : 18,
+        "item" : "Astoria"
+      }, {
+        "count" : 17,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 16,
+        "item" : "Jamaica"
+      }, {
+        "count" : 15,
+        "item" : "Long Island City"
+      }, {
+        "count" : 14,
+        "item" : "Saint Albans"
+      }, {
+        "count" : 13,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 12,
+        "item" : "Staten Island"
+      }, {
+        "count" : 11,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 10,
+        "item" : "Bronx"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980194,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "number",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561315,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "10002",
+      "sum" : "675755",
+      "null" : 0,
+      "average" : "10726.26984126984",
+      "largest" : "11434",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11102"
+      }, {
+        "count" : 19,
+        "item" : "11101"
+      }, {
+        "count" : 18,
+        "item" : "11230"
+      }, {
+        "count" : 17,
+        "item" : "11203"
+      }, {
+        "count" : 16,
+        "item" : "11216"
+      }, {
+        "count" : 15,
+        "item" : "10455"
+      }, {
+        "count" : 14,
+        "item" : "10035"
+      }, {
+        "count" : 13,
+        "item" : "11211"
+      }, {
+        "count" : 12,
+        "item" : "11213"
+      }, {
+        "count" : 11,
+        "item" : "10459"
+      }, {
+        "count" : 10,
+        "item" : "10457"
+      }, {
+        "count" : 9,
+        "item" : "10452"
+      }, {
+        "count" : 8,
+        "item" : "10034"
+      }, {
+        "count" : 7,
+        "item" : "10013"
+      }, {
+        "count" : 6,
+        "item" : "10032"
+      }, {
+        "count" : 5,
+        "item" : "10027"
+      }, {
+        "count" : 4,
+        "item" : "10002"
+      }, {
+        "count" : 3,
+        "item" : "10037"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980195,
+    "name" : "PHONENUMBE",
+    "dataTypeName" : "text",
+    "description" : "PHONENUMBE",
+    "fieldName" : "phonenumbe",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561316,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "(212) 254-3100",
+      "null" : 0,
+      "largest" : "(917) 286-1535",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 389-5309"
+      }, {
+        "count" : 19,
+        "item" : "(718) 252-4446"
+      }, {
+        "count" : 18,
+        "item" : "(718) 453-3330"
+      }, {
+        "count" : 17,
+        "item" : "(718) 508-3193"
+      }, {
+        "count" : 16,
+        "item" : "(718) 716-4021"
+      }, {
+        "count" : 15,
+        "item" : "(718) 882-4000 x279"
+      }, {
+        "count" : 14,
+        "item" : "(718) 389-5306"
+      }, {
+        "count" : 13,
+        "item" : "(718) 589-1510"
+      }, {
+        "count" : 12,
+        "item" : "(718) 294-0230 x3080"
+      }, {
+        "count" : 11,
+        "item" : "(718) 992-4256"
+      }, {
+        "count" : 10,
+        "item" : "(212) 740-8170"
+      }, {
+        "count" : 9,
+        "item" : "(212) 334-0083"
+      }, {
+        "count" : 8,
+        "item" : "(212) 781-4955"
+      }, {
+        "count" : 7,
+        "item" : "(212) 360-1100"
+      }, {
+        "count" : 6,
+        "item" : "(212) 531-3211"
+      }, {
+        "count" : 5,
+        "item" : "(212) 749-0900"
+      }, {
+        "count" : 4,
+        "item" : "(212) 254-3100"
+      }, {
+        "count" : 3,
+        "item" : "(212) 942-0043"
+      }, {
+        "count" : 2,
+        "item" : "(212) 306-3985"
+      }, {
+        "count" : 1,
+        "item" : "(212) 368-8400"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980196,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561317,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "http://www.nyc.gov/html/dycd/html/jobs/summer_youth_employment.shtml",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/dycd/html/jobs/summer_youth_employment.shtml",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/dycd/html/jobs/summer_youth_employment.shtml"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980197,
+    "name" : "SERVICESOF",
+    "dataTypeName" : "text",
+    "description" : "SERVICESOF",
+    "fieldName" : "servicesof",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561318,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 63,
+      "smallest" : "Seven-week summer employment initiative open to young people between the ages of 14 and 24. Participants work up to 25 hours a week while earning $7.25 per hour in assignments that include government agencies, hospitals, summer camps, nonprofits, small b",
+      "null" : 0,
+      "largest" : "Seven-week summer employment initiative open to young people between the ages of 14 and 24. Participants work up to 25 hours a week while earning $7.25 per hour in assignments that include government agencies, hospitals, summer camps, nonprofits, small b",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Seven-week summer employment initiative open to young people between the ages of 14 and 24. Participants work up to 25 hours a week while earning $7.25 per hour in assignments that include government agencies, hospitals, summer camps, nonprofits, small b"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561309,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561310
+      } ],
+      "latitudeId" : 1561308
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_DYCD_SYEP_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SERVICE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_DYCD_SYEP_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "3B085EE7-2103-4AB2-849F-0F39A34139EE",
+      "name" : "DOITT_DYCD_SYEP.zip",
+      "filename" : "DOITT_DYCD_SYEP.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1172431489775,
+    "lat" : 40.8815491207233
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7556004213941,
+    "lat" : 40.6061007223569
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "syep", "youth", "job", "employ", "employment", "young", "work" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,265 @@
+{
+  "id" : "h7qm-2nji",
+  "name" : "JFK Airtrain",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318023843,
+  "description" : "Line feature representing the JFK airtrain.",
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "numberOfComments" : 0,
+  "oid" : 341805,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023854,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243889,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1360613981,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980003,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561124,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 298,
+      "smallest" : "1",
+      "sum" : "44551",
+      "null" : 0,
+      "average" : "149.5",
+      "largest" : "298",
+      "top" : [ {
+        "count" : 20,
+        "item" : "288"
+      }, {
+        "count" : 19,
+        "item" : "289"
+      }, {
+        "count" : 18,
+        "item" : "290"
+      }, {
+        "count" : 17,
+        "item" : "291"
+      }, {
+        "count" : 16,
+        "item" : "292"
+      }, {
+        "count" : 15,
+        "item" : "293"
+      }, {
+        "count" : 14,
+        "item" : "294"
+      }, {
+        "count" : 13,
+        "item" : "295"
+      }, {
+        "count" : 12,
+        "item" : "296"
+      }, {
+        "count" : 11,
+        "item" : "297"
+      }, {
+        "count" : 10,
+        "item" : "298"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980004,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1561125,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2980005,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561126,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 298,
+      "smallest" : "JFK AIRTRAIN",
+      "null" : 0,
+      "largest" : "JFK AIRTRAIN",
+      "top" : [ {
+        "count" : 20,
+        "item" : "JFK AIRTRAIN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980006,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561127,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 298,
+      "smallest" : "12.3622975344842647160703563713468611240386962890625",
+      "sum" : "58470.4196004394765768807928907335735857486724853515625",
+      "null" : 0,
+      "average" : "196.2094617464412",
+      "largest" : "1664.984479539896483402117155492305755615234375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "61.00929464390963374853527056984603404998779296875"
+      }, {
+        "count" : 19,
+        "item" : "45.61740461213111785809815046377480030059814453125"
+      }, {
+        "count" : 18,
+        "item" : "225.704460315545901494260760955512523651123046875"
+      }, {
+        "count" : 17,
+        "item" : "113.4157209136511852420881041325628757476806640625"
+      }, {
+        "count" : 16,
+        "item" : "79.464905321710290309056290425360202789306640625"
+      }, {
+        "count" : 15,
+        "item" : "256.40306609743259969036444090306758880615234375"
+      }, {
+        "count" : 14,
+        "item" : "162.638733474807310130927362479269504547119140625"
+      }, {
+        "count" : 13,
+        "item" : "39.1303309092848650152518530376255512237548828125"
+      }, {
+        "count" : 12,
+        "item" : "270.53392366219333098342758603394031524658203125"
+      }, {
+        "count" : 11,
+        "item" : "270.25898116228648859760141931474208831787109375"
+      }, {
+        "count" : 10,
+        "item" : "44.25213052179682193809640011750161647796630859375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561125,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561126
+      } ],
+      "latitudeId" : 1561124
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSLS",
+        "symbol.width" : "1",
+        "symbol.style" : "esriSLSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_AIRTRAIN_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_AIRTRAIN_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "4EB91012-C0FC-4370-9E8F-EB2EAA1AD478",
+      "name" : "DOITT_AIRTRAIN.zip",
+      "filename" : "DOITT_AIRTRAIN.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -73.8302438318239,
+    "lat" : 40.6987142507447
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7786525248821,
+    "lat" : 40.641759093946
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "transportation", "airport", "jfk", "airtrain", "line" ],
+  "flags" : [ "default" ]
+}

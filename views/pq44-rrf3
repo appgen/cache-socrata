@@ -1,0 +1,509 @@
+{
+  "id" : "pq44-rrf3",
+  "name" : "arcGIS",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1319053444,
+  "description" : "New school projects (Capacity) and Capital Improvement Projects (CIP) currently under Construction.",
+  "displayType" : "map",
+  "downloadCount" : 47,
+  "numberOfComments" : 0,
+  "oid" : 349224,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318119949,
+  "publicationGroup" : 244222,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318119917,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244222,
+  "totalTimesRated" : 0,
+  "viewCount" : 242,
+  "viewLastModified" : 1319053981,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3154405,
+    "name" : "name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565437,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "ACADEMY OF COLLABORATIVE ED",
+      "null" : 0,
+      "largest" : "YOUNG WOMENS' LEADERSHIP SCHOO",
+      "top" : [ {
+        "count" : 20,
+        "item" : "P.S. 90"
+      }, {
+        "count" : 19,
+        "item" : "PARK EAST ALT HS"
+      }, {
+        "count" : 18,
+        "item" : "PS 280"
+      }, {
+        "count" : 17,
+        "item" : "PS/IS 281"
+      }, {
+        "count" : 16,
+        "item" : "PS/IS 312"
+      }, {
+        "count" : 15,
+        "item" : "PS/IS 784"
+      }, {
+        "count" : 14,
+        "item" : "Pave Charter School"
+      }, {
+        "count" : 13,
+        "item" : "RICHMOND HILL HS"
+      }, {
+        "count" : 12,
+        "item" : "SARAH J HALE VOCATIONAL HS"
+      }, {
+        "count" : 11,
+        "item" : "SCH FOR CLASSICS:ACAD OF THINK"
+      }, {
+        "count" : 10,
+        "item" : "SCHOOL OF THE FUTURE @MD BACON"
+      }, {
+        "count" : 9,
+        "item" : "SCHOOL SAFETY PARKING LOT"
+      }, {
+        "count" : 8,
+        "item" : "SEWARD PARK HS"
+      }, {
+        "count" : 7,
+        "item" : "SOUTH SHORE HS"
+      }, {
+        "count" : 6,
+        "item" : "STUYVESANT HS (NEW)"
+      }, {
+        "count" : 5,
+        "item" : "Settlement Housing PS/IS/HS"
+      }, {
+        "count" : 4,
+        "item" : "Suspension Center - Bronx"
+      }, {
+        "count" : 3,
+        "item" : "TAFT HS"
+      }, {
+        "count" : 2,
+        "item" : "TELECOM ARTS & TECHNOLOGY H.S."
+      }, {
+        "count" : 1,
+        "item" : "THEODORE ROOSEVELT H.S."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3154406,
+    "name" : "boro",
+    "dataTypeName" : "text",
+    "fieldName" : "boro",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565438,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "K",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : "M"
+      }, {
+        "count" : 19,
+        "item" : "K"
+      }, {
+        "count" : 18,
+        "item" : "X"
+      }, {
+        "count" : 17,
+        "item" : "Q"
+      }, {
+        "count" : 16,
+        "item" : "R"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3154407,
+    "name" : "geo_dist",
+    "dataTypeName" : "number",
+    "fieldName" : "geo_dist",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565439,
+    "width" : 86,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "1",
+      "sum" : "8055",
+      "null" : 0,
+      "average" : "18.39041095890411",
+      "largest" : "78",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "14"
+      }, {
+        "count" : 18,
+        "item" : "78"
+      }, {
+        "count" : 17,
+        "item" : "10"
+      }, {
+        "count" : 16,
+        "item" : "27"
+      }, {
+        "count" : 15,
+        "item" : "2"
+      }, {
+        "count" : 14,
+        "item" : "25"
+      }, {
+        "count" : 13,
+        "item" : "16"
+      }, {
+        "count" : 12,
+        "item" : "12"
+      }, {
+        "count" : 11,
+        "item" : "13"
+      }, {
+        "count" : 10,
+        "item" : "18"
+      }, {
+        "count" : 9,
+        "item" : "32"
+      }, {
+        "count" : 8,
+        "item" : "29"
+      }, {
+        "count" : 7,
+        "item" : "24"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "30"
+      }, {
+        "count" : 4,
+        "item" : "19"
+      }, {
+        "count" : 3,
+        "item" : "1"
+      }, {
+        "count" : 2,
+        "item" : "11"
+      }, {
+        "count" : 1,
+        "item" : "28"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3154408,
+    "name" : "projdesc",
+    "dataTypeName" : "text",
+    "fieldName" : "projdesc",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565440,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "ACCESSIBILITY",
+      "null" : 0,
+      "largest" : "WORK REQUIRED TO OBTAIN C OF O",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New"
+      }, {
+        "count" : 19,
+        "item" : "FLOOD ELIMINATION"
+      }, {
+        "count" : 18,
+        "item" : "FLOORS"
+      }, {
+        "count" : 17,
+        "item" : "Addition"
+      }, {
+        "count" : 16,
+        "item" : "Lease"
+      }, {
+        "count" : 15,
+        "item" : "IP SURVEILLANCE CAMERAS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3154409,
+    "name" : "award",
+    "dataTypeName" : "number",
+    "fieldName" : "award",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565441,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "0",
+      "sum" : "2802097533.0958",
+      "null" : 0,
+      "average" : "6397482.952273516",
+      "largest" : "83300000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "48888000"
+      }, {
+        "count" : 18,
+        "item" : "47135000"
+      }, {
+        "count" : 17,
+        "item" : "47580000"
+      }, {
+        "count" : 16,
+        "item" : "47820000"
+      }, {
+        "count" : 15,
+        "item" : "25933333"
+      }, {
+        "count" : 14,
+        "item" : "9333000"
+      }, {
+        "count" : 13,
+        "item" : "2450000"
+      }, {
+        "count" : 12,
+        "item" : "845000"
+      }, {
+        "count" : 11,
+        "item" : "618000"
+      }, {
+        "count" : 10,
+        "item" : "2648000"
+      }, {
+        "count" : 9,
+        "item" : "929000"
+      }, {
+        "count" : 8,
+        "item" : "18887000"
+      }, {
+        "count" : 7,
+        "item" : "7752000"
+      }, {
+        "count" : 6,
+        "item" : "83300000"
+      }, {
+        "count" : 5,
+        "item" : "7335500"
+      }, {
+        "count" : 4,
+        "item" : "10174000"
+      }, {
+        "count" : 3,
+        "item" : "4138000"
+      }, {
+        "count" : 2,
+        "item" : "1593000"
+      }, {
+        "count" : 1,
+        "item" : "1500000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3154410,
+    "name" : "consttype",
+    "dataTypeName" : "text",
+    "fieldName" : "consttype",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565442,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "CAP",
+      "null" : 0,
+      "largest" : "CIP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CIP"
+      }, {
+        "count" : 19,
+        "item" : "CAP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3154411,
+    "name" : "buildingid",
+    "dataTypeName" : "text",
+    "fieldName" : "buildingid",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565443,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 438,
+      "smallest" : "K002",
+      "null" : 0,
+      "largest" : "X988",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Q090"
+      }, {
+        "count" : 19,
+        "item" : "M495"
+      }, {
+        "count" : 18,
+        "item" : "Q280"
+      }, {
+        "count" : 17,
+        "item" : "M281"
+      }, {
+        "count" : 16,
+        "item" : "Q312"
+      }, {
+        "count" : 15,
+        "item" : "X784"
+      }, {
+        "count" : 14,
+        "item" : "K990"
+      }, {
+        "count" : 13,
+        "item" : "Q475"
+      }, {
+        "count" : 12,
+        "item" : "K655"
+      }, {
+        "count" : 11,
+        "item" : "K218"
+      }, {
+        "count" : 10,
+        "item" : "M660"
+      }, {
+        "count" : 9,
+        "item" : "Q751"
+      }, {
+        "count" : 8,
+        "item" : "M445"
+      }, {
+        "count" : 7,
+        "item" : "K515"
+      }, {
+        "count" : 6,
+        "item" : "M477"
+      }, {
+        "count" : 5,
+        "item" : "X240"
+      }, {
+        "count" : 4,
+        "item" : "X988"
+      }, {
+        "count" : 3,
+        "item" : "X410"
+      }, {
+        "count" : 2,
+        "item" : "K485"
+      }, {
+        "count" : 1,
+        "item" : "X435"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.551755,
+      "ymax" : 40.815227,
+      "sr" : 4326,
+      "xmin" : -74.45737,
+      "xmax" : -73.464481
+    },
+    "plotStyle" : "point",
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 0.78
+      }
+    } ],
+    "type" : "esri",
+    "plot" : {
+      "locationId" : 1565444
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "attachments" : [ {
+      "blobId" : "98A20663-F9C0-48D6-8EB6-FF90A1DA2B08",
+      "name" : "Big_Apps_Data_Desc.xls",
+      "filename" : "Big_Apps_Data_Desc.xls"
+    } ]
+  },
+  "owner" : {
+    "id" : "bn9x-3kk4",
+    "displayName" : "cpersheff",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1319053444,
+    "screenName" : "cpersheff"
+  },
+  "query" : {
+    "orderBys" : [ {
+      "ascending" : true,
+      "expression" : {
+        "columnId" : 3154408,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 3154408,
+    "flags" : [ "asc" ]
+  } ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "capital", "improvement", "project", "current", "education" ]
+}

@@ -1,0 +1,343 @@
+{
+  "id" : "6czp-hu6e",
+  "name" : "Map of Baseball and Softball Diamonds",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318116633,
+  "description" : "GIS Map of Baseball and Softball Diamonds in New York City Department of Parks & Recreation properties.",
+  "displayType" : "map",
+  "downloadCount" : 45,
+  "numberOfComments" : 0,
+  "oid" : 342295,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116645,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244149,
+  "totalTimesRated" : 0,
+  "viewCount" : 149,
+  "viewLastModified" : 1363707083,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989442,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564688,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "1",
+      "sum" : "243253",
+      "null" : 0,
+      "average" : "349",
+      "largest" : "697"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989443,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564689,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989444,
+    "name" : "SURFACE",
+    "dataTypeName" : "text",
+    "description" : "SURFACE",
+    "fieldName" : "surface",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564690,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "Hard Surface",
+      "null" : 0,
+      "largest" : "Natural Grass",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Hard Surface"
+      }, {
+        "count" : 19,
+        "item" : "Natural Grass"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989445,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564691,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "B007",
+      "null" : 0,
+      "largest" : "X289",
+      "top" : [ {
+        "count" : 20,
+        "item" : "M010"
+      }, {
+        "count" : 19,
+        "item" : "M104"
+      }, {
+        "count" : 18,
+        "item" : "B057"
+      }, {
+        "count" : 17,
+        "item" : "X092"
+      }, {
+        "count" : 16,
+        "item" : "B018"
+      }, {
+        "count" : 15,
+        "item" : "M186"
+      }, {
+        "count" : 14,
+        "item" : "B166D"
+      }, {
+        "count" : 13,
+        "item" : "Q336"
+      }, {
+        "count" : 12,
+        "item" : "Q339"
+      }, {
+        "count" : 11,
+        "item" : "R067"
+      }, {
+        "count" : 10,
+        "item" : "Q396"
+      }, {
+        "count" : 9,
+        "item" : "Q445"
+      }, {
+        "count" : 8,
+        "item" : "M047"
+      }, {
+        "count" : 7,
+        "item" : "R026"
+      }, {
+        "count" : 6,
+        "item" : "B146"
+      }, {
+        "count" : 5,
+        "item" : "B329"
+      }, {
+        "count" : 4,
+        "item" : "B372"
+      }, {
+        "count" : 3,
+        "item" : "B051"
+      }, {
+        "count" : 2,
+        "item" : "Q119"
+      }, {
+        "count" : 1,
+        "item" : "Q005"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989446,
+    "name" : "area",
+    "dataTypeName" : "number",
+    "description" : "area",
+    "fieldName" : "area",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564692,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "1825.707318900000018402351997792720794677734375",
+      "sum" : "12202222.476682889990797775681130588054656982421875",
+      "null" : 0,
+      "average" : "17506.77543283055",
+      "largest" : "129944.50101300000096671283245086669921875"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989447,
+    "name" : "len",
+    "dataTypeName" : "number",
+    "description" : "len",
+    "fieldName" : "len",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564693,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "170.92851956800001289593637920916080474853515625",
+      "sum" : "327680.740619690000698938092682510614395141601562500",
+      "null" : 0,
+      "average" : "470.1301874027116",
+      "largest" : "1385.842517679999900792608968913555145263671875"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989448,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564694,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "170.928623086939978747977875173091888427734375",
+      "sum" : "327680.739578754074187827427522279322147369384765625",
+      "null" : 0,
+      "average" : "470.1301859092598",
+      "largest" : "1385.84268279826164871337823569774627685546875"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989449,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564695,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 697,
+      "smallest" : "1825.707716530350808170624077320098876953125",
+      "sum" : "12202222.38685870743802297511138021945953369140625",
+      "null" : 0,
+      "average" : "17506.77530395797",
+      "largest" : "129944.507064448684104718267917633056640625"
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564689,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564690
+      } ],
+      "latitudeId" : 1564688
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DPR_Baseball_001_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SURFACE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DPR_Baseball_001",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "365E9F2B-B58C-4719-BEDA-06240C4267E4",
+      "name" : "DPR_Baseball_001.zip",
+      "filename" : "DPR_Baseball_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1875446717766,
+    "lat" : 40.9109712261063
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7085374109182,
+    "lat" : 40.5512884241413
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "geographic", "cartography", "softball", "baseball", "ball", "diamond", "field", "sports", "game", "ballgame", "healthy living" ],
+  "flags" : [ "default" ]
+}

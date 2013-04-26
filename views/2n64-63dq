@@ -1,0 +1,842 @@
+{
+  "id" : "2n64-63dq",
+  "name" : "DYCD OSY (Out-of-School Youth)",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318026917,
+  "description" : "Out-of-School Youth",
+  "displayType" : "map",
+  "downloadCount" : 129,
+  "numberOfComments" : 0,
+  "oid" : 341823,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318026930,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243907,
+  "totalTimesRated" : 0,
+  "viewCount" : 164,
+  "viewLastModified" : 1360613047,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980165,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561286,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "1",
+      "sum" : "210",
+      "null" : 0,
+      "average" : "10.5",
+      "largest" : "20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980166,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561287,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : {
+        "longitude" : "-73.94466649499992",
+        "latitude" : "40.83000418100005"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.81878736199991",
+        "latitude" : "40.75805359600008"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.94466649499992",
+          "latitude" : "40.83000418100005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98828291399991",
+          "latitude" : "40.718937338000046"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.93483919499994",
+          "latitude" : "40.750413507000076"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99894305499993",
+          "latitude" : "40.71605044200004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00516529399994",
+          "latitude" : "40.72413364600004"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.98268519599992",
+          "latitude" : "40.74571993600006"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.07755805699992",
+          "latitude" : "40.64325947800006"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.91020666499992",
+          "latitude" : "40.85736171500008"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9169288729999",
+          "latitude" : "40.85115858700004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.91780167799993",
+          "latitude" : "40.81412094600006"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.93791697299991",
+          "latitude" : "40.74427175800008"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.92325467099994",
+          "latitude" : "40.77121823600004"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.92562464199995",
+          "latitude" : "40.74510706600006"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.97084189299994",
+          "latitude" : "40.69162108900008"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.95280537899993",
+          "latitude" : "40.691698672000086"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.9436775129999",
+          "latitude" : "40.701190659000076"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.95212429999992",
+          "latitude" : "40.66706345300008"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.95802310499994",
+          "latitude" : "40.650670554000044"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.99894035599993",
+          "latitude" : "40.65892902200005"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.81878736199991",
+          "latitude" : "40.75805359600008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980167,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561288,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "1",
+      "sum" : "220",
+      "null" : 0,
+      "average" : "11",
+      "largest" : "21",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "12"
+      }, {
+        "count" : 9,
+        "item" : "13"
+      }, {
+        "count" : 8,
+        "item" : "14"
+      }, {
+        "count" : 7,
+        "item" : "15"
+      }, {
+        "count" : 6,
+        "item" : "16"
+      }, {
+        "count" : 5,
+        "item" : "17"
+      }, {
+        "count" : 4,
+        "item" : "18"
+      }, {
+        "count" : 3,
+        "item" : "19"
+      }, {
+        "count" : 2,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "21"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980168,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561289,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Out-of-School Youth (OSY)",
+      "null" : 0,
+      "largest" : "Out-of-School Youth (OSY)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Out-of-School Youth (OSY)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980169,
+    "name" : "DIVISIONNA",
+    "dataTypeName" : "text",
+    "description" : "DIVISIONNA",
+    "fieldName" : "divisionna",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561290,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "21st Century Academy DYCD After School Program",
+      "null" : 0,
+      "largest" : "YWCA of Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "21st Century Academy DYCD After School Program"
+      }, {
+        "count" : 19,
+        "item" : "Henry Street Settlement"
+      }, {
+        "count" : 18,
+        "item" : "The Fortune Society"
+      }, {
+        "count" : 17,
+        "item" : "Chinatown Manpower Project, Inc."
+      }, {
+        "count" : 16,
+        "item" : "The Door- A Center for Alternatives"
+      }, {
+        "count" : 15,
+        "item" : "International Sheet Metal Workers"
+      }, {
+        "count" : 14,
+        "item" : "New York Center for Interpersonal Development"
+      }, {
+        "count" : 13,
+        "item" : "Henkels & McCoy, Inc."
+      }, {
+        "count" : 12,
+        "item" : "Arbor Employment and Training"
+      }, {
+        "count" : 11,
+        "item" : "Federation Employment & Guidance Services"
+      }, {
+        "count" : 10,
+        "item" : "CUNY Catch at LaGuardia Community College"
+      }, {
+        "count" : 9,
+        "item" : "Catholic Charities Neighborhood Services"
+      }, {
+        "count" : 8,
+        "item" : "Sunnyside Community Services"
+      }, {
+        "count" : 7,
+        "item" : "NYC Chapter Assn for Help of Retarded Children"
+      }, {
+        "count" : 6,
+        "item" : "Opportunities for a Better Tomorrow"
+      }, {
+        "count" : 5,
+        "item" : "Research Foundation of CUNY on behalf of Medgar Evers College"
+      }, {
+        "count" : 4,
+        "item" : "Church Avenue Merchant Block Association"
+      }, {
+        "count" : 3,
+        "item" : "YWCA of Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980170,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561291,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "1150 Carroll Street",
+      "null" : 0,
+      "largest" : "99 Essex Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "501 West 152nd Street"
+      }, {
+        "count" : 19,
+        "item" : "99 Essex Street"
+      }, {
+        "count" : 18,
+        "item" : "29-76 Northern Blvd."
+      }, {
+        "count" : 17,
+        "item" : "70 Mulberry Street"
+      }, {
+        "count" : 16,
+        "item" : "121 Avenue of Americas"
+      }, {
+        "count" : 15,
+        "item" : "470 Park Avenue South"
+      }, {
+        "count" : 14,
+        "item" : "120 Stuyvesant Place"
+      }, {
+        "count" : 13,
+        "item" : "2155 University Avenue, Gould Residence Hall, Room 210"
+      }, {
+        "count" : 12,
+        "item" : "1771 Andrews Avenue"
+      }, {
+        "count" : 11,
+        "item" : "412-434 East 147th Street"
+      }, {
+        "count" : 10,
+        "item" : "29-10 Thomson Avenue"
+      }, {
+        "count" : 9,
+        "item" : "23-40 Astoria Boulevard"
+      }, {
+        "count" : 8,
+        "item" : "43-31 39th Street"
+      }, {
+        "count" : 7,
+        "item" : "57 Willoughby Avenue"
+      }, {
+        "count" : 6,
+        "item" : "585 Dekalb Avenue"
+      }, {
+        "count" : 5,
+        "item" : "25 Thornton Street"
+      }, {
+        "count" : 4,
+        "item" : "1150 Carroll Street"
+      }, {
+        "count" : 3,
+        "item" : "2211 Church Avenue"
+      }, {
+        "count" : 2,
+        "item" : "783 4th Avenue"
+      }, {
+        "count" : 1,
+        "item" : "42-07 Parsons Boulevard"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980171,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561292,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Astoria",
+      "null" : 0,
+      "largest" : "Sunnyside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Long Island City"
+      }, {
+        "count" : 18,
+        "item" : "Staten Island"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Astoria"
+      }, {
+        "count" : 15,
+        "item" : "Sunnyside"
+      }, {
+        "count" : 14,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 13,
+        "item" : "Flushing"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980172,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "number",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561293,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "10002",
+      "sum" : "214796",
+      "null" : 0,
+      "average" : "10739.8",
+      "largest" : "11355",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10032"
+      }, {
+        "count" : 19,
+        "item" : "10002"
+      }, {
+        "count" : 18,
+        "item" : "11101"
+      }, {
+        "count" : 17,
+        "item" : "10013"
+      }, {
+        "count" : 16,
+        "item" : "10016"
+      }, {
+        "count" : 15,
+        "item" : "10301"
+      }, {
+        "count" : 14,
+        "item" : "10453"
+      }, {
+        "count" : 13,
+        "item" : "10455"
+      }, {
+        "count" : 12,
+        "item" : "11102"
+      }, {
+        "count" : 11,
+        "item" : "11104"
+      }, {
+        "count" : 10,
+        "item" : "11201"
+      }, {
+        "count" : 9,
+        "item" : "11205"
+      }, {
+        "count" : 8,
+        "item" : "11206"
+      }, {
+        "count" : 7,
+        "item" : "11225"
+      }, {
+        "count" : 6,
+        "item" : "11226"
+      }, {
+        "count" : 5,
+        "item" : "11232"
+      }, {
+        "count" : 4,
+        "item" : "11355"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980173,
+    "name" : "PHONENUMBE",
+    "dataTypeName" : "text",
+    "description" : "PHONENUMBE",
+    "fieldName" : "phonenumbe",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561294,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "(212) 478-5400 ext. 210",
+      "null" : 0,
+      "largest" : "(917) 856-2368",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(800) 246-4646"
+      }, {
+        "count" : 19,
+        "item" : "(212) 478-5400 ext. 210"
+      }, {
+        "count" : 18,
+        "item" : "(212) 691-7554 ext. 704"
+      }, {
+        "count" : 17,
+        "item" : "(212) 571-1690"
+      }, {
+        "count" : 16,
+        "item" : "(212) 941-9090"
+      }, {
+        "count" : 15,
+        "item" : "(212) 732-7897"
+      }, {
+        "count" : 14,
+        "item" : "(718) 947-4051"
+      }, {
+        "count" : 13,
+        "item" : "(917) 856-2368"
+      }, {
+        "count" : 12,
+        "item" : "(718) 731-7686"
+      }, {
+        "count" : 11,
+        "item" : "(718) 742-3499"
+      }, {
+        "count" : 10,
+        "item" : "(718) 726-9790 ext. 127"
+      }, {
+        "count" : 9,
+        "item" : "(718) 784-6173 ext. 429"
+      }, {
+        "count" : 8,
+        "item" : "(212) 634-8657"
+      }, {
+        "count" : 7,
+        "item" : "(718) 623-4031"
+      }, {
+        "count" : 6,
+        "item" : "(718) 369-0303"
+      }, {
+        "count" : 5,
+        "item" : "(718) 270-6474"
+      }, {
+        "count" : 4,
+        "item" : "(718) 462-4244"
+      }, {
+        "count" : 3,
+        "item" : "(718) 353-4553"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980174,
+    "name" : "SERVICESOF",
+    "dataTypeName" : "text",
+    "description" : "SERVICESOF",
+    "fieldName" : "servicesof",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561295,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Occupational skills training<br/>Job and college placement<br/>GED preparation",
+      "null" : 0,
+      "largest" : "Occupational skills training<br/>Job and college placement<br/>GED preparation",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Occupational skills training<br/>Job and college placement<br/>GED preparation"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980175,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561296,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "http://www.nyc.gov/html/dycd/html/jobs/out_of_school_youth_program.shtml",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/dycd/html/jobs/out_of_school_youth_program.shtml",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/dycd/html/jobs/out_of_school_youth_program.shtml"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561287,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561288
+      } ],
+      "latitudeId" : 1561286
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_DYCD_OSY_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SERVICE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_DYCD_OSY_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "BBDB1957-02B7-41D6-A874-1B5C76F1F24A",
+      "name" : "DOITT_DYCD_OSY.zip",
+      "filename" : "DOITT_DYCD_OSY.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.077807734307,
+    "lat" : 40.8573966575199
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.8185170784916,
+    "lat" : 40.6431433471198
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "education", "youth", "school", "osy", "out-of-school", "out of school" ],
+  "flags" : [ "default" ]
+}

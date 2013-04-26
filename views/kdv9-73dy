@@ -1,0 +1,615 @@
+{
+  "id" : "kdv9-73dy",
+  "name" : "test",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1352141949,
+  "description" : "Planimetric basemap layer containing elevation points.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 1561049,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318027274,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243911,
+  "totalTimesRated" : 0,
+  "viewCount" : 27,
+  "viewLastModified" : 1352141949,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 26769981,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561330,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1355486,
+      "smallest" : "1",
+      "sum" : "918671825841",
+      "null" : 0,
+      "average" : "677743.5",
+      "largest" : "1355486",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1355461"
+      }, {
+        "count" : 19,
+        "item" : "1355462"
+      }, {
+        "count" : 18,
+        "item" : "1355463"
+      }, {
+        "count" : 17,
+        "item" : "1355464"
+      }, {
+        "count" : 16,
+        "item" : "1355465"
+      }, {
+        "count" : 15,
+        "item" : "1355466"
+      }, {
+        "count" : 14,
+        "item" : "1355467"
+      }, {
+        "count" : 13,
+        "item" : "1355468"
+      }, {
+        "count" : 12,
+        "item" : "1355469"
+      }, {
+        "count" : 11,
+        "item" : "1355470"
+      }, {
+        "count" : 10,
+        "item" : "1355471"
+      }, {
+        "count" : 9,
+        "item" : "1355472"
+      }, {
+        "count" : 8,
+        "item" : "1355473"
+      }, {
+        "count" : 7,
+        "item" : "1355474"
+      }, {
+        "count" : 6,
+        "item" : "1355475"
+      }, {
+        "count" : 5,
+        "item" : "1355476"
+      }, {
+        "count" : 4,
+        "item" : "1355477"
+      }, {
+        "count" : 3,
+        "item" : "1355478"
+      }, {
+        "count" : 2,
+        "item" : "1355479"
+      }, {
+        "count" : 1,
+        "item" : "1355480"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 26769982,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561331,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1355485,
+      "smallest" : {
+        "longitude" : "-73.92356223599995",
+        "latitude" : "40.55679068500007"
+      },
+      "null" : 1,
+      "largest" : {
+        "longitude" : "-73.94396564499993",
+        "latitude" : "40.85150467400007"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.86274312199993",
+          "latitude" : "40.68214578800007"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.91672212299994",
+          "latitude" : "40.620140881000054"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.86034665799991",
+          "latitude" : "40.67582744500004"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.92398018299991",
+          "latitude" : "40.65311593800004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.92494493999993",
+          "latitude" : "40.660283707000076"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.92040008599992",
+          "latitude" : "40.67073746600005"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9191730789999",
+          "latitude" : "40.69044483400006"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.91269312899993",
+          "latitude" : "40.640245460000074"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.91628650199993",
+          "latitude" : "40.659403300000065"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.9115492759999",
+          "latitude" : "40.68548584600006"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.86949182699993",
+          "latitude" : "40.685212801000034"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.92955419899994",
+          "latitude" : "40.65205883400006"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.90124199599995",
+          "latitude" : "40.67562877900008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.92248216999991",
+          "latitude" : "40.63734651800007"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.91400607999992",
+          "latitude" : "40.67324774700006"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.8869801909999",
+          "latitude" : "40.681504120000056"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9302538099999",
+          "latitude" : "40.68893946400004"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.9351672709999",
+          "latitude" : "40.69474350300004"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.89444042199995",
+          "latitude" : "40.66630495000004"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.87917780099991",
+          "latitude" : "40.637227522000046"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 26769983,
+    "name" : "ELEVATION",
+    "dataTypeName" : "number",
+    "description" : "ELEVATION",
+    "fieldName" : "elevation",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561332,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1355486,
+      "smallest" : "-14.1257000000000001449507180950604379177093505859375",
+      "sum" : "102804966.23858097177038780861246629327876433990240911953151226043701171875",
+      "null" : 0,
+      "average" : "75.84362084048155",
+      "largest" : "5599.7451769999997850391082465648651123046875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "37.3536798100000027034184313379228115081787109375"
+      }, {
+        "count" : 19,
+        "item" : "52.60000000000000142108547152020037174224853515625"
+      }, {
+        "count" : 18,
+        "item" : "34.17999999999999971578290569595992565155029296875"
+      }, {
+        "count" : 17,
+        "item" : "44.840000000000003410605131648480892181396484375"
+      }, {
+        "count" : 16,
+        "item" : "59.196579659999997602426446974277496337890625"
+      }, {
+        "count" : 15,
+        "item" : "73.1299999999999954525264911353588104248046875"
+      }, {
+        "count" : 14,
+        "item" : "108.1200000000000045474735088646411895751953125"
+      }, {
+        "count" : 13,
+        "item" : "96.6000000000000085265128291212022304534912109375"
+      }, {
+        "count" : 12,
+        "item" : "40.67999999999999971578290569595992565155029296875"
+      }, {
+        "count" : 11,
+        "item" : "50.509567070000002786400727927684783935546875"
+      }, {
+        "count" : 10,
+        "item" : "85.159999999999996589394868351519107818603515625"
+      }, {
+        "count" : 9,
+        "item" : "62.2000000000000028421709430404007434844970703125"
+      }, {
+        "count" : 8,
+        "item" : "63.81000000000000227373675443232059478759765625"
+      }, {
+        "count" : 7,
+        "item" : "76.44666293000000223401002585887908935546875"
+      }, {
+        "count" : 6,
+        "item" : "7.72040000000000059543481256696395576000213623046875"
+      }, {
+        "count" : 5,
+        "item" : "82.3766000000000104819264379329979419708251953125"
+      }, {
+        "count" : 4,
+        "item" : "41.30726419999999876608853810466825962066650390625"
+      }, {
+        "count" : 3,
+        "item" : "54.207469389999999975771061144769191741943359375"
+      }, {
+        "count" : 2,
+        "item" : "67.01566248000000314277713187038898468017578125"
+      }, {
+        "count" : 1,
+        "item" : "29.312200000000000699174051987938582897186279296875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 26769984,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561333,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1355486,
+      "smallest" : "1300000027",
+      "sum" : "17778062307462801",
+      "null" : 0,
+      "average" : "13115636979.99301",
+      "largest" : "24302003148",
+      "top" : [ {
+        "count" : 20,
+        "item" : "20302077328"
+      }, {
+        "count" : 19,
+        "item" : "20302077702"
+      }, {
+        "count" : 18,
+        "item" : "20302089939"
+      }, {
+        "count" : 17,
+        "item" : "20302088775"
+      }, {
+        "count" : 16,
+        "item" : "20302091400"
+      }, {
+        "count" : 15,
+        "item" : "20302092099"
+      }, {
+        "count" : 14,
+        "item" : "20302093378"
+      }, {
+        "count" : 13,
+        "item" : "20302095850"
+      }, {
+        "count" : 12,
+        "item" : "20302098280"
+      }, {
+        "count" : 11,
+        "item" : "20302099309"
+      }, {
+        "count" : 10,
+        "item" : "20302101263"
+      }, {
+        "count" : 9,
+        "item" : "20302102998"
+      }, {
+        "count" : 8,
+        "item" : "20302103946"
+      }, {
+        "count" : 7,
+        "item" : "20300105341"
+      }, {
+        "count" : 6,
+        "item" : "20300106476"
+      }, {
+        "count" : 5,
+        "item" : "20300109804"
+      }, {
+        "count" : 4,
+        "item" : "20300110478"
+      }, {
+        "count" : 3,
+        "item" : "20300112097"
+      }, {
+        "count" : 2,
+        "item" : "20300112311"
+      }, {
+        "count" : 1,
+        "item" : "20300120497"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 26769985,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561334,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1355486,
+      "smallest" : "3000",
+      "sum" : "4087789570",
+      "null" : 0,
+      "average" : "3015.737211597907",
+      "largest" : "3020",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3020"
+      }, {
+        "count" : 19,
+        "item" : "3000"
+      }, {
+        "count" : 18,
+        "item" : "3010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 26769986,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561335,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1355486,
+      "smallest" : "300000",
+      "sum" : "408779185780",
+      "null" : 0,
+      "average" : "301573.8899405822",
+      "largest" : "302000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "302000"
+      }, {
+        "count" : 19,
+        "item" : "300000"
+      }, {
+        "count" : 18,
+        "item" : "300020"
+      }, {
+        "count" : 17,
+        "item" : "301000"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.727999,
+      "ymax" : 40.730015,
+      "xmin" : -73.993015,
+      "xmax" : -73.98676
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561331,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561332
+      } ],
+      "latitudeId" : 1561330
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "301000",
+        "codedValues_1.name" : "Water Elevation"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "300020",
+        "codedValues_1.code" : "300000",
+        "codedValues_1.name" : "Spot Elevation",
+        "codedValues_2.name" : "Spot, bridge"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "302000",
+        "codedValues_1.name" : "Building Elevation"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.yoffset" : "0",
+        "defaultSymbol.type" : "esriSMS",
+        "defaultSymbol.angle" : "0",
+        "defaultSymbol.style" : "esriSMSCircle",
+        "defaultSymbol.size" : "4",
+        "defaultSymbol.xoffset" : "0"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_ELEVATION_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "ELEVATION",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_ELEVATION_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "types_1" : {
+        "id" : "3000",
+        "name" : "Spot Elevation"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dWaterElevation"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dSpotElevation_2"
+      },
+      "types_2" : {
+        "id" : "3010",
+        "name" : "Water Elevation"
+      },
+      "types_3" : {
+        "id" : "3020",
+        "name" : "Building Elevation"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dBuildingElevation_2"
+      },
+      "drawingInfo.renderer.defaultSymbol" : {
+        "outline.width" : "1"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "3232C3A7-49E1-4B5E-9958-DB4FA665ED92",
+      "name" : "DOITT_ELEVATION.zip",
+      "filename" : "DOITT_ELEVATION.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cxmk-9pqw",
+    "displayName" : "OlafSHA",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1352141948,
+    "screenName" : "OlafSHA"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "elevation", "height", "high", "place", "places" ]
+}

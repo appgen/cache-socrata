@@ -1,0 +1,387 @@
+{
+  "id" : "xtyj-dbry",
+  "name" : "Shoreline Features",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1318116425,
+  "description" : "Planimetric basemap line layer containing shoreline features.",
+  "displayType" : "map",
+  "downloadCount" : 26,
+  "numberOfComments" : 0,
+  "oid" : 342288,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116453,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244142,
+  "totalTimesRated" : 0,
+  "viewCount" : 258,
+  "viewLastModified" : 1360611376,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989338,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564584,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "1",
+      "sum" : "24090",
+      "null" : 0,
+      "average" : "110",
+      "largest" : "219",
+      "top" : [ {
+        "count" : 20,
+        "item" : "206"
+      }, {
+        "count" : 19,
+        "item" : "207"
+      }, {
+        "count" : 18,
+        "item" : "208"
+      }, {
+        "count" : 17,
+        "item" : "209"
+      }, {
+        "count" : 16,
+        "item" : "210"
+      }, {
+        "count" : 15,
+        "item" : "211"
+      }, {
+        "count" : 14,
+        "item" : "212"
+      }, {
+        "count" : 13,
+        "item" : "213"
+      }, {
+        "count" : 12,
+        "item" : "214"
+      }, {
+        "count" : 11,
+        "item" : "215"
+      }, {
+        "count" : 10,
+        "item" : "216"
+      }, {
+        "count" : 9,
+        "item" : "217"
+      }, {
+        "count" : 8,
+        "item" : "218"
+      }, {
+        "count" : 7,
+        "item" : "219"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989339,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564585,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989340,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564586,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "1390000002",
+      "sum" : "1695410009812",
+      "null" : 0,
+      "average" : "7741598218.319635",
+      "largest" : "20390000016",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17390000035"
+      }, {
+        "count" : 19,
+        "item" : "17390000036"
+      }, {
+        "count" : 18,
+        "item" : "17390000037"
+      }, {
+        "count" : 17,
+        "item" : "17390000038"
+      }, {
+        "count" : 16,
+        "item" : "18390000004"
+      }, {
+        "count" : 15,
+        "item" : "18390000006"
+      }, {
+        "count" : 14,
+        "item" : "19390000001"
+      }, {
+        "count" : 13,
+        "item" : "20390000016"
+      }, {
+        "count" : 12,
+        "item" : "12390000003"
+      }, {
+        "count" : 11,
+        "item" : "12390000004"
+      }, {
+        "count" : 10,
+        "item" : "11390000007"
+      }, {
+        "count" : 9,
+        "item" : "11390000011"
+      }, {
+        "count" : 8,
+        "item" : "11390000005"
+      }, {
+        "count" : 7,
+        "item" : "19390000028"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989341,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564587,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "3900",
+      "sum" : "854100",
+      "null" : 0,
+      "average" : "3900",
+      "largest" : "3900",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3900"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989342,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564588,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "390000",
+      "sum" : "85410000",
+      "null" : 0,
+      "average" : "390000",
+      "largest" : "390000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "390000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989343,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564589,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 219,
+      "smallest" : "0.10531474649906158447265625",
+      "sum" : "2826785.984171849877791604654930779361166059970855712890625",
+      "null" : 0,
+      "average" : "12907.69855786233",
+      "largest" : "857163.40641607600264251232147216796875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "544.966510091138616189709864556789398193359375"
+      }, {
+        "count" : 19,
+        "item" : "943.3209859856132197819533757865428924560546875"
+      }, {
+        "count" : 18,
+        "item" : "1972.41313312567081084125675261020660400390625"
+      }, {
+        "count" : 17,
+        "item" : "869.3497001305139519899967126548290252685546875"
+      }, {
+        "count" : 16,
+        "item" : "702.9741196711291877363692037761211395263671875"
+      }, {
+        "count" : 15,
+        "item" : "1650.401855049860614599310792982578277587890625"
+      }, {
+        "count" : 14,
+        "item" : "5492.530670517082398873753845691680908203125"
+      }, {
+        "count" : 13,
+        "item" : "2027.409734161270307595259509980678558349609375"
+      }, {
+        "count" : 12,
+        "item" : "180201.5261878041201271116733551025390625"
+      }, {
+        "count" : 11,
+        "item" : "0.10531474649906158447265625"
+      }, {
+        "count" : 10,
+        "item" : "1.246386560861731940264007789664901793003082275390625"
+      }, {
+        "count" : 9,
+        "item" : "234073.1303703495650552213191986083984375"
+      }, {
+        "count" : 8,
+        "item" : "159170.655037848162464797496795654296875"
+      }, {
+        "count" : 7,
+        "item" : "12605.0508627121453173458576202392578125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564585,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564586
+      } ],
+      "latitudeId" : 1564584
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSLS",
+        "defaultSymbol.style" : "esriSLSSolid",
+        "defaultSymbol.width" : "1"
+      },
+      "types_1" : {
+        "id" : "3900",
+        "name" : "Shoreline"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_SHORELINE_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SOURCE_ID",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_SHORELINE_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dShoreline2"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "390000",
+        "codedValues_1.name" : "Shoreline"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "8B31E4B6-A8AC-469B-95B6-EB6612814C6C",
+      "name" : "DOITT_SHORELINE.zip",
+      "filename" : "DOITT_SHORELINE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2596174511055,
+    "lat" : 40.9196248007367
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7348334264073,
+    "lat" : 40.4960911142691
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "shore", "shoreline", "water" ],
+  "flags" : [ "default" ]
+}

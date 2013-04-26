@@ -1,0 +1,88 @@
+{
+  "id" : "kdig-pewd",
+  "name" : "Zoning GIS Data: ESRI Shape file",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyih_201211.zip",
+  "blobFileSize" : 5238501,
+  "blobId" : "tLVEkjCesXKeOoE3w3mIaCyy44WWIvUQdnmNS5oQAx0",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359483445,
+  "description" : "GIS data: This data set consists of 6 classes of zoning features: zoning districts, special purpose districts, special purpose district subdistricts, limited height districts, commercial overlay districts,  and zoning map amendments.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2375174,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366224778,
+  "publicationGroup" : 644088,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644088,
+  "totalTimesRated" : 0,
+  "viewCount" : 66,
+  "viewLastModified" : 1366224832,
+  "viewType" : "geo",
+  "childViews" : [ "catg-we58", "x7w2-bst3", "fef8-it3j", "jbyx-znwv", "qb7k-hp8y", "rkec-eyqh" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/kdig-pewd",
+      "bbox" : "-74.25870828357874,40.490981955747486,-73.69923610584692,40.91654442969545",
+      "layers" : "geo_kdig-pewd-1,geo_kdig-pewd-2,geo_kdig-pewd-3,geo_kdig-pewd-4,geo_kdig-pewd-5,geo_kdig-pewd-6",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_kdig-pewd"
+    },
+    "attachments" : [ {
+      "blobId" : "C238FC97-AB17-49AC-A230-9CE56BE43D86",
+      "name" : "DCP_nycgiszoningfeatures_shp_001.zip",
+      "filename" : "DCP_nycgiszoningfeatures_shp_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "zoning", "geographic", "location", "map", "cartography", "zone", "district", "commercial" ],
+  "flags" : [ "default" ]
+}

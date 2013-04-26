@@ -1,0 +1,88 @@
+{
+  "id" : "dpf3-yc2x",
+  "name" : "2000 Census Tracts (water areas included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyct2000wi_12c.zip",
+  "blobFileSize" : 892527,
+  "blobId" : "av2FUWMKsgU4F5J7aaSPJ-bVPPvNJEVITmJHzrFQd_M",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359393469,
+  "description" : "GIS data: Boundaries of 2000 Census Tracts (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2364760,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366229287,
+  "publicationGroup" : 641675,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 641675,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1366229332,
+  "viewType" : "geo",
+  "childViews" : [ "an24-4syc" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/dpf3-yc2x",
+      "bbox" : "-74.26038033006296,40.48580757610577,-73.69920557308774,40.917688959607275",
+      "layers" : "geo_dpf3-yc2x-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_dpf3-yc2x"
+    },
+    "attachments" : [ {
+      "blobId" : "E11F2558-895E-4044-8506-7F5193302945",
+      "name" : "DCP_nyct2000wiav_001.zip",
+      "filename" : "DCP_nyct2000wiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "2000 census tracts (water areas included)", "dcp", "census", "geographic", "location", "map", "cartography", "boundary", "block", "survey", "poll", "water", "water area" ],
+  "flags" : [ "default" ]
+}

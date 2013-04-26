@@ -1,0 +1,814 @@
+{
+  "id" : "kdu2-865w",
+  "name" : "Theaters",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1318010453,
+  "description" : "Listing of NYC theaters",
+  "displayType" : "map",
+  "downloadCount" : 101,
+  "numberOfComments" : 0,
+  "oid" : 341719,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318010473,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243819,
+  "totalTimesRated" : 0,
+  "viewCount" : 284,
+  "viewLastModified" : 1360611139,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2978506,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559930,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "1",
+      "sum" : "6903",
+      "null" : 0,
+      "average" : "59",
+      "largest" : "117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "83"
+      }, {
+        "count" : 19,
+        "item" : "84"
+      }, {
+        "count" : 18,
+        "item" : "85"
+      }, {
+        "count" : 17,
+        "item" : "86"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "89"
+      }, {
+        "count" : 13,
+        "item" : "90"
+      }, {
+        "count" : 12,
+        "item" : "91"
+      }, {
+        "count" : 11,
+        "item" : "92"
+      }, {
+        "count" : 10,
+        "item" : "93"
+      }, {
+        "count" : 9,
+        "item" : "94"
+      }, {
+        "count" : 8,
+        "item" : "95"
+      }, {
+        "count" : 7,
+        "item" : "96"
+      }, {
+        "count" : 6,
+        "item" : "97"
+      }, {
+        "count" : 5,
+        "item" : "98"
+      }, {
+        "count" : 4,
+        "item" : "99"
+      }, {
+        "count" : 3,
+        "item" : "100"
+      }, {
+        "count" : 2,
+        "item" : "101"
+      }, {
+        "count" : 1,
+        "item" : "102"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978507,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1559931,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : {
+        "longitude" : "-73.99061840899992",
+        "latitude" : "40.759851155000035"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.96882480499994",
+        "latitude" : "40.78017563600008"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.00203650299994",
+          "latitude" : "40.736174067000036"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98674175999992",
+          "latitude" : "40.75903833000007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.9867451049999",
+          "latitude" : "40.76037502100007"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98973789199994",
+          "latitude" : "40.75823991400006"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.98723930499995",
+          "latitude" : "40.75813761100005"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.98442891999991",
+          "latitude" : "40.76141062100004"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.00436193699994",
+          "latitude" : "40.72653567500004"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.0047293529999",
+          "latitude" : "40.71823002100007"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98816053699994",
+          "latitude" : "40.75799822700009"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.98377095899991",
+          "latitude" : "40.76435408300006"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.97037578099992",
+          "latitude" : "40.77996630300004"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.9902779059999",
+          "latitude" : "40.71854810000008"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.99374147399993",
+          "latitude" : "40.75868460700008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-74.0090218009999",
+          "latitude" : "40.73645809800007"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.99391778599994",
+          "latitude" : "40.75855311300006"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.99177371999991",
+          "latitude" : "40.72892340200008"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.94482123199992",
+          "latitude" : "40.748905998000055"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.9973874129999",
+          "latitude" : "40.74765359400004"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.98424386599993",
+          "latitude" : "40.77410217000005"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.99403364199992",
+          "latitude" : "40.75467479400004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2978508,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559932,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "45th Street Theater",
+      "null" : 0,
+      "largest" : "York Theatre",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Rattlestick Theater"
+      }, {
+        "count" : 19,
+        "item" : "Richard Rodgers Theatre"
+      }, {
+        "count" : 18,
+        "item" : "Samuel J. Friedman Theatre (formerly the Biltmore)"
+      }, {
+        "count" : 17,
+        "item" : "Second Stage Theater"
+      }, {
+        "count" : 16,
+        "item" : "Shubert Theatre"
+      }, {
+        "count" : 15,
+        "item" : "Snapple Theater Center"
+      }, {
+        "count" : 14,
+        "item" : "SoHo Playhouse"
+      }, {
+        "count" : 13,
+        "item" : "SoHo Repertory Theatre"
+      }, {
+        "count" : 12,
+        "item" : "St. James Theatre"
+      }, {
+        "count" : 11,
+        "item" : "Studio 54 Theatre"
+      }, {
+        "count" : 10,
+        "item" : "Swedish Cottage Marionette Theater"
+      }, {
+        "count" : 9,
+        "item" : "Tenement Theatre"
+      }, {
+        "count" : 8,
+        "item" : "The Beckett Theatre"
+      }, {
+        "count" : 7,
+        "item" : "The Cherry Pit"
+      }, {
+        "count" : 6,
+        "item" : "The Little Shubert theatre"
+      }, {
+        "count" : 5,
+        "item" : "The Public Theater"
+      }, {
+        "count" : 4,
+        "item" : "The Secret Theatre"
+      }, {
+        "count" : 3,
+        "item" : "The Upright Citizens Brigade Theatre"
+      }, {
+        "count" : 2,
+        "item" : "The Walter Reade Theater at Lincoln Center"
+      }, {
+        "count" : 1,
+        "item" : "The Zipper Theater"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978509,
+    "name" : "TEL",
+    "dataTypeName" : "text",
+    "description" : "TEL",
+    "fieldName" : "tel",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559933,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "(212) 221-1211",
+      "null" : 0,
+      "largest" : "(888) VISIT-NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 239-6200"
+      }, {
+        "count" : 19,
+        "item" : "(212) 944-3700"
+      }, {
+        "count" : 18,
+        "item" : "(888) VISIT-NY"
+      }, {
+        "count" : 17,
+        "item" : "(212) 254-1109"
+      }, {
+        "count" : 16,
+        "item" : "(212) 246-7277"
+      }, {
+        "count" : 15,
+        "item" : "(212) 353-3321"
+      }, {
+        "count" : 14,
+        "item" : "(212) 714-2442"
+      }, {
+        "count" : 13,
+        "item" : "(212) 777-6088"
+      }, {
+        "count" : 12,
+        "item" : "(212) 505-0700"
+      }, {
+        "count" : 11,
+        "item" : "(212) 253-0623"
+      }, {
+        "count" : 10,
+        "item" : "(212) 353-3366"
+      }, {
+        "count" : 9,
+        "item" : "(212) 868-4444"
+      }, {
+        "count" : 8,
+        "item" : "(212) 465-6741"
+      }, {
+        "count" : 7,
+        "item" : "(212) 315-2244"
+      }, {
+        "count" : 6,
+        "item" : "(212) 627-2960"
+      }, {
+        "count" : 5,
+        "item" : "(212) 935-5820"
+      }, {
+        "count" : 4,
+        "item" : "(212) 861-7277"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978510,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559934,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "http://cherrylanetheatre.org/",
+      "null" : 0,
+      "largest" : "http://www.yorktheatre.org/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.rattlestick.org/"
+      }, {
+        "count" : 19,
+        "item" : "http://www.richardrodgerstheatre.com/"
+      }, {
+        "count" : 18,
+        "item" : "http://www.theatermania.com/broadway/theaters/samuel-j-friedman-theatre_7420/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.2st.com/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.shubertorganization.com/theatres/shubert.asp"
+      }, {
+        "count" : 15,
+        "item" : "http://www.nytheatre.com/nytheatre/venue.php?t=snapple"
+      }, {
+        "count" : 14,
+        "item" : "http://www.sohoplayhouse.com/"
+      }, {
+        "count" : 13,
+        "item" : "http://www.sohorep.org/"
+      }, {
+        "count" : 12,
+        "item" : "http://www.stjames-theater.com/?gclid=CPWjnLTO9p0CFcZM5QodoUaupw"
+      }, {
+        "count" : 11,
+        "item" : "http://www.roundabouttheatre.org/ot_54.htm"
+      }, {
+        "count" : 10,
+        "item" : "http://www.nycgovparks.org/sub_about/parks_divisions/historic_houses/hh_swedish_cottage.html"
+      }, {
+        "count" : 9,
+        "item" : "http://www.tenement.org/prog_theater.html"
+      }, {
+        "count" : 8,
+        "item" : "http://www.theatrerow.org/thebeckett.htm"
+      }, {
+        "count" : 7,
+        "item" : "http://www.cherrylanetheatre.org/"
+      }, {
+        "count" : 6,
+        "item" : "http://www.shubertorganization.com/theatres/little_shubert.asp"
+      }, {
+        "count" : 5,
+        "item" : "http://www.publictheater.org/"
+      }, {
+        "count" : 4,
+        "item" : "http://www.secrettheatre.com/"
+      }, {
+        "count" : 3,
+        "item" : "http://www.ucbtheatre.com/"
+      }, {
+        "count" : 2,
+        "item" : "http://www.filmlinc.com/wrt/wrt.html"
+      }, {
+        "count" : 1,
+        "item" : "http://www.yelp.com/biz/the-zipper-theater-new-york"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978511,
+    "name" : "ADDRESS1",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS1",
+    "fieldName" : "address1",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559935,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "100 E 17th St",
+      "null" : 0,
+      "largest" : "West Side at 79th Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1515 Broadway"
+      }, {
+        "count" : 19,
+        "item" : "226 W 46th Street"
+      }, {
+        "count" : 18,
+        "item" : "261 W 47th St"
+      }, {
+        "count" : 17,
+        "item" : "307 W 43rd St"
+      }, {
+        "count" : 16,
+        "item" : "225 W 44th St"
+      }, {
+        "count" : 15,
+        "item" : "1627 Broadway"
+      }, {
+        "count" : 14,
+        "item" : "15 Vandam St"
+      }, {
+        "count" : 13,
+        "item" : "86 Franklin St"
+      }, {
+        "count" : 12,
+        "item" : "246 W 44th St"
+      }, {
+        "count" : 11,
+        "item" : "254 W 54th Street"
+      }, {
+        "count" : 10,
+        "item" : "West Side at 79th Street"
+      }, {
+        "count" : 9,
+        "item" : "97 Orchard Street"
+      }, {
+        "count" : 8,
+        "item" : "410 W 42 St"
+      }, {
+        "count" : 7,
+        "item" : "155 Bank St"
+      }, {
+        "count" : 6,
+        "item" : "422 West 42nd Street"
+      }, {
+        "count" : 5,
+        "item" : "425 Lafayette St"
+      }, {
+        "count" : 4,
+        "item" : "44-02 23rd St."
+      }, {
+        "count" : 3,
+        "item" : "307 W 26th Street"
+      }, {
+        "count" : 2,
+        "item" : "70 Lincoln Center Plaza"
+      }, {
+        "count" : 1,
+        "item" : "336 W 37th St"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978512,
+    "name" : "ADDRES2",
+    "dataTypeName" : "text",
+    "description" : "ADDRES2",
+    "fieldName" : "addres2",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559936,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "SW corner of the Great Lawn",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Frnt"
+      }, {
+        "count" : 18,
+        "item" : "Lbby"
+      }, {
+        "count" : 17,
+        "item" : "9 Ave"
+      }, {
+        "count" : 16,
+        "item" : "Bsmt"
+      }, {
+        "count" : 15,
+        "item" : "SW corner of the Great Lawn"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978513,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559937,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "Long Island City",
+      "null" : 0,
+      "largest" : "Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Queens"
+      }, {
+        "count" : 18,
+        "item" : "Long Island City"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978514,
+    "name" : "ZIP",
+    "dataTypeName" : "number",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559938,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "0",
+      "sum" : "1164983",
+      "null" : 0,
+      "average" : "9957.119658119658",
+      "largest" : "11352",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10036"
+      }, {
+        "count" : 19,
+        "item" : "10022"
+      }, {
+        "count" : 18,
+        "item" : "10019"
+      }, {
+        "count" : 17,
+        "item" : "10027"
+      }, {
+        "count" : 16,
+        "item" : "10023"
+      }, {
+        "count" : 15,
+        "item" : "10003"
+      }, {
+        "count" : 14,
+        "item" : "10011"
+      }, {
+        "count" : 13,
+        "item" : "10014"
+      }, {
+        "count" : 12,
+        "item" : "10012"
+      }, {
+        "count" : 11,
+        "item" : "10009"
+      }, {
+        "count" : 10,
+        "item" : "10016"
+      }, {
+        "count" : 9,
+        "item" : "10013"
+      }, {
+        "count" : 8,
+        "item" : "10001"
+      }, {
+        "count" : 7,
+        "item" : "10002"
+      }, {
+        "count" : 6,
+        "item" : "10024"
+      }, {
+        "count" : 5,
+        "item" : "10038"
+      }, {
+        "count" : 4,
+        "item" : "10028"
+      }, {
+        "count" : 3,
+        "item" : "11352"
+      }, {
+        "count" : 2,
+        "item" : "10025"
+      }, {
+        "count" : 1,
+        "item" : "11101"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1559931,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1559932
+      } ],
+      "latitudeId" : 1559930
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.height" : "14",
+        "symbol.url" : "34990CA2",
+        "symbol.type" : "esriPMS",
+        "symbol.yoffset" : "0",
+        "symbol.contentType" : "image/png",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "14",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAplJREFUOI2tlM9LG1EQxz8bk+xiyGX1sKmNCRY09dKm4qVV6Q899qZ4FwoeLP1x8mRRCLZ48Oi/oKJWUYq0BS9tLiUHtaERtRqlUNQsRd3ArujrYZPsJlq8dC5v3rx53/nOvJnn5T+KFyASiTz1Wb4WMP7hFqjYG2V22dQX07qe8gL4LF/LGcYb28F/BdiZY7bcPoatyypQAHNArMJiFUx+Ry8ClEAt+xzA50pzX9/HNE32sllmZ2bJ5Y4wDIPGpiYi0Sg/N7dpbr7N465OIqGIE98qX70AyS9fmV+YJ1xfz8vXry4l+W71LY86n5BJ/+B++wOCcvCKUhTA4i33eL8wX3YgAKnCuam5kVwuRywWY3f3N5qq4s6zVLPjP8fEYjE2NjYIhUKk17+j1tYAMDY2VvDyIMQFmUwGgHw+TzgcRlUDDlhbWxvJZJKJiQl6enpYWVnhUM9xdHRIPm/w6eNnJEliaGiI4eHhEtPq6moM3UCWZQfsYOcAWZbp7+8HoLu7G7gAPNTU1LK5tYUQAgBJktje2qbhVgOSJCGEQAiBx+Nx0gwEKhvTQza7y8nJKePj44yOjtq1FILzs3Pyp/lSgLIHIABBbKqKovCwo4M7d+Osr63yYXkZ0zSdhxGCKl8VXe1d1N2sY3pmugLMAPCXaLvlxcBzhBD09vYSj8cZHBxEURQ0VeXX3g7RG1GsQqN53RcjoQiKogCgqSonuklrRysAU1NTJeaapjkTYEGAwGUwsNBUjWJLB7Uga6lvDAwMgBDMTU66esu5Qzmz4i9wecj9sszS3JKtB92dX5xVP1gVTVsBgTN47u/CHaywtywMNzNZVRfRdUrjD7Zuce3ewOJZX19qJJGwwdLpdApIXc3yehlJJAD4C5QV7jrZnzQzAAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/TheatersWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Theaters",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "C741B7B1-38C1-4129-97E9-AC13C09063B6",
+      "name" : "DOITT_THEATER.zip",
+      "filename" : "DOITT_THEATER.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0093344807865,
+    "lat" : 40.8100481486516
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.8443980333779,
+    "lat" : 40.7112517618395
+  },
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "theater", "entertainment", "screen", "show", "play", "cinema", "movie", "doitt gis" ],
+  "flags" : [ "default" ]
+}

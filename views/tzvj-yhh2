@@ -1,0 +1,885 @@
+{
+  "id" : "tzvj-yhh2",
+  "name" : "911 Receiving Hospitals",
+  "attribution" : "Office of Emergency Management (OEM)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1319057138,
+  "description" : "This data set shows the location of  911 receiving hospitals in New York City. 911 receiving hospitals are those that receive patients from ambulances dispatched by EMS.  911 receiving hospitals must fulfill criteria set by EMS, including an emergency room staffed by experienced emergency physicians, specialists on call 24 hours a day; an intensive care unit; and various levels of staffing and equipment availability.",
+  "displayType" : "map",
+  "downloadCount" : 1173,
+  "numberOfComments" : 0,
+  "oid" : 349281,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319057334,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 246970,
+  "totalTimesRated" : 0,
+  "viewCount" : 672,
+  "viewLastModified" : 1319653575,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3156765,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1606888,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "1",
+      "sum" : "1275",
+      "null" : 0,
+      "average" : "25.5",
+      "largest" : "50",
+      "top" : [ {
+        "count" : 1,
+        "item" : "16"
+      }, {
+        "count" : 1,
+        "item" : "2"
+      }, {
+        "count" : 1,
+        "item" : "32"
+      }, {
+        "count" : 1,
+        "item" : "11"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      }, {
+        "count" : 1,
+        "item" : "40"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "35"
+      }, {
+        "count" : 1,
+        "item" : "4"
+      }, {
+        "count" : 1,
+        "item" : "22"
+      }, {
+        "count" : 1,
+        "item" : "38"
+      }, {
+        "count" : 1,
+        "item" : "21"
+      }, {
+        "count" : 1,
+        "item" : "25"
+      }, {
+        "count" : 1,
+        "item" : "6"
+      }, {
+        "count" : 1,
+        "item" : "15"
+      }, {
+        "count" : 1,
+        "item" : "24"
+      }, {
+        "count" : 1,
+        "item" : "44"
+      }, {
+        "count" : 1,
+        "item" : "5"
+      }, {
+        "count" : 1,
+        "item" : "9"
+      }, {
+        "count" : 1,
+        "item" : "47"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156766,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1606889,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : {
+        "longitude" : -73.9374643829999,
+        "latitude" : 40.678271566000035
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : -73.8484286499999,
+        "latitude" : 40.84070871900008
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.87977321199992,
+          "latitude" : 40.88045236100004
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.8484286499999,
+          "latitude" : 40.84070871900008
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.94493570599991,
+          "latitude" : 40.78504843400009
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.8856643819999,
+          "latitude" : 40.74511824400008
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.84616610299992,
+          "latitude" : 40.84915558100005
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.75349045199994,
+          "latitude" : 40.598639123000055
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.19614508299992,
+          "latitude" : 40.516986271000064
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.81664334399994,
+          "latitude" : 40.755307429000084
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9990981919999,
+          "latitude" : 40.63970508500006
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.96087376299994,
+          "latitude" : 40.77364785200007
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.1061120519999,
+          "latitude" : 40.635745875000055
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.94851560699993,
+          "latitude" : 40.61391319000006
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.95329043999993,
+          "latitude" : 40.789883273000044
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9780128989999,
+          "latitude" : 40.69070054200006
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.99766541499991,
+          "latitude" : 40.690631746000065
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.80439687499995,
+          "latitude" : 40.71695698700006
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.8251464569999,
+          "latitude" : 40.74702302600008
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.94312480799994,
+          "latitude" : 40.656509827000036
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.97510145599995,
+          "latitude" : 40.739241021000055
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9331281549999,
+          "latitude" : 40.65921190700004
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 3156767,
+    "name" : "Label",
+    "dataTypeName" : "text",
+    "description" : "Label",
+    "fieldName" : "label",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1606890,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "BELLEVUE",
+      "null" : 0,
+      "largest" : "WYCKOFF",
+      "top" : [ {
+        "count" : 1,
+        "item" : "KINGS COUNTY"
+      }, {
+        "count" : 1,
+        "item" : "METROPOLITAN"
+      }, {
+        "count" : 1,
+        "item" : "LI COLLEGE"
+      }, {
+        "count" : 1,
+        "item" : "HARLEM"
+      }, {
+        "count" : 1,
+        "item" : "UNIV HOSP - BKLN"
+      }, {
+        "count" : 1,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 1,
+        "item" : "BETH ISRAEL PETRIE"
+      }, {
+        "count" : 1,
+        "item" : "ROOSEVELT"
+      }, {
+        "count" : 1,
+        "item" : "NY PRESB - ALLEN"
+      }, {
+        "count" : 1,
+        "item" : "ST. BARNABAS"
+      }, {
+        "count" : 1,
+        "item" : "NY DOWNTOWN"
+      }, {
+        "count" : 1,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 1,
+        "item" : "NY PRESB - COLUMBIA"
+      }, {
+        "count" : 1,
+        "item" : "BETH ISRAEL KINGS HWY"
+      }, {
+        "count" : 1,
+        "item" : "LINCOLN"
+      }, {
+        "count" : 1,
+        "item" : "NYU"
+      }, {
+        "count" : 1,
+        "item" : "CONEY ISLAND"
+      }, {
+        "count" : 1,
+        "item" : "WESTCHESTER SQUARE"
+      }, {
+        "count" : 1,
+        "item" : "NY HOSP QUEENS"
+      }, {
+        "count" : 1,
+        "item" : "NY COMM BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156768,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Name",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1606891,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "Bellevue Hospital Center",
+      "null" : 0,
+      "largest" : "Wyckoff Heights Medical Center",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Mount Sinai Medical Center"
+      }, {
+        "count" : 1,
+        "item" : "Queens Hospital Center"
+      }, {
+        "count" : 1,
+        "item" : "Maimonides Medical Center"
+      }, {
+        "count" : 1,
+        "item" : "Flushing Hospital Medical Center"
+      }, {
+        "count" : 1,
+        "item" : "Richmond University Medical Center Staten Island"
+      }, {
+        "count" : 1,
+        "item" : "St. Barnabas Hospital"
+      }, {
+        "count" : 1,
+        "item" : "New York Methodist Hospital"
+      }, {
+        "count" : 1,
+        "item" : "University Hospital of Brooklyn  (SUNY Downstate Medical Center)"
+      }, {
+        "count" : 1,
+        "item" : "Metropolitan Hospital Center"
+      }, {
+        "count" : 1,
+        "item" : "New York Downtown Hospital"
+      }, {
+        "count" : 1,
+        "item" : "Elmhurst Hospital Center (City Hospital Center at Elmhurst)"
+      }, {
+        "count" : 1,
+        "item" : "St. John's Episcopal Hospital - South Shore Division"
+      }, {
+        "count" : 1,
+        "item" : "Lenox Hill Hospital"
+      }, {
+        "count" : 1,
+        "item" : "Harlem Hospital Center"
+      }, {
+        "count" : 1,
+        "item" : "Jacobi Medical Center"
+      }, {
+        "count" : 1,
+        "item" : "Peninsula Hospital Center"
+      }, {
+        "count" : 1,
+        "item" : "Kingsbrook Jewish Medical Center"
+      }, {
+        "count" : 1,
+        "item" : "Bronx-Lebanon Hospital Center - Concourse Pavilion"
+      }, {
+        "count" : 1,
+        "item" : "Staten Island University Hospital - South"
+      }, {
+        "count" : 1,
+        "item" : "Lincoln Medical and Mental Health Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156769,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "description" : "Address",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1606892,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "1000 Tenth Avenue",
+      "null" : 0,
+      "largest" : "8900 Van Wyck Expressway",
+      "top" : [ {
+        "count" : 1,
+        "item" : "339 Hicks Street"
+      }, {
+        "count" : 1,
+        "item" : "451 Clarkson Avenue"
+      }, {
+        "count" : 1,
+        "item" : "475 Seaview Avenue"
+      }, {
+        "count" : 1,
+        "item" : "4802 Tenth Avenue"
+      }, {
+        "count" : 1,
+        "item" : "2525 Kings Highway"
+      }, {
+        "count" : 1,
+        "item" : "111 East 210th Street"
+      }, {
+        "count" : 1,
+        "item" : "270-05 76th Avenue"
+      }, {
+        "count" : 1,
+        "item" : "234 East 149th Street"
+      }, {
+        "count" : 1,
+        "item" : "4422 Third Avenue"
+      }, {
+        "count" : 1,
+        "item" : "150 55th Street"
+      }, {
+        "count" : 1,
+        "item" : "2475 Saint Raymond's Avenue"
+      }, {
+        "count" : 1,
+        "item" : "327 Beach 19th Street"
+      }, {
+        "count" : 1,
+        "item" : "8900 Van Wyck Expressway"
+      }, {
+        "count" : 1,
+        "item" : "1825 Eastchester Road"
+      }, {
+        "count" : 1,
+        "item" : "525 East 68th Street"
+      }, {
+        "count" : 1,
+        "item" : "5141 Broadway"
+      }, {
+        "count" : 1,
+        "item" : "585 Schenectady Avenue"
+      }, {
+        "count" : 1,
+        "item" : "462 First Avenue"
+      }, {
+        "count" : 1,
+        "item" : "1111 Amsterdam Avenue"
+      }, {
+        "count" : 1,
+        "item" : "1901 First Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156770,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1606893,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "10003",
+      "null" : 0,
+      "largest" : "11691",
+      "top" : [ {
+        "count" : 3,
+        "item" : "10461"
+      }, {
+        "count" : 3,
+        "item" : "11203"
+      }, {
+        "count" : 2,
+        "item" : "10467"
+      }, {
+        "count" : 2,
+        "item" : "10029"
+      }, {
+        "count" : 2,
+        "item" : "11691"
+      }, {
+        "count" : 2,
+        "item" : "10457"
+      }, {
+        "count" : 2,
+        "item" : "11201"
+      }, {
+        "count" : 2,
+        "item" : "10016"
+      }, {
+        "count" : 2,
+        "item" : "11355"
+      }, {
+        "count" : 2,
+        "item" : "10021"
+      }, {
+        "count" : 1,
+        "item" : "11206"
+      }, {
+        "count" : 1,
+        "item" : "10019"
+      }, {
+        "count" : 1,
+        "item" : "11418"
+      }, {
+        "count" : 1,
+        "item" : "11432"
+      }, {
+        "count" : 1,
+        "item" : "10466"
+      }, {
+        "count" : 1,
+        "item" : "10451"
+      }, {
+        "count" : 1,
+        "item" : "11373"
+      }, {
+        "count" : 1,
+        "item" : "11235"
+      }, {
+        "count" : 1,
+        "item" : "11229"
+      }, {
+        "count" : 1,
+        "item" : "11213"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156771,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "description" : "City",
+    "fieldName" : "city",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1606894,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 15,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 13,
+        "item" : "New York"
+      }, {
+        "count" : 9,
+        "item" : "Bronx"
+      }, {
+        "count" : 3,
+        "item" : "Staten Island"
+      }, {
+        "count" : 2,
+        "item" : "Jamaica, Queens"
+      }, {
+        "count" : 2,
+        "item" : "Flushing, Queens"
+      }, {
+        "count" : 2,
+        "item" : "Far Rockaway, Queens"
+      }, {
+        "count" : 1,
+        "item" : "Long Island City, Queens"
+      }, {
+        "count" : 1,
+        "item" : "New Hyde Park, Queens"
+      }, {
+        "count" : 1,
+        "item" : "Forest Hills, Queens"
+      }, {
+        "count" : 1,
+        "item" : "Elmhurst, Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156772,
+    "name" : "Capacity",
+    "dataTypeName" : "number",
+    "description" : "Capacity",
+    "fieldName" : "capacity",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1606895,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "134",
+      "sum" : "23296",
+      "null" : 0,
+      "average" : "465.92",
+      "largest" : "1171",
+      "top" : [ {
+        "count" : 1,
+        "item" : "293"
+      }, {
+        "count" : 1,
+        "item" : "206"
+      }, {
+        "count" : 1,
+        "item" : "173"
+      }, {
+        "count" : 1,
+        "item" : "457"
+      }, {
+        "count" : 1,
+        "item" : "326"
+      }, {
+        "count" : 1,
+        "item" : "508"
+      }, {
+        "count" : 1,
+        "item" : "312"
+      }, {
+        "count" : 1,
+        "item" : "201"
+      }, {
+        "count" : 1,
+        "item" : "384"
+      }, {
+        "count" : 1,
+        "item" : "371"
+      }, {
+        "count" : 1,
+        "item" : "257"
+      }, {
+        "count" : 1,
+        "item" : "506"
+      }, {
+        "count" : 1,
+        "item" : "212"
+      }, {
+        "count" : 1,
+        "item" : "394"
+      }, {
+        "count" : 1,
+        "item" : "180"
+      }, {
+        "count" : 1,
+        "item" : "468"
+      }, {
+        "count" : 1,
+        "item" : "652"
+      }, {
+        "count" : 1,
+        "item" : "879"
+      }, {
+        "count" : 1,
+        "item" : "705"
+      }, {
+        "count" : 1,
+        "item" : "363"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3156773,
+    "name" : "PFI",
+    "dataTypeName" : "number",
+    "description" : "PFI",
+    "fieldName" : "pfi",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1606896,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 50,
+      "smallest" : "1165",
+      "sum" : "75370",
+      "null" : 0,
+      "average" : "1507.4",
+      "largest" : "3975",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1306"
+      }, {
+        "count" : 1,
+        "item" : "1168"
+      }, {
+        "count" : 1,
+        "item" : "1454"
+      }, {
+        "count" : 1,
+        "item" : "1458"
+      }, {
+        "count" : 1,
+        "item" : "1628"
+      }, {
+        "count" : 1,
+        "item" : "1737"
+      }, {
+        "count" : 1,
+        "item" : "1309"
+      }, {
+        "count" : 1,
+        "item" : "1324"
+      }, {
+        "count" : 1,
+        "item" : "1639"
+      }, {
+        "count" : 1,
+        "item" : "1165"
+      }, {
+        "count" : 1,
+        "item" : "1626"
+      }, {
+        "count" : 1,
+        "item" : "1692"
+      }, {
+        "count" : 1,
+        "item" : "1305"
+      }, {
+        "count" : 1,
+        "item" : "1186"
+      }, {
+        "count" : 1,
+        "item" : "3975"
+      }, {
+        "count" : 1,
+        "item" : "1176"
+      }, {
+        "count" : 1,
+        "item" : "3058"
+      }, {
+        "count" : 1,
+        "item" : "1301"
+      }, {
+        "count" : 1,
+        "item" : "1464"
+      }, {
+        "count" : 1,
+        "item" : "1740"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1606889,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1606890
+      } ],
+      "latitudeId" : 1606888
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.url" : "88A5AD2B",
+        "symbol.height" : "11",
+        "symbol.type" : "esriPMS",
+        "symbol.contentType" : "image/png",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "11",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAPCAYAAAA71pVKAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAPtJREFUKJHNkL1qAlEQhb/ZvTZBWSGQBEm7WKQwbZ7BRtgib2JjY2G/j2BlOi0EK8EXECzS2VsICSxayCUuOynWuEgM3EiKnGY4zPmYHwMAeg+UcZeCLA2odLu8zOf62GjIW6lEtlpRWa/16isZBPIRhiQAiwU31rKcTvXZAH61ytNkImYwoBIEMBpBFMlxTK8HnQ7XALUa1Ov6AKLmsIWA4CrPy7PmF3d+09/DrRbs94WXHy46C2cZpGnhPQ983xEejyGKCn/4thvsqn8Cb7d53e1OQ9bCZnMWljQM9T2OuR0Oi0Ycnwb7/by225AkvM5mWAPQbMrdJWt/AqKPRWP+NFOZAAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/OEM_HospitalsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "Name",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Hospitals",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "63EC9FDB-0234-4F8D-BC7E-5825DB03869B",
+      "name" : "OEM_Hospitals_001.zip",
+      "filename" : "OEM_Hospitals_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1972544841582,
+    "lat" : 40.8935855096336
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.707546870514,
+    "lat" : 40.5167772741592
+  },
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "map", "location", "cartography", "emergency", "oem", "hospital", "patient", "ambulance", "dispatch", "ems", "911", "physician", "doctor", "nurse", "specialist", "intensive care", "icu", "er", "injured", "injury", "sick", "health", "public safety", "hospitals" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,2135 @@
+{
+  "id" : "xffu-cry7",
+  "name" : "GIS oil boilers",
+  "attribution" : "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1359501945,
+  "description" : "Detailed data on NYC buildings with oil boilers, including fuel consumption, BBL, building owner/management info, deadline for complying with Audit and Retrocommissioning Law, building type and year constructed, number of floors and residential units, Condo/Coop status, and more.",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2377336,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1317313357,
+  "publicationGroup" : 241950,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1317311462,
+  "rowsUpdatedBy" : "rnig-m3uj",
+  "signed" : false,
+  "tableId" : 241950,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1359501945,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 41937820,
+    "name" : "Borough, Block and Lot #",
+    "dataTypeName" : "text",
+    "fieldName" : "borough_block_and_lot_",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537167,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "1000087501",
+      "null" : 725,
+      "largest" : "5060500002",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4008307501"
+      }, {
+        "count" : 19,
+        "item" : "4073490001"
+      }, {
+        "count" : 18,
+        "item" : "5035857502"
+      }, {
+        "count" : 17,
+        "item" : "5000180099"
+      }, {
+        "count" : 16,
+        "item" : "5002400003"
+      }, {
+        "count" : 15,
+        "item" : "5002400016"
+      }, {
+        "count" : 14,
+        "item" : "5012720011"
+      }, {
+        "count" : 13,
+        "item" : "5005890053"
+      }, {
+        "count" : 12,
+        "item" : "5000160054"
+      }, {
+        "count" : 11,
+        "item" : "5028520001"
+      }, {
+        "count" : 10,
+        "item" : "5005890044"
+      }, {
+        "count" : 9,
+        "item" : "5005790045"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937821,
+    "name" : "Facility Address",
+    "dataTypeName" : "location",
+    "fieldName" : "facility_address",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1537168,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 8045,
+      "smallest" : {
+        "longitude" : "-73.94183716525475",
+        "latitude" : "40.807145229218236",
+        "human_address" : "{\"address\":\"1 126 STREET\",\"city\":\"Manhattan\",\"state\":\"NY\",\"zip\":\"10027\"}"
+      },
+      "null" : 728,
+      "largest" : {
+        "longitude" : "-73.94999967494499",
+        "latitude" : "40.76197648622593",
+        "human_address" : "{\"address\":\"ONE MAIN STREET\",\"city\":\"Manhattan\",\"state\":\"NY\",\"zip\":\"10044\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.08014505796426",
+          "latitude" : "40.6417358169915",
+          "human_address" : "{\"address\":\"50 FORT PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.0971976529192",
+          "latitude" : "40.62172277417215",
+          "human_address" : "{\"address\":\"937 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.09802397888187",
+          "latitude" : "40.6210451404412",
+          "human_address" : "{\"address\":\"961 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.17120250660068",
+          "latitude" : "40.638664366303985",
+          "human_address" : "{\"address\":\"85 HOLLAND AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10303\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.09079911523764",
+          "latitude" : "40.62761017024176",
+          "human_address" : "{\"address\":\"610 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.07781704802417",
+          "latitude" : "40.64110617747793",
+          "human_address" : "{\"address\":\"350 ST MARK'S PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.06980148478938",
+          "latitude" : "40.61313538242362",
+          "human_address" : "{\"address\":\"191 VERMONT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10305\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.0911813360607",
+          "latitude" : "40.62705846267096",
+          "human_address" : "{\"address\":\"630 VICTORY BOULEVARD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.08494788068438",
+          "latitude" : "40.633546132774",
+          "human_address" : "{\"address\":\"4 CHESTER PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10304\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 41937822,
+    "name" : "Natural Gas Utility (Con Edison or National Grid",
+    "dataTypeName" : "text",
+    "fieldName" : "natural_gas_utility_con_edison_or_national_grid",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537169,
+    "width" : 676,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "Con Edison",
+      "null" : 725,
+      "largest" : "National Grid",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Con Edison"
+      }, {
+        "count" : 19,
+        "item" : "National Grid"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937823,
+    "name" : "Building Manager",
+    "dataTypeName" : "text",
+    "fieldName" : "building_manager",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537170,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "(M. MERSELS)NEWLON PROPERTIES.",
+      "null" : 725,
+      "largest" : "ZUMO  MANAGEMENT ASSOCC/O AHMED",
+      "top" : [ {
+        "count" : 20,
+        "item" : "THIRD BEECH HILLS CORP."
+      }, {
+        "count" : 19,
+        "item" : "JEFFREY GARDENS COOPERATIVE, INC."
+      }, {
+        "count" : 18,
+        "item" : "SILVER LAKE APTS%SACHS INVESTING"
+      }, {
+        "count" : 17,
+        "item" : "SILVER LAKE ASSOC.%SACHS INVESTING"
+      }, {
+        "count" : 16,
+        "item" : "GRC A/A/F"
+      }, {
+        "count" : 15,
+        "item" : "610 VICTORY BLVD.LLC"
+      }, {
+        "count" : 14,
+        "item" : "BALKON REALTY CO."
+      }, {
+        "count" : 13,
+        "item" : "BOARD OF EDUCATION"
+      }, {
+        "count" : 12,
+        "item" : "CLIFTON BUILDERS CO"
+      }, {
+        "count" : 11,
+        "item" : "JANE KURTIN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937824,
+    "name" : "Owner",
+    "dataTypeName" : "text",
+    "fieldName" : "owner",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537171,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 7846,
+      "smallest" : "1000 PK OWNERS CO",
+      "null" : 927,
+      "largest" : "ZUCKERMAN REALTY CORP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ACROPOLIS GARDENS"
+      }, {
+        "count" : 19,
+        "item" : "SOL GOLDMAN INVESTME"
+      }, {
+        "count" : 18,
+        "item" : "JEFFREY GARDENS APART"
+      }, {
+        "count" : 17,
+        "item" : "RETAINED REALTY, INC."
+      }, {
+        "count" : 16,
+        "item" : "SILVER LAKE ASSOCIATE"
+      }, {
+        "count" : 15,
+        "item" : "HOWLAND HOOK HOUSING"
+      }, {
+        "count" : 14,
+        "item" : "610 VICTORY BOULEVARD"
+      }, {
+        "count" : 13,
+        "item" : "BALKON REALTY CO"
+      }, {
+        "count" : 12,
+        "item" : "BOARD OF EDUCATION"
+      }, {
+        "count" : 11,
+        "item" : "630 VICTORY BOULEVARD"
+      }, {
+        "count" : 10,
+        "item" : "CHESTER PLACE PARTNER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937825,
+    "name" : "Owner Address",
+    "dataTypeName" : "location",
+    "fieldName" : "owner_address",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1537172,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 7808,
+      "smallest" : {
+        "longitude" : "-73.81123206101074",
+        "latitude" : "40.78628404147537",
+        "human_address" : "{\"address\":\"0 PO\",\"city\":\"WHITESTONE\",\"state\":\"NY\",\"zip\":\"11357\"}"
+      },
+      "null" : 965,
+      "largest" : {
+        "longitude" : "-73.98887214913032",
+        "latitude" : "40.73194394755518",
+        "human_address" : "{\"address\":\"ONE UNION Sq\",\"city\":\"MANHATTAN\",\"state\":\"NY\",\"zip\":\"10003\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"108 18 QUEENS BLVD\",\"city\":\"FOREST HILLS\",\"state\":\"NY\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"108 18 QUEENS BLVD\",\"city\":\"FOREST HILLS\",\"state\":\"NY\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"108 18 QUEENS BLVD\",\"city\":\"FOREST HILLS\",\"state\":\"NY\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"108 18 QUEENS BLVD\",\"city\":\"FOREST HILLS\",\"state\":\"NY\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.97121810923888",
+          "latitude" : "40.5859498066473",
+          "human_address" : "{\"address\":\"2611 2 ST\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11223\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.0060256431043",
+          "latitude" : "40.70999054661479",
+          "human_address" : "{\"address\":\"156 WILLIAM STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10013\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.09118595249046",
+          "latitude" : "40.60412964758937",
+          "human_address" : "{\"address\":\"1050 TARGEE STREET\",\"city\":\"STATEN IS\",\"state\":\"NY\",\"zip\":\"10304\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.86148084756303",
+          "latitude" : "40.72646491702238",
+          "human_address" : "{\"address\":\"97 77 QUEEN BOULEVARD\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"44 36 VERNON BLVD\",\"city\":\"L I C\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"103 26 68 ROAD\",\"city\":\"N Y\",\"state\":\"\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-74.08014505796426",
+          "latitude" : "40.6417358169915",
+          "human_address" : "{\"address\":\"50 FORT PLACE\",\"city\":\"STATEN ISLAND\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.0971976529192",
+          "latitude" : "40.62172277417215",
+          "human_address" : "{\"address\":\"937 VICTORY BOULEVARD SUITE#1\",\"city\":\"N Y\",\"state\":\"\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.96954093360974",
+          "latitude" : "40.75943562867136",
+          "human_address" : "{\"address\":\"155 55TH STREET\",\"city\":\"N Y\",\"state\":\"NEW YORK\",\"zip\":\"10022\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.88037616574464",
+          "latitude" : "40.649723063146425",
+          "human_address" : "{\"address\":\"155 ELMIRA LOOP\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11239\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.86148084756303",
+          "latitude" : "40.72646491702238",
+          "human_address" : "{\"address\":\"97 77 QUEENS BLVD\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.95245573455375",
+          "latitude" : "40.60436608235835",
+          "human_address" : "{\"address\":\"2350 OCEAN AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11229\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"28 11 QUEENS PLAZA\",\"city\":\"L I C\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.86148084756303",
+          "latitude" : "40.72646491702238",
+          "human_address" : "{\"address\":\"97 77 QUEENS BOULEVARD\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 41937826,
+    "name" : "DEP Boiler Application #",
+    "dataTypeName" : "text",
+    "fieldName" : "dep_boiler_application_",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537173,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "CA000188H",
+      "null" : 725,
+      "largest" : "CB903305H",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CA079983L"
+      }, {
+        "count" : 19,
+        "item" : "CA140798J"
+      }, {
+        "count" : 18,
+        "item" : "CB212801M"
+      }, {
+        "count" : 17,
+        "item" : "CA007782M"
+      }, {
+        "count" : 16,
+        "item" : "CB408600H"
+      }, {
+        "count" : 15,
+        "item" : "CB408900M"
+      }, {
+        "count" : 14,
+        "item" : "CA084293K"
+      }, {
+        "count" : 13,
+        "item" : "CA288985X"
+      }, {
+        "count" : 12,
+        "item" : "CA163687Z"
+      }, {
+        "count" : 11,
+        "item" : "CA031979X"
+      }, {
+        "count" : 10,
+        "item" : "CA289085P"
+      }, {
+        "count" : 9,
+        "item" : "CA293085R"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937827,
+    "name" : "Deadline for phasing out #6 oil (i.e. data of next DEP permit renewal after July 1 2012)",
+    "dataTypeName" : "text",
+    "fieldName" : "deadline_for_phasing_out_6_oil_i_e_data_of_next_dep_permit_renewal_after_july_1_2012_",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537174,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "#N/A",
+      "null" : 725,
+      "largest" : "7/7/05",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7/6/05"
+      }, {
+        "count" : 19,
+        "item" : "#N/A"
+      }, {
+        "count" : 18,
+        "item" : "7/4/05"
+      }, {
+        "count" : 17,
+        "item" : "7/5/05"
+      }, {
+        "count" : 16,
+        "item" : "7/7/05"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937828,
+    "name" : "Boiler Model",
+    "dataTypeName" : "text",
+    "fieldName" : "boiler_model",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537175,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 8040,
+      "smallest" : "`EDERAL FST 125",
+      "null" : 733,
+      "largest" : "YORK SPL-53-60-5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FEDERAL FST 80"
+      }, {
+        "count" : 19,
+        "item" : "FEDERAL FST 150"
+      }, {
+        "count" : 18,
+        "item" : "FEDERAL FST-125"
+      }, {
+        "count" : 17,
+        "item" : "FEDERAL FST-80"
+      }, {
+        "count" : 16,
+        "item" : "ROCKMILLS MP-100"
+      }, {
+        "count" : 15,
+        "item" : "ROCKMILLS MP-70"
+      }, {
+        "count" : 14,
+        "item" : "ROCKMILLS MP 70"
+      }, {
+        "count" : 13,
+        "item" : "FEDERAL FLW 3643"
+      }, {
+        "count" : 12,
+        "item" : "CYCLOTHERM CW-28"
+      }, {
+        "count" : 11,
+        "item" : "ROCKMILLS MP 250 SS"
+      }, {
+        "count" : 10,
+        "item" : "FEDERAL FST-250"
+      }, {
+        "count" : 9,
+        "item" : "FEDERAL FLW 2125"
+      }, {
+        "count" : 8,
+        "item" : "BEST 5C-150"
+      }, {
+        "count" : 7,
+        "item" : "SPENCER 4F 827-45"
+      }, {
+        "count" : 6,
+        "item" : "ROCKMILLS  MP-125"
+      }, {
+        "count" : 5,
+        "item" : "FEDERAL FLW 1518"
+      }, {
+        "count" : 4,
+        "item" : "ROCKMILLS  MP-100 SS"
+      }, {
+        "count" : 3,
+        "item" : "FEDERAL FST-60"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937829,
+    "name" : "Number of identical boilers",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_identical_boilers",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537176,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "1",
+      "sum" : "9151",
+      "null" : 725,
+      "average" : "1.137052683896620",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "7"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937830,
+    "name" : "Boiler capacity (Gross BTU)",
+    "dataTypeName" : "number",
+    "fieldName" : "boiler_capacity_gross_btu_",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537177,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0.00",
+      "sum" : "20979143.47",
+      "null" : 725,
+      "average" : "2606.752419234592",
+      "largest" : "10043000.00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4.20"
+      }, {
+        "count" : 19,
+        "item" : "6.30"
+      }, {
+        "count" : 18,
+        "item" : "5.25"
+      }, {
+        "count" : 17,
+        "item" : "5.00"
+      }, {
+        "count" : 16,
+        "item" : "5.30"
+      }, {
+        "count" : 15,
+        "item" : "3.40"
+      }, {
+        "count" : 14,
+        "item" : "2.60"
+      }, {
+        "count" : 13,
+        "item" : "8.40"
+      }, {
+        "count" : 12,
+        "item" : "4.10"
+      }, {
+        "count" : 11,
+        "item" : "3.30"
+      }, {
+        "count" : 10,
+        "item" : "3.43"
+      }, {
+        "count" : 9,
+        "item" : "3.10"
+      }, {
+        "count" : 8,
+        "item" : "2.80"
+      }, {
+        "count" : 7,
+        "item" : "2.59"
+      }, {
+        "count" : 6,
+        "item" : "2.00"
+      }, {
+        "count" : 5,
+        "item" : "5.60"
+      }, {
+        "count" : 4,
+        "item" : "3.80"
+      }, {
+        "count" : 3,
+        "item" : "2.90"
+      }, {
+        "count" : 2,
+        "item" : "3.72"
+      }, {
+        "count" : 1,
+        "item" : "4.60"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937831,
+    "name" : "Boiler Installation Date",
+    "dataTypeName" : "text",
+    "fieldName" : "boiler_installation_date",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537178,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "1951",
+      "null" : 725,
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1986"
+      }, {
+        "count" : 19,
+        "item" : "1993"
+      }, {
+        "count" : 18,
+        "item" : "1989"
+      }, {
+        "count" : 17,
+        "item" : "2001"
+      }, {
+        "count" : 16,
+        "item" : "1983"
+      }, {
+        "count" : 15,
+        "item" : "1995"
+      }, {
+        "count" : 14,
+        "item" : "2007"
+      }, {
+        "count" : 13,
+        "item" : "1980"
+      }, {
+        "count" : 12,
+        "item" : "1988"
+      }, {
+        "count" : 11,
+        "item" : "1973"
+      }, {
+        "count" : 10,
+        "item" : "1992"
+      }, {
+        "count" : 9,
+        "item" : "1999"
+      }, {
+        "count" : 8,
+        "item" : "1987"
+      }, {
+        "count" : 7,
+        "item" : "1982"
+      }, {
+        "count" : 6,
+        "item" : "1971"
+      }, {
+        "count" : 5,
+        "item" : "1994"
+      }, {
+        "count" : 4,
+        "item" : "1997"
+      }, {
+        "count" : 3,
+        "item" : "1984"
+      }, {
+        "count" : 2,
+        "item" : "2003"
+      }, {
+        "count" : 1,
+        "item" : "2002"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937832,
+    "name" : "Estimated retirement date of boiler (assuming 35 year average useful life)",
+    "dataTypeName" : "text",
+    "fieldName" : "estimated_retirement_date_of_boiler_assuming_35_year_average_useful_life_",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537179,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "2010",
+      "null" : 725,
+      "largest" : "2044",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2021"
+      }, {
+        "count" : 19,
+        "item" : "2028"
+      }, {
+        "count" : 18,
+        "item" : "2024"
+      }, {
+        "count" : 17,
+        "item" : "2036"
+      }, {
+        "count" : 16,
+        "item" : "2018"
+      }, {
+        "count" : 15,
+        "item" : "2030"
+      }, {
+        "count" : 14,
+        "item" : "2010"
+      }, {
+        "count" : 13,
+        "item" : "2042"
+      }, {
+        "count" : 12,
+        "item" : "2015"
+      }, {
+        "count" : 11,
+        "item" : "2023"
+      }, {
+        "count" : 10,
+        "item" : "2027"
+      }, {
+        "count" : 9,
+        "item" : "2034"
+      }, {
+        "count" : 8,
+        "item" : "2022"
+      }, {
+        "count" : 7,
+        "item" : "2017"
+      }, {
+        "count" : 6,
+        "item" : "2029"
+      }, {
+        "count" : 5,
+        "item" : "2032"
+      }, {
+        "count" : 4,
+        "item" : "2019"
+      }, {
+        "count" : 3,
+        "item" : "2038"
+      }, {
+        "count" : 2,
+        "item" : "2037"
+      }, {
+        "count" : 1,
+        "item" : "2025"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937833,
+    "name" : "Is boiler dual fuel capable?",
+    "dataTypeName" : "text",
+    "fieldName" : "is_boiler_dual_fuel_capable_",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537180,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : " ",
+      "null" : 725,
+      "largest" : "DUAL FUEL",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "DUAL FUEL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937834,
+    "name" : "Age range of boiler",
+    "dataTypeName" : "text",
+    "fieldName" : "age_range_of_boiler",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537181,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "11 to 15 years old",
+      "null" : 725,
+      "largest" : "Over 50 years",
+      "top" : [ {
+        "count" : 20,
+        "item" : "21 to 26 years old"
+      }, {
+        "count" : 19,
+        "item" : "16 to 20 years old"
+      }, {
+        "count" : 18,
+        "item" : "5 to 10 years old"
+      }, {
+        "count" : 17,
+        "item" : "26 to 30 years old"
+      }, {
+        "count" : 16,
+        "item" : "11 to 15 years old"
+      }, {
+        "count" : 15,
+        "item" : "41 - 45 years old"
+      }, {
+        "count" : 14,
+        "item" : "Fewer than 5 years old"
+      }, {
+        "count" : 13,
+        "item" : "36 - 40 year old"
+      }, {
+        "count" : 12,
+        "item" : "31 to 35 years old"
+      }, {
+        "count" : 11,
+        "item" : "Over 50 years"
+      }, {
+        "count" : 10,
+        "item" : "46 - 50 years old"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937835,
+    "name" : "Burner Model",
+    "dataTypeName" : "text",
+    "fieldName" : "burner_model",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537182,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 8040,
+      "smallest" : "`ICI DEG 84 P",
+      "null" : 733,
+      "largest" : "YORK  TYPE APM SIZE B125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ICI ME 34"
+      }, {
+        "count" : 19,
+        "item" : "PREFFERED BE-25-3M4"
+      }, {
+        "count" : 18,
+        "item" : "IRON FIREMAN  AGOG 4.2  RK"
+      }, {
+        "count" : 17,
+        "item" : "IND COMB MMG-28"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937836,
+    "name" : "Primary Fuel",
+    "dataTypeName" : "text",
+    "fieldName" : "primary_fuel",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537183,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "#4",
+      "null" : 725,
+      "largest" : "#6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "#6"
+      }, {
+        "count" : 19,
+        "item" : "#4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937837,
+    "name" : "Total Estimated Cosumption - High Estimate (Gallons) ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_estimated_cosumption_high_estimate_gallons_",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537184,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0.0",
+      "sum" : "517602616.0",
+      "null" : 725,
+      "average" : "64314.44035785288",
+      "largest" : "1499050",
+      "top" : [ {
+        "count" : 20,
+        "item" : "65700"
+      }, {
+        "count" : 19,
+        "item" : "49275"
+      }, {
+        "count" : 18,
+        "item" : "32850"
+      }, {
+        "count" : 17,
+        "item" : "30000"
+      }, {
+        "count" : 16,
+        "item" : "25000"
+      }, {
+        "count" : 15,
+        "item" : "0.0"
+      }, {
+        "count" : 14,
+        "item" : "68730"
+      }, {
+        "count" : 13,
+        "item" : "57488"
+      }, {
+        "count" : 12,
+        "item" : "40000"
+      }, {
+        "count" : 11,
+        "item" : "36500"
+      }, {
+        "count" : 10,
+        "item" : "29200"
+      }, {
+        "count" : 9,
+        "item" : "28361"
+      }, {
+        "count" : 8,
+        "item" : "26828"
+      }, {
+        "count" : 7,
+        "item" : "25550"
+      }, {
+        "count" : 6,
+        "item" : "24638"
+      }, {
+        "count" : 5,
+        "item" : "22229"
+      }, {
+        "count" : 4,
+        "item" : "20000"
+      }, {
+        "count" : 3,
+        "item" : "18907"
+      }, {
+        "count" : 2,
+        "item" : "16425"
+      }, {
+        "count" : 1,
+        "item" : "15000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937838,
+    "name" : "Total Estimated Cosumption - Low Estimate (Gallons) ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_estimated_cosumption_low_estimate_gallons_",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537185,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0.0",
+      "sum" : "362321760.0",
+      "null" : 725,
+      "average" : "45020.09940357853",
+      "largest" : "1049335",
+      "top" : [ {
+        "count" : 20,
+        "item" : "45990"
+      }, {
+        "count" : 19,
+        "item" : "34492"
+      }, {
+        "count" : 18,
+        "item" : "28744"
+      }, {
+        "count" : 17,
+        "item" : "22995"
+      }, {
+        "count" : 16,
+        "item" : "21000"
+      }, {
+        "count" : 15,
+        "item" : "17500"
+      }, {
+        "count" : 14,
+        "item" : "0.0"
+      }, {
+        "count" : 13,
+        "item" : "48111"
+      }, {
+        "count" : 12,
+        "item" : "40242"
+      }, {
+        "count" : 11,
+        "item" : "28000"
+      }, {
+        "count" : 10,
+        "item" : "25550"
+      }, {
+        "count" : 9,
+        "item" : "18780"
+      }, {
+        "count" : 8,
+        "item" : "17885"
+      }, {
+        "count" : 7,
+        "item" : "17247"
+      }, {
+        "count" : 6,
+        "item" : "15560"
+      }, {
+        "count" : 5,
+        "item" : "15177"
+      }, {
+        "count" : 4,
+        "item" : "14000"
+      }, {
+        "count" : 3,
+        "item" : "13235"
+      }, {
+        "count" : 2,
+        "item" : "12600"
+      }, {
+        "count" : 1,
+        "item" : "11498"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937839,
+    "name" : "Total Estimated Cosumption - High Estimate (MMBTUs) ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_estimated_cosumption_high_estimate_mmbtus_",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537186,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0.0",
+      "sum" : "76983067.0",
+      "null" : 725,
+      "average" : "9565.490432405567",
+      "largest" : "224858",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9855"
+      }, {
+        "count" : 19,
+        "item" : "7391"
+      }, {
+        "count" : 18,
+        "item" : "4928"
+      }, {
+        "count" : 17,
+        "item" : "0.0"
+      }, {
+        "count" : 16,
+        "item" : "10310"
+      }, {
+        "count" : 15,
+        "item" : "8623"
+      }, {
+        "count" : 14,
+        "item" : "6000"
+      }, {
+        "count" : 13,
+        "item" : "4350"
+      }, {
+        "count" : 12,
+        "item" : "4112"
+      }, {
+        "count" : 11,
+        "item" : "3890"
+      }, {
+        "count" : 10,
+        "item" : "3705"
+      }, {
+        "count" : 9,
+        "item" : "3573"
+      }, {
+        "count" : 8,
+        "item" : "3223"
+      }, {
+        "count" : 7,
+        "item" : "2900"
+      }, {
+        "count" : 6,
+        "item" : "2742"
+      }, {
+        "count" : 5,
+        "item" : "2382"
+      }, {
+        "count" : 4,
+        "item" : "1650"
+      }, {
+        "count" : 3,
+        "item" : "24638"
+      }, {
+        "count" : 2,
+        "item" : "19162"
+      }, {
+        "count" : 1,
+        "item" : "17016"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937840,
+    "name" : "Total Estimated Cosumption - Low Estimate  (MMBTUs) ",
+    "dataTypeName" : "number",
+    "fieldName" : "total_estimated_cosumption_low_estimate_mmbtus_",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537187,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0.0",
+      "sum" : "53888248.0",
+      "null" : 725,
+      "average" : "6695.855864811133",
+      "largest" : "157400",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6898"
+      }, {
+        "count" : 19,
+        "item" : "5174"
+      }, {
+        "count" : 18,
+        "item" : "3449"
+      }, {
+        "count" : 17,
+        "item" : "0.0"
+      }, {
+        "count" : 16,
+        "item" : "7217"
+      }, {
+        "count" : 15,
+        "item" : "6036"
+      }, {
+        "count" : 14,
+        "item" : "4200"
+      }, {
+        "count" : 13,
+        "item" : "3045"
+      }, {
+        "count" : 12,
+        "item" : "2879"
+      }, {
+        "count" : 11,
+        "item" : "2723"
+      }, {
+        "count" : 10,
+        "item" : "2593"
+      }, {
+        "count" : 9,
+        "item" : "2501"
+      }, {
+        "count" : 8,
+        "item" : "2256"
+      }, {
+        "count" : 7,
+        "item" : "2030"
+      }, {
+        "count" : 6,
+        "item" : "1919"
+      }, {
+        "count" : 5,
+        "item" : "1667"
+      }, {
+        "count" : 4,
+        "item" : "1155"
+      }, {
+        "count" : 3,
+        "item" : "6335"
+      }, {
+        "count" : 2,
+        "item" : "4312"
+      }, {
+        "count" : 1,
+        "item" : "3915"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937841,
+    "name" : "Needs to comply with Greener Greater Buildings Laws?",
+    "dataTypeName" : "text",
+    "fieldName" : "needs_to_comply_with_greener_greater_buildings_laws_",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537188,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 5291,
+      "smallest" : "Yes",
+      "null" : 3482,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937842,
+    "name" : "Deadline for complying with Audit and Retrocommissioning Law",
+    "dataTypeName" : "text",
+    "fieldName" : "deadline_for_complying_with_audit_and_retrocommissioning_law",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537189,
+    "width" : 700,
+    "cachedContents" : {
+      "non_null" : 5291,
+      "smallest" : "2013",
+      "null" : 3482,
+      "largest" : "2022",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2019"
+      }, {
+        "count" : 19,
+        "item" : "2020"
+      }, {
+        "count" : 18,
+        "item" : "2013"
+      }, {
+        "count" : 17,
+        "item" : "2014"
+      }, {
+        "count" : 16,
+        "item" : "2016"
+      }, {
+        "count" : 15,
+        "item" : "2017"
+      }, {
+        "count" : 14,
+        "item" : "2021"
+      }, {
+        "count" : 13,
+        "item" : "2018"
+      }, {
+        "count" : 12,
+        "item" : "2022"
+      }, {
+        "count" : 11,
+        "item" : "2015"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937843,
+    "name" : "Building Type",
+    "dataTypeName" : "text",
+    "fieldName" : "building_type",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537190,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "Asylums & Homes",
+      "null" : 725,
+      "largest" : "Warehouses",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Elevator Apartments"
+      }, {
+        "count" : 19,
+        "item" : "Loft Buildings"
+      }, {
+        "count" : 18,
+        "item" : "Walk-Up Apartments"
+      }, {
+        "count" : 17,
+        "item" : "Educational Structures"
+      }, {
+        "count" : 16,
+        "item" : "Office Buildings"
+      }, {
+        "count" : 15,
+        "item" : "Condominiums"
+      }, {
+        "count" : 14,
+        "item" : "Churches, Synagogues, etc."
+      }, {
+        "count" : 13,
+        "item" : "Hotels"
+      }, {
+        "count" : 12,
+        "item" : "Warehouses"
+      }, {
+        "count" : 11,
+        "item" : "Hospitals & Health"
+      }, {
+        "count" : 10,
+        "item" : "Factory & Industrial Buildings"
+      }, {
+        "count" : 9,
+        "item" : "Asylums & Homes"
+      }, {
+        "count" : 8,
+        "item" : "Cultural & Public Assembly"
+      }, {
+        "count" : 7,
+        "item" : "Transportation Facilities"
+      }, {
+        "count" : 6,
+        "item" : "Selected Government"
+      }, {
+        "count" : 5,
+        "item" : "Store Buildings"
+      }, {
+        "count" : 4,
+        "item" : "Miscellaneous"
+      }, {
+        "count" : 3,
+        "item" : "Outdoor Recreation"
+      }, {
+        "count" : 2,
+        "item" : "Utility Bureau"
+      }, {
+        "count" : 1,
+        "item" : "Residence - Multi-Use"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937844,
+    "name" : "City Council District",
+    "dataTypeName" : "number",
+    "fieldName" : "city_council_district",
+    "position" : 25,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537191,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "1",
+      "sum" : "98696",
+      "null" : 725,
+      "average" : "12.26341948310139",
+      "largest" : "51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14"
+      }, {
+        "count" : 19,
+        "item" : "11"
+      }, {
+        "count" : 18,
+        "item" : "15"
+      }, {
+        "count" : 17,
+        "item" : "16"
+      }, {
+        "count" : 16,
+        "item" : "17"
+      }, {
+        "count" : 15,
+        "item" : "13"
+      }, {
+        "count" : 14,
+        "item" : "18"
+      }, {
+        "count" : 13,
+        "item" : "12"
+      }, {
+        "count" : 12,
+        "item" : "8"
+      }, {
+        "count" : 11,
+        "item" : "35"
+      }, {
+        "count" : 10,
+        "item" : "47"
+      }, {
+        "count" : 9,
+        "item" : "33"
+      }, {
+        "count" : 8,
+        "item" : "40"
+      }, {
+        "count" : 7,
+        "item" : "39"
+      }, {
+        "count" : 6,
+        "item" : "43"
+      }, {
+        "count" : 5,
+        "item" : "48"
+      }, {
+        "count" : 4,
+        "item" : "44"
+      }, {
+        "count" : 3,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937845,
+    "name" : "Total area of buildings on lot",
+    "dataTypeName" : "number",
+    "fieldName" : "total_area_of_buildings_on_lot",
+    "position" : 26,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537192,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0",
+      "sum" : "885839682",
+      "null" : 725,
+      "average" : "110069.5429920477",
+      "largest" : "13435076",
+      "top" : [ {
+        "count" : 20,
+        "item" : "438423"
+      }, {
+        "count" : 19,
+        "item" : "105000"
+      }, {
+        "count" : 18,
+        "item" : "132984"
+      }, {
+        "count" : 17,
+        "item" : "150800"
+      }, {
+        "count" : 16,
+        "item" : "107960"
+      }, {
+        "count" : 15,
+        "item" : "526554"
+      }, {
+        "count" : 14,
+        "item" : "72600"
+      }, {
+        "count" : 13,
+        "item" : "64680"
+      }, {
+        "count" : 12,
+        "item" : "76623"
+      }, {
+        "count" : 11,
+        "item" : "32000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937846,
+    "name" : "Number of buildings on property (tax lot)",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_buildings_on_property_tax_lot_",
+    "position" : 27,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537193,
+    "width" : 592,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0",
+      "sum" : "16164",
+      "null" : 725,
+      "average" : "2.008449304174950",
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      }, {
+        "count" : 17,
+        "item" : "5"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "0"
+      }, {
+        "count" : 14,
+        "item" : "6"
+      }, {
+        "count" : 13,
+        "item" : "11"
+      }, {
+        "count" : 12,
+        "item" : "10"
+      }, {
+        "count" : 11,
+        "item" : "14"
+      }, {
+        "count" : 10,
+        "item" : "12"
+      }, {
+        "count" : 9,
+        "item" : "8"
+      }, {
+        "count" : 8,
+        "item" : "7"
+      }, {
+        "count" : 7,
+        "item" : "9"
+      }, {
+        "count" : 6,
+        "item" : "20"
+      }, {
+        "count" : 5,
+        "item" : "13"
+      }, {
+        "count" : 4,
+        "item" : "30"
+      }, {
+        "count" : 3,
+        "item" : "61"
+      }, {
+        "count" : 2,
+        "item" : "32"
+      }, {
+        "count" : 1,
+        "item" : "60"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937847,
+    "name" : "Number of floors",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_floors",
+    "position" : 28,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537194,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0",
+      "sum" : "70468",
+      "null" : 725,
+      "average" : "8.755964214711730",
+      "largest" : "59",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6"
+      }, {
+        "count" : 19,
+        "item" : "11"
+      }, {
+        "count" : 18,
+        "item" : "8"
+      }, {
+        "count" : 17,
+        "item" : "1"
+      }, {
+        "count" : 16,
+        "item" : "21"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "5"
+      }, {
+        "count" : 13,
+        "item" : "9"
+      }, {
+        "count" : 12,
+        "item" : "19"
+      }, {
+        "count" : 11,
+        "item" : "12"
+      }, {
+        "count" : 10,
+        "item" : "17"
+      }, {
+        "count" : 9,
+        "item" : "10"
+      }, {
+        "count" : 8,
+        "item" : "20"
+      }, {
+        "count" : 7,
+        "item" : "13"
+      }, {
+        "count" : 6,
+        "item" : "14"
+      }, {
+        "count" : 5,
+        "item" : "18"
+      }, {
+        "count" : 4,
+        "item" : "15"
+      }, {
+        "count" : 3,
+        "item" : "2"
+      }, {
+        "count" : 2,
+        "item" : "16"
+      }, {
+        "count" : 1,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937848,
+    "name" : "Number of residential units",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_residential_units",
+    "position" : 29,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537195,
+    "width" : 424,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0",
+      "sum" : "645178",
+      "null" : 725,
+      "average" : "80.16625248508946",
+      "largest" : "2391",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "60"
+      }, {
+        "count" : 18,
+        "item" : "48"
+      }, {
+        "count" : 17,
+        "item" : "36"
+      }, {
+        "count" : 16,
+        "item" : "42"
+      }, {
+        "count" : 15,
+        "item" : "30"
+      }, {
+        "count" : 14,
+        "item" : "54"
+      }, {
+        "count" : 13,
+        "item" : "32"
+      }, {
+        "count" : 12,
+        "item" : "617"
+      }, {
+        "count" : 11,
+        "item" : "40"
+      }, {
+        "count" : 10,
+        "item" : "58"
+      }, {
+        "count" : 9,
+        "item" : "39"
+      }, {
+        "count" : 8,
+        "item" : "38"
+      }, {
+        "count" : 7,
+        "item" : "46"
+      }, {
+        "count" : 6,
+        "item" : "35"
+      }, {
+        "count" : 5,
+        "item" : "43"
+      }, {
+        "count" : 4,
+        "item" : "144"
+      }, {
+        "count" : 3,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "72"
+      }, {
+        "count" : 1,
+        "item" : "44"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937849,
+    "name" : "Number of total units",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_total_units",
+    "position" : 30,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1537196,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0",
+      "sum" : "682594",
+      "null" : 725,
+      "average" : "84.81535785288270",
+      "largest" : "2391",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "48"
+      }, {
+        "count" : 18,
+        "item" : "42"
+      }, {
+        "count" : 17,
+        "item" : "60"
+      }, {
+        "count" : 16,
+        "item" : "54"
+      }, {
+        "count" : 15,
+        "item" : "32"
+      }, {
+        "count" : 14,
+        "item" : "618"
+      }, {
+        "count" : 13,
+        "item" : "47"
+      }, {
+        "count" : 12,
+        "item" : "40"
+      }, {
+        "count" : 11,
+        "item" : "39"
+      }, {
+        "count" : 10,
+        "item" : "144"
+      }, {
+        "count" : 9,
+        "item" : "43"
+      }, {
+        "count" : 8,
+        "item" : "30"
+      }, {
+        "count" : 7,
+        "item" : "44"
+      }, {
+        "count" : 6,
+        "item" : "35"
+      }, {
+        "count" : 5,
+        "item" : "45"
+      }, {
+        "count" : 4,
+        "item" : "72"
+      }, {
+        "count" : 3,
+        "item" : "59"
+      }, {
+        "count" : 2,
+        "item" : "111"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937850,
+    "name" : "Year constructed",
+    "dataTypeName" : "text",
+    "fieldName" : "year_constructed",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537197,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : "0",
+      "null" : 725,
+      "largest" : "2009",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1926"
+      }, {
+        "count" : 19,
+        "item" : "1928"
+      }, {
+        "count" : 18,
+        "item" : "1963"
+      }, {
+        "count" : 17,
+        "item" : "1927"
+      }, {
+        "count" : 16,
+        "item" : "1923"
+      }, {
+        "count" : 15,
+        "item" : "1929"
+      }, {
+        "count" : 14,
+        "item" : "1924"
+      }, {
+        "count" : 13,
+        "item" : "1939"
+      }, {
+        "count" : 12,
+        "item" : "1931"
+      }, {
+        "count" : 11,
+        "item" : "1940"
+      }, {
+        "count" : 10,
+        "item" : "1930"
+      }, {
+        "count" : 9,
+        "item" : "1925"
+      }, {
+        "count" : 8,
+        "item" : "1922"
+      }, {
+        "count" : 7,
+        "item" : "1915"
+      }, {
+        "count" : 6,
+        "item" : "1920"
+      }, {
+        "count" : 5,
+        "item" : "1900"
+      }, {
+        "count" : 4,
+        "item" : "1910"
+      }, {
+        "count" : 3,
+        "item" : "1912"
+      }, {
+        "count" : 2,
+        "item" : "1950"
+      }, {
+        "count" : 1,
+        "item" : "1962"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937851,
+    "name" : "Condominium housing?",
+    "dataTypeName" : "text",
+    "fieldName" : "condominium_housing_",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537198,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 8773,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "YES",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "YES"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 41937852,
+    "name" : "Cooperative housing?",
+    "dataTypeName" : "text",
+    "fieldName" : "cooperative_housing_",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1537199,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 8048,
+      "smallest" : " ",
+      "null" : 725,
+      "largest" : "YES",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "YES"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.723904760278,
+      "ymax" : 40.839719030234,
+      "xmin" : -74.155496103441,
+      "xmax" : -73.522683603554
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 1
+      }
+    } ],
+    "viewDefinitions" : [ {
+      "uid" : "nmvx-k2da",
+      "plotStyle" : "point",
+      "layers" : [ {
+        "type" : "tile",
+        "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+        "options" : {
+          "opacity" : 1
+        }
+      } ],
+      "type" : "esri",
+      "plot" : {
+        "longitudeId" : 1537168,
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1537169
+        } ],
+        "latitudeId" : 1537167
+      }
+    } ],
+    "type" : "esri",
+    "plot" : {
+      "longitudeId" : 1537168,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1537169
+      } ],
+      "latitudeId" : 1537167
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "a6ax-6u5f",
+    "displayName" : "Andrea Johnson",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1359501944,
+    "screenName" : "Andrea Johnson"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "rnig-m3uj",
+    "displayName" : "Jorge J.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/5083/4460/large-profile_large.png",
+    "profileImageUrlMedium" : "/images/profile/5083/4460/large-profile_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/5083/4460/large-profile_tiny.png",
+    "profileLastModified" : 1322859437,
+    "screenName" : "Jorge J."
+  },
+  "tags" : [ "energy", "power", "environment", "planning", "construction", "housing", "property" ]
+}

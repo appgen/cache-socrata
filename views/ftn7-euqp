@@ -1,0 +1,387 @@
+{
+  "id" : "ftn7-euqp",
+  "name" : "financial centers",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1361048205,
+  "description" : "This is a list of the Department of Consumer Affairs' Financial Empowerment Centers. It includes the name, address, phone number and hours of the center.",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2542819,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1313786434,
+  "publicationGroup" : 239677,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895288,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "searchString" : "financial empowerment centers",
+  "signed" : false,
+  "tableId" : 239677,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1361048238,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45208880,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1509518,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "New York City Financial Empowerment Center in Brooklyn",
+      "null" : 0,
+      "largest" : "New York City Financial Empowerment Center in the Bronx At West Farms Technology & Career Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York City Financial Empowerment Center in the Bronx At the Phipps Opportunity Center"
+      }, {
+        "count" : 19,
+        "item" : "New York City Financial Empowerment Center in the Bronx At Neighborhood Housing Services of the South Bronx"
+      }, {
+        "count" : 18,
+        "item" : "New York City Financial Empowerment Center in the Bronx At Catholic Charities HomeBase"
+      }, {
+        "count" : 17,
+        "item" : "New York City Financial Empowerment Center in the Bronx At West Farms Technology & Career Center"
+      }, {
+        "count" : 16,
+        "item" : "New York City Financial Empowerment Center in Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "New York City Financial Empowerment Center in Brooklyn At Partnership for the Homeless"
+      }, {
+        "count" : 14,
+        "item" : "New York City Financial Empowerment Center in Manhattan"
+      }, {
+        "count" : 13,
+        "item" : "New York City Financial Empowerment Center in Manhattan At Asian Americans for Equality"
+      }, {
+        "count" : 12,
+        "item" : "New York City Financial Empowerment Center in Manhattan At Neighborhood Housing Services of New York City"
+      }, {
+        "count" : 11,
+        "item" : "New York City Financial Empowerment Center in Manhattan At Lower East Side People's Federal Credit Union (LESPFCU)"
+      }, {
+        "count" : 10,
+        "item" : "New York City Financial Empowerment Center in Manhattan At Midtown Community Court (MCC)"
+      }, {
+        "count" : 9,
+        "item" : "New York City Financial Empowerment Center in Manhattan At Seedco's Upper Manhattan One-Stop Career Center"
+      }, {
+        "count" : 8,
+        "item" : "New York City Financial Empowerment Center in Queens"
+      }, {
+        "count" : 7,
+        "item" : "New York City Financial Empowerment Center in Queens At LaGuardia Community College"
+      }, {
+        "count" : 6,
+        "item" : "New York City Financial Empowerment Center in Queens At Workforce1 Career Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45208881,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1509519,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "Bronx, NY 10451",
+      "null" : 0,
+      "largest" : "New York, NY 10033",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx, NY 10451"
+      }, {
+        "count" : 19,
+        "item" : "Bronx, NY 10472"
+      }, {
+        "count" : 18,
+        "item" : "Bronx, NY 10460"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn, NY 11216"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn, NY 11207"
+      }, {
+        "count" : 15,
+        "item" : "New York, NY 10033"
+      }, {
+        "count" : 14,
+        "item" : "New York, NY 10002"
+      }, {
+        "count" : 13,
+        "item" : "New York, NY 10018"
+      }, {
+        "count" : 12,
+        "item" : "New York, NY 10009"
+      }, {
+        "count" : 11,
+        "item" : "New York, NY 10019"
+      }, {
+        "count" : 10,
+        "item" : "New York, NY 10027"
+      }, {
+        "count" : 9,
+        "item" : "Jamaica, NY 11432"
+      }, {
+        "count" : 8,
+        "item" : "Long Island City, NY 11101"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45208882,
+    "name" : "Phone",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1509520,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "(212) 519-2512",
+      "null" : 0,
+      "largest" : "(718) 732-8136",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(347) 329-3929"
+      }, {
+        "count" : 19,
+        "item" : "(718) 732-8136"
+      }, {
+        "count" : 18,
+        "item" : "(718) 620-1900"
+      }, {
+        "count" : 17,
+        "item" : "(718) 636-6994"
+      }, {
+        "count" : 16,
+        "item" : "(646) 810-4050 ext. 112"
+      }, {
+        "count" : 15,
+        "item" : "(212) 822-8315 and (212) 453-5365"
+      }, {
+        "count" : 14,
+        "item" : "(212) 964-2288"
+      }, {
+        "count" : 13,
+        "item" : "(212) 519-2512"
+      }, {
+        "count" : 12,
+        "item" : "(646) 264-1365"
+      }, {
+        "count" : 11,
+        "item" : "(646) 810-4050 ext. 112"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45208883,
+    "name" : "Hours",
+    "dataTypeName" : "text",
+    "fieldName" : "hours",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1509521,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "First Tuesday and third Thursday of the month, 5:30pm-7:30pm (workshops); Call for Saturday schedule",
+      "null" : 0,
+      "largest" : "Wednesday, 9am-5pm",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Monday-Friday, 9am-5pm"
+      }, {
+        "count" : 19,
+        "item" : "Monday-Friday, 9am-6pm"
+      }, {
+        "count" : 18,
+        "item" : "Wednesday, 9am-5pm"
+      }, {
+        "count" : 17,
+        "item" : "Monday, Wednesday, Thursday, and Friday, 9am-5pm"
+      }, {
+        "count" : 16,
+        "item" : "Monday, Wednesday, Thursday, Friday, 10am-6pm; Tuesday, 10am-8pm; Saturday, 10am-2pm"
+      }, {
+        "count" : 15,
+        "item" : "Monday, Tuesday, Thursday, Friday, 9am-5pm; Wednesday, 1pm-5pm"
+      }, {
+        "count" : 14,
+        "item" : "Monday-Friday, 9:30am-6pm"
+      }, {
+        "count" : 13,
+        "item" : "Thursday, 11am-7pm"
+      }, {
+        "count" : 12,
+        "item" : "Tuesday, 9:30am-5pm; Friday, 9am-1pm"
+      }, {
+        "count" : 11,
+        "item" : "Monday, 9am-5pm; Wednesday, 9am-1pm"
+      }, {
+        "count" : 10,
+        "item" : "Monday, Tuesday, Thursday, Friday, 9am-5pm; Wednesday, 1pm-5pm"
+      }, {
+        "count" : 9,
+        "item" : "Tuesday, 12pm-4pm; Thursday, 9am-1pm"
+      }, {
+        "count" : 8,
+        "item" : "First Tuesday and third Thursday of the month, 5:30pm-7:30pm (workshops); Call for Saturday schedule"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45208884,
+    "name" : "Languages",
+    "dataTypeName" : "text",
+    "fieldName" : "languages",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1509522,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "Mandarin and Cantonese",
+      "null" : 14,
+      "largest" : "Mandarin and Cantonese",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Mandarin and Cantonese"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45208885,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1509523,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : {
+        "human_address" : "{\"address\":\"307 36th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "null" : 10,
+      "largest" : {
+        "human_address" : "{\"address\":\"76 Wadsworth Avenue (between 176th and 177th streets\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "human_address" : "{\"address\":\"3125 Third Avenue (at 159th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "human_address" : "{\"address\":\"76 Wadsworth Avenue (between 176th and 177th streets\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "human_address" : "{\"address\":\"307 36th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "human_address" : "{\"address\":\"37 Avenue B (corner of East 3rd Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "human_address" : "{\"address\":\"314 54th Street\",\"city\":\"\",\"state\":\"\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : -24.283023040293,
+      "ymax" : 49.493792814593,
+      "xmin" : -129.64746092147,
+      "xmax" : 126.48339840766
+    },
+    "distinctLegend" : false,
+    "exclusiveLayers" : false,
+    "viewDefinitions" : [ {
+      "uid" : "xpvq-b7bu",
+      "plotStyle" : "point",
+      "plot" : {
+        "locationId" : 1509523
+      }
+    } ]
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "xpvq-b7bu"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jscg-v68d",
+    "displayName" : "castroco",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1361048159,
+    "screenName" : "castroco"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "empowerment", "finance", "financial empowerment", "empowerment center", "consumer", "financial" ]
+}

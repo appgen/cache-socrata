@@ -1,0 +1,405 @@
+{
+  "id" : "mcz2-ynjk",
+  "name" : "Pavement Edge Lines",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318116301,
+  "description" : "Planimetric basemap line layer containing the pavement edge features. (curbline)",
+  "displayType" : "map",
+  "downloadCount" : 30,
+  "numberOfComments" : 0,
+  "oid" : 342282,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116321,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244137,
+  "totalTimesRated" : 0,
+  "viewCount" : 255,
+  "viewLastModified" : 1360611304,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989182,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564473,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262370,
+      "smallest" : "1",
+      "sum" : "34419139635",
+      "null" : 0,
+      "average" : "131185.5",
+      "largest" : "262370",
+      "top" : [ {
+        "count" : 20,
+        "item" : "262360"
+      }, {
+        "count" : 19,
+        "item" : "262361"
+      }, {
+        "count" : 18,
+        "item" : "262362"
+      }, {
+        "count" : 17,
+        "item" : "262363"
+      }, {
+        "count" : 16,
+        "item" : "262364"
+      }, {
+        "count" : 15,
+        "item" : "262365"
+      }, {
+        "count" : 14,
+        "item" : "262366"
+      }, {
+        "count" : 13,
+        "item" : "262367"
+      }, {
+        "count" : 12,
+        "item" : "262368"
+      }, {
+        "count" : 11,
+        "item" : "262369"
+      }, {
+        "count" : 10,
+        "item" : "262370"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989183,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564474,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989184,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564475,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262370,
+      "smallest" : "1223003155",
+      "sum" : "3340726472170371",
+      "null" : 0,
+      "average" : "12732882845.48680",
+      "largest" : "24226001506",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5225004362"
+      }, {
+        "count" : 19,
+        "item" : "5225004369"
+      }, {
+        "count" : 18,
+        "item" : "9226012875"
+      }, {
+        "count" : 17,
+        "item" : "10225012300"
+      }, {
+        "count" : 16,
+        "item" : "10225011440"
+      }, {
+        "count" : 15,
+        "item" : "10225016009"
+      }, {
+        "count" : 14,
+        "item" : "10225004836"
+      }, {
+        "count" : 13,
+        "item" : "10225013072"
+      }, {
+        "count" : 12,
+        "item" : "10225012143"
+      }, {
+        "count" : 11,
+        "item" : "10225012120"
+      }, {
+        "count" : 10,
+        "item" : "12225002407"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989185,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564476,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262370,
+      "smallest" : "2230",
+      "sum" : "590783890",
+      "null" : 0,
+      "average" : "2251.720432976331",
+      "largest" : "2260",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2250"
+      }, {
+        "count" : 19,
+        "item" : "2260"
+      }, {
+        "count" : 18,
+        "item" : "2230"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989186,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564477,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262370,
+      "smallest" : "223000",
+      "sum" : "59078510500",
+      "null" : 0,
+      "average" : "225172.5063841140",
+      "largest" : "226010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "225000"
+      }, {
+        "count" : 19,
+        "item" : "225010"
+      }, {
+        "count" : 18,
+        "item" : "226000"
+      }, {
+        "count" : 17,
+        "item" : "226010"
+      }, {
+        "count" : 16,
+        "item" : "223000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989187,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564478,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262370,
+      "smallest" : "0.00960450010288838550154277839965288876555860042572021484375",
+      "sum" : "76367303.25946513147354045326908877910909723141230642795562744140625",
+      "null" : 0,
+      "average" : "291.0672076055385",
+      "largest" : "14798.048916348148850374855101108551025390625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "963.8985693310972919789492152631282806396484375"
+      }, {
+        "count" : 19,
+        "item" : "662.0055635470838524270220659673213958740234375"
+      }, {
+        "count" : 18,
+        "item" : "4552.07004946824963553808629512786865234375"
+      }, {
+        "count" : 17,
+        "item" : "1428.710048977993210428394377231597900390625"
+      }, {
+        "count" : 16,
+        "item" : "118.99280054960325969659606926143169403076171875"
+      }, {
+        "count" : 15,
+        "item" : "1428.92645338185457148938439786434173583984375"
+      }, {
+        "count" : 14,
+        "item" : "1452.269366514926559830200858414173126220703125"
+      }, {
+        "count" : 13,
+        "item" : "133.6119565460538751722197048366069793701171875"
+      }, {
+        "count" : 12,
+        "item" : "603.8610293845396199685637839138507843017578125"
+      }, {
+        "count" : 11,
+        "item" : "1446.9212667387882902403362095355987548828125"
+      }, {
+        "count" : 10,
+        "item" : "2866.4104605911770704551599919795989990234375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564474,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564475
+      } ],
+      "latitudeId" : 1564473
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "226010",
+        "codedValues_1.code" : "226000",
+        "codedValues_1.name" : "Road Edge",
+        "codedValues_2.name" : "Road Edge, Obscured"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "225010",
+        "codedValues_1.code" : "225000",
+        "codedValues_1.name" : "Curb",
+        "codedValues_2.name" : "Curb, Obscured"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "223000",
+        "codedValues_1.name" : "Airport Runways"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSLS",
+        "defaultSymbol.style" : "esriSLSSolid",
+        "defaultSymbol.width" : "1"
+      },
+      "types_1" : {
+        "id" : "2250",
+        "name" : "Curb"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_PAVEMENTEDGE_LINE_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SOURCE_ID",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_PAVEMENTEDGE_LINE_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dRoadEdge"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dCurb"
+      },
+      "types_2" : {
+        "id" : "2260",
+        "name" : "Road Edge"
+      },
+      "types_3" : {
+        "id" : "2230",
+        "name" : "Airport Runways"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dAirportRunways"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A4B559C0-C9FF-4BED-B899-D12AAED7EE95",
+      "name" : "DOITT_PAVEMENTEDGE_LINE.zip",
+      "filename" : "DOITT_PAVEMENTEDGE_LINE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2565994868936,
+    "lat" : 40.9151626344566
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.6988384056475,
+    "lat" : 40.4977472805623
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "parking", "transportation", "pavement", "edge", "pavement edge", "walk", "sidewalk" ],
+  "flags" : [ "default" ]
+}

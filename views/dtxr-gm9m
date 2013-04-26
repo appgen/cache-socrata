@@ -1,0 +1,887 @@
+{
+  "id" : "dtxr-gm9m",
+  "name" : "Open Tree Down Complaints in Brooklyn",
+  "attribution" : "311",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1352324985,
+  "description" : "All 311 Service Requests from 2010 to present. This information is automatically updated daily.",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 3346522,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366921804,
+  "publicationGroup" : 244403,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1366920524,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 818535,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1352325338,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 60832722,
+    "name" : "Unique Key",
+    "dataTypeName" : "text",
+    "fieldName" : "unique_key",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567787,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "24281531",
+      "null" : 0,
+      "largest" : "25416889",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24735505"
+      }, {
+        "count" : 19,
+        "item" : "24738662"
+      }, {
+        "count" : 18,
+        "item" : "24752743"
+      }, {
+        "count" : 17,
+        "item" : "24759709"
+      }, {
+        "count" : 16,
+        "item" : "24758290"
+      }, {
+        "count" : 15,
+        "item" : "24768476"
+      }, {
+        "count" : 14,
+        "item" : "24767858"
+      }, {
+        "count" : 13,
+        "item" : "24784772"
+      }, {
+        "count" : 12,
+        "item" : "24782193"
+      }, {
+        "count" : 11,
+        "item" : "24797885"
+      }, {
+        "count" : 10,
+        "item" : "24910565"
+      }, {
+        "count" : 9,
+        "item" : "24911120"
+      }, {
+        "count" : 8,
+        "item" : "24905891"
+      }, {
+        "count" : 7,
+        "item" : "24906226"
+      }, {
+        "count" : 6,
+        "item" : "24906798"
+      }, {
+        "count" : 5,
+        "item" : "24928078"
+      }, {
+        "count" : 4,
+        "item" : "24945436"
+      }, {
+        "count" : 3,
+        "item" : "24967491"
+      }, {
+        "count" : 2,
+        "item" : "24967264"
+      }, {
+        "count" : 1,
+        "item" : "24968394"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832723,
+    "name" : "Created Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "created_date",
+    "position" : 2,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567788,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "2012-10-30T00:00:00",
+      "null" : 0,
+      "largest" : "2013-04-23T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-10-30T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-11-01T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-11-11T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-11-12T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-13T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-11-14T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-11-15T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-11-16T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-11-30T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-12-06T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-12-17T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-12-19T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-12-29T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-01-07T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-01-10T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-01-11T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-01-14T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-01-31T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-02-10T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-03-14T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832724,
+    "name" : "Closed Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "closed_date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567789,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 282
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832727,
+    "name" : "Complaint Type",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567792,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "Damaged Tree",
+      "null" : 0,
+      "largest" : "Damaged Tree",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Damaged Tree"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832728,
+    "name" : "Descriptor",
+    "dataTypeName" : "text",
+    "fieldName" : "descriptor",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567793,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "Entire Tree Has Fallen Down",
+      "null" : 0,
+      "largest" : "Entire Tree Has Fallen Down",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Entire Tree Has Fallen Down"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832729,
+    "name" : "Location Type",
+    "dataTypeName" : "text",
+    "fieldName" : "location_type",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567794,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "Park",
+      "null" : 0,
+      "largest" : "Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Street"
+      }, {
+        "count" : 19,
+        "item" : "Park"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832738,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567803,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 281,
+      "smallest" : "BROOKLYN",
+      "null" : 1,
+      "largest" : "BROOKLYN",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832741,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567806,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "Assigned",
+      "null" : 0,
+      "largest" : "Open",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Assigned"
+      }, {
+        "count" : 19,
+        "item" : "Open"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832742,
+    "name" : "Due Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "due_date",
+    "position" : 21,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567807,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "2012-11-04T00:00:00",
+      "null" : 0,
+      "largest" : "2013-05-24T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-11-29T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-11-04T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-12-01T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-12-02T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-16T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-12-11T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-12-19T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-11-17T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-12-17T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-12-18T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-11-18T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-12-14T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-02-06T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-02-27T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-02-05T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-11T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-02-15T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-04-25T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-03-31T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-05-24T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832743,
+    "name" : "Resolution Action Updated Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "resolution_action_updated_date",
+    "position" : 22,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567808,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 133,
+      "smallest" : "2012-10-30T00:00:00",
+      "null" : 149,
+      "largest" : "2013-04-24T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-10-30T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-12-11T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-11-03T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-11-01T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-02T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-11-05T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-11-11T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-11-19T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-11-17T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-11-18T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-11-16T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-11-13T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-11-14T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2012-11-20T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2012-11-26T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2012-12-03T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2012-12-05T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2012-12-17T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2012-12-21T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2012-12-18T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832745,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567810,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 282,
+      "smallest" : "BROOKLYN",
+      "null" : 0,
+      "largest" : "BROOKLYN",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60832773,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 52,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1567838,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 278,
+      "smallest" : {
+        "longitude" : "-73.96923470161036",
+        "latitude" : "40.62675057917443"
+      },
+      "null" : 4,
+      "largest" : {
+        "longitude" : "-74.00310566232604",
+        "latitude" : "40.633468407193156"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.96117590180972",
+          "latitude" : "40.70729363694089"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.97577981640435",
+          "latitude" : "40.68801290147449"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.97063387783655",
+          "latitude" : "40.697236872141346"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.02298941566457",
+          "latitude" : "40.63227216802475"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.90805093138013",
+          "latitude" : "40.69662474257684"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.97984690138206",
+          "latitude" : "40.665017965493774"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.00838405886806",
+          "latitude" : "40.60647586063065"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.95491868823542",
+          "latitude" : "40.64764192154862"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.92567334551973",
+          "latitude" : "40.65909169708803"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.96507100830362",
+          "latitude" : "40.652775452564825"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.95565587862967",
+          "latitude" : "40.58491270653875"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.9657522875049",
+          "latitude" : "40.65249843443455"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.9222785811274",
+          "latitude" : "40.66181502060971"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.97945110651108",
+          "latitude" : "40.67442424516002"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.97945110651108",
+          "latitude" : "40.67442424516002"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.88472131829609",
+          "latitude" : "40.63859556828313"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9797122943895",
+          "latitude" : "40.68094038511174"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.87309790468628",
+          "latitude" : "40.66685461273663"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.97956138932597",
+          "latitude" : "40.65570762236827"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.95430621440917",
+          "latitude" : "40.69479144909162"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.545599,
+      "ymax" : 40.798701,
+      "xmin" : -74.737313,
+      "xmax" : -73.274758
+    },
+    "plotStyle" : "rastermap",
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1567838
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "rp9m-5dfa",
+    "displayName" : "Robert J Samson",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1352324392,
+    "screenName" : "Robert J Samson"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "GREATER_THAN",
+          "children" : [ {
+            "columnId" : 60832723,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "2012-10-29T00:00:00"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567788
+          },
+          "operator" : "GREATER_THAN"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 60832728,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Entire Tree Has Fallen Down"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567793
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "IS_BLANK",
+          "children" : [ {
+            "columnId" : 60832724,
+            "type" : "column"
+          } ]
+        } ],
+        "metadata" : {
+          "customValues" : [ "IS_NOT_BLANK" ],
+          "tableColumnId" : {
+            "244403" : 1567789
+          },
+          "operator" : "blank?"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 60832745,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Brooklyn"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567810
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    },
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 60832723,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 60832723
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "311", "311 service requests", "2010", "2011", "2012", "service request status", "all service requests" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "GREATER_THAN",
+        "children" : [ {
+          "columnId" : 60832723,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "2012-10-29T00:00:00"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567788
+        },
+        "operator" : "GREATER_THAN"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 60832728,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Entire Tree Has Fallen Down"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567793
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "IS_BLANK",
+        "children" : [ {
+          "columnId" : 60832724,
+          "type" : "column"
+        } ]
+      } ],
+      "metadata" : {
+        "customValues" : [ "IS_NOT_BLANK" ],
+        "tableColumnId" : {
+          "244403" : 1567789
+        },
+        "operator" : "blank?"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 60832745,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Brooklyn"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567810
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

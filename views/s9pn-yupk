@@ -1,0 +1,755 @@
+{
+  "id" : "s9pn-yupk",
+  "name" : "wifi hotspots",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Media",
+  "createdAt" : 1364491543,
+  "description" : "Location of wifi hotspots in the city with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 2984903,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318014001,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "searchString" : "10010",
+  "signed" : false,
+  "tableId" : 243853,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1364491543,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 53719287,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560339,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "276",
+      "sum" : "16590",
+      "null" : 0,
+      "average" : "829.5",
+      "largest" : "1223",
+      "top" : [ {
+        "count" : 20,
+        "item" : "276"
+      }, {
+        "count" : 19,
+        "item" : "277"
+      }, {
+        "count" : 18,
+        "item" : "363"
+      }, {
+        "count" : 17,
+        "item" : "382"
+      }, {
+        "count" : 16,
+        "item" : "658"
+      }, {
+        "count" : 15,
+        "item" : "733"
+      }, {
+        "count" : 14,
+        "item" : "736"
+      }, {
+        "count" : 13,
+        "item" : "804"
+      }, {
+        "count" : 12,
+        "item" : "824"
+      }, {
+        "count" : 11,
+        "item" : "849"
+      }, {
+        "count" : 10,
+        "item" : "963"
+      }, {
+        "count" : 9,
+        "item" : "964"
+      }, {
+        "count" : 8,
+        "item" : "967"
+      }, {
+        "count" : 7,
+        "item" : "968"
+      }, {
+        "count" : 6,
+        "item" : "1073"
+      }, {
+        "count" : 5,
+        "item" : "1093"
+      }, {
+        "count" : 4,
+        "item" : "1094"
+      }, {
+        "count" : 3,
+        "item" : "1137"
+      }, {
+        "count" : 2,
+        "item" : "1206"
+      }, {
+        "count" : 1,
+        "item" : "1223"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719288,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560340,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : {
+        "longitude" : "-73.99317230199995",
+        "latitude" : "40.741898276000086"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.98205276399995",
+        "latitude" : "40.738078881000035"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99317230199995",
+          "latitude" : "40.741898276000086"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.97964469499993",
+          "latitude" : "40.73704395800007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99398785199992",
+          "latitude" : "40.742126135000035"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98802260199994",
+          "latitude" : "40.742221735000044"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.99085220299992",
+          "latitude" : "40.74472908300004"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.9882416339999",
+          "latitude" : "40.74065934100008"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.98544940999994",
+          "latitude" : "40.740922037000075"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.98507490799994",
+          "latitude" : "40.73933665800007"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.99015550399992",
+          "latitude" : "40.74127499900004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.00863139499995",
+          "latitude" : "40.74875401200006"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9917538599999",
+          "latitude" : "40.74363560900008"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.98695481899995",
+          "latitude" : "40.74015482200008"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.98353417899995",
+          "latitude" : "40.73878749800008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.99321200299994",
+          "latitude" : "40.74183789300008"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.9874385519999",
+          "latitude" : "40.73921342600005"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.9871535979999",
+          "latitude" : "40.73857661200009"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9871535979999",
+          "latitude" : "40.73857661200009"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.98807918299991",
+          "latitude" : "40.74059695700004"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.99148731999992",
+          "latitude" : "40.74051783400006"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.98205276399995",
+          "latitude" : "40.738078881000035"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 53719289,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560341,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Antique Café",
+      "null" : 0,
+      "largest" : "T-Mobile",
+      "top" : [ {
+        "count" : 20,
+        "item" : "McDonalds"
+      }, {
+        "count" : 19,
+        "item" : "Barnes & Noble"
+      }, {
+        "count" : 18,
+        "item" : "Madison Square Park"
+      }, {
+        "count" : 17,
+        "item" : "Antique Café"
+      }, {
+        "count" : 16,
+        "item" : "Bonobo"
+      }, {
+        "count" : 15,
+        "item" : "Gregory's Coffee"
+      }, {
+        "count" : 14,
+        "item" : "Tasti D Lite"
+      }, {
+        "count" : 13,
+        "item" : "T-Mobile"
+      }, {
+        "count" : 12,
+        "item" : "Chelsea Piers"
+      }, {
+        "count" : 11,
+        "item" : "Starbucks"
+      }, {
+        "count" : 10,
+        "item" : "Emmas Deli"
+      }, {
+        "count" : 9,
+        "item" : "Fedex Kinko's"
+      }, {
+        "count" : 8,
+        "item" : "McDonald's"
+      }, {
+        "count" : 7,
+        "item" : "NYC Public Library - Epiphany  Branch"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719290,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560342,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "389",
+      "sum" : "15722",
+      "null" : 0,
+      "average" : "786.1",
+      "largest" : "1318",
+      "top" : [ {
+        "count" : 20,
+        "item" : "499"
+      }, {
+        "count" : 19,
+        "item" : "500"
+      }, {
+        "count" : 18,
+        "item" : "389"
+      }, {
+        "count" : 17,
+        "item" : "779"
+      }, {
+        "count" : 16,
+        "item" : "1237"
+      }, {
+        "count" : 15,
+        "item" : "1315"
+      }, {
+        "count" : 14,
+        "item" : "1318"
+      }, {
+        "count" : 13,
+        "item" : "734"
+      }, {
+        "count" : 12,
+        "item" : "754"
+      }, {
+        "count" : 11,
+        "item" : "826"
+      }, {
+        "count" : 10,
+        "item" : "686"
+      }, {
+        "count" : 9,
+        "item" : "687"
+      }, {
+        "count" : 8,
+        "item" : "690"
+      }, {
+        "count" : 7,
+        "item" : "691"
+      }, {
+        "count" : 6,
+        "item" : "435"
+      }, {
+        "count" : 5,
+        "item" : "446"
+      }, {
+        "count" : 4,
+        "item" : "1006"
+      }, {
+        "count" : 3,
+        "item" : "1103"
+      }, {
+        "count" : 2,
+        "item" : "1181"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719291,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560343,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "132 E 23rd Street",
+      "null" : 0,
+      "largest" : "West Side Highway and 23rd Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "686 6th Ave"
+      }, {
+        "count" : 19,
+        "item" : "336 East 23rd Street"
+      }, {
+        "count" : 18,
+        "item" : "675 Avenue Of The Americas"
+      }, {
+        "count" : 17,
+        "item" : "Madison Avenue and 23rd Street"
+      }, {
+        "count" : 16,
+        "item" : "55 West 26th Street"
+      }, {
+        "count" : 15,
+        "item" : "18 East 23rd Street"
+      }, {
+        "count" : 14,
+        "item" : "327  Park Avenue South"
+      }, {
+        "count" : 13,
+        "item" : "132 E 23rd Street"
+      }, {
+        "count" : 12,
+        "item" : "180 Fifth Avenue"
+      }, {
+        "count" : 11,
+        "item" : "West Side Highway and 23rd Street"
+      }, {
+        "count" : 10,
+        "item" : "750 6th Avenue"
+      }, {
+        "count" : 9,
+        "item" : "304 Park Avenue South"
+      }, {
+        "count" : 8,
+        "item" : "296-300 Third Avenue"
+      }, {
+        "count" : 7,
+        "item" : "684 Avenue of the Americas"
+      }, {
+        "count" : 6,
+        "item" : "270 Park Avenue South"
+      }, {
+        "count" : 5,
+        "item" : "257 Park Avenue South"
+      }, {
+        "count" : 4,
+        "item" : "22 E 23rd St Flatiron"
+      }, {
+        "count" : 3,
+        "item" : "4 W. 21st Street"
+      }, {
+        "count" : 2,
+        "item" : "228 E 23rd  Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719292,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560344,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "New York",
+      "null" : 0,
+      "largest" : "New York",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719293,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560345,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "10010",
+      "null" : 0,
+      "largest" : "10010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719294,
+    "name" : "PHONE",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2121535,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "646-602-0074",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "212-674-9027"
+      }, {
+        "count" : 18,
+        "item" : "212-473-8900"
+      }, {
+        "count" : 17,
+        "item" : "212-352-2500"
+      }, {
+        "count" : 16,
+        "item" : "212-481-1856"
+      }, {
+        "count" : 15,
+        "item" : "212-475-9025"
+      }, {
+        "count" : 14,
+        "item" : "212-598-9858"
+      }, {
+        "count" : 13,
+        "item" : "212-691-1948"
+      }, {
+        "count" : 12,
+        "item" : "212-777-0222"
+      }, {
+        "count" : 11,
+        "item" : "646-602-0074"
+      }, {
+        "count" : 10,
+        "item" : "646-336-6583"
+      }, {
+        "count" : 9,
+        "item" : "212-679-2645"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719295,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2121536,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Fee-based",
+      "null" : 0,
+      "largest" : "Free",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Fee-based"
+      }, {
+        "count" : 19,
+        "item" : "Free"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 53719296,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2121537,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "http://www.t-mobile.com/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.mcdonalds.com/wireless.html"
+      }, {
+        "count" : 19,
+        "item" : "http://www.barnesandnobleinc.com"
+      }, {
+        "count" : 18,
+        "item" : "http://www.nycgovparks.org/parks/madisonsquarepark"
+      }, {
+        "count" : 17,
+        "item" : "http://www.openwifinyc.com/classic/a/Antique-Cafe-NY-10010"
+      }, {
+        "count" : 16,
+        "item" : "http://www.openwifinyc.com/classic/a/Bonobo-NY-10010"
+      }, {
+        "count" : 15,
+        "item" : "http://www.openwifinyc.com/classic/a/Gregorys-Coffee-NY-10010"
+      }, {
+        "count" : 14,
+        "item" : " "
+      }, {
+        "count" : 13,
+        "item" : "http://www.t-mobile.com/"
+      }, {
+        "count" : 12,
+        "item" : "http://www.chelseapiers.com/index.html#"
+      }, {
+        "count" : 11,
+        "item" : "http://www.starbucks.com"
+      }, {
+        "count" : 10,
+        "item" : "http://www.FedexKinkos.com"
+      }, {
+        "count" : 9,
+        "item" : "http://www.nypl.org/branch/services/wifi.html"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "self",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1560341
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1560340,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560341
+      } ],
+      "latitudeId" : 1560339
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.height" : "14",
+        "symbol.url" : "3E7B5863",
+        "symbol.type" : "esriPMS",
+        "symbol.yoffset" : "0",
+        "symbol.contentType" : "image/png",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "21",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAYAAACDW21BAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA4ZJREFUSIm9lX9MlWUUxz/nve/tvVxWsJkT3BizYWYQP3RFoZJtGqQwGY6s1DXC/kicVNIWbekta46irTYjZot0hEtAk2wMV5Y4jWmbWEzDSZbNQEejcJcfL3vvPf1B2S7cF+mfzj/vs+c55/k83+e85zwm/7OZbgvh8FggHAbT9AX+y4aOMxrY23yVTU/OjxoXFdjW8asahRb6xTiO4+wwTVNmAgs5tnpMS6ztqlZm2w773KopcVGBq15U+o79gfg+4+yPT8yEBcD1ccBqUPt1EZ5Sba8b0PwHZ0dApwCt1MNqp8+m6o0uWF5C1jyLN9/r0qryVAzztqhKwyFbq3dfYK7fkryGkB7dOKSXPxjlrnu6pvhOAdq+NLTeh8xXfv/By6ysAwzOeYxXtnpclRkeS9a3jCq8q+0bQD4vIzgQhPyVNK/r05L8uTcPGgE8dKxPiz9KpL7xImRkcac/Rsi5otruRcQzbR4/WeulsWwL1XUXqNl2N+kp+3n79BZKcr9xV1i1+xKZD8+ibGsHpe8/jXfBKd3zSzxh/BFBqqMKBiLWzUOImHL4vK1FizrRsVQqU+7npWyPkHJG6XUBXuy4Ru12k83DFhW5JpnlPTxXm4ZnkjpZb5NynxfVcRX5N69r7hVIykTEEPKuTYDi5rgrZNghOc6A2BiS44Fhm/QkJ8LlxKmTmrtkIb1rrnKyx550sR6Ii58Y+mMnvpZ3GmCsRX8wDMND/HzDgYQ4egZ9ES65S5YKoLR6WNbKpLyGIBicGAZH/p5Sd+DywkTqvwtB0u18eEbYVZlB1REPoXBIPUbEtUb9gVq7hmHgJ1QdlbSzE5N/XncHvvNyKourvXy1bykrak1oTBNSTqghD0TbP8JUbZVih8dLEth51Ibebl790tGdBQfdgYsXxgsLvtUVe3OExBa9MjSi1TXnkU1eVMdUxOdaGtUtv0F3L029j0pT34g2HFzGxj0eauqyqCx1AQJkZzicW6e6L7uf5GcN9EAW3UVtQN60Cl9Ym0D56gQK3xrU47v2s/LTDbCti8rmRdO3ttNNuUJiu857/hGsikPIMwXQWihyi/ZtGX5RHdfjH/ejY6VIkUFgs59ARaRf1OY9dDmHuNWD6KXiiOK+lf1Tk1JwQ+n8mkBr0cxei7iYO6Tz+/6A6vhMWREWPuJ9zTCKAtHWXB/ghzISowbMxAwjxjX2LxEASqVBE02+AAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/WIFIHotspotsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "WIFIHotspots",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "ehc4-fktp"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "B48D0331-BD21-4275-A32B-B9AA75CFA124",
+      "name" : "DOITT_WIFI_HOTSPOT_01.zip",
+      "filename" : "DOITT_WIFI_HOTSPOT_01.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "34sy-xcnx",
+    "displayName" : "mheung",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364137104,
+    "screenName" : "mheung"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "services", "wifi", "wireless", "hot spot", "access", "telecommunication" ]
+}

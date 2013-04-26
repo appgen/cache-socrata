@@ -1,0 +1,861 @@
+{
+  "id" : "9mwi-6bhc",
+  "name" : "NY PARKS",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1355023326,
+  "description" : "GIS Map of New York City Department of Parks & Recreation parks.",
+  "displayType" : "map",
+  "downloadCount" : 7,
+  "numberOfComments" : 0,
+  "oid" : 1960033,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318013455,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243848,
+  "totalTimesRated" : 0,
+  "viewCount" : 37,
+  "viewLastModified" : 1355023326,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 33781927,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560300,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : "1",
+      "sum" : "2191568",
+      "null" : 0,
+      "average" : "1047.094123268036",
+      "largest" : "2094",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2093"
+      }, {
+        "count" : 19,
+        "item" : "2094"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781928,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1560301,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 33781929,
+    "name" : "ORGANIZATI",
+    "dataTypeName" : "text",
+    "description" : "ORGANIZATI",
+    "fieldName" : "organizati",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560302,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "NYCPARKS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYCPARKS"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781930,
+    "name" : "STATUS",
+    "dataTypeName" : "text",
+    "description" : "STATUS",
+    "fieldName" : "status",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560303,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "I",
+      "top" : [ {
+        "count" : 20,
+        "item" : "I"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781931,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "description" : "TYPE",
+    "fieldName" : "type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560304,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "S",
+      "top" : [ {
+        "count" : 20,
+        "item" : "S"
+      }, {
+        "count" : 19,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781932,
+    "name" : "GISPROPNUM",
+    "dataTypeName" : "text",
+    "description" : "GISPROPNUM",
+    "fieldName" : "gispropnum",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560305,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "XS26",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Q151"
+      }, {
+        "count" : 19,
+        "item" : "Q152"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781933,
+    "name" : "OMPPROPID",
+    "dataTypeName" : "text",
+    "description" : "OMPPROPID",
+    "fieldName" : "omppropid",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560306,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "XS26",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Q072"
+      }, {
+        "count" : 18,
+        "item" : "Q079"
+      }, {
+        "count" : 17,
+        "item" : "Q080"
+      }, {
+        "count" : 16,
+        "item" : "Q084"
+      }, {
+        "count" : 15,
+        "item" : "Q084B"
+      }, {
+        "count" : 14,
+        "item" : "Q086"
+      }, {
+        "count" : 13,
+        "item" : "X092"
+      }, {
+        "count" : 12,
+        "item" : "Q089B"
+      }, {
+        "count" : 11,
+        "item" : "Q094D"
+      }, {
+        "count" : 10,
+        "item" : "Q098"
+      }, {
+        "count" : 9,
+        "item" : "Q100"
+      }, {
+        "count" : 8,
+        "item" : "Q100A"
+      }, {
+        "count" : 7,
+        "item" : "Q101"
+      }, {
+        "count" : 6,
+        "item" : "Q103"
+      }, {
+        "count" : 5,
+        "item" : "Q105"
+      }, {
+        "count" : 4,
+        "item" : "Q106"
+      }, {
+        "count" : 3,
+        "item" : "Q107"
+      }, {
+        "count" : 2,
+        "item" : "Q116"
+      }, {
+        "count" : 1,
+        "item" : "Q118"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781934,
+    "name" : "LOCATION",
+    "dataTypeName" : "text",
+    "description" : "LOCATION",
+    "fieldName" : "location",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560307,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Zerega Av bet Commerce Av & Gleason Av",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Kneeland Ave., Grand Ave. bet. Manilla St. and Haspel St."
+      }, {
+        "count" : 19,
+        "item" : "Justice Av, 56 Av, 90 St"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781935,
+    "name" : "JURISDICTI",
+    "dataTypeName" : "text",
+    "description" : "JURISDICTI",
+    "fieldName" : "jurisdicti",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560308,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Uncertain",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "CDOT"
+      }, {
+        "count" : 18,
+        "item" : "DPR"
+      }, {
+        "count" : 17,
+        "item" : "DPR/CDOT"
+      }, {
+        "count" : 16,
+        "item" : "Private"
+      }, {
+        "count" : 15,
+        "item" : "DEP"
+      }, {
+        "count" : 14,
+        "item" : "DPR/DOT"
+      }, {
+        "count" : 13,
+        "item" : "DPR/TBTA"
+      }, {
+        "count" : 12,
+        "item" : "DPR/TBTA/NYPD"
+      }, {
+        "count" : 11,
+        "item" : "DPR/NYCHA"
+      }, {
+        "count" : 10,
+        "item" : "DPR/DOE"
+      }, {
+        "count" : 9,
+        "item" : "DOE"
+      }, {
+        "count" : 8,
+        "item" : "NYSDOT"
+      }, {
+        "count" : 7,
+        "item" : "DPR/SDOT"
+      }, {
+        "count" : 6,
+        "item" : "-"
+      }, {
+        "count" : 5,
+        "item" : "DPR/TBTA/NYCHA"
+      }, {
+        "count" : 4,
+        "item" : "DPR/PA"
+      }, {
+        "count" : 3,
+        "item" : "TBTA"
+      }, {
+        "count" : 2,
+        "item" : "HPD"
+      }, {
+        "count" : 1,
+        "item" : "DPR/DOT/TBTA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781936,
+    "name" : "WATERFRONT",
+    "dataTypeName" : "text",
+    "description" : "WATERFRONT",
+    "fieldName" : "waterfront",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560309,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N"
+      }, {
+        "count" : 19,
+        "item" : "Y"
+      }, {
+        "count" : 18,
+        "item" : "No"
+      }, {
+        "count" : 17,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781937,
+    "name" : "MAPPED",
+    "dataTypeName" : "text",
+    "description" : "MAPPED",
+    "fieldName" : "mapped",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560310,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Unkwn",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "False"
+      }, {
+        "count" : 18,
+        "item" : "True"
+      }, {
+        "count" : 17,
+        "item" : "Part"
+      }, {
+        "count" : 16,
+        "item" : "Flase"
+      }, {
+        "count" : 15,
+        "item" : "Ture"
+      }, {
+        "count" : 14,
+        "item" : "Falso"
+      }, {
+        "count" : 13,
+        "item" : "Unkwn"
+      }, {
+        "count" : 12,
+        "item" : "FALSE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781938,
+    "name" : "SIGNNAME",
+    "dataTypeName" : "text",
+    "description" : "SIGNNAME",
+    "fieldName" : "signname",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560311,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Zion Triangle",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Park"
+      }, {
+        "count" : 19,
+        "item" : "Myrtle Avenue Clemens Triangle"
+      }, {
+        "count" : 18,
+        "item" : "Marconi Park"
+      }, {
+        "count" : 17,
+        "item" : "George Washington Carver Botanical Garden"
+      }, {
+        "count" : 16,
+        "item" : "Detective William T. Gunn Park"
+      }, {
+        "count" : 15,
+        "item" : "Leon S Kaiser Playground"
+      }, {
+        "count" : 14,
+        "item" : "-"
+      }, {
+        "count" : 13,
+        "item" : "Hoover/Manton Playgrounds"
+      }, {
+        "count" : 12,
+        "item" : "Breininger Park"
+      }, {
+        "count" : 11,
+        "item" : "Playground 115"
+      }, {
+        "count" : 10,
+        "item" : "Catholic War Veterans Sqare"
+      }, {
+        "count" : 9,
+        "item" : "Grand Slope"
+      }, {
+        "count" : 8,
+        "item" : "Libra Triangle"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781939,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560312,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B"
+      }, {
+        "count" : 19,
+        "item" : "Q"
+      }, {
+        "count" : 18,
+        "item" : "M"
+      }, {
+        "count" : 17,
+        "item" : "X"
+      }, {
+        "count" : 16,
+        "item" : "R"
+      }, {
+        "count" : 15,
+        "item" : " "
+      }, {
+        "count" : 14,
+        "item" : "Queens"
+      }, {
+        "count" : 13,
+        "item" : "Staten Island"
+      }, {
+        "count" : 12,
+        "item" : "Bronx"
+      }, {
+        "count" : 11,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 10,
+        "item" : "Manhattan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781940,
+    "name" : "Precinct",
+    "dataTypeName" : "number",
+    "description" : "Precinct",
+    "fieldName" : "precinct",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560313,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : "0",
+      "sum" : "946",
+      "null" : 0,
+      "average" : "0.4519827998088868",
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "8"
+      }, {
+        "count" : 14,
+        "item" : "5"
+      }, {
+        "count" : 13,
+        "item" : "6"
+      }, {
+        "count" : 12,
+        "item" : "7"
+      }, {
+        "count" : 11,
+        "item" : "9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781941,
+    "name" : "ACRES",
+    "dataTypeName" : "number",
+    "description" : "ACRES",
+    "fieldName" : "acres",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560314,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : "0",
+      "sum" : "29801.139000000000220072515766389642521971836686134338378906250000",
+      "null" : 0,
+      "average" : "14.23848017200191",
+      "largest" : "2766.0500000000001818989403545856475830078125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0.91800000000000003819167204710538499057292938232421875"
+      }, {
+        "count" : 19,
+        "item" : "0.460000000000000019984014443252817727625370025634765625"
+      }, {
+        "count" : 18,
+        "item" : "0.0320000000000000006661338147750939242541790008544921875"
+      }, {
+        "count" : 17,
+        "item" : "0.01000000000000000020816681711721685132943093776702880859375"
+      }, {
+        "count" : 16,
+        "item" : "0.0200000000000000004163336342344337026588618755340576171875"
+      }, {
+        "count" : 15,
+        "item" : "0.0899999999999999966693309261245303787291049957275390625"
+      }, {
+        "count" : 14,
+        "item" : "180"
+      }, {
+        "count" : 13,
+        "item" : "0.200000000000000011102230246251565404236316680908203125"
+      }, {
+        "count" : 12,
+        "item" : "10.2189999999999994173549566767178475856781005859375"
+      }, {
+        "count" : 11,
+        "item" : "1146.430000000000063664629124104976654052734375"
+      }, {
+        "count" : 10,
+        "item" : "9.4760000000000008668621376273222267627716064453125"
+      }, {
+        "count" : 9,
+        "item" : "0"
+      }, {
+        "count" : 8,
+        "item" : "1.53699999999999992184029906638897955417633056640625"
+      }, {
+        "count" : 7,
+        "item" : "0.420999999999999985345056074947933666408061981201171875"
+      }, {
+        "count" : 6,
+        "item" : "0.65800000000000002930988785010413266718387603759765625"
+      }, {
+        "count" : 5,
+        "item" : "0.448000000000000009325873406851314939558506011962890625"
+      }, {
+        "count" : 4,
+        "item" : "5.4000000000000003552713678800500929355621337890625"
+      }, {
+        "count" : 3,
+        "item" : "1.3810000000000000053290705182007513940334320068359375"
+      }, {
+        "count" : 2,
+        "item" : "2.04300000000000014921397450962103903293609619140625"
+      }, {
+        "count" : 1,
+        "item" : "23.54299999999999926103555480949580669403076171875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781942,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560315,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : "2.0062080961090789088530073058791458606719970703125",
+      "sum" : "7022571.8971207574634032511085024452768266201019287109375",
+      "null" : 0,
+      "average" : "3355.266076025207",
+      "largest" : "362868.32390149286948144435882568359375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "905.289849702815672571887262165546417236328125"
+      }, {
+        "count" : 19,
+        "item" : "212.1595157227129675447940826416015625"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 33781943,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560316,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2093,
+      "smallest" : "0.0368855664293661344999009088496677577495574951171875",
+      "sum" : "1204615298.3026313389653452201599748150329105556011199951171875",
+      "null" : 0,
+      "average" : "575544.8152425377",
+      "largest" : "120737314.12805126607418060302734375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8533.5743962834312696941196918487548828125"
+      }, {
+        "count" : 19,
+        "item" : "1852.43714095279710818431340157985687255859375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.679427276100085,
+      "ymax" : 40.70923241790908,
+      "xmin" : -73.86351912498363,
+      "xmax" : -73.687737875016
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "color" : "#0000ff",
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 1
+      }
+    } ],
+    "flyoutsNoLabel" : false,
+    "viewDefinitions" : [ {
+      "uid" : "w29d-wry7",
+      "viewport" : {
+        "ymin" : 40.67269,
+        "ymax" : 40.715966,
+        "xmin" : -73.817643,
+        "xmax" : -73.733614
+      },
+      "color" : "#0000ff",
+      "layers" : [ {
+        "type" : "tile",
+        "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+        "options" : {
+          "opacity" : 1
+        }
+      } ],
+      "flyoutsNoLabel" : false,
+      "type" : "esri",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1560302
+        }, {
+          "tableColumnId" : 1560303
+        }, {
+          "tableColumnId" : 1560312
+        } ]
+      }
+    } ],
+    "type" : "esri",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560302
+      }, {
+        "tableColumnId" : 1560303
+      }, {
+        "tableColumnId" : 1560312
+      } ]
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/ParksWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SIGNNAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Parks",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "51B64CAF-50CB-4855-B3B8-D07299627410",
+      "name" : "DPR_Parks_001.zip",
+      "filename" : "DPR_Parks_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "tske-rfjt",
+    "displayName" : "Quiet",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1355021268,
+    "screenName" : "Quiet"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "cartography", "geographic" ]
+}

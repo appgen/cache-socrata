@@ -1,0 +1,546 @@
+{
+  "id" : "en6g-gjrd",
+  "name" : "Commercial",
+  "attribution" : "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1327287814,
+  "description" : "2010 electricity consumption in kWh and GJ, by ZIP code, building type, and utility company.",
+  "displayType" : "map",
+  "downloadCount" : 36,
+  "numberOfComments" : 0,
+  "oid" : 442597,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318360950,
+  "publicationGroup" : 241819,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318358360,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244781,
+  "totalTimesRated" : 0,
+  "viewCount" : 215,
+  "viewLastModified" : 1360681259,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 4832213,
+    "name" : "Zip Code",
+    "dataTypeName" : "location",
+    "fieldName" : "zip_code",
+    "position" : 1,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1535391,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 386,
+      "smallest" : {
+        "longitude" : "-73.99688630375988",
+        "latitude" : "40.75025902143676",
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10001\"}"
+      },
+      "null" : 1,
+      "largest" : {
+        "longitude" : "-73.82495531523557",
+        "latitude" : "40.6183036047276",
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11693\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.79455513281312",
+          "latitude" : "40.721924799390024",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11439\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.82495531523557",
+          "latitude" : "40.6183036047276",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11693\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.00888900022716",
+          "latitude" : "40.721242188776046",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10013\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99789641059084",
+          "latitude" : "40.72553802086304",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10012\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.07507238488262",
+          "latitude" : "40.596184688172855",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10305\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.21893861432557",
+          "latitude" : "40.530393118347774",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10309\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.11645860538027",
+          "latitude" : "40.632789000212256",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10310\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.82706856556183",
+          "latitude" : "40.874142343794176",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10475\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98992086835335",
+          "latitude" : "40.69467825879468",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11201\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.93427608567276",
+          "latitude" : "40.649721601170995",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11203\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.87206493005243",
+          "latitude" : "40.67401318266229",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11208\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.95817675075642",
+          "latitude" : "40.711589765255496",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11211\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.97968153557434",
+          "latitude" : "40.665557251366124",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11215\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.99953200040147",
+          "latitude" : "40.576304656334855",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11224\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.79462153515567",
+          "latitude" : "40.73987184371066",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11365\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.9048471440804",
+          "latitude" : "40.74519376448069",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.79282099978928",
+          "latitude" : "40.71311535449007",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11432\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 4832214,
+    "name" : "Building type (service class)",
+    "dataTypeName" : "text",
+    "fieldName" : "building_type_service_class_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535392,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 387,
+      "smallest" : "Commercial",
+      "null" : 0,
+      "largest" : "Commercial",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Commercial"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4832215,
+    "name" : "Consumption (kWh)",
+    "dataTypeName" : "number",
+    "fieldName" : "consumption_kwh_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535393,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 387,
+      "smallest" : "0",
+      "sum" : "27479800252",
+      "null" : 0,
+      "average" : "71007235.79328165",
+      "largest" : "1469718951",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3545417"
+      }, {
+        "count" : 19,
+        "item" : "1038629"
+      }, {
+        "count" : 18,
+        "item" : "119016472"
+      }, {
+        "count" : 17,
+        "item" : "3445281"
+      }, {
+        "count" : 16,
+        "item" : "9710036"
+      }, {
+        "count" : 15,
+        "item" : "2930148"
+      }, {
+        "count" : 14,
+        "item" : "13043753"
+      }, {
+        "count" : 13,
+        "item" : "506231"
+      }, {
+        "count" : 12,
+        "item" : "1320813"
+      }, {
+        "count" : 11,
+        "item" : "7818045"
+      }, {
+        "count" : 10,
+        "item" : "3200866"
+      }, {
+        "count" : 9,
+        "item" : "1590317"
+      }, {
+        "count" : 8,
+        "item" : "15837611"
+      }, {
+        "count" : 7,
+        "item" : "19629586"
+      }, {
+        "count" : 6,
+        "item" : "802442"
+      }, {
+        "count" : 5,
+        "item" : "754773"
+      }, {
+        "count" : 4,
+        "item" : "8774403"
+      }, {
+        "count" : 3,
+        "item" : "185371501"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4832216,
+    "name" : "Consumption (GJ)",
+    "dataTypeName" : "number",
+    "fieldName" : "consumption_gj_",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535394,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 387,
+      "smallest" : "0",
+      "sum" : "98927280",
+      "null" : 0,
+      "average" : "255626.0465116279",
+      "largest" : "5290988",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12764"
+      }, {
+        "count" : 19,
+        "item" : "3739"
+      }, {
+        "count" : 18,
+        "item" : "428459"
+      }, {
+        "count" : 17,
+        "item" : "12403"
+      }, {
+        "count" : 16,
+        "item" : "34956"
+      }, {
+        "count" : 15,
+        "item" : "10549"
+      }, {
+        "count" : 14,
+        "item" : "46958"
+      }, {
+        "count" : 13,
+        "item" : "1822"
+      }, {
+        "count" : 12,
+        "item" : "4755"
+      }, {
+        "count" : 11,
+        "item" : "28145"
+      }, {
+        "count" : 10,
+        "item" : "11523"
+      }, {
+        "count" : 9,
+        "item" : "5725"
+      }, {
+        "count" : 8,
+        "item" : "57015"
+      }, {
+        "count" : 7,
+        "item" : "70667"
+      }, {
+        "count" : 6,
+        "item" : "2889"
+      }, {
+        "count" : 5,
+        "item" : "2717"
+      }, {
+        "count" : 4,
+        "item" : "31588"
+      }, {
+        "count" : 3,
+        "item" : "667337"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4832217,
+    "name" : "Utility/Data Source",
+    "dataTypeName" : "text",
+    "fieldName" : "utility_data_source",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535395,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 387,
+      "smallest" : "ConEd",
+      "null" : 0,
+      "largest" : "Long Island Power Authority",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ConEd"
+      }, {
+        "count" : 19,
+        "item" : "Long Island Power Authority"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Road",
+      "opacity" : 1,
+      "layerName" : "Bing Road"
+    }, {
+      "alias" : "Aerial",
+      "opacity" : 1,
+      "layerName" : "Bing Aerial"
+    } ],
+    "viewport" : {
+      "ymin" : 40.671188,
+      "ymax" : 40.864122,
+      "xmin" : -74.230724,
+      "xmax" : -73.453441
+    },
+    "plotStyle" : "rastermap",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "en6g-gjrd",
+      "viewport" : {
+        "ymin" : 40.671188,
+        "ymax" : 40.864122,
+        "xmin" : -74.230724,
+        "xmax" : -73.453441
+      },
+      "plotStyle" : "rastermap",
+      "type" : "bing",
+      "plot" : {
+        "locationId" : 1535391,
+        "quantityId" : 1535393
+      }
+    } ],
+    "type" : "bing",
+    "plot" : {
+      "locationId" : 1535391,
+      "quantityId" : 1535393
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "en6g-gjrd" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 4832214,
+                "type" : "column"
+              }, {
+                "value" : "commercial",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "241819" : 1535392
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "bivn-867q",
+    "displayName" : "K",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1327247824,
+    "screenName" : "K"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 4832214,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "commercial"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "241819" : 1535392
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "electricity", "energy", "environment", "planning", "power", "utilities" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 4832214,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "commercial"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "241819" : 1535392
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

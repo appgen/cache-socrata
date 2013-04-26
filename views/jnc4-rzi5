@@ -1,0 +1,436 @@
+{
+  "id" : "jnc4-rzi5",
+  "name" : "JFK Airtrain Station Locations",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318023885,
+  "description" : "Location of the JFK airtrain stations with basic descriptive information about the station.",
+  "displayType" : "map",
+  "downloadCount" : 19,
+  "numberOfComments" : 0,
+  "oid" : 341806,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023898,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243890,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1360613103,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980007,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561128,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "1",
+      "sum" : "55",
+      "null" : 0,
+      "average" : "5.5",
+      "largest" : "10",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980008,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561129,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : {
+        "longitude" : "-73.82959012999993",
+        "latitude" : "40.66102218600008"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.78918118999991",
+        "latitude" : "40.643288089000066"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.82959012999993",
+          "latitude" : "40.66102218600008"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.82455825499994",
+          "latitude" : "40.661756478000086"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.80349664699992",
+          "latitude" : "40.65974806600008"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.80878360899993",
+          "latitude" : "40.69874303600005"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.78236052499994",
+          "latitude" : "40.643978521000065"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.77991510699991",
+          "latitude" : "40.646832473000075"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.78319185499993",
+          "latitude" : "40.648213713000075"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.78876469999994",
+          "latitude" : "40.646711768000046"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.78724974499994",
+          "latitude" : "40.64202600800007"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.78918118999991",
+          "latitude" : "40.643288089000066"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980009,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561130,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980010,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561131,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "Lefferts Boulevard",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Howard Beach"
+      }, {
+        "count" : 19,
+        "item" : "Lefferts Boulevard"
+      }, {
+        "count" : 18,
+        "item" : "Federal Circle"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "5/6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8/9"
+      }, {
+        "count" : 12,
+        "item" : "2/3"
+      }, {
+        "count" : 11,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980011,
+    "name" : "LOCATION",
+    "dataTypeName" : "text",
+    "description" : "LOCATION",
+    "fieldName" : "location",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561132,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "103rd St. and 159th Av.",
+      "null" : 0,
+      "largest" : "Terminal 8 and 9/Red Parking",
+      "top" : [ {
+        "count" : 20,
+        "item" : "103rd St. and 159th Av."
+      }, {
+        "count" : 19,
+        "item" : "Lefferts Boulevard and"
+      }, {
+        "count" : 18,
+        "item" : "Cargo Rd. and Federal Cl. (Car Rental Area)"
+      }, {
+        "count" : 17,
+        "item" : "Sutphin Blvd and 94th Av."
+      }, {
+        "count" : 16,
+        "item" : "Terminal 4/Blue Parking"
+      }, {
+        "count" : 15,
+        "item" : "Terminal 5 and 6/Yellow Parking"
+      }, {
+        "count" : 14,
+        "item" : "Terminal 7/Orange Parking"
+      }, {
+        "count" : 13,
+        "item" : "Terminal 8 and 9/Red Parking"
+      }, {
+        "count" : 12,
+        "item" : "Terminal 2 and 3/Green Parking"
+      }, {
+        "count" : 11,
+        "item" : "Terminal 1/Green Parking"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980012,
+    "name" : "STATION",
+    "dataTypeName" : "text",
+    "description" : "STATION",
+    "fieldName" : "station",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561133,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 10,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "D",
+      "top" : [ {
+        "count" : 20,
+        "item" : "A"
+      }, {
+        "count" : 19,
+        "item" : "B"
+      }, {
+        "count" : 18,
+        "item" : "C"
+      }, {
+        "count" : 17,
+        "item" : "D"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "5/6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8/9"
+      }, {
+        "count" : 12,
+        "item" : "2/3"
+      }, {
+        "count" : 11,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561129,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561130
+      } ],
+      "latitudeId" : 1561128
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_AIRTRAIN_STATION_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_AIRTRAIN_STATION_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "FCA4D249-7776-4454-9BAA-B870BED7822D",
+      "name" : "DOITT_AIRTRAIN_STATION.zip",
+      "filename" : "DOITT_AIRTRAIN_STATION.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -73.8296372228896,
+    "lat" : 40.6987673365264
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7797426882858,
+    "lat" : 40.6420040022051
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "transportation", "airport", "jfk", "airtrain", "station" ],
+  "flags" : [ "default" ]
+}

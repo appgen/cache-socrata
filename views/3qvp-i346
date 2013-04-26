@@ -1,0 +1,366 @@
+{
+  "id" : "3qvp-i346",
+  "name" : "Off the Grid",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1365639002,
+  "description" : "Planimetric basemap line layer containing the street centerline. (roads, alley and interior park paths`.)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3148343,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116524,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244145,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1365639002,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 56969847,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564643,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969848,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564644,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 56969849,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564645,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969850,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564646,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969851,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564647,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969852,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564648,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969853,
+    "name" : "NUMBER_TRAVEL_LANES",
+    "dataTypeName" : "number",
+    "description" : "NUMBER_TRAVEL_LANES",
+    "fieldName" : "number_travel_lanes",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564649,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969854,
+    "name" : "NUMBER_PARK_LANES",
+    "dataTypeName" : "number",
+    "description" : "NUMBER_PARK_LANES",
+    "fieldName" : "number_park_lanes",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564650,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969855,
+    "name" : "NUMBER_TOTAL_LANES",
+    "dataTypeName" : "number",
+    "description" : "NUMBER_TOTAL_LANES",
+    "fieldName" : "number_total_lanes",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564651,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969856,
+    "name" : "WIDTH",
+    "dataTypeName" : "number",
+    "description" : "WIDTH",
+    "fieldName" : "width",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564652,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 56969857,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564653,
+    "width" : 100,
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.656562463774,
+      "ymax" : 40.78770230291,
+      "xmin" : -74.156977665952,
+      "xmax" : -73.794222844239
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "self",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564645
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1564644,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564645
+      } ],
+      "latitudeId" : 1564643
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_6.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "293000",
+        "codedValues_1.name" : "Stepped Street"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_7" : {
+        "id" : "2265",
+        "name" : "Interior Path"
+      },
+      "types_6" : {
+        "id" : "2930",
+        "name" : "Stepped Street"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSLS",
+        "defaultSymbol.style" : "esriSLSSolid",
+        "defaultSymbol.width" : "1"
+      },
+      "types_1" : {
+        "id" : "2245",
+        "name" : "Boardwalk"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dUnPavedRoad"
+      },
+      "types_4.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "292010",
+        "codedValues_1.code" : "292000",
+        "codedValues_1.name" : "Alley",
+        "codedValues_2.name" : "Alley, Hidden"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dStBoardwalk"
+      },
+      "types_4" : {
+        "id" : "2920",
+        "name" : "Alley"
+      },
+      "types_5" : {
+        "id" : "2240",
+        "name" : "Driveway"
+      },
+      "types_2" : {
+        "id" : "2910",
+        "name" : "Unpaved Road"
+      },
+      "types_3" : {
+        "id" : "2900",
+        "name" : "Paved Road"
+      },
+      "types_5.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "224000",
+        "codedValues_1.name" : "Driveways"
+      },
+      "types_7.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "226500",
+        "codedValues_1.name" : "Interior Path"
+      },
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "291010",
+        "codedValues_1.code" : "291000",
+        "codedValues_1.name" : "Unpaved Road",
+        "codedValues_2.name" : "Unpaved Road, Hidden"
+      },
+      "types_4.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dAlley"
+      },
+      "types_7.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dInteriorPath"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_3.name" : "Boardwalk, Wooden",
+        "codedValues_2.code" : "224510",
+        "codedValues_3.code" : "224520",
+        "codedValues_1.code" : "224500",
+        "codedValues_1.name" : "Boardwalk",
+        "codedValues_2.name" : "Boardwalk, Concrete"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "290010",
+        "codedValues_1.code" : "290000",
+        "codedValues_1.name" : "Paved Road",
+        "codedValues_2.name" : "Paved Road, Hidden"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_STREET_CENTERLINE_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_STREET_CENTERLINE_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "types_6.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dStSteppedStreet"
+      },
+      "types_5.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dDriveways"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dPavedRoad"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "C00DDF14-E67F-475A-B3C0-0F463E189739",
+      "name" : "DOITT_STREET_CENTERLINE.zip",
+      "filename" : "DOITT_STREET_CENTERLINE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "uwg8-drqe",
+    "displayName" : "sophiee",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1365639001,
+    "screenName" : "sophiee"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "transportation", "street", "center", "centerline", "road", "alley", "path" ]
+}

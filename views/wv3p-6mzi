@@ -1,0 +1,330 @@
+{
+  "id" : "wv3p-6mzi",
+  "name" : "nycopendatamap",
+  "attribution" : "Civilian Complaint Review Board (CCRB)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1353206486,
+  "description" : "Civilian Complaint Review Board (CCRB) complaint activity data, 2005-2009.\r\nUpdate Schedule: Annually",
+  "displayType" : "map",
+  "downloadCount" : 3,
+  "numberOfComments" : 0,
+  "oid" : 1714433,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1316029968,
+  "publicationGroup" : 240416,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1316029969,
+  "rowsUpdatedBy" : "k2fz-tf56",
+  "signed" : false,
+  "tableId" : 240416,
+  "totalTimesRated" : 0,
+  "viewCount" : 52,
+  "viewLastModified" : 1353206486,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 29400448,
+    "name" : "Special Operations",
+    "dataTypeName" : "text",
+    "fieldName" : "special_operations",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1519851,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Aviation Unit",
+      "null" : 0,
+      "largest" : "Taxi Unit",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Emergency Service"
+      }, {
+        "count" : 19,
+        "item" : "Harbor Unit"
+      }, {
+        "count" : 18,
+        "item" : "Aviation Unit"
+      }, {
+        "count" : 17,
+        "item" : "Taxi Unit"
+      }, {
+        "count" : 16,
+        "item" : "Canine Unit"
+      }, {
+        "count" : 15,
+        "item" : "Mounted Unit"
+      }, {
+        "count" : 14,
+        "item" : "Headquarters"
+      }, {
+        "count" : 13,
+        "item" : "Special Operations Division Total"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 29400449,
+    "name" : "2005",
+    "dataTypeName" : "number",
+    "fieldName" : "_1_1",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519852,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0",
+      "sum" : "78",
+      "null" : 0,
+      "average" : "9.75",
+      "largest" : "39",
+      "top" : [ {
+        "count" : 20,
+        "item" : "27"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "2"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "39"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 29400450,
+    "name" : "2006",
+    "dataTypeName" : "number",
+    "fieldName" : "_5",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519853,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0",
+      "sum" : "90",
+      "null" : 0,
+      "average" : "11.25",
+      "largest" : "45",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "0"
+      }, {
+        "count" : 16,
+        "item" : "4"
+      }, {
+        "count" : 15,
+        "item" : "45"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 29400451,
+    "name" : "2007",
+    "dataTypeName" : "number",
+    "fieldName" : "_4",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519854,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0",
+      "sum" : "80",
+      "null" : 0,
+      "average" : "10",
+      "largest" : "40",
+      "top" : [ {
+        "count" : 20,
+        "item" : "32"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "2"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "40"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 29400452,
+    "name" : "2008",
+    "dataTypeName" : "number",
+    "fieldName" : "_2",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519855,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0",
+      "sum" : "42",
+      "null" : 0,
+      "average" : "5.25",
+      "largest" : "21",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "3"
+      }, {
+        "count" : 16,
+        "item" : "21"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 29400453,
+    "name" : "2009",
+    "dataTypeName" : "number",
+    "fieldName" : "_3",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519856,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "0",
+      "sum" : "30",
+      "null" : 0,
+      "average" : "3.75",
+      "largest" : "15",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 29400454,
+    "name" : "Total",
+    "dataTypeName" : "number",
+    "fieldName" : "total",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1519857,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1",
+      "sum" : "320",
+      "null" : 0,
+      "average" : "40",
+      "largest" : "160",
+      "top" : [ {
+        "count" : 20,
+        "item" : "126"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "1"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "20"
+      }, {
+        "count" : 14,
+        "item" : "160"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "cueb-gh5t",
+    "displayName" : "Azi",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1353206486,
+    "screenName" : "Azi"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "k2fz-tf56",
+    "displayName" : "Gary A",
+    "emailUnsubscribed" : true,
+    "privacyControl" : "login",
+    "profileLastModified" : 1337790089,
+    "roleName" : "administrator",
+    "screenName" : "Gary A",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "complaint", "civilian", "review", "board", "activity", "ccrb", "civilian complaint review board", "2005", "2006", "2007", "2008", "2009", "complaint activity", "statistics" ]
+}

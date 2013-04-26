@@ -1,0 +1,265 @@
+{
+  "id" : "mg94-q92n",
+  "name" : "123 coord",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1353796956,
+  "description" : "A list of all parking facilities in New York City",
+  "displayType" : "map",
+  "downloadCount" : 13,
+  "numberOfComments" : 0,
+  "oid" : 1803871,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311974171,
+  "publicationGroup" : 239011,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895287,
+  "rowsUpdatedBy" : "4f6h-73aa",
+  "signed" : false,
+  "tableId" : 239011,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1353797333,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 30969312,
+    "name" : "Address",
+    "dataTypeName" : "location",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1503099,
+    "width" : 381,
+    "cachedContents" : {
+      "non_null" : 1911,
+      "smallest" : {
+        "longitude" : "-74.00033293465881",
+        "latitude" : "40.76251544973604",
+        "human_address" : "{\"address\":\"0 12 AVE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10036\"}"
+      },
+      "null" : 1,
+      "largest" : {
+        "longitude" : "-73.82706856556183",
+        "latitude" : "40.874142343794176",
+        "human_address" : "{\"address\":\"999 CO-OP CITY BOULEVARD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10475\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.92384136798472",
+          "latitude" : "40.82069640711353",
+          "human_address" : "{\"address\":\"296 GRAND\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98292146163978",
+          "latitude" : "40.7103422107454",
+          "human_address" : "{\"address\":\"0 MARGINAL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.75575331557039",
+          "latitude" : "40.73547283631498",
+          "human_address" : "{\"address\":\"0 PECK\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.86148084756303",
+          "latitude" : "40.72646491702238",
+          "human_address" : "{\"address\":\"93 30 HORACE HARDING EXPRESSWAY\",\"city\":\"REGO PARK\",\"state\":\"NY\",\"zip\":\"11374\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9476419453016",
+          "latitude" : "40.63229592049121",
+          "human_address" : "{\"address\":\"2160 NOSTRAND AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11210\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.9187702054901",
+          "latitude" : "40.81814745019204",
+          "human_address" : "{\"address\":\"616 COURTLANDT AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"49 20 VERNON BOULEVARD\",\"city\":\"QUEENS\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.99688630375988",
+          "latitude" : "40.75025902143676",
+          "human_address" : "{\"address\":\"260 270 12 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"1420 1424 GATEWAY BOULEVARD\",\"city\":\"FAR ROCKAWAY\",\"state\":\"NY\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.99688630375988",
+          "latitude" : "40.75025902143676",
+          "human_address" : "{\"address\":\"444 446 10 AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.78637495254196",
+          "latitude" : "40.64722932617252",
+          "human_address" : "{\"address\":\"149 20 131 STREET\",\"city\":\"JAMAICA\",\"state\":\"NY\",\"zip\":\"11430\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.84521617705947",
+          "latitude" : "40.84568771938698",
+          "human_address" : "{\"address\":\"1527 BLONDELL AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10461\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.93866902925225",
+          "latitude" : "40.74570244980828",
+          "human_address" : "{\"address\":\"43 29 CRESCENT STREET\",\"city\":\"LONG ISLND CITY\",\"state\":\"NY\",\"zip\":\"11101\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.90841062908645",
+          "latitude" : "40.828535508055445",
+          "human_address" : "{\"address\":\"1108 WASHINGTON AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10456\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.95637513046132",
+          "latitude" : "40.77980127149341",
+          "human_address" : "{\"address\":\"118 86 STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10028\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93909809768377",
+          "latitude" : "40.843647786609324",
+          "human_address" : "{\"address\":\"4070 BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10032\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.0054760373078",
+          "latitude" : "40.70580055686809",
+          "human_address" : "{\"address\":\"151 MAIDEN LANE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.94927842305543",
+          "latitude" : "40.78810565807976",
+          "human_address" : "{\"address\":\"1559 LEXINGTON AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10029\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.89723767232358",
+          "latitude" : "40.85362293744357",
+          "human_address" : "{\"address\":\"2160 WEBSTER AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10457\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.91033775424992",
+          "latitude" : "40.824606455499385",
+          "human_address" : "{\"address\":\"487 163 STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10451\"}"
+        }
+      } ]
+    },
+    "format" : {
+      "align" : "center",
+      "view" : "coords"
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "center" : {
+        "lng" : -73.88661674503857,
+        "lat" : 40.69080724490472
+      },
+      "ymin" : 40.595462,
+      "ymax" : 40.786016,
+      "zoom" : 10,
+      "xmin" : -74.485372,
+      "xmax" : -73.287862
+    },
+    "plotStyle" : "point",
+    "flyoutsNoLabel" : true,
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1503099,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1503099
+      }, {
+        "tableColumnId" : 1503101
+      } ],
+      "titleId" : 1503097
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "v8sh-itdd",
+    "displayName" : "Marik",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1353796955,
+    "screenName" : "Marik"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking facilities", "car", "automobile" ]
+}

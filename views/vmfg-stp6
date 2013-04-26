@@ -1,0 +1,205 @@
+{
+  "id" : "vmfg-stp6",
+  "name" : "New Jersey transit",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318115962,
+  "description" : "Line feature representing New Jersey Transit.",
+  "displayType" : "map",
+  "downloadCount" : 32,
+  "numberOfComments" : 0,
+  "oid" : 342272,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115970,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244127,
+  "totalTimesRated" : 0,
+  "viewCount" : 178,
+  "viewLastModified" : 1360612137,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989048,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564339,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "1",
+      "sum" : "1",
+      "null" : 0,
+      "average" : "1",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989049,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564340,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989050,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564341,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "New Jersey Transit",
+      "null" : 0,
+      "largest" : "New Jersey Transit",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New Jersey Transit"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989051,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564342,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1,
+      "smallest" : "15550.9360193129978142678737640380859375",
+      "sum" : "15550.9360193129978142678737640380859375",
+      "null" : 0,
+      "average" : "15550.93601931300",
+      "largest" : "15550.9360193129978142678737640380859375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15550.9360193129978142678737640380859375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564340,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564341
+      } ],
+      "latitudeId" : 1564339
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSLS",
+        "symbol.width" : "1",
+        "symbol.style" : "esriSLSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_NEW_JERSEY_TRANSIT_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_NEW_JERSEY_TRANSIT_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "13C0B261-F8B2-42AB-838F-0C86CAE5F393",
+      "name" : "DOITT_NEW_JERSEY_TRANSIT.zip",
+      "filename" : "DOITT_NEW_JERSEY_TRANSIT.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0418450675077,
+    "lat" : 40.7714532839611
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.9929905612389,
+    "lat" : 40.7504165633227
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "transportation", "nj", "new jersey", "line", "transit", "train", "commute" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,655 @@
+{
+  "id" : "p8wz-d63u",
+  "name" : "Bronx Zip Code Boundaries",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1348750162,
+  "description" : "Polygon representing the boundary of the zip codes in the city.",
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "numberOfComments" : 0,
+  "oid" : 1133261,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318014052,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243855,
+  "totalTimesRated" : 0,
+  "viewCount" : 164,
+  "viewLastModified" : 1360613767,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 19046309,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560359,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "39",
+      "sum" : "1758",
+      "null" : 0,
+      "average" : "62.78571428571429",
+      "largest" : "257",
+      "top" : [ {
+        "count" : 20,
+        "item" : "39"
+      }, {
+        "count" : 19,
+        "item" : "40"
+      }, {
+        "count" : 18,
+        "item" : "41"
+      }, {
+        "count" : 17,
+        "item" : "42"
+      }, {
+        "count" : 16,
+        "item" : "43"
+      }, {
+        "count" : 15,
+        "item" : "44"
+      }, {
+        "count" : 14,
+        "item" : "45"
+      }, {
+        "count" : 13,
+        "item" : "46"
+      }, {
+        "count" : 12,
+        "item" : "47"
+      }, {
+        "count" : 11,
+        "item" : "49"
+      }, {
+        "count" : 10,
+        "item" : "52"
+      }, {
+        "count" : 9,
+        "item" : "54"
+      }, {
+        "count" : 8,
+        "item" : "55"
+      }, {
+        "count" : 7,
+        "item" : "56"
+      }, {
+        "count" : 6,
+        "item" : "57"
+      }, {
+        "count" : 5,
+        "item" : "58"
+      }, {
+        "count" : 4,
+        "item" : "59"
+      }, {
+        "count" : 3,
+        "item" : "60"
+      }, {
+        "count" : 2,
+        "item" : "62"
+      }, {
+        "count" : 1,
+        "item" : "63"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046310,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1560360,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 19046311,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560361,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "10451",
+      "null" : 0,
+      "largest" : "11370",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10471"
+      }, {
+        "count" : 19,
+        "item" : "10470"
+      }, {
+        "count" : 18,
+        "item" : "10466"
+      }, {
+        "count" : 17,
+        "item" : "10467"
+      }, {
+        "count" : 16,
+        "item" : "10463"
+      }, {
+        "count" : 15,
+        "item" : "10475"
+      }, {
+        "count" : 14,
+        "item" : "10464"
+      }, {
+        "count" : 13,
+        "item" : "10469"
+      }, {
+        "count" : 12,
+        "item" : "10468"
+      }, {
+        "count" : 11,
+        "item" : "10458"
+      }, {
+        "count" : 10,
+        "item" : "10462"
+      }, {
+        "count" : 9,
+        "item" : "10453"
+      }, {
+        "count" : 8,
+        "item" : "10465"
+      }, {
+        "count" : 7,
+        "item" : "10461"
+      }, {
+        "count" : 6,
+        "item" : "10457"
+      }, {
+        "count" : 5,
+        "item" : "10460"
+      }, {
+        "count" : 4,
+        "item" : "10452"
+      }, {
+        "count" : 3,
+        "item" : "10456"
+      }, {
+        "count" : 2,
+        "item" : "10472"
+      }, {
+        "count" : 1,
+        "item" : "10459"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046312,
+    "name" : "PO_NAME",
+    "dataTypeName" : "text",
+    "description" : "PO_NAME",
+    "fieldName" : "po_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560362,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Bronx",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046313,
+    "name" : "STATE",
+    "dataTypeName" : "text",
+    "description" : "STATE",
+    "fieldName" : "state",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560363,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046314,
+    "name" : "COUNTY",
+    "dataTypeName" : "text",
+    "description" : "COUNTY",
+    "fieldName" : "county",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560364,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Bronx",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046315,
+    "name" : "ST_FIPS",
+    "dataTypeName" : "text",
+    "description" : "ST_FIPS",
+    "fieldName" : "st_fips",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560365,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "36",
+      "null" : 0,
+      "largest" : "36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046316,
+    "name" : "CTY_FIPS",
+    "dataTypeName" : "text",
+    "description" : "CTY_FIPS",
+    "fieldName" : "cty_fips",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560366,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "005",
+      "null" : 0,
+      "largest" : "005",
+      "top" : [ {
+        "count" : 20,
+        "item" : "005"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046317,
+    "name" : "BLDGZIP",
+    "dataTypeName" : "number",
+    "description" : "BLDGZIP",
+    "fieldName" : "bldgzip",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560367,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046318,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560368,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "14922.292584988457747385837137699127197265625",
+      "sum" : "1061889.173549346627623890526592731475830078125",
+      "null" : 0,
+      "average" : "37924.61334104809",
+      "largest" : "96349.47358328421250917017459869384765625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "53208.96902516638510860502719879150390625"
+      }, {
+        "count" : 19,
+        "item" : "32648.90437331175417057238519191741943359375"
+      }, {
+        "count" : 18,
+        "item" : "35358.30313866701908409595489501953125"
+      }, {
+        "count" : 17,
+        "item" : "43944.7506297814179561100900173187255859375"
+      }, {
+        "count" : 16,
+        "item" : "47484.9922984871882363222539424896240234375"
+      }, {
+        "count" : 15,
+        "item" : "45027.6551187794902944006025791168212890625"
+      }, {
+        "count" : 14,
+        "item" : "95375.546077210761723108589649200439453125"
+      }, {
+        "count" : 13,
+        "item" : "34900.725564438500441610813140869140625"
+      }, {
+        "count" : 12,
+        "item" : "37082.72117765355505980551242828369140625"
+      }, {
+        "count" : 11,
+        "item" : "29391.28162760398481623269617557525634765625"
+      }, {
+        "count" : 10,
+        "item" : "49496.07234459122992120683193206787109375"
+      }, {
+        "count" : 9,
+        "item" : "26398.7814832026124349795281887054443359375"
+      }, {
+        "count" : 8,
+        "item" : "96349.47358328421250917017459869384765625"
+      }, {
+        "count" : 7,
+        "item" : "14922.292584988457747385837137699127197265625"
+      }, {
+        "count" : 6,
+        "item" : "26773.63444012993204523809254169464111328125"
+      }, {
+        "count" : 5,
+        "item" : "35943.350555668046581558883190155029296875"
+      }, {
+        "count" : 4,
+        "item" : "29927.2751335587163339368999004364013671875"
+      }, {
+        "count" : 3,
+        "item" : "41386.4048975988625898025929927825927734375"
+      }, {
+        "count" : 2,
+        "item" : "24379.37152488693027407862246036529541015625"
+      }, {
+        "count" : 1,
+        "item" : "30925.0447977524963789619505405426025390625"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 19046319,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560369,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 28,
+      "smallest" : "4512530.576592317782342433929443359375",
+      "sum" : "1173940889.032292672432959079742431640625",
+      "null" : 0,
+      "average" : "41926460.32258188",
+      "largest" : "108423743.43824081122875213623046875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "89651407.05834996700286865234375"
+      }, {
+        "count" : 19,
+        "item" : "21543461.58138795197010040283203125"
+      }, {
+        "count" : 18,
+        "item" : "55262490.61245970427989959716796875"
+      }, {
+        "count" : 17,
+        "item" : "69336166.372633993625640869140625"
+      }, {
+        "count" : 16,
+        "item" : "36703381.5081673562526702880859375"
+      }, {
+        "count" : 15,
+        "item" : "38633296.934543602168560028076171875"
+      }, {
+        "count" : 14,
+        "item" : "76257484.89984835684299468994140625"
+      }, {
+        "count" : 13,
+        "item" : "68040887.06835027039051055908203125"
+      }, {
+        "count" : 12,
+        "item" : "34447604.67221821844577789306640625"
+      }, {
+        "count" : 11,
+        "item" : "35968812.90336306393146514892578125"
+      }, {
+        "count" : 10,
+        "item" : "53022514.112705983221530914306640625"
+      }, {
+        "count" : 9,
+        "item" : "25748509.271674312651157379150390625"
+      }, {
+        "count" : 8,
+        "item" : "108423743.43824081122875213623046875"
+      }, {
+        "count" : 7,
+        "item" : "4512530.576592317782342433929443359375"
+      }, {
+        "count" : 6,
+        "item" : "11587953.82673897035419940948486328125"
+      }, {
+        "count" : 5,
+        "item" : "62824057.553662888705730438232421875"
+      }, {
+        "count" : 4,
+        "item" : "37640607.379319883882999420166015625"
+      }, {
+        "count" : 3,
+        "item" : "35155666.646014906466007232666015625"
+      }, {
+        "count" : 2,
+        "item" : "27550385.8533127047121524810791015625"
+      }, {
+        "count" : 1,
+        "item" : "29933452.4363485276699066162109375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.794227,
+      "ymax" : 40.917832,
+      "xmin" : -74.085015,
+      "xmax" : -73.69397
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1560360,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560361
+      } ],
+      "latitudeId" : 1560359
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/ZipcodesWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "PO_NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Zipcodes",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D1B8B36D-AEE5-4B51-979B-E8D4AAA83D79",
+      "name" : "DOITT_ZIP_CODE_01_29JUL2009.zip",
+      "filename" : "DOITT_ZIP_CODE_01_29JUL2009.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "3fqa-4a6j",
+    "displayName" : "Elkin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/1766/8999/eurrea_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/1766/8999/eurrea_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/1766/8999/eurrea_tiny.jpg",
+    "profileLastModified" : 1346263879,
+    "screenName" : "Elkin"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 19046314,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Bronx"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "undefined" : 1560364
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "zip", "code", "zip code", "boundary" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 19046314,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Bronx"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "undefined" : 1560364
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

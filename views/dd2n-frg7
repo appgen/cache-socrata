@@ -1,0 +1,342 @@
+{
+  "id" : "dd2n-frg7",
+  "name" : "Map of Beaches",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318116693,
+  "description" : "GIS Map of Beaches on New York City Department of Parks & Recreation properties.\r\n\r\nUpdate Frequency: Quarterly",
+  "displayType" : "map",
+  "downloadCount" : 36,
+  "numberOfComments" : 0,
+  "oid" : 342297,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116703,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244151,
+  "totalTimesRated" : 0,
+  "viewCount" : 251,
+  "viewLastModified" : 1363706578,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989458,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564704,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1",
+      "sum" : "28",
+      "null" : 0,
+      "average" : "4",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989459,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564705,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989460,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564706,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "Coney Island",
+      "null" : 0,
+      "largest" : "Wolf's Pond Beach",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Coney Island"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan Beach"
+      }, {
+        "count" : 18,
+        "item" : "Midland Beach"
+      }, {
+        "count" : 17,
+        "item" : "Orchard Beach"
+      }, {
+        "count" : 16,
+        "item" : "Rockaway"
+      }, {
+        "count" : 15,
+        "item" : "South Beach"
+      }, {
+        "count" : 14,
+        "item" : "Wolf's Pond Beach"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989461,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564707,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "B169",
+      "null" : 0,
+      "largest" : "X039",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B169"
+      }, {
+        "count" : 19,
+        "item" : "B251"
+      }, {
+        "count" : 18,
+        "item" : "R046"
+      }, {
+        "count" : 17,
+        "item" : "X039"
+      }, {
+        "count" : 16,
+        "item" : "Q162"
+      }, {
+        "count" : 15,
+        "item" : "R031"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989462,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564708,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "3800.5775489022353212931193411350250244140625",
+      "sum" : "184530.1384814735456529888324439525604248046875",
+      "null" : 0,
+      "average" : "26361.44835449622",
+      "largest" : "97869.202138966225902549922466278076171875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "32065.697087627442670054733753204345703125"
+      }, {
+        "count" : 19,
+        "item" : "3800.5775489022353212931193411350250244140625"
+      }, {
+        "count" : 18,
+        "item" : "18436.75448064820011495612561702728271484375"
+      }, {
+        "count" : 17,
+        "item" : "11369.31392778709050617180764675140380859375"
+      }, {
+        "count" : 16,
+        "item" : "97869.202138966225902549922466278076171875"
+      }, {
+        "count" : 15,
+        "item" : "12226.439095836891283397562801837921142578125"
+      }, {
+        "count" : 14,
+        "item" : "8762.154201705459854565560817718505859375"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989463,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564709,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "469106.45820112642832100391387939453125",
+      "sum" : "27421079.533012987696565687656402587890625",
+      "null" : 0,
+      "average" : "3917297.076144713",
+      "largest" : "13890510.3562853969633579254150390625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7019829.174601010978221893310546875"
+      }, {
+        "count" : 19,
+        "item" : "469106.45820112642832100391387939453125"
+      }, {
+        "count" : 18,
+        "item" : "2767117.348588473163545131683349609375"
+      }, {
+        "count" : 17,
+        "item" : "1030095.57177601451985538005828857421875"
+      }, {
+        "count" : 16,
+        "item" : "13890510.3562853969633579254150390625"
+      }, {
+        "count" : 15,
+        "item" : "1540219.726903793402016162872314453125"
+      }, {
+        "count" : 14,
+        "item" : "704200.896657172241248190402984619140625"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564705,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564706
+      } ],
+      "latitudeId" : 1564704
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DPR_Beaches_001_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DPR_Beaches_001",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D0C506D5-8A8F-4864-A49B-32895261FE5E",
+      "name" : "DPR_Beaches_001.zip",
+      "filename" : "DPR_Beaches_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1941578343574,
+    "lat" : 40.8704577998632
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7424697965684,
+    "lat" : 40.5116587266192
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "geographic", "cartography", "beach", "healthy living" ],
+  "flags" : [ "default" ]
+}

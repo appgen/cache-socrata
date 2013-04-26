@@ -1,0 +1,386 @@
+{
+  "id" : "pg99-2ihy",
+  "name" : "Map of NYC Fire Houses",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1311895380,
+  "description" : "Listing of all the fire houses in New York City",
+  "displayType" : "map",
+  "downloadCount" : 1232,
+  "numberOfComments" : 0,
+  "oid" : 330648,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311895077,
+  "publicationGroup" : 238981,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895286,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 238981,
+  "totalTimesRated" : 0,
+  "viewCount" : 3323,
+  "viewLastModified" : 1327611643,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2802880,
+    "name" : "Fire House Name",
+    "dataTypeName" : "text",
+    "fieldName" : "fire_house_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502772,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 218,
+      "smallest" : "Bronx Borough Command, District Office 6 & 7 ",
+      "null" : 0,
+      "largest" : "Squad 61/Battalion 20",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Bronx Borough Command, District Office 6 & 7 "
+      }, {
+        "count" : 1,
+        "item" : "EMS Station 17 "
+      }, {
+        "count" : 1,
+        "item" : "EMS Station 26"
+      }, {
+        "count" : 1,
+        "item" : "Eng 292/Rescue 4"
+      }, {
+        "count" : 1,
+        "item" : "Engine 1/Ladder 24"
+      }, {
+        "count" : 1,
+        "item" : "Engine 10/Ladder 10"
+      }, {
+        "count" : 1,
+        "item" : "Engine 14"
+      }, {
+        "count" : 1,
+        "item" : "Engine 15/Ladder 18/Battalion 4"
+      }, {
+        "count" : 1,
+        "item" : "Engine 151/Ladder 76"
+      }, {
+        "count" : 1,
+        "item" : "Engine 152/Battalion 21"
+      }, {
+        "count" : 1,
+        "item" : "Engine 153/Ladder 77"
+      }, {
+        "count" : 1,
+        "item" : "Engine 154/District Office 8/ Staten Island Borough Command"
+      }, {
+        "count" : 1,
+        "item" : "Engine 155/Ladder 78"
+      }, {
+        "count" : 1,
+        "item" : "Engine 156"
+      }, {
+        "count" : 1,
+        "item" : "Engine 157/Ladder 80"
+      }, {
+        "count" : 1,
+        "item" : "Engine 158"
+      }, {
+        "count" : 1,
+        "item" : "Engine 159"
+      }, {
+        "count" : 1,
+        "item" : "Engine 16 / Ladder 7 "
+      }, {
+        "count" : 1,
+        "item" : "Engine 160/Rescue 5/Division 8"
+      }, {
+        "count" : 1,
+        "item" : "Engine 161/Ladder 81"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2802881,
+    "name" : "Street Address",
+    "dataTypeName" : "location",
+    "fieldName" : "street_address",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1502773,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 216,
+      "smallest" : {
+        "longitude" : -73.9869510002884,
+        "latitude" : 40.756053999992105,
+        "human_address" : "{\"address\":\"10 40 47th Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 2,
+      "largest" : {
+        "longitude" : -73.87288203704223,
+        "latitude" : 40.67783281515993,
+        "human_address" : "{\"address\":\"998 Liberty Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"10 40 47th Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"100 104 Duane Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"101 02 Jamaica Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"103 17 98th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"104 12 Princeton Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"107 12 Lefferts Boulevard\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9079505296477,
+          "latitude" : 40.67019773929101,
+          "human_address" : "{\"address\":\"107 Watkins Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"108 01 Horace Harding Blvd\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.00878820109483,
+          "latitude" : 40.607439353965255,
+          "human_address" : "{\"address\":\"108 13th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.92815280283116,
+          "latitude" : 40.83504661570118,
+          "human_address" : "{\"address\":\"1080 Ogden Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"11 15 37th Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.21270276893073,
+          "latitude" : 40.553637211430434,
+          "human_address" : "{\"address\":\"1100 Rossville Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"111 02 Queens Boulevard\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.94218935344372,
+          "latitude" : 40.813001170243375,
+          "human_address" : "{\"address\":\"111 133rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"111 36 Merrick Boulevard\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"1155 Washington Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.01294370342812,
+          "latitude" : 40.61995567033647,
+          "human_address" : "{\"address\":\"1157 79th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.92713217714852,
+          "latitude" : 40.836840038726635,
+          "human_address" : "{\"address\":\"1160 Ogden Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -73.9869510002884,
+          "latitude" : 40.756053999992105,
+          "human_address" : "{\"address\":\"117 11 196th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : -74.12208707359571,
+          "latitude" : 40.63418274110876,
+          "human_address" : "{\"address\":\"1189 Castleton Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2802882,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502774,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 218,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 66,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 50,
+        "item" : "Queens"
+      }, {
+        "count" : 48,
+        "item" : "Manhattan"
+      }, {
+        "count" : 34,
+        "item" : "Bronx"
+      }, {
+        "count" : 20,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "center" : {
+        "lng" : -73.83871366362956,
+        "lat" : 40.73522751647757
+      },
+      "ymin" : 40.531482,
+      "ymax" : 40.938351,
+      "zoom" : 10,
+      "xmin" : -74.774611,
+      "xmax" : -72.902816
+    },
+    "plotStyle" : "point",
+    "flyoutsNoLabel" : false,
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1502773,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1502773
+      }, {
+        "tableColumnId" : 1502774
+      } ],
+      "titleId" : 1502772
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "fire department", "fdny", "fd", "fires", "community board", "station", "fire station", "fire house", "emergency", "911" ]
+}

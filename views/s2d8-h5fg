@@ -1,0 +1,725 @@
+{
+  "id" : "s2d8-h5fg",
+  "name" : "DYCD YAIP (Young Adult Internship Programs)",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318027131,
+  "description" : "Young Adult Internship Programs",
+  "displayType" : "map",
+  "downloadCount" : 132,
+  "numberOfComments" : 0,
+  "oid" : 341826,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318027155,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243910,
+  "totalTimesRated" : 0,
+  "viewCount" : 373,
+  "viewLastModified" : 1360609506,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980198,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561319,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "1",
+      "sum" : "120",
+      "null" : 0,
+      "average" : "8",
+      "largest" : "15",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980199,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561320,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : {
+        "longitude" : "-73.98630438599992",
+        "latitude" : "40.69177251900004"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.88556706799994",
+        "latitude" : "40.81356131400008"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.98630438599992",
+          "latitude" : "40.69177251900004"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.91808421799993",
+          "latitude" : "40.81644351400007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.91780167899992",
+          "latitude" : "40.81412127800007"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.91996517599995",
+          "latitude" : "40.70446535500008"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.87998348399992",
+          "latitude" : "40.64574751300006"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.93551557099994",
+          "latitude" : "40.742110651000075"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.98229445099992",
+          "latitude" : "40.71374766100007"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.8798361719999",
+          "latitude" : "40.88250706900004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.88075137499993",
+          "latitude" : "40.88148645800004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.07756074299994",
+          "latitude" : "40.643277158000046"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9437109939999",
+          "latitude" : "40.701175944000056"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.93695597099992",
+          "latitude" : "40.797006949000036"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.76938064899991",
+          "latitude" : "40.687159774000065"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.9422061599999",
+          "latitude" : "40.68021225100006"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.88556706799994",
+          "latitude" : "40.81356131400008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980200,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561321,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "1",
+      "sum" : "120",
+      "null" : 0,
+      "average" : "8",
+      "largest" : "15",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980201,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561322,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "Young Adult Internship Programs (YAIP)",
+      "null" : 0,
+      "largest" : "Young Adult Internship Programs (YAIP)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Young Adult Internship Programs (YAIP)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980202,
+    "name" : "DIVISIONNA",
+    "dataTypeName" : "text",
+    "description" : "DIVISIONNA",
+    "fieldName" : "divisionna",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561323,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "Arbor - NY",
+      "null" : 0,
+      "largest" : "Wildcat Service Corporation",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Arbor - NY"
+      }, {
+        "count" : 19,
+        "item" : "The Citizens Advice Bureau"
+      }, {
+        "count" : 18,
+        "item" : "Federation Employment & Guidance Services, Inc"
+      }, {
+        "count" : 17,
+        "item" : "Good Shepherd Services"
+      }, {
+        "count" : 16,
+        "item" : "Italian American Civil Rights League"
+      }, {
+        "count" : 15,
+        "item" : "Henkels & McCoy, Inc."
+      }, {
+        "count" : 14,
+        "item" : "Henry Street Settlement"
+      }, {
+        "count" : 13,
+        "item" : "Mosholu Montefiore Community Center"
+      }, {
+        "count" : 12,
+        "item" : "NYSARC, Inc. NYC Chapter"
+      }, {
+        "count" : 11,
+        "item" : "Opportunities for a Better Tomorrow"
+      }, {
+        "count" : 10,
+        "item" : "Supportive Children's Advocacy Network - NY"
+      }, {
+        "count" : 9,
+        "item" : "Southern Queens Park Association - NY"
+      }, {
+        "count" : 8,
+        "item" : "Vannguard Urban Improvement Assciation"
+      }, {
+        "count" : 7,
+        "item" : "Wildcat Service Corporation"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980203,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561324,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "120 Stuyvesant Place",
+      "null" : 0,
+      "largest" : "82 Wyckoff Avenue,",
+      "top" : [ {
+        "count" : 20,
+        "item" : "154 Lawrence Street"
+      }, {
+        "count" : 19,
+        "item" : "391 East 149th Street, Suite 501"
+      }, {
+        "count" : 18,
+        "item" : "412-434 East 147th Street"
+      }, {
+        "count" : 17,
+        "item" : "82 Wyckoff Avenue,"
+      }, {
+        "count" : 16,
+        "item" : "1460 Pennsylvania Avenue"
+      }, {
+        "count" : 15,
+        "item" : "31-00 47th Ave., 1st Floor"
+      }, {
+        "count" : 14,
+        "item" : "367 Madison Street"
+      }, {
+        "count" : 13,
+        "item" : "3512 DeKalb Avenue"
+      }, {
+        "count" : 12,
+        "item" : "3450 DeKalb Avenue"
+      }, {
+        "count" : 11,
+        "item" : "120 Stuyvesant Place"
+      }, {
+        "count" : 10,
+        "item" : "25 Thornton Street"
+      }, {
+        "count" : 9,
+        "item" : "307 East 116th Street"
+      }, {
+        "count" : 8,
+        "item" : "177-01 Baisley Blvd."
+      }, {
+        "count" : 7,
+        "item" : "1477 Fulton Street"
+      }, {
+        "count" : 6,
+        "item" : "647 Bryant Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980204,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "number",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561325,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "10002",
+      "sum" : "161290",
+      "null" : 0,
+      "average" : "10752.66666666667",
+      "largest" : "11434",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11201"
+      }, {
+        "count" : 19,
+        "item" : "10455"
+      }, {
+        "count" : 18,
+        "item" : "11237"
+      }, {
+        "count" : 17,
+        "item" : "11239"
+      }, {
+        "count" : 16,
+        "item" : "11101"
+      }, {
+        "count" : 15,
+        "item" : "10002"
+      }, {
+        "count" : 14,
+        "item" : "10467"
+      }, {
+        "count" : 13,
+        "item" : "10301"
+      }, {
+        "count" : 12,
+        "item" : "11206"
+      }, {
+        "count" : 11,
+        "item" : "10035"
+      }, {
+        "count" : 10,
+        "item" : "11434"
+      }, {
+        "count" : 9,
+        "item" : "11216"
+      }, {
+        "count" : 8,
+        "item" : "10474"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980205,
+    "name" : "PHONENUMBE",
+    "dataTypeName" : "text",
+    "description" : "PHONENUMBE",
+    "fieldName" : "phonenumbe",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561326,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "(212) 473-1474",
+      "null" : 0,
+      "largest" : "(917) 512-3455",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(917) 512-3455"
+      }, {
+        "count" : 19,
+        "item" : "(718) 993-8880"
+      }, {
+        "count" : 18,
+        "item" : "(718) 742-3509"
+      }, {
+        "count" : 17,
+        "item" : "(718) 366-7240"
+      }, {
+        "count" : 16,
+        "item" : "(718) 642-2180"
+      }, {
+        "count" : 15,
+        "item" : "(718) 706-0486"
+      }, {
+        "count" : 14,
+        "item" : "(212) 473-1474"
+      }, {
+        "count" : 13,
+        "item" : "(718) 652-0282"
+      }, {
+        "count" : 12,
+        "item" : "(718) 246-1506"
+      }, {
+        "count" : 11,
+        "item" : "(718) 387-1600 ext.12"
+      }, {
+        "count" : 10,
+        "item" : "(212) 534-7800"
+      }, {
+        "count" : 9,
+        "item" : "(718) 276-4630 ext.126"
+      }, {
+        "count" : 8,
+        "item" : "(718) 735-4466"
+      }, {
+        "count" : 7,
+        "item" : "(718) 617-1378"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980206,
+    "name" : "SERVICESOF",
+    "dataTypeName" : "text",
+    "description" : "SERVICESOF",
+    "fieldName" : "servicesof",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561327,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "job preparation",
+      "null" : 0,
+      "largest" : "job preparation",
+      "top" : [ {
+        "count" : 20,
+        "item" : "job preparation"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980207,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561328,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "http://www.nyc.gov/html/dycd/html/jobs/young_adult_internship_program.shtml",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/dycd/html/jobs/young_adult_internship_program.shtml",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/dycd/html/jobs/young_adult_internship_program.shtml"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980208,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561329,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 15,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Long Island City"
+      }, {
+        "count" : 17,
+        "item" : "New York"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      }, {
+        "count" : 15,
+        "item" : "Jamaica"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561320,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561321
+      } ],
+      "latitudeId" : 1561319
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_DYCD_YAIP_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SERVICE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_DYCD_YAIP_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A999A2B7-D59A-4DD6-88EB-5B916F2D5E50",
+      "name" : "DOITT_DYCD_YAIP.zip",
+      "filename" : "DOITT_DYCD_YAIP.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0778398705262,
+    "lat" : 40.8825696219535
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7687036207674,
+    "lat" : 40.6430723752074
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "yaip", "youth", "job", "employ", "employment", "young", "adult", "intern", "internship", "program", "work" ],
+  "flags" : [ "default" ]
+}

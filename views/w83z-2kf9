@@ -1,0 +1,83 @@
+{
+  "id" : "w83z-2kf9",
+  "name" : "Inclusionary Housing Designated Areas",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyih_201211.zip",
+  "blobFileSize" : 52666,
+  "blobId" : "QWfYwc7o5FUbOF8B4QkZQCSjIbjvT_ZnPBP4Bz280Y0",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359483936,
+  "description" : "GIS data:  A specified area in which the Inclusionary Housing Program is applicable. The program modifies the floor area ratio (FAR) and offers a bonus for developments that provide affordable housing.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2375266,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1359483942,
+  "publicationGroup" : 644103,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644103,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1359656275,
+  "viewType" : "geo",
+  "childViews" : [ "e9rz-c67w" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/w83z-2kf9",
+      "bbox" : "-74.02142046780462,40.571921693778016,-73.78109114659658,40.873838618597865",
+      "layers" : "geo_w83z-2kf9-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_w83z-2kf9"
+    }
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "inclusionary housing designated areas", "dcp", "city planning" ],
+  "flags" : [ "default" ]
+}

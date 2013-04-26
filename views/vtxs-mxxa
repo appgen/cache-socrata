@@ -1,0 +1,2062 @@
+{
+  "id" : "vtxs-mxxa",
+  "name" : "j",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1358920085,
+  "description" : "Location of all After School Programs with basic descriptive information on the programs.",
+  "displayType" : "map",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 2312606,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023588,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243884,
+  "totalTimesRated" : 0,
+  "viewCount" : 6,
+  "viewLastModified" : 1358920086,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 40616387,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561050,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "1",
+      "sum" : "1060696",
+      "null" : 0,
+      "average" : "728.5",
+      "largest" : "1456",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1436"
+      }, {
+        "count" : 19,
+        "item" : "1437"
+      }, {
+        "count" : 18,
+        "item" : "1438"
+      }, {
+        "count" : 17,
+        "item" : "1439"
+      }, {
+        "count" : 16,
+        "item" : "1440"
+      }, {
+        "count" : 15,
+        "item" : "1441"
+      }, {
+        "count" : 14,
+        "item" : "1442"
+      }, {
+        "count" : 13,
+        "item" : "1443"
+      }, {
+        "count" : 12,
+        "item" : "1444"
+      }, {
+        "count" : 11,
+        "item" : "1445"
+      }, {
+        "count" : 10,
+        "item" : "1446"
+      }, {
+        "count" : 9,
+        "item" : "1447"
+      }, {
+        "count" : 8,
+        "item" : "1448"
+      }, {
+        "count" : 7,
+        "item" : "1449"
+      }, {
+        "count" : 6,
+        "item" : "1450"
+      }, {
+        "count" : 5,
+        "item" : "1451"
+      }, {
+        "count" : 4,
+        "item" : "1452"
+      }, {
+        "count" : 3,
+        "item" : "1453"
+      }, {
+        "count" : 2,
+        "item" : "1454"
+      }, {
+        "count" : 1,
+        "item" : "1455"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616388,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561051,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : {
+        "longitude" : "-73.90275904299995",
+        "latitude" : "40.90374607200005"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.88684641299994",
+        "latitude" : "40.81403195300004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99703632699993",
+          "latitude" : "40.71050907600005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.15685856499994",
+          "latitude" : "40.631454777000044"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.98571732199991",
+          "latitude" : "40.587445709000065"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.94551263699992",
+          "latitude" : "40.706849343000044"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.91176148699992",
+          "latitude" : "40.667843497000035"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.95254924099993",
+          "latitude" : "40.692614433000074"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.97729636399993",
+          "latitude" : "40.64022773100004"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.10901744299991",
+          "latitude" : "40.57387614600009"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.94207426899993",
+          "latitude" : "40.793220242000075"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.9120181639999",
+          "latitude" : "40.814852623000036"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.92011696399993",
+          "latitude" : "40.65799552400006"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.92064998599994",
+          "latitude" : "40.647450691000074"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.93310750699993",
+          "latitude" : "40.76560337900008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.9368170219999",
+          "latitude" : "40.751642179000044"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.93691516399991",
+          "latitude" : "40.74448210600008"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.9351470499999",
+          "latitude" : "40.74387533300006"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.91535479599992",
+          "latitude" : "40.675223773000084"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.83955281199991",
+          "latitude" : "40.67834550900005"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.86059330199993",
+          "latitude" : "40.81685182800004"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.8984228839999",
+          "latitude" : "40.82009209900008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 40616389,
+    "name" : "ID",
+    "dataTypeName" : "text",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561052,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "BPL1",
+      "null" : 0,
+      "largest" : "QPL9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DOE_DYCD472"
+      }, {
+        "count" : 19,
+        "item" : "DOE_DYCD507"
+      }, {
+        "count" : 18,
+        "item" : "DOE_DYCD464"
+      }, {
+        "count" : 17,
+        "item" : "DOE_DYCD447"
+      }, {
+        "count" : 16,
+        "item" : "DOE_DYCD465"
+      }, {
+        "count" : 15,
+        "item" : "DOE_DYCD441"
+      }, {
+        "count" : 14,
+        "item" : "DOE_DYCD458"
+      }, {
+        "count" : 13,
+        "item" : "DOE_DYCD506"
+      }, {
+        "count" : 12,
+        "item" : "DOE_DYCD478"
+      }, {
+        "count" : 11,
+        "item" : "DOE_DYCD95"
+      }, {
+        "count" : 10,
+        "item" : "DOE_DYCD101"
+      }, {
+        "count" : 9,
+        "item" : "DOE_DYCD102"
+      }, {
+        "count" : 8,
+        "item" : "DOE_DYCD112"
+      }, {
+        "count" : 7,
+        "item" : "DOE_DYCD115"
+      }, {
+        "count" : 6,
+        "item" : "DOE_DYCD113"
+      }, {
+        "count" : 5,
+        "item" : "DOE_DYCD114"
+      }, {
+        "count" : 4,
+        "item" : "DOE_DYCD69"
+      }, {
+        "count" : 3,
+        "item" : "DOE_DYCD81"
+      }, {
+        "count" : 2,
+        "item" : "DOE_DYCD84"
+      }, {
+        "count" : 1,
+        "item" : "DOE_DYCD83"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616390,
+    "name" : "AGENCY_NAM",
+    "dataTypeName" : "text",
+    "description" : "AGENCY_NAM",
+    "fieldName" : "agency_nam",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561053,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "BPL",
+      "null" : 0,
+      "largest" : "QPL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYPL"
+      }, {
+        "count" : 19,
+        "item" : "DOE"
+      }, {
+        "count" : 18,
+        "item" : "NYCHA"
+      }, {
+        "count" : 17,
+        "item" : "QPL"
+      }, {
+        "count" : 16,
+        "item" : "Parks"
+      }, {
+        "count" : 15,
+        "item" : "DYCD"
+      }, {
+        "count" : 14,
+        "item" : "BPL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616391,
+    "name" : "PROGRAM_TY",
+    "dataTypeName" : "text",
+    "description" : "PROGRAM_TY",
+    "fieldName" : "program_ty",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561054,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "21st Century",
+      "null" : 0,
+      "largest" : "WIA InSchool Youth",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Other"
+      }, {
+        "count" : 19,
+        "item" : "21st Century"
+      }, {
+        "count" : 18,
+        "item" : "TASC"
+      }, {
+        "count" : 17,
+        "item" : "NYCHA (HUD)"
+      }, {
+        "count" : 16,
+        "item" : "OST"
+      }, {
+        "count" : 15,
+        "item" : "WIA InSchool Youth"
+      }, {
+        "count" : 14,
+        "item" : "Virtual Y"
+      }, {
+        "count" : 13,
+        "item" : "Beacon"
+      }, {
+        "count" : 12,
+        "item" : "OSt"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616392,
+    "name" : "AGENCY_TEL",
+    "dataTypeName" : "text",
+    "description" : "AGENCY_TEL",
+    "fieldName" : "agency_tel",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561055,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "(212) 360-3300",
+      "null" : 0,
+      "largest" : "917-807-1125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "212-340-0903"
+      }, {
+        "count" : 19,
+        "item" : "212-374-5472"
+      }, {
+        "count" : 18,
+        "item" : "718-453-1296"
+      }, {
+        "count" : 17,
+        "item" : "718-990-0871"
+      }, {
+        "count" : 16,
+        "item" : "800-246-4646"
+      }, {
+        "count" : 15,
+        "item" : "718-969-6240"
+      }, {
+        "count" : 14,
+        "item" : "718-409-8620"
+      }, {
+        "count" : 13,
+        "item" : "212-306-3324"
+      }, {
+        "count" : 12,
+        "item" : "718-815-0140"
+      }, {
+        "count" : 11,
+        "item" : "718-230-2100"
+      }, {
+        "count" : 10,
+        "item" : "(212) 360-3300"
+      }, {
+        "count" : 9,
+        "item" : "212-941-0920"
+      }, {
+        "count" : 8,
+        "item" : "516-671-1253"
+      }, {
+        "count" : 7,
+        "item" : "718-693-0500"
+      }, {
+        "count" : 6,
+        "item" : "212-227-1000"
+      }, {
+        "count" : 5,
+        "item" : "212-477-6504"
+      }, {
+        "count" : 4,
+        "item" : "718-651-7770"
+      }, {
+        "count" : 3,
+        "item" : "212-534-0700"
+      }, {
+        "count" : 2,
+        "item" : "212-923-7766"
+      }, {
+        "count" : 1,
+        "item" : "212-366-8441"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616393,
+    "name" : "CBO_SERVIC",
+    "dataTypeName" : "text",
+    "description" : "CBO_SERVIC",
+    "fieldName" : "cbo_servic",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561056,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "YWCA of the City of New York (Main Branch)",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "NYCHA"
+      }, {
+        "count" : 18,
+        "item" : "N/A"
+      }, {
+        "count" : 17,
+        "item" : "YMCA of Greater New York"
+      }, {
+        "count" : 16,
+        "item" : "Childrens Aid Society"
+      }, {
+        "count" : 15,
+        "item" : "Police Athletic League, Inc."
+      }, {
+        "count" : 14,
+        "item" : "Sports And Arts In Schools Foundation, Inc."
+      }, {
+        "count" : 13,
+        "item" : "NA"
+      }, {
+        "count" : 12,
+        "item" : "Police Athletic League"
+      }, {
+        "count" : 11,
+        "item" : "The After School Corporation"
+      }, {
+        "count" : 10,
+        "item" : "New York Junior Tennis League"
+      }, {
+        "count" : 9,
+        "item" : "SCO Family of Services"
+      }, {
+        "count" : 8,
+        "item" : "Sports and Arts In Schools Foundation, Inc."
+      }, {
+        "count" : 7,
+        "item" : "St. Nicholas Neighborhood Preservation Corporation"
+      }, {
+        "count" : 6,
+        "item" : "Oasis Children's Services, LLC (summer only program)"
+      }, {
+        "count" : 5,
+        "item" : "Sports & Arts in Schools Foundation"
+      }, {
+        "count" : 4,
+        "item" : "Ridgewood Bushwick Senior Citizen's Council"
+      }, {
+        "count" : 3,
+        "item" : "Samuel Field/Bay Terrace YM-YWHA"
+      }, {
+        "count" : 2,
+        "item" : "Good Shepherd Services"
+      }, {
+        "count" : 1,
+        "item" : "Phipps Community Development"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616394,
+    "name" : "SP_EIN",
+    "dataTypeName" : "text",
+    "description" : "SP_EIN",
+    "fieldName" : "sp_ein",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561057,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "NA",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "131624228"
+      }, {
+        "count" : 17,
+        "item" : "135562191"
+      }, {
+        "count" : 16,
+        "item" : "135596811"
+      }, {
+        "count" : 15,
+        "item" : "111733454"
+      }, {
+        "count" : 14,
+        "item" : "113071518"
+      }, {
+        "count" : 13,
+        "item" : "131623989"
+      }, {
+        "count" : 12,
+        "item" : "112480339"
+      }, {
+        "count" : 11,
+        "item" : "136202692"
+      }, {
+        "count" : 10,
+        "item" : "112375583"
+      }, {
+        "count" : 9,
+        "item" : "113112635"
+      }, {
+        "count" : 8,
+        "item" : "510192170"
+      }, {
+        "count" : 7,
+        "item" : "134004600"
+      }, {
+        "count" : 6,
+        "item" : "NA"
+      }, {
+        "count" : 5,
+        "item" : "135598710"
+      }, {
+        "count" : 4,
+        "item" : "112777066"
+      }, {
+        "count" : 3,
+        "item" : "132707665"
+      }, {
+        "count" : 2,
+        "item" : "112518141"
+      }, {
+        "count" : 1,
+        "item" : "135562301"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616395,
+    "name" : "CBO_SP_TEL",
+    "dataTypeName" : "text",
+    "description" : "CBO_SP_TEL",
+    "fieldName" : "cbo_sp_tel",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561058,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      }, {
+        "count" : 19,
+        "item" : "212-630-9729"
+      }, {
+        "count" : 18,
+        "item" : "718-786-7110"
+      }, {
+        "count" : 17,
+        "item" : "212-477-9450"
+      }, {
+        "count" : 16,
+        "item" : "212-477-6504"
+      }, {
+        "count" : 15,
+        "item" : "718-225-6750"
+      }, {
+        "count" : 14,
+        "item" : "(718) 599-9224"
+      }, {
+        "count" : 13,
+        "item" : "718-596-4900"
+      }, {
+        "count" : 12,
+        "item" : "718-821-0254"
+      }, {
+        "count" : 11,
+        "item" : "212-477-4792"
+      }, {
+        "count" : 10,
+        "item" : "212-243-7070"
+      }, {
+        "count" : 9,
+        "item" : "718-482-6053"
+      }, {
+        "count" : 8,
+        "item" : "718-828-9900"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616396,
+    "name" : "SCHOOL_ID",
+    "dataTypeName" : "text",
+    "description" : "SCHOOL_ID",
+    "fieldName" : "school_id",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561059,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Private",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "N/A"
+      }, {
+        "count" : 18,
+        "item" : "NA"
+      }, {
+        "count" : 17,
+        "item" : "26Q216"
+      }, {
+        "count" : 16,
+        "item" : "10X279"
+      }, {
+        "count" : 15,
+        "item" : "15K027"
+      }, {
+        "count" : 14,
+        "item" : "15K032"
+      }, {
+        "count" : 13,
+        "item" : "12X214"
+      }, {
+        "count" : 12,
+        "item" : "24Q005"
+      }, {
+        "count" : 11,
+        "item" : "01M063"
+      }, {
+        "count" : 10,
+        "item" : "20K223"
+      }, {
+        "count" : 9,
+        "item" : "28Q139"
+      }, {
+        "count" : 8,
+        "item" : "27Q197"
+      }, {
+        "count" : 7,
+        "item" : "32K123"
+      }, {
+        "count" : 6,
+        "item" : "13K008"
+      }, {
+        "count" : 5,
+        "item" : "13K067"
+      }, {
+        "count" : 4,
+        "item" : "02M042"
+      }, {
+        "count" : 3,
+        "item" : "02M126"
+      }, {
+        "count" : 2,
+        "item" : "31R044"
+      }, {
+        "count" : 1,
+        "item" : "21K212"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616397,
+    "name" : "SITE_NAME",
+    "dataTypeName" : "text",
+    "description" : "SITE_NAME",
+    "fieldName" : "site_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561060,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "115th Street Branch",
+      "null" : 0,
+      "largest" : "YWCA-NYC Headquarters",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PS 57"
+      }, {
+        "count" : 19,
+        "item" : "PS 214"
+      }, {
+        "count" : 18,
+        "item" : "PS 212"
+      }, {
+        "count" : 17,
+        "item" : "PS 250"
+      }, {
+        "count" : 16,
+        "item" : "PS 327"
+      }, {
+        "count" : 15,
+        "item" : "PS 54"
+      }, {
+        "count" : 14,
+        "item" : "PS 179"
+      }, {
+        "count" : 13,
+        "item" : "PS 41"
+      }, {
+        "count" : 12,
+        "item" : "PS 182"
+      }, {
+        "count" : 11,
+        "item" : "MS 162"
+      }, {
+        "count" : 10,
+        "item" : "IS 252"
+      }, {
+        "count" : 9,
+        "item" : "IS 285"
+      }, {
+        "count" : 8,
+        "item" : "Long Island City HS"
+      }, {
+        "count" : 7,
+        "item" : "Newcomers HS"
+      }, {
+        "count" : 6,
+        "item" : "Frank Sinatra HS"
+      }, {
+        "count" : 5,
+        "item" : "Middle College at Laguardia"
+      }, {
+        "count" : 4,
+        "item" : "PS 178"
+      }, {
+        "count" : 3,
+        "item" : "PS 137"
+      }, {
+        "count" : 2,
+        "item" : "PS 69X"
+      }, {
+        "count" : 1,
+        "item" : "PS 60"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616398,
+    "name" : "SITE_BUILD",
+    "dataTypeName" : "text",
+    "description" : "SITE_BUILD",
+    "fieldName" : "site_build",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561061,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "80"
+      }, {
+        "count" : 19,
+        "item" : "87"
+      }, {
+        "count" : 18,
+        "item" : "108"
+      }, {
+        "count" : 17,
+        "item" : "111"
+      }, {
+        "count" : 16,
+        "item" : "195"
+      }, {
+        "count" : 15,
+        "item" : "202"
+      }, {
+        "count" : 14,
+        "item" : "216"
+      }, {
+        "count" : 13,
+        "item" : "219"
+      }, {
+        "count" : 12,
+        "item" : "600"
+      }, {
+        "count" : 11,
+        "item" : "1084"
+      }, {
+        "count" : 10,
+        "item" : "5909"
+      }, {
+        "count" : 9,
+        "item" : "14-30"
+      }, {
+        "count" : 8,
+        "item" : "28-01"
+      }, {
+        "count" : 7,
+        "item" : "30-20"
+      }, {
+        "count" : 6,
+        "item" : "31-10"
+      }, {
+        "count" : 5,
+        "item" : "2163"
+      }, {
+        "count" : 4,
+        "item" : "109-15"
+      }, {
+        "count" : 3,
+        "item" : "560"
+      }, {
+        "count" : 2,
+        "item" : "888"
+      }, {
+        "count" : 1,
+        "item" : "1290"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616399,
+    "name" : "SITE_STREE",
+    "dataTypeName" : "text",
+    "description" : "SITE_STREE",
+    "fieldName" : "site_stree",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561062,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "101 AVENUE",
+      "null" : 0,
+      "largest" : "Zerega Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Willoughby Ave"
+      }, {
+        "count" : 19,
+        "item" : "Irving Avenue"
+      }, {
+        "count" : 18,
+        "item" : "Bay 49 Street"
+      }, {
+        "count" : 17,
+        "item" : "Montrose Avenue"
+      }, {
+        "count" : 16,
+        "item" : "Bristol Street"
+      }, {
+        "count" : 15,
+        "item" : "Sanford Street"
+      }, {
+        "count" : 14,
+        "item" : "Avenue C"
+      }, {
+        "count" : 13,
+        "item" : "Clawson Street"
+      }, {
+        "count" : 12,
+        "item" : "East 109th Street"
+      }, {
+        "count" : 11,
+        "item" : "St. Ann's Avenue"
+      }, {
+        "count" : 10,
+        "item" : "Lenox Rd"
+      }, {
+        "count" : 9,
+        "item" : "Beverly Road"
+      }, {
+        "count" : 8,
+        "item" : "Broadway"
+      }, {
+        "count" : 7,
+        "item" : "41st Avenue"
+      }, {
+        "count" : 6,
+        "item" : "Thomson Avenue"
+      }, {
+        "count" : 5,
+        "item" : "Dean Street"
+      }, {
+        "count" : 4,
+        "item" : "98th Street"
+      }, {
+        "count" : 3,
+        "item" : "Theriot Ave"
+      }, {
+        "count" : 2,
+        "item" : "Rev. James A. Polite Avenue"
+      }, {
+        "count" : 1,
+        "item" : "Spofford Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616400,
+    "name" : "SITE_BOROU",
+    "dataTypeName" : "text",
+    "description" : "SITE_BOROU",
+    "fieldName" : "site_borou",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561063,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Staten Island"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616401,
+    "name" : "SITE_ZIP",
+    "dataTypeName" : "number",
+    "description" : "SITE_ZIP",
+    "fieldName" : "site_zip",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561064,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "10001",
+      "sum" : "15718303",
+      "null" : 0,
+      "average" : "10795.53777472527",
+      "largest" : "11695",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10002"
+      }, {
+        "count" : 19,
+        "item" : "11212"
+      }, {
+        "count" : 18,
+        "item" : "10457"
+      }, {
+        "count" : 17,
+        "item" : "11226"
+      }, {
+        "count" : 16,
+        "item" : "11206"
+      }, {
+        "count" : 15,
+        "item" : "11211"
+      }, {
+        "count" : 14,
+        "item" : "11233"
+      }, {
+        "count" : 13,
+        "item" : "10472"
+      }, {
+        "count" : 12,
+        "item" : "10029"
+      }, {
+        "count" : 11,
+        "item" : "10454"
+      }, {
+        "count" : 10,
+        "item" : "11237"
+      }, {
+        "count" : 9,
+        "item" : "11353"
+      }, {
+        "count" : 8,
+        "item" : "11004"
+      }, {
+        "count" : 7,
+        "item" : "11365"
+      }, {
+        "count" : 6,
+        "item" : "10453"
+      }, {
+        "count" : 5,
+        "item" : "11231"
+      }, {
+        "count" : 4,
+        "item" : "10460"
+      }, {
+        "count" : 3,
+        "item" : "11373"
+      }, {
+        "count" : 2,
+        "item" : "10009"
+      }, {
+        "count" : 1,
+        "item" : "11204"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616402,
+    "name" : "SETTING",
+    "dataTypeName" : "text",
+    "description" : "SETTING",
+    "fieldName" : "setting",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561065,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "CBE",
+      "null" : 0,
+      "largest" : "School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Library"
+      }, {
+        "count" : 19,
+        "item" : "School"
+      }, {
+        "count" : 18,
+        "item" : "NYCHA Community Center"
+      }, {
+        "count" : 17,
+        "item" : "Center"
+      }, {
+        "count" : 16,
+        "item" : "center"
+      }, {
+        "count" : 15,
+        "item" : "CBO"
+      }, {
+        "count" : 14,
+        "item" : "school"
+      }, {
+        "count" : 13,
+        "item" : "Parks"
+      }, {
+        "count" : 12,
+        "item" : "NYCHA"
+      }, {
+        "count" : 11,
+        "item" : "Park"
+      }, {
+        "count" : 10,
+        "item" : "CBE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616403,
+    "name" : "ESTIMATED_",
+    "dataTypeName" : "number",
+    "description" : "ESTIMATED_",
+    "fieldName" : "estimated_",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561066,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "0",
+      "sum" : "600501",
+      "null" : 0,
+      "average" : "412.4320054945055",
+      "largest" : "17000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "40"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      }, {
+        "count" : 17,
+        "item" : "100"
+      }, {
+        "count" : 16,
+        "item" : "200"
+      }, {
+        "count" : 15,
+        "item" : "60"
+      }, {
+        "count" : 14,
+        "item" : "1350"
+      }, {
+        "count" : 13,
+        "item" : "180"
+      }, {
+        "count" : 12,
+        "item" : "80"
+      }, {
+        "count" : 11,
+        "item" : "120"
+      }, {
+        "count" : 10,
+        "item" : "175"
+      }, {
+        "count" : 9,
+        "item" : "30"
+      }, {
+        "count" : 8,
+        "item" : "110"
+      }, {
+        "count" : 7,
+        "item" : "6500"
+      }, {
+        "count" : 6,
+        "item" : "220"
+      }, {
+        "count" : 5,
+        "item" : "150"
+      }, {
+        "count" : 4,
+        "item" : "125"
+      }, {
+        "count" : 3,
+        "item" : "160"
+      }, {
+        "count" : 2,
+        "item" : "135"
+      }, {
+        "count" : 1,
+        "item" : "75"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616404,
+    "name" : "SUMMER",
+    "dataTypeName" : "text",
+    "description" : "SUMMER",
+    "fieldName" : "summer",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561067,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "unknown"
+      }, {
+        "count" : 18,
+        "item" : "No"
+      }, {
+        "count" : 17,
+        "item" : "no"
+      }, {
+        "count" : 16,
+        "item" : "yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616405,
+    "name" : "SCHOOL_YEA",
+    "dataTypeName" : "text",
+    "description" : "SCHOOL_YEA",
+    "fieldName" : "school_yea",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561068,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes'",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "yes"
+      }, {
+        "count" : 18,
+        "item" : "no"
+      }, {
+        "count" : 17,
+        "item" : "No"
+      }, {
+        "count" : 16,
+        "item" : "Yes'"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616406,
+    "name" : "WEEKENDS",
+    "dataTypeName" : "text",
+    "description" : "WEEKENDS",
+    "fieldName" : "weekends",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561069,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "unknown"
+      }, {
+        "count" : 18,
+        "item" : "No"
+      }, {
+        "count" : 17,
+        "item" : "no"
+      }, {
+        "count" : 16,
+        "item" : "yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616407,
+    "name" : "EVENINGS",
+    "dataTypeName" : "text",
+    "description" : "EVENINGS",
+    "fieldName" : "evenings",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561070,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "unknown"
+      }, {
+        "count" : 18,
+        "item" : "No"
+      }, {
+        "count" : 17,
+        "item" : "no"
+      }, {
+        "count" : 16,
+        "item" : "yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616408,
+    "name" : "ELEMENTARY",
+    "dataTypeName" : "text",
+    "description" : "ELEMENTARY",
+    "fieldName" : "elementary",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561071,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "No"
+      }, {
+        "count" : 18,
+        "item" : "yes"
+      }, {
+        "count" : 17,
+        "item" : "no"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616409,
+    "name" : "MIDDLE_SCH",
+    "dataTypeName" : "text",
+    "description" : "MIDDLE_SCH",
+    "fieldName" : "middle_sch",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561072,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "No"
+      }, {
+        "count" : 18,
+        "item" : "no"
+      }, {
+        "count" : 17,
+        "item" : "yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616410,
+    "name" : "HIGH_SCHOO",
+    "dataTypeName" : "text",
+    "description" : "HIGH_SCHOO",
+    "fieldName" : "high_schoo",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561073,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes'",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "No"
+      }, {
+        "count" : 18,
+        "item" : "no"
+      }, {
+        "count" : 17,
+        "item" : "yes"
+      }, {
+        "count" : 16,
+        "item" : "Yes'"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616411,
+    "name" : "WEEKLY_HOU",
+    "dataTypeName" : "text",
+    "description" : "WEEKLY_HOU",
+    "fieldName" : "weekly_hou",
+    "position" : 25,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561074,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "Enrolled/Drop In",
+      "null" : 0,
+      "largest" : "Part-time",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Full-time"
+      }, {
+        "count" : 19,
+        "item" : "Part-time"
+      }, {
+        "count" : 18,
+        "item" : "Full-time/Part-time"
+      }, {
+        "count" : 17,
+        "item" : "Enrolled/Drop In"
+      }, {
+        "count" : 16,
+        "item" : "Full Time"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616412,
+    "name" : "ENROLLMENT",
+    "dataTypeName" : "text",
+    "description" : "ENROLLMENT",
+    "fieldName" : "enrollment",
+    "position" : 26,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561075,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "40"
+      }, {
+        "count" : 18,
+        "item" : "50"
+      }, {
+        "count" : 17,
+        "item" : "100"
+      }, {
+        "count" : 16,
+        "item" : "200"
+      }, {
+        "count" : 15,
+        "item" : "60"
+      }, {
+        "count" : 14,
+        "item" : "1350"
+      }, {
+        "count" : 13,
+        "item" : "180"
+      }, {
+        "count" : 12,
+        "item" : "80"
+      }, {
+        "count" : 11,
+        "item" : "120"
+      }, {
+        "count" : 10,
+        "item" : "175"
+      }, {
+        "count" : 9,
+        "item" : "30"
+      }, {
+        "count" : 8,
+        "item" : "110"
+      }, {
+        "count" : 7,
+        "item" : "6500"
+      }, {
+        "count" : 6,
+        "item" : "220"
+      }, {
+        "count" : 5,
+        "item" : "150"
+      }, {
+        "count" : 4,
+        "item" : "125"
+      }, {
+        "count" : 3,
+        "item" : "160"
+      }, {
+        "count" : 2,
+        "item" : "135"
+      }, {
+        "count" : 1,
+        "item" : "75"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616413,
+    "name" : "ACADEMICS",
+    "dataTypeName" : "text",
+    "description" : "ACADEMICS",
+    "fieldName" : "academics",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561076,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "yes"
+      }, {
+        "count" : 19,
+        "item" : "Yes"
+      }, {
+        "count" : 18,
+        "item" : "no"
+      }, {
+        "count" : 17,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616414,
+    "name" : "SPORTS_PHY",
+    "dataTypeName" : "text",
+    "description" : "SPORTS_PHY",
+    "fieldName" : "sports_phy",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561077,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "no"
+      }, {
+        "count" : 19,
+        "item" : "yes"
+      }, {
+        "count" : 18,
+        "item" : "Yes"
+      }, {
+        "count" : 17,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616415,
+    "name" : "ARTS_CULTU",
+    "dataTypeName" : "text",
+    "description" : "ARTS_CULTU",
+    "fieldName" : "arts_cultu",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561078,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "no",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "yes"
+      }, {
+        "count" : 19,
+        "item" : "Yes"
+      }, {
+        "count" : 18,
+        "item" : "no"
+      }, {
+        "count" : 17,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616416,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561079,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "1162 Washington Ave. Comm. Ctr.",
+      "null" : 0,
+      "largest" : "YMCA Greater NY Eastern District Comm. Ctr.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Virtual Y - YMCA of Greater NY"
+      }, {
+        "count" : 19,
+        "item" : "OST - Childrens Aid Society"
+      }, {
+        "count" : 18,
+        "item" : "OST - Police Athletic League"
+      }, {
+        "count" : 17,
+        "item" : "OST - Sports And Arts In Schools Foundation"
+      }, {
+        "count" : 16,
+        "item" : "WIA InSchool Youth - Police Athletic League"
+      }, {
+        "count" : 15,
+        "item" : "OST - The After School Corporation"
+      }, {
+        "count" : 14,
+        "item" : "OST - NY Junior Tennis League"
+      }, {
+        "count" : 13,
+        "item" : "OST - YWCA of the City of NY"
+      }, {
+        "count" : 12,
+        "item" : "OST - Samuel Field YM & YWHA"
+      }, {
+        "count" : 11,
+        "item" : "OST - SCO Family of Services"
+      }, {
+        "count" : 10,
+        "item" : "OST - St. Nicholas Neighborhood Preservation"
+      }, {
+        "count" : 9,
+        "item" : "21st Century - Oasis Children's Services"
+      }, {
+        "count" : 8,
+        "item" : "21st Century - Sports & Arts in Schools Foundation"
+      }, {
+        "count" : 7,
+        "item" : "21st Century - Ridgewood Bushwick Senior Citizen's Council"
+      }, {
+        "count" : 6,
+        "item" : "TASC - Police Athletic League"
+      }, {
+        "count" : 5,
+        "item" : "TASC - Samuel Field/Bay Terrace YM-YWHA"
+      }, {
+        "count" : 4,
+        "item" : "TASC - Committee for Hispanic Children and Families"
+      }, {
+        "count" : 3,
+        "item" : "TASC - Good Shepherd Services"
+      }, {
+        "count" : 2,
+        "item" : "TASC - Phipps Comm. Dev."
+      }, {
+        "count" : 1,
+        "item" : "TASC - Sunnyside Comm. Services"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616417,
+    "name" : "ADDRESS1",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS1",
+    "fieldName" : "address1",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561080,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "100-00 Beach Channel Drive",
+      "null" : 0,
+      "largest" : "W. 123rd St & Morningside Drive",
+      "top" : [ {
+        "count" : 20,
+        "item" : "80 Catherine Street"
+      }, {
+        "count" : 19,
+        "item" : "80 Maple Parkway"
+      }, {
+        "count" : 18,
+        "item" : "87 Bay 49 Street"
+      }, {
+        "count" : 17,
+        "item" : "108 Montrose Avenue"
+      }, {
+        "count" : 16,
+        "item" : "111 Bristol Street"
+      }, {
+        "count" : 15,
+        "item" : "195 Sanford Street"
+      }, {
+        "count" : 14,
+        "item" : "202 Avenue C"
+      }, {
+        "count" : 13,
+        "item" : "216 Clawson Street"
+      }, {
+        "count" : 12,
+        "item" : "219 East 109th Street"
+      }, {
+        "count" : 11,
+        "item" : "600 St. Ann's Avenue"
+      }, {
+        "count" : 10,
+        "item" : "1084 Lenox Rd"
+      }, {
+        "count" : 9,
+        "item" : "5909 Beverly Road"
+      }, {
+        "count" : 8,
+        "item" : "14-30 Broadway"
+      }, {
+        "count" : 7,
+        "item" : "28-01 41st Avenue"
+      }, {
+        "count" : 6,
+        "item" : "30-20 Thomson Avenue"
+      }, {
+        "count" : 5,
+        "item" : "31-10 Thomson Avenue"
+      }, {
+        "count" : 4,
+        "item" : "2163 Dean Street"
+      }, {
+        "count" : 3,
+        "item" : "109-15 98th Street"
+      }, {
+        "count" : 2,
+        "item" : "560 Theriot Ave"
+      }, {
+        "count" : 1,
+        "item" : "888 Rev. James A. Polite Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40616418,
+    "name" : "ADDRESS2",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS2",
+    "fieldName" : "address2",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561081,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1456,
+      "smallest" : "Bronx, NY 10451",
+      "null" : 0,
+      "largest" : "Staten Island, NY 10314",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan, NY 10002"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn, NY 11212"
+      }, {
+        "count" : 18,
+        "item" : "Bronx, NY 10457"
+      }, {
+        "count" : 17,
+        "item" : "Bronx, NY 10456"
+      }, {
+        "count" : 16,
+        "item" : "Queens"
+      }, {
+        "count" : 15,
+        "item" : "Brooklyn, NY 11206"
+      }, {
+        "count" : 14,
+        "item" : "Brooklyn, NY 11211"
+      }, {
+        "count" : 13,
+        "item" : "Brooklyn, NY 11233"
+      }, {
+        "count" : 12,
+        "item" : "Bronx, NY 10472"
+      }, {
+        "count" : 11,
+        "item" : "Manhattan, NY 10029"
+      }, {
+        "count" : 10,
+        "item" : "Bronx, NY 10454"
+      }, {
+        "count" : 9,
+        "item" : "Brooklyn, NY 11237"
+      }, {
+        "count" : 8,
+        "item" : "Bronx, NY 10453"
+      }, {
+        "count" : 7,
+        "item" : "Brooklyn, NY 11231"
+      }, {
+        "count" : 6,
+        "item" : "Bronx, NY 10460"
+      }, {
+        "count" : 5,
+        "item" : "Queens, NY 11373"
+      }, {
+        "count" : 4,
+        "item" : "Manhattan, NY 10009"
+      }, {
+        "count" : 3,
+        "item" : "Brooklyn, NY 11204"
+      }, {
+        "count" : 2,
+        "item" : "Queens, NY 11374"
+      }, {
+        "count" : 1,
+        "item" : "Queens, NY 11691"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.706130279723,
+      "ymax" : 40.874098366123,
+      "xmin" : -74.317920765987,
+      "xmax" : -73.473758778834
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "6ej9-7qyi",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1561052
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1561051,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561052
+      } ],
+      "latitudeId" : 1561050
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_AFTER_SCHOOL_PROGRAM_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_AFTER_SCHOOL_PROGRAM_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "7E213940-487D-4C24-9EE4-D95086F3C4D4",
+      "name" : "DOITT_AFTER_SCHOOL_PROGRAM.zip",
+      "filename" : "DOITT_AFTER_SCHOOL_PROGRAM.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "947q-kia6",
+    "displayName" : "tdarko",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358920085,
+    "screenName" : "tdarko"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "education", "school", "services", "geographic", "location", "map", "cartography", "after school", "after-school", "program", "doitt gis" ]
+}

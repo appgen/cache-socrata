@@ -1,0 +1,756 @@
+{
+  "id" : "2t9n-8jnw",
+  "name" : "Senior Center Locations",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318011365,
+  "description" : "Location of senior centers in the city with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 109,
+  "numberOfComments" : 0,
+  "oid" : 341731,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318011383,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243829,
+  "totalTimesRated" : 0,
+  "viewCount" : 360,
+  "viewLastModified" : 1363729162,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2978622,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560019,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "1",
+      "sum" : "61075",
+      "null" : 0,
+      "average" : "175",
+      "largest" : "349",
+      "top" : [ {
+        "count" : 20,
+        "item" : "329"
+      }, {
+        "count" : 19,
+        "item" : "330"
+      }, {
+        "count" : 18,
+        "item" : "331"
+      }, {
+        "count" : 17,
+        "item" : "332"
+      }, {
+        "count" : 16,
+        "item" : "333"
+      }, {
+        "count" : 15,
+        "item" : "334"
+      }, {
+        "count" : 14,
+        "item" : "335"
+      }, {
+        "count" : 13,
+        "item" : "336"
+      }, {
+        "count" : 12,
+        "item" : "337"
+      }, {
+        "count" : 11,
+        "item" : "338"
+      }, {
+        "count" : 10,
+        "item" : "339"
+      }, {
+        "count" : 9,
+        "item" : "340"
+      }, {
+        "count" : 8,
+        "item" : "341"
+      }, {
+        "count" : 7,
+        "item" : "342"
+      }, {
+        "count" : 6,
+        "item" : "343"
+      }, {
+        "count" : 5,
+        "item" : "344"
+      }, {
+        "count" : 4,
+        "item" : "345"
+      }, {
+        "count" : 3,
+        "item" : "346"
+      }, {
+        "count" : 2,
+        "item" : "347"
+      }, {
+        "count" : 1,
+        "item" : "348"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978623,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560020,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : {
+        "longitude" : "-73.75350873299993",
+        "latitude" : "40.59438165800009"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.9802792289999",
+        "latitude" : "40.57748004400008"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.83946776399995",
+          "latitude" : "40.685707481000065"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.83946776399995",
+          "latitude" : "40.685707481000065"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.84750299099994",
+          "latitude" : "40.72164314100007"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.79458878999992",
+          "latitude" : "40.695566291000034"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.85011971999995",
+          "latitude" : "40.73630357400003"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.8560122589999",
+          "latitude" : "40.75128192900007"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.73970360399994",
+          "latitude" : "40.69665734100005"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.82012840499993",
+          "latitude" : "40.67445006100007"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.81149806699995",
+          "latitude" : "40.79010166100005"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.84207467099992",
+          "latitude" : "40.578449584000055"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.79608697799995",
+          "latitude" : "40.67422637400006"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.8450291979999",
+          "latitude" : "40.78578977400008"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.73716484099992",
+          "latitude" : "40.675691682000036"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.7935007129999",
+          "latitude" : "40.70446519600006"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.94104239299992",
+          "latitude" : "40.82050540700004"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93221697099995",
+          "latitude" : "40.765049744000066"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.92165974499994",
+          "latitude" : "40.63370417400006"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.96221822299992",
+          "latitude" : "40.682231571000045"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.95244576699992",
+          "latitude" : "40.80432690200007"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-74.00290511799994",
+          "latitude" : "40.730563602000075"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2978624,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560021,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "A.Philip Randolph Senior Center",
+      "null" : 0,
+      "largest" : "Young Israel Wavecrest/Bayswater",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bffy Ozone Park Senior Center"
+      }, {
+        "count" : 19,
+        "item" : "Selfhelp Consoldtd Austin St Sr Center"
+      }, {
+        "count" : 18,
+        "item" : "South Jamaica"
+      }, {
+        "count" : 17,
+        "item" : "Forest Hills Comm House Sr Ctr"
+      }, {
+        "count" : 16,
+        "item" : "Ipr He Corona Senior Center"
+      }, {
+        "count" : 15,
+        "item" : "Alpha Phi Alpha Senior Center"
+      }, {
+        "count" : 14,
+        "item" : "United Hindu Cultural Council Senior Ctr"
+      }, {
+        "count" : 13,
+        "item" : "Jasa - Whitestone"
+      }, {
+        "count" : 12,
+        "item" : "Rockaway Park Senior Center"
+      }, {
+        "count" : 11,
+        "item" : "Jspoa Rockaway Blvd Sr Ctr"
+      }, {
+        "count" : 10,
+        "item" : "Hanac Angelo Petromelis Senior Center"
+      }, {
+        "count" : 9,
+        "item" : "Laurelton-Rosedale Senior Center"
+      }, {
+        "count" : 8,
+        "item" : "Jspoa Theodora Jackson Sr Ctr"
+      }, {
+        "count" : 7,
+        "item" : "Drew Hamilton_Senior Center"
+      }, {
+        "count" : 6,
+        "item" : "Hanac Archbishop Iakovos Senior Center"
+      }, {
+        "count" : 5,
+        "item" : "Bffy Glenwood Senior Ctr"
+      }, {
+        "count" : 4,
+        "item" : "Farragut Houses Senior Center"
+      }, {
+        "count" : 3,
+        "item" : "Impac"
+      }, {
+        "count" : 2,
+        "item" : "Our Lady Of Pompeii Senior C"
+      }, {
+        "count" : 1,
+        "item" : "Jasa Luna Park Sr Ctr"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978625,
+    "name" : "HOUSENUM",
+    "dataTypeName" : "text",
+    "description" : "HOUSENUM",
+    "fieldName" : "housenum",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560022,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "10",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "487"
+      }, {
+        "count" : 19,
+        "item" : "50"
+      }, {
+        "count" : 18,
+        "item" : "103-02"
+      }, {
+        "count" : 17,
+        "item" : "107-60"
+      }, {
+        "count" : 16,
+        "item" : "108-25"
+      }, {
+        "count" : 15,
+        "item" : "108-74"
+      }, {
+        "count" : 14,
+        "item" : "116-02"
+      }, {
+        "count" : 13,
+        "item" : "118-09"
+      }, {
+        "count" : 12,
+        "item" : "12-45"
+      }, {
+        "count" : 11,
+        "item" : "121-16"
+      }, {
+        "count" : 10,
+        "item" : "123-10"
+      }, {
+        "count" : 9,
+        "item" : "13-28"
+      }, {
+        "count" : 8,
+        "item" : "133-21"
+      }, {
+        "count" : 7,
+        "item" : "92-47"
+      }, {
+        "count" : 6,
+        "item" : "220"
+      }, {
+        "count" : 5,
+        "item" : "32-06"
+      }, {
+        "count" : 4,
+        "item" : "5701"
+      }, {
+        "count" : 3,
+        "item" : "966"
+      }, {
+        "count" : 2,
+        "item" : "146"
+      }, {
+        "count" : 1,
+        "item" : "25"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978626,
+    "name" : "STREETNAME",
+    "dataTypeName" : "text",
+    "description" : "STREETNAME",
+    "fieldName" : "streetname",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560023,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "101 AVENUE",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "OCEAN AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 18,
+        "item" : "MADISON STREET"
+      }, {
+        "count" : 17,
+        "item" : "HUDSON STREET"
+      }, {
+        "count" : 16,
+        "item" : "101 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "ROOSEVELT AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "220 STREET"
+      }, {
+        "count" : 13,
+        "item" : "SUTTER AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "CLINTONVILLE STREET"
+      }, {
+        "count" : 11,
+        "item" : "ROCKAWAY BEACH BOULEVARD"
+      }, {
+        "count" : 10,
+        "item" : "143 STREET"
+      }, {
+        "count" : 9,
+        "item" : "123 STREET"
+      }, {
+        "count" : 8,
+        "item" : "232 STREET"
+      }, {
+        "count" : 7,
+        "item" : "165 STREET"
+      }, {
+        "count" : 6,
+        "item" : "WEST 143 STREET"
+      }, {
+        "count" : 5,
+        "item" : "21 STREET"
+      }, {
+        "count" : 4,
+        "item" : "AVENUE H"
+      }, {
+        "count" : 3,
+        "item" : "FULTON STREET"
+      }, {
+        "count" : 2,
+        "item" : "ST NICHOLAS AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "CARMINE STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978627,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560024,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "Astoria",
+      "null" : 0,
+      "largest" : "Woodhaven",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 19,
+        "item" : "Rosedale"
+      }, {
+        "count" : 18,
+        "item" : "South Ozone Park"
+      }, {
+        "count" : 17,
+        "item" : "Flushing"
+      }, {
+        "count" : 16,
+        "item" : "Jamaica"
+      }, {
+        "count" : 15,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 14,
+        "item" : "Middle Village"
+      }, {
+        "count" : 13,
+        "item" : "Maspeth"
+      }, {
+        "count" : 12,
+        "item" : "Elmhurst"
+      }, {
+        "count" : 11,
+        "item" : "Queens Village"
+      }, {
+        "count" : 10,
+        "item" : "Woodhaven"
+      }, {
+        "count" : 9,
+        "item" : "Richmond Hill"
+      }, {
+        "count" : 8,
+        "item" : "Rego Park"
+      }, {
+        "count" : 7,
+        "item" : "Corona"
+      }, {
+        "count" : 6,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 5,
+        "item" : "Staten Island"
+      }, {
+        "count" : 4,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 3,
+        "item" : "New York"
+      }, {
+        "count" : 2,
+        "item" : "Howard Beach"
+      }, {
+        "count" : 1,
+        "item" : "Saint Albans"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978628,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560025,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 349,
+      "smallest" : "10002",
+      "null" : 0,
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10002"
+      }, {
+        "count" : 19,
+        "item" : "10029"
+      }, {
+        "count" : 18,
+        "item" : "10454"
+      }, {
+        "count" : 17,
+        "item" : "10468"
+      }, {
+        "count" : 16,
+        "item" : "10467"
+      }, {
+        "count" : 15,
+        "item" : "10463"
+      }, {
+        "count" : 14,
+        "item" : "10451"
+      }, {
+        "count" : 13,
+        "item" : "10455"
+      }, {
+        "count" : 12,
+        "item" : "10459"
+      }, {
+        "count" : 11,
+        "item" : "11221"
+      }, {
+        "count" : 10,
+        "item" : "11230"
+      }, {
+        "count" : 9,
+        "item" : "10031"
+      }, {
+        "count" : 8,
+        "item" : "10037"
+      }, {
+        "count" : 7,
+        "item" : "10021"
+      }, {
+        "count" : 6,
+        "item" : "10014"
+      }, {
+        "count" : 5,
+        "item" : "10022"
+      }, {
+        "count" : 4,
+        "item" : "10033"
+      }, {
+        "count" : 3,
+        "item" : "10013"
+      }, {
+        "count" : 2,
+        "item" : "10034"
+      }, {
+        "count" : 1,
+        "item" : "10032"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1560020,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560021
+      } ],
+      "latitudeId" : 1560019
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.url" : "E68FD22D",
+        "symbol.height" : "7",
+        "symbol.type" : "esriPMS",
+        "symbol.contentType" : "image/png",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "8",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAAsAAAAKCAYAAABi8KSDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAONJREFUGJVjYSABsGAT9DZnt9168udhgoq1GRgkyz1+TjGQZy9qXfVzL17FdXkM1bZaDHp////Ma2Vg2MfAwPAfq+J4KyFzB513QQwMDAyW6gxurWEMsdWrGBZhU8wYZveuWIyfQZKBgYGBnYWBw9WAIaF6FcMaBgaGbyiKK3wZoh21GbyQbTJWZrDvj2XPKlz8swdZMY+vKUMCJxsDN7JiJgYGJi9jhvDCxQzLGBgYnrEwMDAwlHiyN4rz/3S6/wrduwwMrMw/TVpCGVprVjMksjAwMDD0bP9Z3LOdoRhTKSoAAKidNe0IGAgUAAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/SeniorCentersWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "SeniorCenters",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "C1189391-3D74-4EFE-83FF-CB3756C1754E",
+      "name" : "DOITT_SENIOR_CENTER.zip",
+      "filename" : "DOITT_SENIOR_CENTER.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2236129161,
+    "lat" : 40.9050516010447
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7306142210451,
+    "lat" : 40.5140918680348
+  },
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "jobs and economic mobility", "doitt gis", "geographic", "location", "map", "senior", "senior center", "aging", "aged", "facilities", "facility", "cartography", "services" ],
+  "flags" : [ "default" ]
+}

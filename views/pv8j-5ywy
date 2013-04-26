@@ -1,0 +1,84 @@
+{
+  "id" : "pv8j-5ywy",
+  "name" : "Map of NYCHA Community Facilities",
+  "attribution" : "New York City Housing Authority (NYCHA)",
+  "attributionLink" : "http://www.nyc.gov/html/nycha/html/developments/dev_guide.shtml",
+  "averageRating" : 0,
+  "blobFilename" : "CommFac_10-27-2011REVISED.zip",
+  "blobFileSize" : 33980,
+  "blobId" : "aqVHpquezVfrsw1fbfSmYXV_5UpXjJBorkA3qPnzQN8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Community Service",
+  "createdAt" : 1364565158,
+  "description" : "Shape files for ONLY the Community Operations facilities as of October 2011.  There are additional facilities",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2997042,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1364565160,
+  "publicationGroup" : 763708,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 763708,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1364565594,
+  "viewType" : "geo",
+  "childViews" : [ "2uhg-smem" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/pv8j-5ywy",
+      "bbox" : "-74.16425428590064,40.57292453747711,-73.75195575307592,40.88639296306291",
+      "layers" : "geo_pv8j-5ywy-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_pv8j-5ywy"
+    }
+  },
+  "owner" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "8b43-zkvh",
+    "displayName" : "Ram S.",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358269795,
+    "roleName" : "publisher",
+    "screenName" : "Ram S.",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_nominations", "approve_nominations", "moderate_comments", "manage_stories", "feature_items", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "short_session" ]
+  },
+  "tags" : [ "nycha", "nyc housing", "gis", "building sizes", "community center", "senior center", "facilities" ],
+  "flags" : [ "default" ]
+}

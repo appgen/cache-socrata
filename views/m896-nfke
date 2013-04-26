@@ -1,0 +1,799 @@
+{
+  "id" : "m896-nfke",
+  "name" : "DYCDOACE",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1342549040,
+  "description" : "DYCD Beacon",
+  "displayType" : "map",
+  "downloadCount" : 11,
+  "numberOfComments" : 0,
+  "oid" : 877584,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318026706,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243904,
+  "totalTimesRated" : 0,
+  "viewCount" : 32,
+  "viewLastModified" : 1342549969,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 13501955,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561253,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "9",
+      "sum" : "339",
+      "null" : 0,
+      "average" : "42.375",
+      "largest" : "76",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9"
+      }, {
+        "count" : 19,
+        "item" : "17"
+      }, {
+        "count" : 18,
+        "item" : "43"
+      }, {
+        "count" : 17,
+        "item" : "46"
+      }, {
+        "count" : 16,
+        "item" : "47"
+      }, {
+        "count" : 15,
+        "item" : "50"
+      }, {
+        "count" : 14,
+        "item" : "51"
+      }, {
+        "count" : 13,
+        "item" : "76"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501956,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561254,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : {
+        "longitude" : "-73.8878539129999",
+        "latitude" : "40.73742481100004"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.81834179299995",
+        "latitude" : "40.76020376900004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.8878539129999",
+          "latitude" : "40.73742481100004"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.91844115399994",
+          "latitude" : "40.81013608600006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.95157535999994",
+          "latitude" : "40.656424160000086"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9459128119999",
+          "latitude" : "40.64812487200004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.01171132199994",
+          "latitude" : "40.649222921000046"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.91090242399991",
+          "latitude" : "40.63532027500008"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.92871897899994",
+          "latitude" : "40.65869606000007"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.81834179299995",
+          "latitude" : "40.76020376900004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 13501957,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561255,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "3",
+      "sum" : "308",
+      "null" : 0,
+      "average" : "38.5",
+      "largest" : "76",
+      "top" : [ {
+        "count" : 20,
+        "item" : "76"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "29"
+      }, {
+        "count" : 17,
+        "item" : "32"
+      }, {
+        "count" : 16,
+        "item" : "33"
+      }, {
+        "count" : 15,
+        "item" : "36"
+      }, {
+        "count" : 14,
+        "item" : "37"
+      }, {
+        "count" : 13,
+        "item" : "62"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501958,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561256,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Out of School Time - Beacon",
+      "null" : 0,
+      "largest" : "Out of School Time - Beacon",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Out of School Time - Beacon"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501959,
+    "name" : "DIVISIONNA",
+    "dataTypeName" : "text",
+    "description" : "DIVISIONNA",
+    "fieldName" : "divisionna",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561257,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "IS 232",
+      "null" : 0,
+      "largest" : "PS 181",
+      "top" : [ {
+        "count" : 20,
+        "item" : "IS 5"
+      }, {
+        "count" : 19,
+        "item" : "JHS 349/345"
+      }, {
+        "count" : 18,
+        "item" : "MS 2"
+      }, {
+        "count" : 17,
+        "item" : "PS 181"
+      }, {
+        "count" : 16,
+        "item" : "PS 1"
+      }, {
+        "count" : 15,
+        "item" : "IS 68"
+      }, {
+        "count" : 14,
+        "item" : "IS 232"
+      }, {
+        "count" : 13,
+        "item" : "JHS 189"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501960,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561258,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1023 New York Avenue",
+      "null" : 0,
+      "largest" : "956 E. 82nd Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "50-40 Jacobus Street"
+      }, {
+        "count" : 19,
+        "item" : "345 Brook Avenue"
+      }, {
+        "count" : 18,
+        "item" : "655 Parkside Avenue"
+      }, {
+        "count" : 17,
+        "item" : "1023 New York Avenue"
+      }, {
+        "count" : 16,
+        "item" : "309 47th Street"
+      }, {
+        "count" : 15,
+        "item" : "956 E. 82nd Street"
+      }, {
+        "count" : 14,
+        "item" : "905 Winthrop Avenue"
+      }, {
+        "count" : 13,
+        "item" : "144-80 Barclay Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501961,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "number",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561259,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "10454",
+      "sum" : "89270",
+      "null" : 0,
+      "average" : "11158.75",
+      "largest" : "11373",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11373"
+      }, {
+        "count" : 19,
+        "item" : "10454"
+      }, {
+        "count" : 18,
+        "item" : "11226"
+      }, {
+        "count" : 17,
+        "item" : "11203"
+      }, {
+        "count" : 16,
+        "item" : "11220"
+      }, {
+        "count" : 15,
+        "item" : "11236"
+      }, {
+        "count" : 14,
+        "item" : "11355"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501962,
+    "name" : "PHONENUMBE",
+    "dataTypeName" : "text",
+    "description" : "PHONENUMBE",
+    "fieldName" : "phonenumbe",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561260,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "(718) 221-8880 X 1130",
+      "null" : 0,
+      "largest" : "(718) 961-6014",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 429-8752"
+      }, {
+        "count" : 19,
+        "item" : "(718) 585-3353"
+      }, {
+        "count" : 18,
+        "item" : "(718) 826-2889"
+      }, {
+        "count" : 17,
+        "item" : "(718) 703-3633"
+      }, {
+        "count" : 16,
+        "item" : "(718) 492-2619"
+      }, {
+        "count" : 15,
+        "item" : "(718) 241-3847"
+      }, {
+        "count" : 14,
+        "item" : "(718) 221-8880 X 1130"
+      }, {
+        "count" : 13,
+        "item" : "(718) 961-6014"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501963,
+    "name" : "SERVICESOF",
+    "dataTypeName" : "text",
+    "description" : "SERVICESOF",
+    "fieldName" : "servicesof",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561261,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "After school program for elementary school students. The program operates during the school year and offers academics, arts, music and sports. Enrollment is required. Contact the program directly to find out if it has openings.",
+      "null" : 0,
+      "largest" : "After school program for elementary school students. The program operates during the school year and offers academics, arts, music and sports. Enrollment is required. Contact the program directly to find out if it has openings.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "After school program for elementary school students. The program operates during the school year and offers academics, arts, music and sports. Enrollment is required. Contact the program directly to find out if it has openings."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501964,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561262,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "http://www.nyc.gov/html/dycd/html/afterschool/beacon_program.shtml",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/dycd/html/afterschool/beacon_program.shtml",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/dycd/html/afterschool/beacon_program.shtml"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13501965,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561263,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Flushing",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Elmhurst"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Flushing"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.612269,
+      "ymax" : 40.829539,
+      "xmin" : -74.055311,
+      "xmax" : -73.731214
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561255
+      } ],
+      "longitudeId" : 1561254,
+      "latitudeId" : 1561253
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_DYCD_BEACON_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SERVICE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_DYCD_BEACON_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D51A4CB1-23DD-442F-9F92-8CF551B3A2FA",
+      "name" : "DOITT_DYCD_BEACON.zip",
+      "filename" : "DOITT_DYCD_BEACON.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "jmgp-7th2",
+    "displayName" : "alih",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1342549040,
+    "screenName" : "alih"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "3"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "32"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "37"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "33"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "29"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "36"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "62"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13501957,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "76"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "undefined" : 1561255
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "beacon", "youth" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "3"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "32"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "37"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "33"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "29"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "36"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "62"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13501957,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "76"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "undefined" : 1561255
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

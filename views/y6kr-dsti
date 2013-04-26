@@ -1,0 +1,420 @@
+{
+  "id" : "y6kr-dsti",
+  "name" : "Large Residential",
+  "attribution" : "Mayor's Office of Long-Term Planning and Sustainability (OLTPS)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1327287705,
+  "description" : "2010 electricity consumption in kWh and GJ, by ZIP code, building type, and utility company.",
+  "displayType" : "map",
+  "downloadCount" : 53,
+  "numberOfComments" : 0,
+  "oid" : 442596,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318360950,
+  "publicationGroup" : 241819,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318358360,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244781,
+  "totalTimesRated" : 0,
+  "viewCount" : 202,
+  "viewLastModified" : 1360681285,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 4832208,
+    "name" : "Zip Code",
+    "dataTypeName" : "location",
+    "fieldName" : "zip_code",
+    "position" : 1,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1535391,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 295,
+      "smallest" : {
+        "longitude" : "-73.99688630375988",
+        "latitude" : "40.75025902143676",
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"10001\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.80979665579099",
+        "latitude" : "40.70119264912154",
+        "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11435\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.82719028070687",
+          "latitude" : "40.76862022064671",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11354\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.84181070040347",
+          "latitude" : "40.7849280967543",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11356\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.79462153515567",
+          "latitude" : "40.73987184371066",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11365\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.84628429608335",
+          "latitude" : "40.720707263029794",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11375\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9048471440804",
+          "latitude" : "40.74519376448069",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11377\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.7875740339145",
+          "latitude" : "40.698104881734935",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11433\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.77530690169215",
+          "latitude" : "40.6769452621142",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11434\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.94237919854112",
+          "latitude" : "40.70191201682616",
+          "human_address" : "{\"address\":\"\",\"city\":\"\",\"state\":\"\",\"zip\":\"11206\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 4832209,
+    "name" : "Building type (service class)",
+    "dataTypeName" : "text",
+    "fieldName" : "building_type_service_class_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535392,
+    "width" : 448,
+    "cachedContents" : {
+      "non_null" : 295,
+      "smallest" : "Large Residential",
+      "null" : 0,
+      "largest" : "Large Residential",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Large Residential"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4832210,
+    "name" : "Consumption (kWh)",
+    "dataTypeName" : "number",
+    "fieldName" : "consumption_kwh_",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535393,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 295,
+      "smallest" : "0",
+      "sum" : "3670066936",
+      "null" : 0,
+      "average" : "12440904.86779661",
+      "largest" : "100256493",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5453208"
+      }, {
+        "count" : 19,
+        "item" : "67740"
+      }, {
+        "count" : 18,
+        "item" : "14658673"
+      }, {
+        "count" : 17,
+        "item" : "3331976"
+      }, {
+        "count" : 16,
+        "item" : "6783955"
+      }, {
+        "count" : 15,
+        "item" : "7977441"
+      }, {
+        "count" : 14,
+        "item" : "3326210"
+      }, {
+        "count" : 13,
+        "item" : "7247474"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4832211,
+    "name" : "Consumption (GJ)",
+    "dataTypeName" : "number",
+    "fieldName" : "consumption_gj_",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1535394,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 295,
+      "smallest" : "0",
+      "sum" : "13212253",
+      "null" : 0,
+      "average" : "44787.29830508475",
+      "largest" : "360923",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19632"
+      }, {
+        "count" : 19,
+        "item" : "244"
+      }, {
+        "count" : 18,
+        "item" : "52771"
+      }, {
+        "count" : 17,
+        "item" : "11995"
+      }, {
+        "count" : 16,
+        "item" : "24422"
+      }, {
+        "count" : 15,
+        "item" : "28719"
+      }, {
+        "count" : 14,
+        "item" : "11974"
+      }, {
+        "count" : 13,
+        "item" : "26091"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 4832212,
+    "name" : "Utility/Data Source",
+    "dataTypeName" : "text",
+    "fieldName" : "utility_data_source",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1535395,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 295,
+      "smallest" : "ConEd",
+      "null" : 0,
+      "largest" : "ConEd",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ConEd"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Road",
+      "opacity" : 1,
+      "layerName" : "Bing Road"
+    }, {
+      "alias" : "Aerial",
+      "opacity" : 1,
+      "layerName" : "Bing Aerial"
+    } ],
+    "viewport" : {
+      "ymin" : 40.67925924888398,
+      "ymax" : 40.88930272799805,
+      "xmin" : -74.07931866842395,
+      "xmax" : -73.60347333157661
+    },
+    "plotStyle" : "rastermap",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "y6kr-dsti",
+      "viewport" : {
+        "ymin" : 40.687851,
+        "ymax" : 40.880737,
+        "xmin" : -74.230037,
+        "xmax" : -73.452755
+      },
+      "plotStyle" : "rastermap",
+      "type" : "bing",
+      "plot" : {
+        "locationId" : 1535391,
+        "quantityId" : 1535393
+      }
+    } ],
+    "type" : "bing",
+    "plot" : {
+      "locationId" : 1535391,
+      "quantityId" : 1535393
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "y6kr-dsti" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 4832209,
+                "type" : "column"
+              }, {
+                "value" : "large residential",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "241819" : 1535392
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "bivn-867q",
+    "displayName" : "K",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1327247824,
+    "screenName" : "K"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 4832209,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "large residential"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "241819" : 1535392
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "electricity", "energy", "environment", "planning", "power", "utilities" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 4832209,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "large residential"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "241819" : 1535392
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

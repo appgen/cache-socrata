@@ -1,0 +1,516 @@
+{
+  "id" : "3ku3-gysd",
+  "name" : "Central Parking",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1333521822,
+  "description" : "A list of all parking facilities in New York City",
+  "displayType" : "map",
+  "downloadCount" : 46,
+  "numberOfComments" : 0,
+  "oid" : 572731,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311974171,
+  "publicationGroup" : 239011,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895287,
+  "rowsUpdatedBy" : "4f6h-73aa",
+  "searchString" : "central parking",
+  "signed" : false,
+  "tableId" : 239011,
+  "totalTimesRated" : 0,
+  "viewCount" : 130,
+  "viewLastModified" : 1333521822,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 7297282,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503095,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : "Garage - Parking Lot Combo",
+      "null" : 0,
+      "largest" : "Parking Lot",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Parking Garage"
+      }, {
+        "count" : 19,
+        "item" : "Garage - Parking Lot Combo"
+      }, {
+        "count" : 18,
+        "item" : "Parking Lot"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7297283,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503104,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : "1004075",
+      "null" : 0,
+      "largest" : "999985"
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 7297284,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503097,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : "58 EAST LLC",
+      "null" : 0,
+      "largest" : "WORLD PARKING GARAGE LLC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK INC"
+      }, {
+        "count" : 19,
+        "item" : "JO-MEG GARAGE CORP"
+      }, {
+        "count" : 18,
+        "item" : "CLICK PARKING CORP"
+      }, {
+        "count" : 17,
+        "item" : "ALLIED ST GEORGE    CORP"
+      }, {
+        "count" : 16,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC."
+      }, {
+        "count" : 15,
+        "item" : "CENTRAL PARKING SYSTEM OF NEWYORK INC"
+      }, {
+        "count" : 14,
+        "item" : "STOP-PARK GARAGE CORP"
+      }, {
+        "count" : 13,
+        "item" : "KINNEY PARKING SYSTEM, INC"
+      }, {
+        "count" : 12,
+        "item" : "KINNEY PARKING SYSTEM INC"
+      }, {
+        "count" : 11,
+        "item" : "KINNEY PARKING SYSTEM INC."
+      }, {
+        "count" : 10,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC"
+      }, {
+        "count" : 9,
+        "item" : "STANDARD PARKING CORPORATION"
+      }, {
+        "count" : 8,
+        "item" : "WORLD PARKING GARAGE LLC"
+      }, {
+        "count" : 7,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK INC."
+      }, {
+        "count" : 6,
+        "item" : "CENTRAL HARLEM GARAGE CORP."
+      }, {
+        "count" : 5,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK"
+      }, {
+        "count" : 4,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK,INC."
+      }, {
+        "count" : 3,
+        "item" : "CENTRAL PARKING SYSYTEM OF NEW YORK, INC."
+      }, {
+        "count" : 2,
+        "item" : "KINNEY PARKING SYSTEM, INC."
+      }, {
+        "count" : 1,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK,INC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7297285,
+    "name" : "Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503098,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 40,
+      "smallest" : "80 CENTRAL PARK W GARAGE",
+      "null" : 165,
+      "largest" : "MEYERS PARKING SYSTEM",
+      "top" : [ {
+        "count" : 20,
+        "item" : "80 CENTRAL PARK W GARAGE"
+      }, {
+        "count" : 19,
+        "item" : "ALLIED GARAGE"
+      }, {
+        "count" : 18,
+        "item" : "CENTRAL PARKING SYSTEM"
+      }, {
+        "count" : 17,
+        "item" : "MEYERS PARKING SYSTEM"
+      }, {
+        "count" : 16,
+        "item" : "CENTRAL PARKIMG SYSTEM"
+      }, {
+        "count" : 15,
+        "item" : "AVISTAR AIRPORT PARKING"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7297286,
+    "name" : "Address",
+    "dataTypeName" : "location",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1503099,
+    "width" : 381,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : {
+        "longitude" : "-73.99688630375988",
+        "latitude" : "40.75025902143676",
+        "human_address" : "{\"address\":\"0 PIER\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.86148084756303",
+        "latitude" : "40.72646491702238",
+        "human_address" : "{\"address\":\"99 32 66 ROAD\",\"city\":\"FOREST HILLS\",\"state\":\"NY\",\"zip\":\"11374\"}"
+      }
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 7297287,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1503100,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : "10001",
+      "sum" : "2112351",
+      "null" : 0,
+      "average" : "10304.15121951220",
+      "largest" : "11434",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10019"
+      }, {
+        "count" : 19,
+        "item" : "10023"
+      }, {
+        "count" : 18,
+        "item" : "10024"
+      }, {
+        "count" : 17,
+        "item" : "10001"
+      }, {
+        "count" : 16,
+        "item" : "10028"
+      }, {
+        "count" : 15,
+        "item" : "11215"
+      }, {
+        "count" : 14,
+        "item" : "10007"
+      }, {
+        "count" : 13,
+        "item" : "10022"
+      }, {
+        "count" : 12,
+        "item" : "10011"
+      }, {
+        "count" : 11,
+        "item" : "10021"
+      }, {
+        "count" : 10,
+        "item" : "11201"
+      }, {
+        "count" : 9,
+        "item" : "10017"
+      }, {
+        "count" : 8,
+        "item" : "10036"
+      }, {
+        "count" : 7,
+        "item" : "10018"
+      }, {
+        "count" : 6,
+        "item" : "10016"
+      }, {
+        "count" : 5,
+        "item" : "10003"
+      }, {
+        "count" : 4,
+        "item" : "10013"
+      }, {
+        "count" : 3,
+        "item" : "11374"
+      }, {
+        "count" : 2,
+        "item" : "10025"
+      }, {
+        "count" : 1,
+        "item" : "11373"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7297288,
+    "name" : "Telephone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "telephone_number",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503105,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : "2122216111",
+      "null" : 0,
+      "largest" : "9999999999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2126296602"
+      }, {
+        "count" : 19,
+        "item" : "2125025490"
+      }, {
+        "count" : 18,
+        "item" : "2125649199"
+      }, {
+        "count" : 17,
+        "item" : "6466741888"
+      }, {
+        "count" : 16,
+        "item" : "2125643199"
+      }, {
+        "count" : 15,
+        "item" : "7188286820"
+      }, {
+        "count" : 14,
+        "item" : "2126042739"
+      }, {
+        "count" : 13,
+        "item" : "7185078162"
+      }, {
+        "count" : 12,
+        "item" : "7188286660"
+      }, {
+        "count" : 11,
+        "item" : "2128891020"
+      }, {
+        "count" : 10,
+        "item" : "7189999999"
+      }, {
+        "count" : 9,
+        "item" : "2128322066"
+      }, {
+        "count" : 8,
+        "item" : "2123052718"
+      }, {
+        "count" : 7,
+        "item" : "2123085959"
+      }, {
+        "count" : 6,
+        "item" : "2125022490"
+      }, {
+        "count" : 5,
+        "item" : "7185260156"
+      }, {
+        "count" : 4,
+        "item" : "2127367171"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 7297289,
+    "name" : "Number of Spaces",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_spaces",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1503102,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 205,
+      "smallest" : "9",
+      "sum" : "49078",
+      "null" : 0,
+      "average" : "239.4048780487805",
+      "largest" : "3500",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150"
+      }, {
+        "count" : 19,
+        "item" : "225"
+      }, {
+        "count" : 18,
+        "item" : "36"
+      }, {
+        "count" : 17,
+        "item" : "703"
+      }, {
+        "count" : 16,
+        "item" : "120"
+      }, {
+        "count" : 15,
+        "item" : "212"
+      }, {
+        "count" : 14,
+        "item" : "49"
+      }, {
+        "count" : 13,
+        "item" : "112"
+      }, {
+        "count" : 12,
+        "item" : "139"
+      }, {
+        "count" : 11,
+        "item" : "59"
+      }, {
+        "count" : 10,
+        "item" : "44"
+      }, {
+        "count" : 9,
+        "item" : "43"
+      }, {
+        "count" : 8,
+        "item" : "176"
+      }, {
+        "count" : 7,
+        "item" : "64"
+      }, {
+        "count" : 6,
+        "item" : "66"
+      }, {
+        "count" : 5,
+        "item" : "99"
+      }, {
+        "count" : 4,
+        "item" : "40"
+      }, {
+        "count" : 3,
+        "item" : "162"
+      }, {
+        "count" : 2,
+        "item" : "1365"
+      }, {
+        "count" : 1,
+        "item" : "75"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "center" : {
+        "lng" : -73.88661674503857,
+        "lat" : 40.69080724490472
+      },
+      "ymin" : 40.595462,
+      "ymax" : 40.786016,
+      "zoom" : 10,
+      "xmin" : -74.485372,
+      "xmax" : -73.287862
+    },
+    "plotStyle" : "point",
+    "flyoutsNoLabel" : true,
+    "type" : "google",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1503099
+      }, {
+        "tableColumnId" : 1503101
+      } ],
+      "locationId" : 1503099,
+      "titleId" : 1503097
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnbh-gy7g",
+    "displayName" : "mstearne",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1333521822,
+    "screenName" : "mstearne"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking facilities", "car", "automobile" ]
+}

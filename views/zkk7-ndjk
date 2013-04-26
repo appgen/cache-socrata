@@ -1,0 +1,241 @@
+{
+  "id" : "zkk7-ndjk",
+  "name" : "Path train",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318116273,
+  "description" : "Line feature representing the PATH Train.",
+  "displayType" : "map",
+  "downloadCount" : 22,
+  "numberOfComments" : 0,
+  "oid" : 342281,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116281,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244136,
+  "totalTimesRated" : 0,
+  "viewCount" : 181,
+  "viewLastModified" : 1360611939,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989178,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564469,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "1",
+      "sum" : "28",
+      "null" : 0,
+      "average" : "4",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989179,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564470,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989180,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564471,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "PATH Rapid-Transit System",
+      "null" : 0,
+      "largest" : "PATH Rapid-Transit System",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PATH Rapid-Transit System"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989181,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564472,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 7,
+      "smallest" : "981.8228532007614148824359290301799774169921875",
+      "sum" : "80068.2628349168716113126720301806926727294921875",
+      "null" : 0,
+      "average" : "11438.32326213098",
+      "largest" : "40981.874269123873091302812099456787109375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "13471.1387159779187641106545925140380859375"
+      }, {
+        "count" : 19,
+        "item" : "981.8228532007614148824359290301799774169921875"
+      }, {
+        "count" : 18,
+        "item" : "15431.86389704896646435372531414031982421875"
+      }, {
+        "count" : 17,
+        "item" : "3681.25203564970388470101170241832733154296875"
+      }, {
+        "count" : 16,
+        "item" : "1086.78146352209341785055585205554962158203125"
+      }, {
+        "count" : 15,
+        "item" : "4433.52960039355457411147654056549072265625"
+      }, {
+        "count" : 14,
+        "item" : "40981.874269123873091302812099456787109375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564470,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564471
+      } ],
+      "latitudeId" : 1564469
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSLS",
+        "symbol.width" : "1",
+        "symbol.style" : "esriSLSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_PATH_TRAIN_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_PATH_TRAIN_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "21007D23-AA06-4425-9F20-4AFC6B14DA51",
+      "name" : "DOITT_PATH_TRAIN.zip",
+      "filename" : "DOITT_PATH_TRAIN.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1680311030075,
+    "lat" : 40.7485168243727
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.9887165666891,
+    "lat" : 40.710053455979
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "transportation", "nj", "new jersey", "train", "line", "path", "transport", "traffic", "transit" ],
+  "flags" : [ "default" ]
+}

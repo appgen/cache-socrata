@@ -1,0 +1,750 @@
+{
+  "id" : "r4n6-jzcf",
+  "name" : "Post Office Locations",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1318013662,
+  "description" : "Location of the post offices in the city with basic descriptive information.\r\n\r\nUpdate Frequency: As Needed",
+  "displayType" : "map",
+  "downloadCount" : 81,
+  "numberOfComments" : 0,
+  "oid" : 341761,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318013674,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243850,
+  "totalTimesRated" : 0,
+  "viewCount" : 167,
+  "viewLastModified" : 1360612304,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2979125,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560323,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : "1",
+      "sum" : "26565",
+      "null" : 0,
+      "average" : "115.5",
+      "largest" : "230",
+      "top" : [ {
+        "count" : 20,
+        "item" : "206"
+      }, {
+        "count" : 19,
+        "item" : "207"
+      }, {
+        "count" : 18,
+        "item" : "208"
+      }, {
+        "count" : 17,
+        "item" : "209"
+      }, {
+        "count" : 16,
+        "item" : "210"
+      }, {
+        "count" : 15,
+        "item" : "211"
+      }, {
+        "count" : 14,
+        "item" : "212"
+      }, {
+        "count" : 13,
+        "item" : "213"
+      }, {
+        "count" : 12,
+        "item" : "214"
+      }, {
+        "count" : 11,
+        "item" : "215"
+      }, {
+        "count" : 10,
+        "item" : "216"
+      }, {
+        "count" : 9,
+        "item" : "217"
+      }, {
+        "count" : 8,
+        "item" : "218"
+      }, {
+        "count" : 7,
+        "item" : "219"
+      }, {
+        "count" : 6,
+        "item" : "220"
+      }, {
+        "count" : 5,
+        "item" : "221"
+      }, {
+        "count" : 4,
+        "item" : "222"
+      }, {
+        "count" : 3,
+        "item" : "223"
+      }, {
+        "count" : 2,
+        "item" : "224"
+      }, {
+        "count" : 1,
+        "item" : "225"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979126,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560324,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : {
+        "longitude" : "-73.95175791199995",
+        "latitude" : "40.59318197300007"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.95940002799995",
+        "latitude" : "40.57909303400004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.81017195399994",
+          "latitude" : "40.73065995500008"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.88144684899993",
+          "latitude" : "40.701720529000056"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.7564676849999",
+          "latitude" : "40.693060384000034"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.78587939599993",
+          "latitude" : "40.727453951000086"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.75119721999994",
+          "latitude" : "40.679329014000075"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.76161491899995",
+          "latitude" : "40.71318964900007"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.88317062399994",
+          "latitude" : "40.71266604400006"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.76472342399995",
+          "latitude" : "40.71896756600006"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.88327873899993",
+          "latitude" : "40.648814095000034"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.89571322799992",
+          "latitude" : "40.70044907600004"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.75047760199993",
+          "latitude" : "40.71455315900005"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.89782814699993",
+          "latitude" : "40.70754912700005"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.74013772899991",
+          "latitude" : "40.65962932200006"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.73191704899995",
+          "latitude" : "40.69281417500008"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.91398486899993",
+          "latitude" : "40.68458202700003"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.89575723699994",
+          "latitude" : "40.72761008800006"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9167232339999",
+          "latitude" : "40.65458657000005"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.77600189299994",
+          "latitude" : "40.678579659000036"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.73016806599992",
+          "latitude" : "40.727204301000086"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.87307059599993",
+          "latitude" : "40.75614590500004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2979127,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560325,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : "Adlephi Station",
+      "null" : 0,
+      "largest" : "Yorkville",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Pomonok"
+      }, {
+        "count" : 19,
+        "item" : "Glendale"
+      }, {
+        "count" : 18,
+        "item" : "Archie Spigner"
+      }, {
+        "count" : 17,
+        "item" : "Utopia"
+      }, {
+        "count" : 16,
+        "item" : "Springfield Gardens"
+      }, {
+        "count" : 15,
+        "item" : "Hollis"
+      }, {
+        "count" : 14,
+        "item" : "Middle Village"
+      }, {
+        "count" : 13,
+        "item" : "Holliswood"
+      }, {
+        "count" : 12,
+        "item" : "Spring Creek"
+      }, {
+        "count" : 11,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 10,
+        "item" : "Queens Village"
+      }, {
+        "count" : 9,
+        "item" : "Fresh Pond"
+      }, {
+        "count" : 8,
+        "item" : "Rosedale Station"
+      }, {
+        "count" : 7,
+        "item" : "Cambria Heights Station"
+      }, {
+        "count" : 6,
+        "item" : "Halsey"
+      }, {
+        "count" : 5,
+        "item" : "Maspeth Station"
+      }, {
+        "count" : 4,
+        "item" : "Martin Luther King Jr Station"
+      }, {
+        "count" : 3,
+        "item" : "Rochdale Village Station"
+      }, {
+        "count" : 2,
+        "item" : "Bellerose Station"
+      }, {
+        "count" : 1,
+        "item" : "Junction Boulevard Station"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979128,
+    "name" : "HOUSENUM",
+    "dataTypeName" : "text",
+    "description" : "HOUSENUM",
+    "fieldName" : "housenum",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560326,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "99",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "69-36"
+      }, {
+        "count" : 18,
+        "item" : "195-04"
+      }, {
+        "count" : 17,
+        "item" : "182-04"
+      }, {
+        "count" : 16,
+        "item" : "218-10"
+      }, {
+        "count" : 15,
+        "item" : "197-40"
+      }, {
+        "count" : 14,
+        "item" : "71-35"
+      }, {
+        "count" : 13,
+        "item" : "197-33"
+      }, {
+        "count" : 12,
+        "item" : "1310"
+      }, {
+        "count" : 11,
+        "item" : "60-60"
+      }, {
+        "count" : 10,
+        "item" : "209-20"
+      }, {
+        "count" : 9,
+        "item" : "60-80"
+      }, {
+        "count" : 8,
+        "item" : "145-06"
+      }, {
+        "count" : 7,
+        "item" : "229-01"
+      }, {
+        "count" : 6,
+        "item" : "805"
+      }, {
+        "count" : 5,
+        "item" : "55-02"
+      }, {
+        "count" : 4,
+        "item" : "9402"
+      }, {
+        "count" : 3,
+        "item" : "165-100"
+      }, {
+        "count" : 2,
+        "item" : "237-15"
+      }, {
+        "count" : 1,
+        "item" : "33-23"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979129,
+    "name" : "STREETNAME",
+    "dataTypeName" : "text",
+    "description" : "STREETNAME",
+    "fieldName" : "streetname",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560327,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : "101 AVENUE",
+      "null" : 0,
+      "largest" : "YORK AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 19,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "LIBERTY AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "MERRICK BOULEVARD"
+      }, {
+        "count" : 15,
+        "item" : "JAMAICA AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "METROPOLITAN AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "HILLSIDE AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "PENNSYLVANIA AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "MYRTLE AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "WOODBINE STREET"
+      }, {
+        "count" : 9,
+        "item" : "243 STREET"
+      }, {
+        "count" : 8,
+        "item" : "LINDEN HEIGHTS"
+      }, {
+        "count" : 7,
+        "item" : "MACDONOUGH STREET"
+      }, {
+        "count" : 6,
+        "item" : "69 STREET"
+      }, {
+        "count" : 5,
+        "item" : "CHURCH AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "BAISLEY BOULEVARD"
+      }, {
+        "count" : 3,
+        "item" : "BRADDOCK AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "JUNCTION BOULEVARD"
+      }, {
+        "count" : 1,
+        "item" : "61 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979130,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560328,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Long Island City"
+      }, {
+        "count" : 18,
+        "item" : "Flushing"
+      }, {
+        "count" : 17,
+        "item" : "Astoria"
+      }, {
+        "count" : 16,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 15,
+        "item" : "Elmhurst"
+      }, {
+        "count" : 14,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 13,
+        "item" : "Staten Island"
+      }, {
+        "count" : 12,
+        "item" : "Fresh Meadows"
+      }, {
+        "count" : 11,
+        "item" : "New York"
+      }, {
+        "count" : 10,
+        "item" : "Bronx"
+      }, {
+        "count" : 9,
+        "item" : "Ozone Park"
+      }, {
+        "count" : 8,
+        "item" : "Jamaica"
+      }, {
+        "count" : 7,
+        "item" : "Howard Beach"
+      }, {
+        "count" : 6,
+        "item" : "Hollis"
+      }, {
+        "count" : 5,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 4,
+        "item" : "Cambria Heights"
+      }, {
+        "count" : 3,
+        "item" : "Maspeth"
+      }, {
+        "count" : 2,
+        "item" : "Bellerose"
+      }, {
+        "count" : 1,
+        "item" : "Jackson Heights"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979131,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560329,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 230,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10462"
+      }, {
+        "count" : 19,
+        "item" : "10467"
+      }, {
+        "count" : 18,
+        "item" : "10036"
+      }, {
+        "count" : 17,
+        "item" : "10452"
+      }, {
+        "count" : 16,
+        "item" : "10458"
+      }, {
+        "count" : 15,
+        "item" : "10001"
+      }, {
+        "count" : 14,
+        "item" : "11417"
+      }, {
+        "count" : 13,
+        "item" : "11435"
+      }, {
+        "count" : 12,
+        "item" : "11414"
+      }, {
+        "count" : 11,
+        "item" : "11385"
+      }, {
+        "count" : 10,
+        "item" : "11423"
+      }, {
+        "count" : 9,
+        "item" : "11411"
+      }, {
+        "count" : 8,
+        "item" : "11233"
+      }, {
+        "count" : 7,
+        "item" : "11378"
+      }, {
+        "count" : 6,
+        "item" : "11212"
+      }, {
+        "count" : 5,
+        "item" : "11434"
+      }, {
+        "count" : 4,
+        "item" : "11426"
+      }, {
+        "count" : 3,
+        "item" : "11372"
+      }, {
+        "count" : 2,
+        "item" : "11377"
+      }, {
+        "count" : 1,
+        "item" : "11203"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1560324,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560325
+      } ],
+      "latitudeId" : 1560323
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.url" : "694744D6",
+        "symbol.height" : "14",
+        "symbol.type" : "esriPMS",
+        "symbol.contentType" : "image/png",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "14",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAABMAAAATCAYAAAByUDbMAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAVVJREFUOI211D1IQlEYxvH/8SMjmgwkqCAKGoKWIPqAbDKKFKHCglwaGloiahPBodZyaA2aCoOiRBwqaApFl5YganJoiMw7SFtxTkumkrfulXzgbOf98Z5PG/8YW0Ow4yu1FcsQOstjMQP4nMjgGHsLHrH+jR2lCcUL5iCAhIZFplgDylg9UClJDQGN2jMApxX2vdDbYay4UITwOaTeamC+dngtgtUK02Ng1+lbKcjeQe4Z5gcgla7VWSus+OExBzsxCExAT1c1pBXh5BpG+mHZC4cXOssspa8bNjvhMg3Ze/C7weGAm1t4ykNwClqaf9bpHoDdBjPj8KLBQRKkgskhcA/qVRg4TZcTVmfh/QOa7L/PNXQ1hPgbqolJaYQvRykdLPoA0Q1zWGUa8wL8bUrGC6Ku9znnQp5WYkujYtuSIVzPF7Q4zG4VFvCICBAx21XiawB8AqEyWMt+gLPeAAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/PostOfficesWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "PostOffices",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "FC29A91E-E020-427D-8E6D-DE397F625362",
+      "name" : "DOITT_POST_OFFICE.zip",
+      "filename" : "DOITT_POST_OFFICE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2490975752223,
+    "lat" : 40.907717378163
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7143845552758,
+    "lat" : 40.5094180315668
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "postal", "post office", "mail", "stamp", "stamps", "cartography", "services", "mailing" ],
+  "flags" : [ "default" ]
+}

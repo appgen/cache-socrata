@@ -1,0 +1,306 @@
+{
+  "id" : "vjjn-5smc",
+  "name" : "2013-2-3_noise",
+  "attribution" : "311",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1359939206,
+  "description" : "NYC Noise complaints for 2012",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "iconUrl" : "383F78E5-1521-44A1-BD3E-B92A34E1096B",
+  "numberOfComments" : 0,
+  "oid" : 3346008,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366921804,
+  "publicationGroup" : 244403,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1366920524,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 818535,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1359941028,
+  "viewType" : "tabular",
+  "columns" : [ ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Road",
+      "opacity" : 1,
+      "layerName" : "Bing Road"
+    }, {
+      "alias" : "Aerial",
+      "opacity" : 1,
+      "layerName" : "Bing Aerial"
+    } ],
+    "viewport" : {
+      "ymin" : 40.684132396482,
+      "ymax" : 40.694089916088,
+      "xmin" : -73.9982698915,
+      "xmax" : -73.966965293649
+    },
+    "plotStyle" : "rastermap",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "npg9-ct6q",
+      "viewport" : {
+        "ymin" : 40.849225,
+        "ymax" : 40.851372,
+        "xmin" : -73.943978,
+        "xmax" : -73.937009
+      },
+      "plotStyle" : "rastermap",
+      "type" : "bing",
+      "plot" : {
+        "locationId" : 1567838
+      }
+    } ],
+    "type" : "bing",
+    "plot" : {
+      "locationId" : 1567838
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "npg9-ct6q" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 42783284,
+                "type" : "column"
+              }, {
+                "value" : "Noise",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "customValues" : [ "Noise - Commercial" ],
+              "tableColumnId" : {
+                "244403" : 1567792
+              },
+              "operator" : "CONTAINS"
+            }
+          }, {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "GREATER_THAN",
+              "children" : [ {
+                "columnId" : 42783280,
+                "type" : "column"
+              }, {
+                "value" : "2012-05-01T00:00:00",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "244403" : 1567788
+              },
+              "operator" : "GREATER_THAN"
+            }
+          }, {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "244403" : 1567787
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2,
+            "advanced" : true
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "m2yz-i3gy",
+    "displayName" : "lililyking",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1359938247,
+    "screenName" : "lililyking"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 60809956,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Noise"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "customValues" : [ "Noise - Commercial" ],
+          "tableColumnId" : {
+            "244403" : 1567792
+          },
+          "operator" : "CONTAINS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "GREATER_THAN",
+          "children" : [ {
+            "columnId" : 60809952,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "2012-05-01T00:00:00"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567788
+          },
+          "operator" : "GREATER_THAN"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567787
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2,
+        "advanced" : true
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "311", "311 service requests", "2010", "2011", "service request status", "all service requests" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 60809956,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Noise"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "customValues" : [ "Noise - Commercial" ],
+        "tableColumnId" : {
+          "244403" : 1567792
+        },
+        "operator" : "CONTAINS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "GREATER_THAN",
+        "children" : [ {
+          "columnId" : 60809952,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "2012-05-01T00:00:00"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567788
+        },
+        "operator" : "GREATER_THAN"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567787
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2,
+      "advanced" : true
+    }
+  }
+}

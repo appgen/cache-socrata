@@ -1,0 +1,623 @@
+{
+  "id" : "qqsi-vm9f",
+  "name" : "Map of Soccer and Football Fields",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318116862,
+  "description" : "GIS Map of Soccer and Football Fields in New York City Department of Parks & Recreation properties.",
+  "displayType" : "map",
+  "downloadCount" : 110,
+  "numberOfComments" : 0,
+  "oid" : 342302,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116872,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244156,
+  "totalTimesRated" : 0,
+  "viewCount" : 288,
+  "viewLastModified" : 1363706553,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989503,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564749,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 116,
+      "smallest" : "1",
+      "sum" : "6786",
+      "null" : 0,
+      "average" : "58.5",
+      "largest" : "116",
+      "top" : [ {
+        "count" : 20,
+        "item" : "83"
+      }, {
+        "count" : 19,
+        "item" : "84"
+      }, {
+        "count" : 18,
+        "item" : "85"
+      }, {
+        "count" : 17,
+        "item" : "86"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "89"
+      }, {
+        "count" : 13,
+        "item" : "90"
+      }, {
+        "count" : 12,
+        "item" : "91"
+      }, {
+        "count" : 11,
+        "item" : "92"
+      }, {
+        "count" : 10,
+        "item" : "93"
+      }, {
+        "count" : 9,
+        "item" : "94"
+      }, {
+        "count" : 8,
+        "item" : "95"
+      }, {
+        "count" : 7,
+        "item" : "96"
+      }, {
+        "count" : 6,
+        "item" : "97"
+      }, {
+        "count" : 5,
+        "item" : "98"
+      }, {
+        "count" : 4,
+        "item" : "99"
+      }, {
+        "count" : 3,
+        "item" : "100"
+      }, {
+        "count" : 2,
+        "item" : "101"
+      }, {
+        "count" : 1,
+        "item" : "102"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989504,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564750,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989505,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564751,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 116,
+      "smallest" : "B028",
+      "null" : 0,
+      "largest" : "X263",
+      "top" : [ {
+        "count" : 20,
+        "item" : "B068"
+      }, {
+        "count" : 19,
+        "item" : "B126"
+      }, {
+        "count" : 18,
+        "item" : "M144"
+      }, {
+        "count" : 17,
+        "item" : "M107"
+      }, {
+        "count" : 16,
+        "item" : "Q099"
+      }, {
+        "count" : 15,
+        "item" : "Q010A"
+      }, {
+        "count" : 14,
+        "item" : "M071"
+      }, {
+        "count" : 13,
+        "item" : "X126"
+      }, {
+        "count" : 12,
+        "item" : "X092"
+      }, {
+        "count" : 11,
+        "item" : "Q021"
+      }, {
+        "count" : 10,
+        "item" : "M104"
+      }, {
+        "count" : 9,
+        "item" : "M042"
+      }, {
+        "count" : 8,
+        "item" : "B125"
+      }, {
+        "count" : 7,
+        "item" : "Q127"
+      }, {
+        "count" : 6,
+        "item" : "B369"
+      }, {
+        "count" : 5,
+        "item" : "Q396"
+      }, {
+        "count" : 4,
+        "item" : "M223"
+      }, {
+        "count" : 3,
+        "item" : "B270"
+      }, {
+        "count" : 2,
+        "item" : "B285"
+      }, {
+        "count" : 1,
+        "item" : "B254"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989506,
+    "name" : "area",
+    "dataTypeName" : "number",
+    "description" : "area",
+    "fieldName" : "area",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564752,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 116,
+      "smallest" : "4873.04849853999985498376190662384033203125",
+      "sum" : "5937319.4722868099779589101672172546386718750000",
+      "null" : 0,
+      "average" : "51183.78855419664",
+      "largest" : "106429.7599139999947510659694671630859375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "106429.7599139999947510659694671630859375"
+      }, {
+        "count" : 19,
+        "item" : "5088.704515319999700295738875865936279296875"
+      }, {
+        "count" : 18,
+        "item" : "27696.7656681000007665716111660003662109375"
+      }, {
+        "count" : 17,
+        "item" : "28080.8947193999993032775819301605224609375"
+      }, {
+        "count" : 16,
+        "item" : "18386.021373299998231232166290283203125"
+      }, {
+        "count" : 15,
+        "item" : "18600.06160919999820180237293243408203125"
+      }, {
+        "count" : 14,
+        "item" : "9358.51057650000075227580964565277099609375"
+      }, {
+        "count" : 13,
+        "item" : "33814.7675106000024243257939815521240234375"
+      }, {
+        "count" : 12,
+        "item" : "15922.28815340000073774717748165130615234375"
+      }, {
+        "count" : 11,
+        "item" : "11256.938205500000549363903701305389404296875"
+      }, {
+        "count" : 10,
+        "item" : "69941.71530969999730587005615234375"
+      }, {
+        "count" : 9,
+        "item" : "42571.44552310000290162861347198486328125"
+      }, {
+        "count" : 8,
+        "item" : "5105.651699230000303941778838634490966796875"
+      }, {
+        "count" : 7,
+        "item" : "4967.98879063999993377365171909332275390625"
+      }, {
+        "count" : 6,
+        "item" : "5099.4643710099999225349165499210357666015625"
+      }, {
+        "count" : 5,
+        "item" : "4893.2268882700000176555477082729339599609375"
+      }, {
+        "count" : 4,
+        "item" : "4873.04849853999985498376190662384033203125"
+      }, {
+        "count" : 3,
+        "item" : "18971.120713299998897127807140350341796875"
+      }, {
+        "count" : 2,
+        "item" : "42901.080344100002548657357692718505859375"
+      }, {
+        "count" : 1,
+        "item" : "50027.9159731000036117620766162872314453125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989507,
+    "name" : "len",
+    "dataTypeName" : "number",
+    "description" : "len",
+    "fieldName" : "len",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564753,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 116,
+      "smallest" : "296.7650951790000135588343255221843719482421875",
+      "sum" : "105531.02894033699976716889068484306335449218750000",
+      "null" : 0,
+      "average" : "909.7502494856638",
+      "largest" : "1359.68499440000005051842890679836273193359375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1359.68499440000005051842890679836273193359375"
+      }, {
+        "count" : 19,
+        "item" : "302.04980471200002511977800168097019195556640625"
+      }, {
+        "count" : 18,
+        "item" : "678.07150111700002526049502193927764892578125"
+      }, {
+        "count" : 17,
+        "item" : "682.8162268610000182889052666723728179931640625"
+      }, {
+        "count" : 16,
+        "item" : "554.6465151610000248183496296405792236328125"
+      }, {
+        "count" : 15,
+        "item" : "558.3229196329999695080914534628391265869140625"
+      }, {
+        "count" : 14,
+        "item" : "414.7170366589999730422277934849262237548828125"
+      }, {
+        "count" : 13,
+        "item" : "734.348473409999996874830685555934906005859375"
+      }, {
+        "count" : 12,
+        "item" : "517.9536739070000521678593941032886505126953125"
+      }, {
+        "count" : 11,
+        "item" : "428.00608836999998629835317842662334442138671875"
+      }, {
+        "count" : 10,
+        "item" : "1078.919303370000079667079262435436248779296875"
+      }, {
+        "count" : 9,
+        "item" : "834.986678341000015279860235750675201416015625"
+      }, {
+        "count" : 8,
+        "item" : "303.30290513400001373156555928289890289306640625"
+      }, {
+        "count" : 7,
+        "item" : "299.26930736499997465216438286006450653076171875"
+      }, {
+        "count" : 6,
+        "item" : "301.9460829050000256756902672350406646728515625"
+      }, {
+        "count" : 5,
+        "item" : "296.7650951790000135588343255221843719482421875"
+      }, {
+        "count" : 4,
+        "item" : "296.81991968400001269401400350034236907958984375"
+      }, {
+        "count" : 3,
+        "item" : "587.14198446199998215888626873493194580078125"
+      }, {
+        "count" : 2,
+        "item" : "829.356004214999984469613991677761077880859375"
+      }, {
+        "count" : 1,
+        "item" : "937.78098519900004248484037816524505615234375"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989508,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564754,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 116,
+      "smallest" : "296.76507399694088462638319469988346099853515625",
+      "sum" : "105531.03215800901239163067657500505447387695312500",
+      "null" : 0,
+      "average" : "909.7502772242156",
+      "largest" : "1359.68493190379967927583493292331695556640625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1359.68493190379967927583493292331695556640625"
+      }, {
+        "count" : 19,
+        "item" : "302.0502586086230394357698969542980194091796875"
+      }, {
+        "count" : 18,
+        "item" : "678.0715082487704421509988605976104736328125"
+      }, {
+        "count" : 17,
+        "item" : "682.8161842220443986661848612129688262939453125"
+      }, {
+        "count" : 16,
+        "item" : "554.646353030252839744207449257373809814453125"
+      }, {
+        "count" : 15,
+        "item" : "558.322972151754356673336587846279144287109375"
+      }, {
+        "count" : 14,
+        "item" : "414.717088370159444821183569729328155517578125"
+      }, {
+        "count" : 13,
+        "item" : "734.3490695955086948742973618209362030029296875"
+      }, {
+        "count" : 12,
+        "item" : "517.9534327964314570635906420648097991943359375"
+      }, {
+        "count" : 11,
+        "item" : "428.00617823663793615196482278406620025634765625"
+      }, {
+        "count" : 10,
+        "item" : "1078.91904834492515874444507062435150146484375"
+      }, {
+        "count" : 9,
+        "item" : "834.9867188624465370594407431781291961669921875"
+      }, {
+        "count" : 8,
+        "item" : "303.3031533432809965233900584280490875244140625"
+      }, {
+        "count" : 7,
+        "item" : "299.26964854421891004676581360399723052978515625"
+      }, {
+        "count" : 6,
+        "item" : "301.946226779461312617058865725994110107421875"
+      }, {
+        "count" : 5,
+        "item" : "296.76507399694088462638319469988346099853515625"
+      }, {
+        "count" : 4,
+        "item" : "296.82008817593208505059010349214076995849609375"
+      }, {
+        "count" : 3,
+        "item" : "587.142317881081680752686224877834320068359375"
+      }, {
+        "count" : 2,
+        "item" : "829.356158281219904893077909946441650390625"
+      }, {
+        "count" : 1,
+        "item" : "937.78115136249334682361222803592681884765625"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989509,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564755,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 116,
+      "smallest" : "4873.051994100518641062080860137939453125",
+      "sum" : "5937319.8987821315777182462625205516815185546875",
+      "null" : 0,
+      "average" : "51183.79223088044",
+      "largest" : "106429.755345695652067661285400390625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "106429.755345695652067661285400390625"
+      }, {
+        "count" : 19,
+        "item" : "5088.721045995511303772218525409698486328125"
+      }, {
+        "count" : 18,
+        "item" : "27696.7927770839378354139626026153564453125"
+      }, {
+        "count" : 17,
+        "item" : "28080.88902798978597274981439113616943359375"
+      }, {
+        "count" : 16,
+        "item" : "18386.03714746050536632537841796875"
+      }, {
+        "count" : 15,
+        "item" : "18600.0756793667460442520678043365478515625"
+      }, {
+        "count" : 14,
+        "item" : "9358.518364026580456993542611598968505859375"
+      }, {
+        "count" : 13,
+        "item" : "33814.797119359500356949865818023681640625"
+      }, {
+        "count" : 12,
+        "item" : "15922.278461214051276328973472118377685546875"
+      }, {
+        "count" : 11,
+        "item" : "11256.9423885563373914919793605804443359375"
+      }, {
+        "count" : 10,
+        "item" : "69941.661025029738084413111209869384765625"
+      }, {
+        "count" : 9,
+        "item" : "42571.4709832797452691011130809783935546875"
+      }, {
+        "count" : 8,
+        "item" : "5105.657558655715547502040863037109375"
+      }, {
+        "count" : 7,
+        "item" : "4968.00096945153200067579746246337890625"
+      }, {
+        "count" : 6,
+        "item" : "5099.469572425776277668774127960205078125"
+      }, {
+        "count" : 5,
+        "item" : "4893.2294257629428102518431842327117919921875"
+      }, {
+        "count" : 4,
+        "item" : "4873.051994100518641062080860137939453125"
+      }, {
+        "count" : 3,
+        "item" : "18971.141951949233771301805973052978515625"
+      }, {
+        "count" : 2,
+        "item" : "42901.09608826923067681491374969482421875"
+      }, {
+        "count" : 1,
+        "item" : "50027.9327582909827469848096370697021484375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564750,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564751
+      } ],
+      "latitudeId" : 1564749
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DPR_Soccer_Football_001_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "PARKNUMBER",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DPR_Soccer_Football_001",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E6A5EC99-961E-49BF-96BC-51A56EF7A0CD",
+      "name" : "DPR_Soccer_Football_001.zip",
+      "filename" : "DPR_Soccer_Football_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1201119795677,
+    "lat" : 40.9014197065576
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7384484255971,
+    "lat" : 40.572617645687
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "cartography", "soccer", "football", "field", "sports", "game", "geographic", "healthy living" ],
+  "flags" : [ "default" ]
+}

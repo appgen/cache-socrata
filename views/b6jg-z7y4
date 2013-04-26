@@ -1,0 +1,690 @@
+{
+  "id" : "b6jg-z7y4",
+  "name" : "Eric 1",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1352483786,
+  "description" : "Planimetric basemap polygon layer containing hydro structures, such as Piers, and Seawalls.",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 1612284,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115537,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244118,
+  "totalTimesRated" : 0,
+  "viewCount" : 30,
+  "viewLastModified" : 1352483902,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 27651265,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564254,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "1",
+      "sum" : "1133265",
+      "null" : 0,
+      "average" : "753",
+      "largest" : "1505",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1477"
+      }, {
+        "count" : 19,
+        "item" : "1478"
+      }, {
+        "count" : 18,
+        "item" : "1479"
+      }, {
+        "count" : 17,
+        "item" : "1480"
+      }, {
+        "count" : 16,
+        "item" : "1481"
+      }, {
+        "count" : 15,
+        "item" : "1482"
+      }, {
+        "count" : 14,
+        "item" : "1483"
+      }, {
+        "count" : 13,
+        "item" : "1484"
+      }, {
+        "count" : 12,
+        "item" : "1485"
+      }, {
+        "count" : 11,
+        "item" : "1486"
+      }, {
+        "count" : 10,
+        "item" : "1487"
+      }, {
+        "count" : 9,
+        "item" : "1488"
+      }, {
+        "count" : 8,
+        "item" : "1489"
+      }, {
+        "count" : 7,
+        "item" : "1490"
+      }, {
+        "count" : 6,
+        "item" : "1491"
+      }, {
+        "count" : 5,
+        "item" : "1492"
+      }, {
+        "count" : 4,
+        "item" : "1493"
+      }, {
+        "count" : 3,
+        "item" : "1494"
+      }, {
+        "count" : 2,
+        "item" : "1495"
+      }, {
+        "count" : 1,
+        "item" : "1496"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 27651266,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564255,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 27651267,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564256,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "4 ST. BASIN",
+      "null" : 0,
+      "largest" : "WOODLAWN LAKE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MARSH"
+      }, {
+        "count" : 19,
+        "item" : "unset"
+      }, {
+        "count" : 18,
+        "item" : "NO NAME"
+      }, {
+        "count" : 17,
+        "item" : "POND"
+      }, {
+        "count" : 16,
+        "item" : "TURTLE COVE"
+      }, {
+        "count" : 15,
+        "item" : "NECK CREEK"
+      }, {
+        "count" : 14,
+        "item" : "OLD PLACE CREEK"
+      }, {
+        "count" : 13,
+        "item" : "TOTTENVILLE BEACH"
+      }, {
+        "count" : 12,
+        "item" : "ANNADALE BEACH"
+      }, {
+        "count" : 11,
+        "item" : "FRESH CREEK BASIN"
+      }, {
+        "count" : 10,
+        "item" : "HUDSON RIVER"
+      }, {
+        "count" : 9,
+        "item" : "EAST RIVER"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 27651268,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564257,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "1261000005",
+      "sum" : "20515290244595",
+      "null" : 0,
+      "average" : "13631422089.43189",
+      "largest" : "20266000003",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19263000036"
+      }, {
+        "count" : 19,
+        "item" : "19263000037"
+      }, {
+        "count" : 18,
+        "item" : "19263000038"
+      }, {
+        "count" : 17,
+        "item" : "19266000043"
+      }, {
+        "count" : 16,
+        "item" : "20261000001"
+      }, {
+        "count" : 15,
+        "item" : "20266000003"
+      }, {
+        "count" : 14,
+        "item" : "20261000004"
+      }, {
+        "count" : 13,
+        "item" : "20265000007"
+      }, {
+        "count" : 12,
+        "item" : "20262000009"
+      }, {
+        "count" : 11,
+        "item" : "20264000011"
+      }, {
+        "count" : 10,
+        "item" : "20261000013"
+      }, {
+        "count" : 9,
+        "item" : "20261000014"
+      }, {
+        "count" : 8,
+        "item" : "20263000015"
+      }, {
+        "count" : 7,
+        "item" : "20261000016"
+      }, {
+        "count" : 6,
+        "item" : "20263000017"
+      }, {
+        "count" : 5,
+        "item" : "20261000018"
+      }, {
+        "count" : 4,
+        "item" : "20261000020"
+      }, {
+        "count" : 3,
+        "item" : "20263000022"
+      }, {
+        "count" : 2,
+        "item" : "20263000023"
+      }, {
+        "count" : 1,
+        "item" : "20264000024"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 27651269,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564258,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "2600",
+      "sum" : "3952900",
+      "null" : 0,
+      "average" : "2626.511627906977",
+      "largest" : "2660",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2640"
+      }, {
+        "count" : 19,
+        "item" : "2610"
+      }, {
+        "count" : 18,
+        "item" : "2650"
+      }, {
+        "count" : 17,
+        "item" : "2660"
+      }, {
+        "count" : 16,
+        "item" : "2630"
+      }, {
+        "count" : 15,
+        "item" : "2600"
+      }, {
+        "count" : 14,
+        "item" : "2620"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 27651270,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564259,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "260000",
+      "sum" : "395290000",
+      "null" : 0,
+      "average" : "262651.1627906977",
+      "largest" : "266000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "264000"
+      }, {
+        "count" : 19,
+        "item" : "261000"
+      }, {
+        "count" : 18,
+        "item" : "265000"
+      }, {
+        "count" : 17,
+        "item" : "266000"
+      }, {
+        "count" : 16,
+        "item" : "263000"
+      }, {
+        "count" : 15,
+        "item" : "260000"
+      }, {
+        "count" : 14,
+        "item" : "262000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 27651271,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564260,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "33.41698928040080573964587529189884662628173828125",
+      "sum" : "6816925.02005393067931748873888864181935787200927734375",
+      "null" : 0,
+      "average" : "4529.518285750120",
+      "largest" : "247625.69887021207250654697418212890625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8344.4639480697296676225960254669189453125"
+      }, {
+        "count" : 19,
+        "item" : "2752.84164902677957798005081713199615478515625"
+      }, {
+        "count" : 18,
+        "item" : "2966.597318862777683534659445285797119140625"
+      }, {
+        "count" : 17,
+        "item" : "3564.76210901964850563672371208667755126953125"
+      }, {
+        "count" : 16,
+        "item" : "249.640137977225123222524416632950305938720703125"
+      }, {
+        "count" : 15,
+        "item" : "15505.5644684823128045536577701568603515625"
+      }, {
+        "count" : 14,
+        "item" : "334.9009753160656828185892663896083831787109375"
+      }, {
+        "count" : 13,
+        "item" : "7982.0517702585275401361286640167236328125"
+      }, {
+        "count" : 12,
+        "item" : "2317.947597101489009219221770763397216796875"
+      }, {
+        "count" : 11,
+        "item" : "1137.331402002050481314654462039470672607421875"
+      }, {
+        "count" : 10,
+        "item" : "687.7401086034152513093431480228900909423828125"
+      }, {
+        "count" : 9,
+        "item" : "188.857994037465459769009612500667572021484375"
+      }, {
+        "count" : 8,
+        "item" : "3096.362466516287895501591265201568603515625"
+      }, {
+        "count" : 7,
+        "item" : "278.08897683437857040189555846154689788818359375"
+      }, {
+        "count" : 6,
+        "item" : "15713.58331115862893057055771350860595703125"
+      }, {
+        "count" : 5,
+        "item" : "218.54188162608721768265240825712680816650390625"
+      }, {
+        "count" : 4,
+        "item" : "211.608259497008248217753134667873382568359375"
+      }, {
+        "count" : 3,
+        "item" : "2385.8656966996795745217241346836090087890625"
+      }, {
+        "count" : 2,
+        "item" : "326.5884444798224421901977621018886566162109375"
+      }, {
+        "count" : 1,
+        "item" : "2619.03354167867973956163041293621063232421875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 27651272,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564261,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1505,
+      "smallest" : "60.45710952829910667105650645680725574493408203125",
+      "sum" : "2800615971.45325913165924447412180597893893718719482421875",
+      "null" : 0,
+      "average" : "1860874.399636717",
+      "largest" : "389921810.17293453216552734375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "763986.043651552055962383747100830078125"
+      }, {
+        "count" : 19,
+        "item" : "218614.05868419891339726746082305908203125"
+      }, {
+        "count" : 18,
+        "item" : "253917.0928738037473522126674652099609375"
+      }, {
+        "count" : 17,
+        "item" : "347423.0188442561193369328975677490234375"
+      }, {
+        "count" : 16,
+        "item" : "2711.03917858901922954828478395938873291015625"
+      }, {
+        "count" : 15,
+        "item" : "3671726.4656943320296704769134521484375"
+      }, {
+        "count" : 14,
+        "item" : "5213.322525264497016905806958675384521484375"
+      }, {
+        "count" : 13,
+        "item" : "261491.4137000844930298626422882080078125"
+      }, {
+        "count" : 12,
+        "item" : "286424.873883794876746833324432373046875"
+      }, {
+        "count" : 11,
+        "item" : "38954.0711055676802061498165130615234375"
+      }, {
+        "count" : 10,
+        "item" : "13405.5319000850431621074676513671875"
+      }, {
+        "count" : 9,
+        "item" : "2457.6321460579029007931239902973175048828125"
+      }, {
+        "count" : 8,
+        "item" : "31710.80037134467056603170931339263916015625"
+      }, {
+        "count" : 7,
+        "item" : "3773.360560384475320461206138134002685546875"
+      }, {
+        "count" : 6,
+        "item" : "1535745.93591134436428546905517578125"
+      }, {
+        "count" : 5,
+        "item" : "1701.820036888025924781686626374721527099609375"
+      }, {
+        "count" : 4,
+        "item" : "2291.7406714922335595474578440189361572265625"
+      }, {
+        "count" : 3,
+        "item" : "23308.60124956706931698136031627655029296875"
+      }, {
+        "count" : 2,
+        "item" : "6602.909405084084937698207795619964599609375"
+      }, {
+        "count" : 1,
+        "item" : "123872.563777829127502627670764923095703125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.543289,
+      "ymax" : 40.929858,
+      "xmin" : -74.231404,
+      "xmax" : -73.352498
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564255,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564256
+      } ],
+      "latitudeId" : 1564254
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_6.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "264000",
+        "codedValues_1.name" : "Wetland"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_7" : {
+        "id" : "2600",
+        "name" : "Lake/Reservoir"
+      },
+      "types_6" : {
+        "id" : "2640",
+        "name" : "Wetland"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSFS",
+        "defaultSymbol.style" : "esriSFSSolid"
+      },
+      "types_1" : {
+        "id" : "2630",
+        "name" : "Stream wider than 8 feet"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroBay"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroStream"
+      },
+      "types_4.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "265000",
+        "codedValues_1.name" : "Beach/Shoreline"
+      },
+      "types_4" : {
+        "id" : "2650",
+        "name" : "Beach/Shoreline"
+      },
+      "types_5" : {
+        "id" : "2620",
+        "name" : "River"
+      },
+      "types_2" : {
+        "id" : "2660",
+        "name" : "Bay/Ocean"
+      },
+      "types_3" : {
+        "id" : "2610",
+        "name" : "Pond"
+      },
+      "types_5.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "262000",
+        "codedValues_1.name" : "River"
+      },
+      "drawingInfo.renderer.defaultSymbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "types_7.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "260000",
+        "codedValues_1.name" : "Lake/Reservoir"
+      },
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "266000",
+        "codedValues_1.name" : "Bay/Ocean"
+      },
+      "types_4.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroBeach"
+      },
+      "types_7.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroLake"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "263000",
+        "codedValues_1.name" : "Stream wider than 8 feet"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "261000",
+        "codedValues_1.name" : "Pond"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_HYDROGRAPHY_01_282009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_HYDROGRAPHY_01_282009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "types_6.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroWetland"
+      },
+      "types_5.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroRiver"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dHydroPond"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "C44B1716-9529-40FE-805F-7ABE94A83444",
+      "name" : "DOITT_HYDROGRAPHY_STRUCTUR.zip",
+      "filename" : "DOITT_HYDROGRAPHY_STRUCTUR.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "sfg6-shfk",
+    "displayName" : "Eric",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1352474949,
+    "screenName" : "Eric"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "hydrography", "water", "feature", "hydro structure", "pier", "seawall", "sea" ]
+}

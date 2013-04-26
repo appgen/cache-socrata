@@ -1,0 +1,919 @@
+{
+  "id" : "8rm5-7frk",
+  "name" : "Lower Manhattan parking 2",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1334938101,
+  "description" : "A list of all parking facilities in New York City",
+  "displayType" : "map",
+  "downloadCount" : 35,
+  "numberOfComments" : 0,
+  "oid" : 615115,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311974171,
+  "publicationGroup" : 239011,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895287,
+  "rowsUpdatedBy" : "4f6h-73aa",
+  "signed" : false,
+  "tableId" : 239011,
+  "totalTimesRated" : 0,
+  "viewCount" : 51,
+  "viewLastModified" : 1354318905,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 8117585,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1503100,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "10004",
+      "sum" : "603782",
+      "null" : 0,
+      "average" : "10063.03333333333",
+      "largest" : "10280",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10038"
+      }, {
+        "count" : 19,
+        "item" : "10280"
+      }, {
+        "count" : 18,
+        "item" : "10004"
+      }, {
+        "count" : 17,
+        "item" : "10007"
+      }, {
+        "count" : 16,
+        "item" : "10006"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 8117586,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503095,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "Parking Garage",
+      "null" : 0,
+      "largest" : "Parking Lot",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Parking Garage"
+      }, {
+        "count" : 19,
+        "item" : "Parking Lot"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 8117587,
+    "name" : "Address",
+    "dataTypeName" : "location",
+    "fieldName" : "address",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1503099,
+    "width" : 381,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : {
+        "longitude" : "-73.98292146163978",
+        "latitude" : "40.7103422107454",
+        "human_address" : "{\"address\":\"0 MARGINAL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.00600027423552",
+        "latitude" : "40.707952848944544",
+        "human_address" : "{\"address\":\"99 JOHN STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.0054760373078",
+          "latitude" : "40.70580055686809",
+          "human_address" : "{\"address\":\"151 MAIDEN LANE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.02022453553383",
+          "latitude" : "40.709594512276965",
+          "human_address" : "{\"address\":\"345 END AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10280\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.01607107017156",
+          "latitude" : "40.7091721635681",
+          "human_address" : "{\"address\":\"225 RECTOR PLACE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10280\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.00664111293425",
+          "latitude" : "40.7068706331698",
+          "human_address" : "{\"address\":\"201 PEARL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.98292146163978",
+          "latitude" : "40.7103422107454",
+          "human_address" : "{\"address\":\"0 MARGINAL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.00307186237649",
+          "latitude" : "40.70935929189784",
+          "human_address" : "{\"address\":\"288 294 PEARL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.00486308942631",
+          "latitude" : "40.70764561257178",
+          "human_address" : "{\"address\":\"243 PEARL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.00307186237649",
+          "latitude" : "40.70935929189784",
+          "human_address" : "{\"address\":\"296 298 PEARL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.00781024309606",
+          "latitude" : "40.71241494274793",
+          "human_address" : "{\"address\":\"233 BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10007\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.00913138370635",
+          "latitude" : "40.71363051943297",
+          "human_address" : "{\"address\":\"86 90 WARREN STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10007\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-74.0069799015462",
+          "latitude" : "40.707666076777535",
+          "human_address" : "{\"address\":\"13 GOLD ST\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.00307186237649",
+          "latitude" : "40.70935929189784",
+          "human_address" : "{\"address\":\"57 61 ANN STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-74.00957483387845",
+          "latitude" : "40.714871256768724",
+          "human_address" : "{\"address\":\"67 WARREN STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10007\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-74.0069799015462",
+          "latitude" : "40.707666076777535",
+          "human_address" : "{\"address\":\"13 GOLD STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-74.01494877823171",
+          "latitude" : "40.7090930888436",
+          "human_address" : "{\"address\":\"75 WEST STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10006\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-74.00307186237649",
+          "latitude" : "40.70935929189784",
+          "human_address" : "{\"address\":\"39366 PECK\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.98292146163978",
+          "latitude" : "40.7103422107454",
+          "human_address" : "{\"address\":\"0 MARGINAL STREET\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.75575331557039",
+          "latitude" : "40.73547283631498",
+          "human_address" : "{\"address\":\"0 PECK\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-74.0054760373078",
+          "latitude" : "40.70580055686809",
+          "human_address" : "{\"address\":\"151 MAIDEN LANE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10038\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 8117588,
+    "name" : "Number of Spaces",
+    "dataTypeName" : "number",
+    "fieldName" : "number_of_spaces",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1503102,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "9",
+      "sum" : "8057",
+      "null" : 0,
+      "average" : "134.2833333333333",
+      "largest" : "988",
+      "top" : [ {
+        "count" : 20,
+        "item" : "149"
+      }, {
+        "count" : 19,
+        "item" : "36"
+      }, {
+        "count" : 18,
+        "item" : "150"
+      }, {
+        "count" : 17,
+        "item" : "100"
+      }, {
+        "count" : 16,
+        "item" : "67"
+      }, {
+        "count" : 15,
+        "item" : "65"
+      }, {
+        "count" : 14,
+        "item" : "72"
+      }, {
+        "count" : 13,
+        "item" : "52"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "276"
+      }, {
+        "count" : 10,
+        "item" : "50"
+      }, {
+        "count" : 9,
+        "item" : "38"
+      }, {
+        "count" : 8,
+        "item" : "105"
+      }, {
+        "count" : 7,
+        "item" : "60"
+      }, {
+        "count" : 6,
+        "item" : "58"
+      }, {
+        "count" : 5,
+        "item" : "18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 8117589,
+    "name" : "License Number",
+    "dataTypeName" : "text",
+    "fieldName" : "license_number",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503104,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "1013974",
+      "null" : 0,
+      "largest" : "954597",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1345757"
+      }, {
+        "count" : 19,
+        "item" : "1316589"
+      }, {
+        "count" : 18,
+        "item" : "1334110"
+      }, {
+        "count" : 17,
+        "item" : "1320741"
+      }, {
+        "count" : 16,
+        "item" : "1213666"
+      }, {
+        "count" : 15,
+        "item" : "1175517"
+      }, {
+        "count" : 14,
+        "item" : "1068100"
+      }, {
+        "count" : 13,
+        "item" : "1175521"
+      }, {
+        "count" : 12,
+        "item" : "1170235"
+      }, {
+        "count" : 11,
+        "item" : "1280753"
+      }, {
+        "count" : 10,
+        "item" : "1361126"
+      }, {
+        "count" : 9,
+        "item" : "1154973"
+      }, {
+        "count" : 8,
+        "item" : "427285"
+      }, {
+        "count" : 7,
+        "item" : "1040786"
+      }, {
+        "count" : 6,
+        "item" : "1181110"
+      }, {
+        "count" : 5,
+        "item" : "1202411"
+      }, {
+        "count" : 4,
+        "item" : "1213656"
+      }, {
+        "count" : 3,
+        "item" : "1213660"
+      }, {
+        "count" : 2,
+        "item" : "1316793"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  }, {
+    "id" : 8117590,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503097,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "100 ML GARAGE CORP",
+      "null" : 0,
+      "largest" : "WOLF, RAYMOND ET AL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK INC"
+      }, {
+        "count" : 19,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC"
+      }, {
+        "count" : 18,
+        "item" : "CENTRAL PARKING SYSTEM OF NEW YORK, INC."
+      }, {
+        "count" : 17,
+        "item" : "PEARL PARKING LLC"
+      }, {
+        "count" : 16,
+        "item" : "ROYAL CAR PARK, LLC"
+      }, {
+        "count" : 15,
+        "item" : "GOTHAM PARKING LLC"
+      }, {
+        "count" : 14,
+        "item" : "ANN PARK LLC"
+      }, {
+        "count" : 13,
+        "item" : "69 WARREN STREET PARKING CORP"
+      }, {
+        "count" : 12,
+        "item" : "M.C. PARKING LLC"
+      }, {
+        "count" : 11,
+        "item" : "CARLISLE PARKING LLC"
+      }, {
+        "count" : 10,
+        "item" : "PROPARK AMERICA NEW YORK, LLC"
+      }, {
+        "count" : 9,
+        "item" : "PROPARK AMERICA NEW YORK, LLC."
+      }, {
+        "count" : 8,
+        "item" : "PROPARK AMERICA NEW YORK LLC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 8117591,
+    "name" : "Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "trade_name",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503098,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "25-27 BEEKMAN ST    ASSOCIATES",
+      "null" : 52,
+      "largest" : "MEYERS PARKING SYSTEM",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25-27 BEEKMAN ST    ASSOCIATES"
+      }, {
+        "count" : 19,
+        "item" : "GGMC"
+      }, {
+        "count" : 18,
+        "item" : "KRM LTD"
+      }, {
+        "count" : 17,
+        "item" : "MEYERS PARKING SYSTEM"
+      }, {
+        "count" : 16,
+        "item" : "IMPARK"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 8117592,
+    "name" : "Telephone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "telephone_number",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1503105,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 60,
+      "smallest" : "2122216111",
+      "null" : 0,
+      "largest" : "9144786300",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2128661000"
+      }, {
+        "count" : 19,
+        "item" : "2125137143"
+      }, {
+        "count" : 18,
+        "item" : "2128389092"
+      }, {
+        "count" : 17,
+        "item" : "2124072516"
+      }, {
+        "count" : 16,
+        "item" : "2125649199"
+      }, {
+        "count" : 15,
+        "item" : "2127367171"
+      }, {
+        "count" : 14,
+        "item" : "2126869800"
+      }, {
+        "count" : 13,
+        "item" : "2129966363"
+      }, {
+        "count" : 12,
+        "item" : "2125025490"
+      }, {
+        "count" : 11,
+        "item" : "2122435900"
+      }, {
+        "count" : 10,
+        "item" : "2125942560"
+      }, {
+        "count" : 9,
+        "item" : "2127869564"
+      }, {
+        "count" : 8,
+        "item" : "2123859182"
+      }, {
+        "count" : 7,
+        "item" : "2129378660"
+      }, {
+        "count" : 6,
+        "item" : "2125358670"
+      }, {
+        "count" : 5,
+        "item" : "9144786300"
+      }, {
+        "count" : 4,
+        "item" : "2128322066"
+      }, {
+        "count" : 3,
+        "item" : "2129453646"
+      }, {
+        "count" : 2,
+        "item" : "2124903460"
+      }, {
+        "count" : 1,
+        "item" : "2124636000"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "false"
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.695811,
+      "ymax" : 40.725739,
+      "xmin" : -74.058619,
+      "xmax" : -73.917685
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "color" : "#0000ff",
+    "exclusiveLayers" : true,
+    "flyoutsNoLabel" : true,
+    "viewDefinitions" : [ {
+      "uid" : "8rm5-7frk",
+      "viewport" : {
+        "ymin" : 40.695811,
+        "ymax" : 40.725739,
+        "xmin" : -74.058619,
+        "xmax" : -73.917685
+      },
+      "plotStyle" : "point",
+      "color" : "#0000ff",
+      "flyoutsNoLabel" : true,
+      "type" : "google",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1503099
+        }, {
+        } ],
+        "locationId" : 1503099,
+        "titleId" : 1503097
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1503099
+      }, {
+      } ],
+      "locationId" : 1503099,
+      "titleId" : 1503097
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "8rm5-7frk" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8117585,
+                "type" : "column"
+              }, {
+                "value" : "10004",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8117585,
+                "type" : "column"
+              }, {
+                "value" : "10006",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8117585,
+                "type" : "column"
+              }, {
+                "value" : "10007",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8117585,
+                "type" : "column"
+              }, {
+                "value" : "10280",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8117585,
+                "type" : "column"
+              }, {
+                "value" : "10038",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "customValues" : [ [ 10005 ], [ 10282 ], [ 10012 ], [ 10013 ], [ 10009 ], [ 10002 ] ],
+              "tableColumnId" : {
+                "239011" : 1503100
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "77an-4pzh",
+    "displayName" : "Susan",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1334935303,
+    "screenName" : "Susan"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 8117585,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10004"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 8117585,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10006"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 8117585,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10007"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 8117585,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10280"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 8117585,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10038"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "customValues" : [ [ 10005 ], [ 10282 ], [ 10012 ], [ 10013 ], [ 10009 ], [ 10002 ] ],
+          "tableColumnId" : {
+            "239011" : 1503100
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parking facilities", "car", "automobile" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 8117585,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10004"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 8117585,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10006"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 8117585,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10007"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 8117585,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10280"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 8117585,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10038"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "customValues" : [ [ 10005 ], [ 10282 ], [ 10012 ], [ 10013 ], [ 10009 ], [ 10002 ] ],
+        "tableColumnId" : {
+          "239011" : 1503100
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

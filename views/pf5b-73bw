@@ -1,0 +1,88 @@
+{
+  "id" : "pf5b-73bw",
+  "name" : "State Assembly Districts",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "DCP_nyadav_001 (5).zip",
+  "blobFileSize" : 781952,
+  "blobId" : "PW3MD8HGUIFBboNwTBowL0aVRiGSrp8VvMPTDHcreHE",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1365106900,
+  "description" : "GIS data: Boundaries of State Assembly Districts",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3070938,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366299342,
+  "publicationGroup" : 775169,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 775169,
+  "totalTimesRated" : 0,
+  "viewCount" : 11,
+  "viewLastModified" : 1366299374,
+  "viewType" : "geo",
+  "childViews" : [ "2frn-ihva" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/pf5b-73bw",
+      "bbox" : "-74.25715897480136,40.495992204977846,-73.69921518368623,40.91556552923368",
+      "layers" : "geo_pf5b-73bw-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_pf5b-73bw"
+    },
+    "attachments" : [ {
+      "blobId" : "A019B106-0A1D-4CB8-A9C1-E8908F0E949E",
+      "name" : "DCP_nyadav_001.zip",
+      "filename" : "DCP_nyadav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "gis data: state assembly districts", "boundary", "boundaries", "dcp", "city planning", "politics" ],
+  "flags" : [ "default" ]
+}

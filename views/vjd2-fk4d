@@ -1,0 +1,272 @@
+{
+  "id" : "vjd2-fk4d",
+  "name" : "Airport Polygon (City Airport Runways)",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318023793,
+  "description" : "Polygon representing the runways in the city airports.\r\n\r\nUpdate Frequency: As Needed",
+  "displayType" : "map",
+  "downloadCount" : 42,
+  "numberOfComments" : 0,
+  "oid" : 341804,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023803,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243888,
+  "totalTimesRated" : 0,
+  "viewCount" : 227,
+  "viewLastModified" : 1360611498,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2979997,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561118,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "1",
+      "sum" : "3",
+      "null" : 0,
+      "average" : "1.5",
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979998,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1561119,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2979999,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561120,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "John F. Kennedy International Airport",
+      "null" : 0,
+      "largest" : "La Guardia Airport",
+      "top" : [ {
+        "count" : 20,
+        "item" : "La Guardia Airport"
+      }, {
+        "count" : 19,
+        "item" : "John F. Kennedy International Airport"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980000,
+    "name" : "AREA",
+    "dataTypeName" : "number",
+    "description" : "AREA",
+    "fieldName" : "area",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561121,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "17879876.6217000000178813934326171875",
+      "sum" : "115273845.6503000073134899139404296875",
+      "null" : 0,
+      "average" : "57636922.82515000",
+      "largest" : "97393969.0286000072956085205078125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17879876.6217000000178813934326171875"
+      }, {
+        "count" : 19,
+        "item" : "97393969.0286000072956085205078125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980001,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561122,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "37821.423059815235319547355175018310546875",
+      "sum" : "210913.926746840166742913424968719482421875",
+      "null" : 0,
+      "average" : "105456.9633734201",
+      "largest" : "173092.503687024931423366069793701171875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "37821.423059815235319547355175018310546875"
+      }, {
+        "count" : 19,
+        "item" : "173092.503687024931423366069793701171875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980002,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561123,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "17879876.460645146667957305908203125",
+      "sum" : "115273844.799230314791202545166015625",
+      "null" : 0,
+      "average" : "57636922.39961516",
+      "largest" : "97393968.3385851681232452392578125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17879876.460645146667957305908203125"
+      }, {
+        "count" : 19,
+        "item" : "97393968.3385851681232452392578125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561119,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561120
+      } ],
+      "latitudeId" : 1561118
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_AIRPORT_POLYGON_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_AIRPORT_POLYGON_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "91FF38FA-E384-4518-8009-16794A5450DA",
+      "name" : "DOITT_AIRPORT_POLYGON.zip",
+      "filename" : "DOITT_AIRPORT_POLYGON.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -73.8854246847929,
+    "lat" : 40.7860335289394
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7531993081415,
+    "lat" : 40.6212902903879
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "transportation", "airport", "runway", "doitt gis" ],
+  "flags" : [ "default" ]
+}

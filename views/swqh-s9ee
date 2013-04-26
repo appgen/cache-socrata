@@ -1,0 +1,1253 @@
+{
+  "id" : "swqh-s9ee",
+  "name" : "Map of Bathrooms",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318010827,
+  "description" : "GIS Map of Bathrooms in New York City Department of Parks & Recreation properties.",
+  "displayType" : "map",
+  "downloadCount" : 303,
+  "numberOfComments" : 1,
+  "oid" : 341726,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318010893,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243824,
+  "totalTimesRated" : 0,
+  "viewCount" : 2066,
+  "viewLastModified" : 1358960451,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2978571,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559968,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "1",
+      "sum" : "175528",
+      "null" : 0,
+      "average" : "296.5",
+      "largest" : "592",
+      "top" : [ {
+        "count" : 1,
+        "item" : "40"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "549"
+      }, {
+        "count" : 1,
+        "item" : "510"
+      }, {
+        "count" : 1,
+        "item" : "472"
+      }, {
+        "count" : 1,
+        "item" : "276"
+      }, {
+        "count" : 1,
+        "item" : "520"
+      }, {
+        "count" : 1,
+        "item" : "158"
+      }, {
+        "count" : 1,
+        "item" : "106"
+      }, {
+        "count" : 1,
+        "item" : "305"
+      }, {
+        "count" : 1,
+        "item" : "580"
+      }, {
+        "count" : 1,
+        "item" : "200"
+      }, {
+        "count" : 1,
+        "item" : "21"
+      }, {
+        "count" : 1,
+        "item" : "312"
+      }, {
+        "count" : 1,
+        "item" : "517"
+      }, {
+        "count" : 1,
+        "item" : "512"
+      }, {
+        "count" : 1,
+        "item" : "589"
+      }, {
+        "count" : 1,
+        "item" : "465"
+      }, {
+        "count" : 1,
+        "item" : "271"
+      }, {
+        "count" : 1,
+        "item" : "371"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978572,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1559969,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2978573,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559970,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "1",
+      "sum" : "452176",
+      "null" : 0,
+      "average" : "763.8108108108108",
+      "largest" : "1597",
+      "top" : [ {
+        "count" : 1,
+        "item" : "1501"
+      }, {
+        "count" : 1,
+        "item" : "1"
+      }, {
+        "count" : 1,
+        "item" : "672"
+      }, {
+        "count" : 1,
+        "item" : "807"
+      }, {
+        "count" : 1,
+        "item" : "305"
+      }, {
+        "count" : 1,
+        "item" : "106"
+      }, {
+        "count" : 1,
+        "item" : "1487"
+      }, {
+        "count" : 1,
+        "item" : "1251"
+      }, {
+        "count" : 1,
+        "item" : "1025"
+      }, {
+        "count" : 1,
+        "item" : "640"
+      }, {
+        "count" : 1,
+        "item" : "615"
+      }, {
+        "count" : 1,
+        "item" : "312"
+      }, {
+        "count" : 1,
+        "item" : "1538"
+      }, {
+        "count" : 1,
+        "item" : "465"
+      }, {
+        "count" : 1,
+        "item" : "735"
+      }, {
+        "count" : 1,
+        "item" : "271"
+      }, {
+        "count" : 1,
+        "item" : "371"
+      }, {
+        "count" : 1,
+        "item" : "920"
+      }, {
+        "count" : 1,
+        "item" : "493"
+      }, {
+        "count" : 1,
+        "item" : "422"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978574,
+    "name" : "SYSTEM",
+    "dataTypeName" : "text",
+    "description" : "SYSTEM",
+    "fieldName" : "system",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559971,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "B001-BLG0989",
+      "null" : 0,
+      "largest" : "X263-BLG0833",
+      "top" : [ {
+        "count" : 1,
+        "item" : "Q012-ZN01-BLG0359"
+      }, {
+        "count" : 1,
+        "item" : "M010-BLG0681"
+      }, {
+        "count" : 1,
+        "item" : "Q015-ZN04-BLG0410"
+      }, {
+        "count" : 1,
+        "item" : "X113-BLG0776"
+      }, {
+        "count" : 1,
+        "item" : "B362-BLG1194"
+      }, {
+        "count" : 1,
+        "item" : "M037-04-BLG1550"
+      }, {
+        "count" : 1,
+        "item" : "X168-BLG0817"
+      }, {
+        "count" : 1,
+        "item" : "M238-BLG1510"
+      }, {
+        "count" : 1,
+        "item" : "Q266-BLG0628"
+      }, {
+        "count" : 1,
+        "item" : "Q015-ZN05-BLG0435"
+      }, {
+        "count" : 1,
+        "item" : "Q305-BLG0504"
+      }, {
+        "count" : 1,
+        "item" : "X201-01-BLG0865"
+      }, {
+        "count" : 1,
+        "item" : "B225-BLG1037"
+      }, {
+        "count" : 1,
+        "item" : "B345-BLG1066"
+      }, {
+        "count" : 1,
+        "item" : "B284-BLG1100"
+      }, {
+        "count" : 1,
+        "item" : "B337-BLG1129"
+      }, {
+        "count" : 1,
+        "item" : "Q391-BLG0563"
+      }, {
+        "count" : 1,
+        "item" : "Q134-BLG0496"
+      }, {
+        "count" : 1,
+        "item" : "M230-BLG1595"
+      }, {
+        "count" : 1,
+        "item" : "Q094-BLG0629"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978575,
+    "name" : "DESCRIPTIO",
+    "dataTypeName" : "text",
+    "description" : "DESCRIPTIO",
+    "fieldName" : "descriptio",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559972,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "A.R.R.O.W. FIeld House-Building",
+      "null" : 0,
+      "largest" : "Yellowstone Park-Katzman Playground-Building",
+      "top" : [ {
+        "count" : 10,
+        "item" : "Forest Park-Building"
+      }, {
+        "count" : 9,
+        "item" : "Playground-Building"
+      }, {
+        "count" : 6,
+        "item" : "Clearview Park & Golf Course-Building"
+      }, {
+        "count" : 6,
+        "item" : "Ps 143 Playground (louis Armstrong)-Building"
+      }, {
+        "count" : 5,
+        "item" : "FMCP-Queens Wildlife Center, Terrace On The Park, Ny Hall Of Science-Building"
+      }, {
+        "count" : 4,
+        "item" : "Kissena Park-Building"
+      }, {
+        "count" : 4,
+        "item" : "Astoria Park-Astoria Park-zone 2-Building"
+      }, {
+        "count" : 3,
+        "item" : "Park (bayside Hs Athletic Fld)-Building"
+      }, {
+        "count" : 3,
+        "item" : "Alley Park (athletic)-Building"
+      }, {
+        "count" : 3,
+        "item" : "Jackie Robinson Park-Building"
+      }, {
+        "count" : 3,
+        "item" : "Forest Park-Victory Field-Building"
+      }, {
+        "count" : 3,
+        "item" : "Lawrence C Thompson Mem Park-Building"
+      }, {
+        "count" : 2,
+        "item" : "Central Park-Conservatory Garden-Building"
+      }, {
+        "count" : 2,
+        "item" : "Belmont Playground-Building"
+      }, {
+        "count" : 2,
+        "item" : "Ps 174 Playground (mount Playground)-Building"
+      }, {
+        "count" : 2,
+        "item" : "Riverside Park-Building"
+      }, {
+        "count" : 2,
+        "item" : "Playground (pratt)-Building"
+      }, {
+        "count" : 2,
+        "item" : "Cunningham Park-Cunningham Park Zone 2-Building"
+      }, {
+        "count" : 2,
+        "item" : "Ps 200 Playground-Building"
+      }, {
+        "count" : 2,
+        "item" : "Gen Douglas Macarthur Park-Building"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978576,
+    "name" : "ORGANIZATI",
+    "dataTypeName" : "text",
+    "description" : "ORGANIZATI",
+    "fieldName" : "organizati",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559973,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "NYCPARKS",
+      "null" : 0,
+      "largest" : "NYCPARKS",
+      "top" : [ {
+        "count" : 592,
+        "item" : "NYCPARKS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978577,
+    "name" : "CLASS",
+    "dataTypeName" : "text",
+    "description" : "CLASS",
+    "fieldName" : "class",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559974,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "BUILDING",
+      "null" : 0,
+      "largest" : "BUILDING",
+      "top" : [ {
+        "count" : 592,
+        "item" : "BUILDING"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978578,
+    "name" : "STATUS",
+    "dataTypeName" : "text",
+    "description" : "STATUS",
+    "fieldName" : "status",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559975,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "I",
+      "null" : 0,
+      "largest" : "X",
+      "top" : [ {
+        "count" : 575,
+        "item" : "X"
+      }, {
+        "count" : 17,
+        "item" : "I"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978579,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "description" : "TYPE",
+    "fieldName" : "type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559976,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "S",
+      "null" : 0,
+      "largest" : "S",
+      "top" : [ {
+        "count" : 592,
+        "item" : "S"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978580,
+    "name" : "PARENTID",
+    "dataTypeName" : "text",
+    "description" : "PARENTID",
+    "fieldName" : "parentid",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559977,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X263",
+      "top" : [ {
+        "count" : 9,
+        "item" : "Q015"
+      }, {
+        "count" : 6,
+        "item" : "Q415"
+      }, {
+        "count" : 6,
+        "item" : "Q010"
+      }, {
+        "count" : 5,
+        "item" : "Q099-ZN18"
+      }, {
+        "count" : 5,
+        "item" : "Q015-ZN06"
+      }, {
+        "count" : 5,
+        "item" : "Q099"
+      }, {
+        "count" : 4,
+        "item" : "Q004-ZN02"
+      }, {
+        "count" : 4,
+        "item" : "Q024"
+      }, {
+        "count" : 3,
+        "item" : "Q387A"
+      }, {
+        "count" : 3,
+        "item" : "R109"
+      }, {
+        "count" : 3,
+        "item" : "Q015-ZN05"
+      }, {
+        "count" : 3,
+        "item" : "Q015-ZN04"
+      }, {
+        "count" : 3,
+        "item" : "Q001A"
+      }, {
+        "count" : 2,
+        "item" : "Q001"
+      }, {
+        "count" : 2,
+        "item" : "Q015-ZN07"
+      }, {
+        "count" : 2,
+        "item" : "B310"
+      }, {
+        "count" : 2,
+        "item" : "Q411"
+      }, {
+        "count" : 2,
+        "item" : "M010-ZN40"
+      }, {
+        "count" : 2,
+        "item" : "X108"
+      }, {
+        "count" : 2,
+        "item" : "Q015-ZN01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978581,
+    "name" : "PARENTORG",
+    "dataTypeName" : "text",
+    "description" : "PARENTORG",
+    "fieldName" : "parentorg",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559978,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "NYCPARKS",
+      "top" : [ {
+        "count" : 337,
+        "item" : " "
+      }, {
+        "count" : 255,
+        "item" : "NYCPARKS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978582,
+    "name" : "COMMISSION",
+    "dataTypeName" : "date",
+    "description" : "COMMISSION",
+    "fieldName" : "commission",
+    "position" : 12,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1559979,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : -2209132800,
+      "null" : 0,
+      "largest" : 1248246000,
+      "top" : [ {
+        "count" : 336,
+        "item" : -2209132800
+      }, {
+        "count" : 245,
+        "item" : 1235116800
+      }, {
+        "count" : 6,
+        "item" : 1245394800
+      }, {
+        "count" : 1,
+        "item" : 1248246000
+      }, {
+        "count" : 1,
+        "item" : 1247468400
+      }, {
+        "count" : 1,
+        "item" : 1247122800
+      }, {
+        "count" : 1,
+        "item" : 1245913200
+      }, {
+        "count" : 1,
+        "item" : 1245135600
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978583,
+    "name" : "GISPROPNUM",
+    "dataTypeName" : "text",
+    "description" : "GISPROPNUM",
+    "fieldName" : "gispropnum",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559980,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "B001",
+      "null" : 0,
+      "largest" : "X263",
+      "top" : [ {
+        "count" : 28,
+        "item" : "Q015"
+      }, {
+        "count" : 20,
+        "item" : "Q099"
+      }, {
+        "count" : 11,
+        "item" : "M010"
+      }, {
+        "count" : 10,
+        "item" : "M071"
+      }, {
+        "count" : 9,
+        "item" : "X092"
+      }, {
+        "count" : 6,
+        "item" : "Q001"
+      }, {
+        "count" : 6,
+        "item" : "Q415"
+      }, {
+        "count" : 6,
+        "item" : "Q021"
+      }, {
+        "count" : 6,
+        "item" : "Q010"
+      }, {
+        "count" : 6,
+        "item" : "Q024"
+      }, {
+        "count" : 5,
+        "item" : "X039"
+      }, {
+        "count" : 5,
+        "item" : "X002"
+      }, {
+        "count" : 5,
+        "item" : "Q300"
+      }, {
+        "count" : 5,
+        "item" : "Q001A"
+      }, {
+        "count" : 4,
+        "item" : "Q004"
+      }, {
+        "count" : 4,
+        "item" : "X004"
+      }, {
+        "count" : 4,
+        "item" : "B169"
+      }, {
+        "count" : 4,
+        "item" : "X008"
+      }, {
+        "count" : 3,
+        "item" : "Q387A"
+      }, {
+        "count" : 3,
+        "item" : "M037"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978584,
+    "name" : "OMPPROPID",
+    "dataTypeName" : "text",
+    "description" : "OMPPROPID",
+    "fieldName" : "omppropid",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559981,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "B001",
+      "null" : 0,
+      "largest" : "X263",
+      "top" : [ {
+        "count" : 9,
+        "item" : "Q015"
+      }, {
+        "count" : 6,
+        "item" : "Q415"
+      }, {
+        "count" : 6,
+        "item" : "Q010"
+      }, {
+        "count" : 6,
+        "item" : "Q099"
+      }, {
+        "count" : 5,
+        "item" : "Q099-ZN18"
+      }, {
+        "count" : 5,
+        "item" : "Q015-ZN06"
+      }, {
+        "count" : 4,
+        "item" : "Q004-ZN02"
+      }, {
+        "count" : 4,
+        "item" : "Q024"
+      }, {
+        "count" : 3,
+        "item" : "Q387A"
+      }, {
+        "count" : 3,
+        "item" : "R109"
+      }, {
+        "count" : 3,
+        "item" : "Q015-ZN05"
+      }, {
+        "count" : 3,
+        "item" : "Q015-ZN04"
+      }, {
+        "count" : 3,
+        "item" : "Q001A"
+      }, {
+        "count" : 2,
+        "item" : "Q001"
+      }, {
+        "count" : 2,
+        "item" : "Q015-ZN07"
+      }, {
+        "count" : 2,
+        "item" : "B310"
+      }, {
+        "count" : 2,
+        "item" : "Q411"
+      }, {
+        "count" : 2,
+        "item" : "M010-ZN40"
+      }, {
+        "count" : 2,
+        "item" : "X108"
+      }, {
+        "count" : 2,
+        "item" : "Q015-ZN01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978585,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559982,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "102st street",
+      "null" : 0,
+      "largest" : "Yellowstone Park",
+      "top" : [ {
+        "count" : 244,
+        "item" : "Comfort Station"
+      }, {
+        "count" : 27,
+        "item" : "Forest Park"
+      }, {
+        "count" : 20,
+        "item" : "Flushing Meadows Corona Park"
+      }, {
+        "count" : 6,
+        "item" : "Kissena Corridor Park"
+      }, {
+        "count" : 6,
+        "item" : "Louis Armstrong Playground"
+      }, {
+        "count" : 6,
+        "item" : "Cunningham Park"
+      }, {
+        "count" : 6,
+        "item" : "Clearview Park Golf Course"
+      }, {
+        "count" : 6,
+        "item" : "Kissena Park"
+      }, {
+        "count" : 5,
+        "item" : "Alley Athletic Playground"
+      }, {
+        "count" : 4,
+        "item" : "Alley Pond Park"
+      }, {
+        "count" : 4,
+        "item" : "Astoria Park"
+      }, {
+        "count" : 3,
+        "item" : "Baisley Pond Park"
+      }, {
+        "count" : 3,
+        "item" : "Bayside Fields"
+      }, {
+        "count" : 3,
+        "item" : "Brookville Park"
+      }, {
+        "count" : 2,
+        "item" : "Roy Wilkins Recreation Center"
+      }, {
+        "count" : 2,
+        "item" : "Bayside Playground"
+      }, {
+        "count" : 2,
+        "item" : "CONSERVATORY GARDEN"
+      }, {
+        "count" : 2,
+        "item" : "Rockaway Beach Boardwalk"
+      }, {
+        "count" : 2,
+        "item" : "Juniper Valley Playground"
+      }, {
+        "count" : 2,
+        "item" : "Rockaway Beach"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978586,
+    "name" : "COMMENTS",
+    "dataTypeName" : "text",
+    "description" : "COMMENTS",
+    "fieldName" : "comments",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559983,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Recreation Center",
+      "top" : [ {
+        "count" : 579,
+        "item" : " "
+      }, {
+        "count" : 6,
+        "item" : "Recreation Center"
+      }, {
+        "count" : 6,
+        "item" : "Nature Center"
+      }, {
+        "count" : 1,
+        "item" : "Historic House"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978587,
+    "name" : "BATHROOM",
+    "dataTypeName" : "text",
+    "description" : "BATHROOM",
+    "fieldName" : "bathroom",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559984,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Y",
+      "top" : [ {
+        "count" : 337,
+        "item" : " "
+      }, {
+        "count" : 236,
+        "item" : "Y"
+      }, {
+        "count" : 19,
+        "item" : "N"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978588,
+    "name" : "COMFORTSTA",
+    "dataTypeName" : "text",
+    "description" : "COMFORTSTA",
+    "fieldName" : "comfortsta",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559985,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "True",
+      "top" : [ {
+        "count" : 356,
+        "item" : " "
+      }, {
+        "count" : 171,
+        "item" : "True"
+      }, {
+        "count" : 65,
+        "item" : "False"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978589,
+    "name" : "BUILDINGTY",
+    "dataTypeName" : "text",
+    "description" : "BUILDINGTY",
+    "fieldName" : "buildingty",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559986,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "UTILITY",
+      "top" : [ {
+        "count" : 460,
+        "item" : "BATHROOM"
+      }, {
+        "count" : 34,
+        "item" : "ADMINISTRATION"
+      }, {
+        "count" : 27,
+        "item" : "CONCESSION"
+      }, {
+        "count" : 22,
+        "item" : "FACILITIES"
+      }, {
+        "count" : 16,
+        "item" : "COMFORT STATION"
+      }, {
+        "count" : 8,
+        "item" : "Recreation Center"
+      }, {
+        "count" : 6,
+        "item" : "ATHLETIC/RECREATIONAL"
+      }, {
+        "count" : 6,
+        "item" : "CLOSED"
+      }, {
+        "count" : 4,
+        "item" : " "
+      }, {
+        "count" : 3,
+        "item" : "PERFORMANCE"
+      }, {
+        "count" : 2,
+        "item" : "UTILITY"
+      }, {
+        "count" : 1,
+        "item" : "Comfort"
+      }, {
+        "count" : 1,
+        "item" : "SHOPS"
+      }, {
+        "count" : 1,
+        "item" : "STORAGE"
+      }, {
+        "count" : 1,
+        "item" : "GREENHOUSE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978590,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559987,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "45.0573492812654450290210661478340625762939453125",
+      "sum" : "111173.97583697592948226429143687710165977478027343750",
+      "null" : 0,
+      "average" : "187.7938781029999",
+      "largest" : "7080.5308280564886445063166320323944091796875",
+      "top" : [ {
+        "count" : 1,
+        "item" : "87.690085258167329129719291813671588897705078125"
+      }, {
+        "count" : 1,
+        "item" : "121.73800251196888666527229361236095428466796875"
+      }, {
+        "count" : 1,
+        "item" : "209.23228297560120836351416073739528656005859375"
+      }, {
+        "count" : 1,
+        "item" : "84.3297573857268076835680403746664524078369140625"
+      }, {
+        "count" : 1,
+        "item" : "121.4470700158811951041570864617824554443359375"
+      }, {
+        "count" : 1,
+        "item" : "148.81836033339055802571238018572330474853515625"
+      }, {
+        "count" : 1,
+        "item" : "84.34077018683041160329594276845455169677734375"
+      }, {
+        "count" : 1,
+        "item" : "78.18185845157671565175405703485012054443359375"
+      }, {
+        "count" : 1,
+        "item" : "708.187472026814020864549092948436737060546875"
+      }, {
+        "count" : 1,
+        "item" : "83.271243619014370551667525433003902435302734375"
+      }, {
+        "count" : 1,
+        "item" : "102.5827524555702012776237097568809986114501953125"
+      }, {
+        "count" : 1,
+        "item" : "214.39247748654452152550220489501953125"
+      }, {
+        "count" : 1,
+        "item" : "79.9807121728694028206518851220607757568359375"
+      }, {
+        "count" : 1,
+        "item" : "85.230145831344515272576245479285717010498046875"
+      }, {
+        "count" : 1,
+        "item" : "1087.9205804678667846019379794597625732421875"
+      }, {
+        "count" : 1,
+        "item" : "92.313126299004807151504792273044586181640625"
+      }, {
+        "count" : 1,
+        "item" : "175.122980518639025149241206236183643341064453125"
+      }, {
+        "count" : 1,
+        "item" : "263.7028761799932681242353282868862152099609375"
+      }, {
+        "count" : 1,
+        "item" : "99.374669410334945496288128197193145751953125"
+      }, {
+        "count" : 1,
+        "item" : "85.86056420676914058276452124118804931640625"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978591,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559988,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 592,
+      "smallest" : "126.2307380654400503772194497287273406982421875",
+      "sum" : "1927973.934177923028272516603465192019939422607421875",
+      "null" : 0,
+      "average" : "3256.712726651897",
+      "largest" : "420232.991693694260902702808380126953125",
+      "top" : [ {
+        "count" : 1,
+        "item" : "366.65656461134318533368059433996677398681640625"
+      }, {
+        "count" : 1,
+        "item" : "1416.278363875979948716121725738048553466796875"
+      }, {
+        "count" : 1,
+        "item" : "1787.3003406284342418075539171695709228515625"
+      }, {
+        "count" : 1,
+        "item" : "622.849279507033543268335051834583282470703125"
+      }, {
+        "count" : 1,
+        "item" : "346.571862960300904887844808399677276611328125"
+      }, {
+        "count" : 1,
+        "item" : "605.2711550315399335886468179523944854736328125"
+      }, {
+        "count" : 1,
+        "item" : "400.06598117555813587387092411518096923828125"
+      }, {
+        "count" : 1,
+        "item" : "426.69226454465666620308184064924716949462890625"
+      }, {
+        "count" : 1,
+        "item" : "1669.213543208599958234117366373538970947265625"
+      }, {
+        "count" : 1,
+        "item" : "444.4597806652419649253715761005878448486328125"
+      }, {
+        "count" : 1,
+        "item" : "415.9603822110776718545821495354175567626953125"
+      }, {
+        "count" : 1,
+        "item" : "415.33621107723632803754298947751522064208984375"
+      }, {
+        "count" : 1,
+        "item" : "463.16402446558475958227063529193401336669921875"
+      }, {
+        "count" : 1,
+        "item" : "22190.57277384913686546497046947479248046875"
+      }, {
+        "count" : 1,
+        "item" : "454.75368300256189968422404490411281585693359375"
+      }, {
+        "count" : 1,
+        "item" : "517.527854142056867203791625797748565673828125"
+      }, {
+        "count" : 1,
+        "item" : "1011.011061378722615700098685920238494873046875"
+      }, {
+        "count" : 1,
+        "item" : "486.85934463444567654732964001595973968505859375"
+      }, {
+        "count" : 1,
+        "item" : "462.84827645820178076974116265773773193359375"
+      }, {
+        "count" : 1,
+        "item" : "5756.0063542485659127123653888702392578125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1559969,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1559970
+      } ],
+      "latitudeId" : 1559968
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/BathroomsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "bathrooms",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "F68AF864-DFC8-40C7-8E84-26F3AC922E50",
+      "name" : "DPR_Bathrooms_001.zip",
+      "filename" : "DPR_Bathrooms_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1891235206535,
+    "lat" : 40.9022122700537
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7088505794834,
+    "lat" : 40.5222247046026
+  },
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "map", "location", "cartography", "site", "bath", "bathroom", "wash", "washroom", "head", "look", "urinal", "urine", "relief", "station" ],
+  "flags" : [ "default" ]
+}

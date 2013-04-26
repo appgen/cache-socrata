@@ -1,0 +1,88 @@
+{
+  "id" : "iiv7-jaj9",
+  "name" : "Fire Companies",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyfc_12c.zip",
+  "blobFileSize" : 936383,
+  "blobId" : "IYcTofVHZP2eCEl2oXs4U4c9rVp9zgJdpR7Qecn7jsE",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Public Safety",
+  "createdAt" : 1359492869,
+  "description" : "GIS data: Boundaries of Fire Companies",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2376524,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366234660,
+  "publicationGroup" : 644409,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644409,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1366234688,
+  "viewType" : "geo",
+  "childViews" : [ "qhv6-q8y9" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/iiv7-jaj9",
+      "bbox" : "-74.2571589754619,40.49599220497009,-73.6992151829928,40.91556552873112",
+      "layers" : "geo_iiv7-jaj9-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_iiv7-jaj9"
+    },
+    "attachments" : [ {
+      "blobId" : "F3781537-6242-4FB3-8B36-E1F296AD7347",
+      "name" : "DCP_nyfcav_001.zip",
+      "filename" : "DCP_nyfcav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "fire companies", "dcp", "geographic", "location", "map", "cartography", "safety", "fire", "flame", "boundary", "fireman" ],
+  "flags" : [ "default" ]
+}

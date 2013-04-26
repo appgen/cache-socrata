@@ -1,0 +1,88 @@
+{
+  "id" : "yfnk-k7r4",
+  "name" : "Community Districts",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nycd_12c.zip",
+  "blobFileSize" : 736163,
+  "blobId" : "4LZyLzEEirXjIPG6gRwOf_XPaUobJ1gLM5UGxR_-PLE",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359501538,
+  "description" : "GIS data: Boundaries of Community Districts",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2377313,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366235916,
+  "publicationGroup" : 644662,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644662,
+  "totalTimesRated" : 0,
+  "viewCount" : 151,
+  "viewLastModified" : 1366235947,
+  "viewType" : "geo",
+  "childViews" : [ "y53y-qby6" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/yfnk-k7r4",
+      "bbox" : "-74.25715897479941,40.495992204977185,-73.6992151836567,40.91556552873112",
+      "layers" : "geo_yfnk-k7r4-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_yfnk-k7r4"
+    },
+    "attachments" : [ {
+      "blobId" : "EE7127BE-F01B-4F58-AB3B-95EA25F0C2FF",
+      "name" : "DCP_nycdav_001.zip",
+      "filename" : "DCP_nycdav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "community districts", "gis", "dcp", "boundaries" ],
+  "flags" : [ "default" ]
+}

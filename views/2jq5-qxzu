@@ -1,0 +1,1118 @@
+{
+  "id" : "2jq5-qxzu",
+  "name" : "Map of Pools",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318116823,
+  "description" : "GIS Map of Pools in New York City Department of Parks & Recreation properties.",
+  "displayType" : "map",
+  "downloadCount" : 103,
+  "numberOfComments" : 0,
+  "oid" : 342301,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116837,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244155,
+  "totalTimesRated" : 0,
+  "viewCount" : 237,
+  "viewLastModified" : 1363706710,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989486,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564732,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "1",
+      "sum" : "4753",
+      "null" : 0,
+      "average" : "49",
+      "largest" : "97",
+      "top" : [ {
+        "count" : 20,
+        "item" : "83"
+      }, {
+        "count" : 19,
+        "item" : "84"
+      }, {
+        "count" : 18,
+        "item" : "85"
+      }, {
+        "count" : 17,
+        "item" : "86"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "89"
+      }, {
+        "count" : 13,
+        "item" : "90"
+      }, {
+        "count" : 12,
+        "item" : "91"
+      }, {
+        "count" : 11,
+        "item" : "92"
+      }, {
+        "count" : 10,
+        "item" : "93"
+      }, {
+        "count" : 9,
+        "item" : "94"
+      }, {
+        "count" : 8,
+        "item" : "95"
+      }, {
+        "count" : 7,
+        "item" : "96"
+      }, {
+        "count" : 6,
+        "item" : "97"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989487,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564733,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989488,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564734,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "59th St",
+      "null" : 0,
+      "largest" : "Windmuller",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Claremont"
+      }, {
+        "count" : 19,
+        "item" : "Van Cortlandt"
+      }, {
+        "count" : 18,
+        "item" : "Mccarren"
+      }, {
+        "count" : 17,
+        "item" : "Astoria"
+      }, {
+        "count" : 16,
+        "item" : "Lasker"
+      }, {
+        "count" : 15,
+        "item" : "Haffen"
+      }, {
+        "count" : 14,
+        "item" : "Asser Levy"
+      }, {
+        "count" : 13,
+        "item" : "Mapes"
+      }, {
+        "count" : 12,
+        "item" : "Jackie Robinson"
+      }, {
+        "count" : 11,
+        "item" : "John Jay"
+      }, {
+        "count" : 10,
+        "item" : "Sunset Park"
+      }, {
+        "count" : 9,
+        "item" : "Kosciusko"
+      }, {
+        "count" : 8,
+        "item" : "Commodore Berry"
+      }, {
+        "count" : 7,
+        "item" : "Douglas And Degraw"
+      }, {
+        "count" : 6,
+        "item" : "Carmine"
+      }, {
+        "count" : 5,
+        "item" : "Dry Dock"
+      }, {
+        "count" : 4,
+        "item" : "Highbridge"
+      }, {
+        "count" : 3,
+        "item" : "Howard"
+      }, {
+        "count" : 2,
+        "item" : "Fort Toten"
+      }, {
+        "count" : 1,
+        "item" : "Hansborough"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989489,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564735,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "W 59th St Bet 10th And 11th Av",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "170th St & Clay Ave"
+      }, {
+        "count" : 18,
+        "item" : "242nd St & Broadway"
+      }, {
+        "count" : 17,
+        "item" : "110th St & Lenox Av"
+      }, {
+        "count" : 16,
+        "item" : "Ely & Burke Aves"
+      }, {
+        "count" : 15,
+        "item" : "Asser Levy Pl & E 22nd St"
+      }, {
+        "count" : 14,
+        "item" : "E 180 St, Bet Mapes & Prospect"
+      }, {
+        "count" : 13,
+        "item" : "East Of York Ave On 77th St"
+      }, {
+        "count" : 12,
+        "item" : "Kosciusko Bet Marcy & Dekalb Ave"
+      }, {
+        "count" : 11,
+        "item" : "Flushing & Park Aves, Navy & North Elliot Sts"
+      }, {
+        "count" : 10,
+        "item" : "Third Ave & Nevin St"
+      }, {
+        "count" : 9,
+        "item" : "Clarkson St & 7th Ave South"
+      }, {
+        "count" : 8,
+        "item" : "E 10th Bet Avenues C & D"
+      }, {
+        "count" : 7,
+        "item" : "173rd Ave & Amsterdam"
+      }, {
+        "count" : 6,
+        "item" : "Pier 6 & Victoria Blvd"
+      }, {
+        "count" : 5,
+        "item" : "W 129th St & Amsterdam Ave"
+      }, {
+        "count" : 4,
+        "item" : "Linden Blvd, Mother Gaston Blvd, Christopher Av"
+      }, {
+        "count" : 3,
+        "item" : "Pitt St & Houston St"
+      }, {
+        "count" : 2,
+        "item" : "Pitt & Houston Sts"
+      }, {
+        "count" : 1,
+        "item" : "E 124th St Bet 1st & 2nd Avenues"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989490,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "description" : "TYPE",
+    "fieldName" : "type",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564736,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Wading",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Mini"
+      }, {
+        "count" : 19,
+        "item" : "Regular"
+      }, {
+        "count" : 18,
+        "item" : "Diving"
+      }, {
+        "count" : 17,
+        "item" : "Standard"
+      }, {
+        "count" : 16,
+        "item" : "Wading"
+      }, {
+        "count" : 15,
+        "item" : "standard"
+      }, {
+        "count" : 14,
+        "item" : " "
+      }, {
+        "count" : 13,
+        "item" : "Olympic"
+      }, {
+        "count" : 12,
+        "item" : "diving"
+      }, {
+        "count" : 11,
+        "item" : "wading"
+      }, {
+        "count" : 10,
+        "item" : "mini"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989491,
+    "name" : "LENGTH",
+    "dataTypeName" : "number",
+    "description" : "LENGTH",
+    "fieldName" : "length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564737,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "0",
+      "sum" : "7558",
+      "null" : 0,
+      "average" : "77.91752577319588",
+      "largest" : "330",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40"
+      }, {
+        "count" : 19,
+        "item" : "330"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "72"
+      }, {
+        "count" : 16,
+        "item" : "75"
+      }, {
+        "count" : 15,
+        "item" : "24"
+      }, {
+        "count" : 14,
+        "item" : "164"
+      }, {
+        "count" : 13,
+        "item" : "48"
+      }, {
+        "count" : 12,
+        "item" : "240"
+      }, {
+        "count" : 11,
+        "item" : "64"
+      }, {
+        "count" : 10,
+        "item" : "120"
+      }, {
+        "count" : 9,
+        "item" : "42"
+      }, {
+        "count" : 8,
+        "item" : "66"
+      }, {
+        "count" : 7,
+        "item" : "27"
+      }, {
+        "count" : 6,
+        "item" : "235"
+      }, {
+        "count" : 5,
+        "item" : "145"
+      }, {
+        "count" : 4,
+        "item" : "60"
+      }, {
+        "count" : 3,
+        "item" : "256"
+      }, {
+        "count" : 2,
+        "item" : "230"
+      }, {
+        "count" : 1,
+        "item" : "100"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989492,
+    "name" : "WIDTH",
+    "dataTypeName" : "number",
+    "description" : "WIDTH",
+    "fieldName" : "width",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564738,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "0",
+      "sum" : "4483",
+      "null" : 0,
+      "average" : "46.21649484536082",
+      "largest" : "190",
+      "top" : [ {
+        "count" : 20,
+        "item" : "20"
+      }, {
+        "count" : 19,
+        "item" : "120"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "39"
+      }, {
+        "count" : 16,
+        "item" : "30"
+      }, {
+        "count" : 15,
+        "item" : "60"
+      }, {
+        "count" : 14,
+        "item" : "24"
+      }, {
+        "count" : 13,
+        "item" : "104"
+      }, {
+        "count" : 12,
+        "item" : "48"
+      }, {
+        "count" : 11,
+        "item" : "165"
+      }, {
+        "count" : 10,
+        "item" : "190"
+      }, {
+        "count" : 9,
+        "item" : "15"
+      }, {
+        "count" : 8,
+        "item" : "45"
+      }, {
+        "count" : 7,
+        "item" : "25"
+      }, {
+        "count" : 6,
+        "item" : "26"
+      }, {
+        "count" : 5,
+        "item" : "27"
+      }, {
+        "count" : 4,
+        "item" : "82"
+      }, {
+        "count" : 3,
+        "item" : "49"
+      }, {
+        "count" : 2,
+        "item" : "40"
+      }, {
+        "count" : 1,
+        "item" : "162"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989493,
+    "name" : "DEPTH",
+    "dataTypeName" : "number",
+    "description" : "DEPTH",
+    "fieldName" : "depth",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564739,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "-1",
+      "sum" : "375",
+      "null" : 0,
+      "average" : "3.865979381443299",
+      "largest" : "49",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "9"
+      }, {
+        "count" : 16,
+        "item" : "1"
+      }, {
+        "count" : 15,
+        "item" : "49"
+      }, {
+        "count" : 14,
+        "item" : "2"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "10"
+      }, {
+        "count" : 11,
+        "item" : "12"
+      }, {
+        "count" : 10,
+        "item" : "-1"
+      }, {
+        "count" : 9,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989494,
+    "name" : "SURF_AREA",
+    "dataTypeName" : "number",
+    "description" : "SURF_AREA",
+    "fieldName" : "surf_area",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564740,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "0",
+      "sum" : "631471",
+      "null" : 0,
+      "average" : "6510.010309278351",
+      "largest" : "54450",
+      "top" : [ {
+        "count" : 20,
+        "item" : "800"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      }, {
+        "count" : 18,
+        "item" : "2250"
+      }, {
+        "count" : 17,
+        "item" : "4500"
+      }, {
+        "count" : 16,
+        "item" : "576"
+      }, {
+        "count" : 15,
+        "item" : "54450"
+      }, {
+        "count" : 14,
+        "item" : "5400"
+      }, {
+        "count" : 13,
+        "item" : "600"
+      }, {
+        "count" : 12,
+        "item" : "400"
+      }, {
+        "count" : 11,
+        "item" : "10640"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989495,
+    "name" : "PUBLIC_",
+    "dataTypeName" : "text",
+    "description" : "PUBLIC_",
+    "fieldName" : "public_",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564741,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "No",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes"
+      }, {
+        "count" : 19,
+        "item" : "yes"
+      }, {
+        "count" : 18,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989496,
+    "name" : "LOCATION",
+    "dataTypeName" : "text",
+    "description" : "LOCATION",
+    "fieldName" : "location",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564742,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "Indoor",
+      "null" : 0,
+      "largest" : "Wading",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Outdoor"
+      }, {
+        "count" : 19,
+        "item" : "Indoor"
+      }, {
+        "count" : 18,
+        "item" : "outdoor"
+      }, {
+        "count" : 17,
+        "item" : "Wading"
+      }, {
+        "count" : 16,
+        "item" : "OUtdoor"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989497,
+    "name" : "STATUS",
+    "dataTypeName" : "text",
+    "description" : "STATUS",
+    "fieldName" : "status",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564743,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Closed",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Closed"
+      }, {
+        "count" : 18,
+        "item" : "closed"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989498,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564744,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "B008",
+      "null" : 0,
+      "largest" : "X236",
+      "top" : [ {
+        "count" : 20,
+        "item" : "X010"
+      }, {
+        "count" : 19,
+        "item" : "X008"
+      }, {
+        "count" : 18,
+        "item" : "X092"
+      }, {
+        "count" : 17,
+        "item" : "B058"
+      }, {
+        "count" : 16,
+        "item" : "Q004"
+      }, {
+        "count" : 15,
+        "item" : "M010"
+      }, {
+        "count" : 14,
+        "item" : "X196"
+      }, {
+        "count" : 13,
+        "item" : "M164"
+      }, {
+        "count" : 12,
+        "item" : "X236"
+      }, {
+        "count" : 11,
+        "item" : "M014"
+      }, {
+        "count" : 10,
+        "item" : "M045"
+      }, {
+        "count" : 9,
+        "item" : "B087"
+      }, {
+        "count" : 8,
+        "item" : "B351"
+      }, {
+        "count" : 7,
+        "item" : "B021"
+      }, {
+        "count" : 6,
+        "item" : "B145"
+      }, {
+        "count" : 5,
+        "item" : "M038"
+      }, {
+        "count" : 4,
+        "item" : "M270"
+      }, {
+        "count" : 3,
+        "item" : "M037"
+      }, {
+        "count" : 2,
+        "item" : "B260"
+      }, {
+        "count" : 1,
+        "item" : "Q458"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989499,
+    "name" : "area",
+    "dataTypeName" : "number",
+    "description" : "area",
+    "fieldName" : "area",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564745,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "357.73316428099997210665605962276458740234375",
+      "sum" : "751963.59387662800463658641092479228973388671875000",
+      "null" : 0,
+      "average" : "7752.201998728124",
+      "largest" : "55207.521616500001982785761356353759765625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1946.945950009999933172366581857204437255859375"
+      }, {
+        "count" : 19,
+        "item" : "357.73316428099997210665605962276458740234375"
+      }, {
+        "count" : 18,
+        "item" : "770.61702745499997035949490964412689208984375"
+      }, {
+        "count" : 17,
+        "item" : "841.837771747000033428776077926158905029296875"
+      }, {
+        "count" : 16,
+        "item" : "4556.3399289899998620967380702495574951171875"
+      }, {
+        "count" : 15,
+        "item" : "425.49966773199997760457335971295833587646484375"
+      }, {
+        "count" : 14,
+        "item" : "22458.0848528999995323829352855682373046875"
+      }, {
+        "count" : 13,
+        "item" : "4882.78479777000029571354389190673828125"
+      }, {
+        "count" : 12,
+        "item" : "840.3285424130000365039450116455554962158203125"
+      }, {
+        "count" : 11,
+        "item" : "799.997520034999979543499648571014404296875"
+      }, {
+        "count" : 10,
+        "item" : "4556.4310754099997211596928536891937255859375"
+      }, {
+        "count" : 9,
+        "item" : "596.6943313570000100298784673213958740234375"
+      }, {
+        "count" : 8,
+        "item" : "4635.3614543100002265418879687786102294921875"
+      }, {
+        "count" : 7,
+        "item" : "433.89055168200002299272455275058746337890625"
+      }, {
+        "count" : 6,
+        "item" : "10663.35304410000026109628379344940185546875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989500,
+    "name" : "len",
+    "dataTypeName" : "number",
+    "description" : "len",
+    "fieldName" : "len",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564746,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "67.623528466500005151829100213944911956787109375",
+      "sum" : "28315.3502849512999262060475302860140800476074218750",
+      "null" : 0,
+      "average" : "291.9108276799103",
+      "largest" : "995.38951421499996286001987755298614501953125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "170.16103093899999976201797835528850555419921875"
+      }, {
+        "count" : 19,
+        "item" : "67.623528466500005151829100213944911956787109375"
+      }, {
+        "count" : 18,
+        "item" : "118.1150865729999992481680237688124179840087890625"
+      }, {
+        "count" : 17,
+        "item" : "122.7222575159999991001313901506364345550537109375"
+      }, {
+        "count" : 16,
+        "item" : "271.5256120320000263745896518230438232421875"
+      }, {
+        "count" : 15,
+        "item" : "82.5340362815999952772472170181572437286376953125"
+      }, {
+        "count" : 14,
+        "item" : "666.06170027300004221615381538867950439453125"
+      }, {
+        "count" : 13,
+        "item" : "294.17536937699998134121415205299854278564453125"
+      }, {
+        "count" : 12,
+        "item" : "122.1591675709999975651953718625009059906005859375"
+      }, {
+        "count" : 11,
+        "item" : "119.999818357999998852392309345304965972900390625"
+      }, {
+        "count" : 10,
+        "item" : "271.71719798200001605437137186527252197265625"
+      }, {
+        "count" : 9,
+        "item" : "97.7557928858999929389028693549335002899169921875"
+      }, {
+        "count" : 8,
+        "item" : "273.8839886169999999765423126518726348876953125"
+      }, {
+        "count" : 7,
+        "item" : "83.3354724775000050840390031225979328155517578125"
+      }, {
+        "count" : 6,
+        "item" : "432.21079342100000530990655533969402313232421875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989501,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 16,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564747,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "67.6234798599110860095606767572462558746337890625",
+      "sum" : "28315.3470145260694721400795970112085342407226562500",
+      "null" : 0,
+      "average" : "291.9107939641863",
+      "largest" : "995.3890990962818250409327447414398193359375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "170.160900613129086877961526624858379364013671875"
+      }, {
+        "count" : 19,
+        "item" : "67.6234798599110860095606767572462558746337890625"
+      }, {
+        "count" : 18,
+        "item" : "118.1145645912518915565669885836541652679443359375"
+      }, {
+        "count" : 17,
+        "item" : "122.722530344532884782893233932554721832275390625"
+      }, {
+        "count" : 16,
+        "item" : "271.5256965937811628464260138571262359619140625"
+      }, {
+        "count" : 15,
+        "item" : "82.533874130905331867325003258883953094482421875"
+      }, {
+        "count" : 14,
+        "item" : "666.06154585521517219603992998600006103515625"
+      }, {
+        "count" : 13,
+        "item" : "294.1751467091916083518299274146556854248046875"
+      }, {
+        "count" : 12,
+        "item" : "122.159303668209531679167412221431732177734375"
+      }, {
+        "count" : 11,
+        "item" : "120.00001157486786951267276890575885772705078125"
+      }, {
+        "count" : 10,
+        "item" : "271.7178575719575519542559050023555755615234375"
+      }, {
+        "count" : 9,
+        "item" : "97.7557707063254355261960881762206554412841796875"
+      }, {
+        "count" : 8,
+        "item" : "273.88361408402710139853297732770442962646484375"
+      }, {
+        "count" : 7,
+        "item" : "83.33558154214705382401007227599620819091796875"
+      }, {
+        "count" : 6,
+        "item" : "432.2110978311631015458260662853717803955078125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989502,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 17,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564748,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 97,
+      "smallest" : "357.7336493750805175295681692659854888916015625",
+      "sum" : "751963.4103529968291468321694992482662200927734375",
+      "null" : 0,
+      "average" : "7752.200106731926",
+      "largest" : "55207.4820107210471178404986858367919921875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1946.94240138453778854454867541790008544921875"
+      }, {
+        "count" : 19,
+        "item" : "357.7336493750805175295681692659854888916015625"
+      }, {
+        "count" : 18,
+        "item" : "770.60709702237591045559383928775787353515625"
+      }, {
+        "count" : 17,
+        "item" : "841.840591352732872110209427773952484130859375"
+      }, {
+        "count" : 16,
+        "item" : "4556.341140951486522681079804897308349609375"
+      }, {
+        "count" : 15,
+        "item" : "425.4979651620370759701472707092761993408203125"
+      }, {
+        "count" : 14,
+        "item" : "22458.075921883762930519878864288330078125"
+      }, {
+        "count" : 13,
+        "item" : "4882.7744237202214208082295954227447509765625"
+      }, {
+        "count" : 12,
+        "item" : "840.331030482564301564707420766353607177734375"
+      }, {
+        "count" : 11,
+        "item" : "799.99969443471809427137486636638641357421875"
+      }, {
+        "count" : 10,
+        "item" : "4556.4552050434649572707712650299072265625"
+      }, {
+        "count" : 9,
+        "item" : "596.69419432664244595798663794994354248046875"
+      }, {
+        "count" : 8,
+        "item" : "4635.34899846156258718110620975494384765625"
+      }, {
+        "count" : 7,
+        "item" : "433.89159717539905614103190600872039794921875"
+      }, {
+        "count" : 6,
+        "item" : "10663.3715444729386945255100727081298828125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564733,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564734
+      } ],
+      "latitudeId" : 1564732
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DPR_Pools_001_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DPR_Pools_001",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "6B3B88B2-7972-46F9-961B-9598EF13D8E4",
+      "name" : "DPR_Pools_001.zip",
+      "filename" : "DPR_Pools_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2369054322942,
+    "lat" : 40.8905587572352
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7199740311712,
+    "lat" : 40.5053886696326
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "swim", "swimming", "pool", "cartography", "sports", "geographic", "healthy living" ],
+  "flags" : [ "default" ]
+}

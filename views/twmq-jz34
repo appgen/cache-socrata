@@ -1,0 +1,962 @@
+{
+  "id" : "twmq-jz34",
+  "name" : "Open Tree Down Complaints in Queens",
+  "attribution" : "311",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1352324856,
+  "description" : "All 311 Service Requests from 2010 to present. This information is automatically updated daily.",
+  "displayType" : "map",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 3346491,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366921804,
+  "publicationGroup" : 244403,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1366920524,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 818535,
+  "totalTimesRated" : 0,
+  "viewCount" : 12,
+  "viewLastModified" : 1352325292,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 60831231,
+    "name" : "Unique Key",
+    "dataTypeName" : "text",
+    "fieldName" : "unique_key",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567787,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "24281495",
+      "null" : 0,
+      "largest" : "25422001",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25174874"
+      }, {
+        "count" : 19,
+        "item" : "25170352"
+      }, {
+        "count" : 18,
+        "item" : "25185092"
+      }, {
+        "count" : 17,
+        "item" : "25190058"
+      }, {
+        "count" : 16,
+        "item" : "25199110"
+      }, {
+        "count" : 15,
+        "item" : "25213910"
+      }, {
+        "count" : 14,
+        "item" : "25231110"
+      }, {
+        "count" : 13,
+        "item" : "25237509"
+      }, {
+        "count" : 12,
+        "item" : "25246361"
+      }, {
+        "count" : 11,
+        "item" : "25256127"
+      }, {
+        "count" : 10,
+        "item" : "25254459"
+      }, {
+        "count" : 9,
+        "item" : "25262260"
+      }, {
+        "count" : 8,
+        "item" : "25259523"
+      }, {
+        "count" : 7,
+        "item" : "25257794"
+      }, {
+        "count" : 6,
+        "item" : "25280208"
+      }, {
+        "count" : 5,
+        "item" : "25289710"
+      }, {
+        "count" : 4,
+        "item" : "25290619"
+      }, {
+        "count" : 3,
+        "item" : "25309480"
+      }, {
+        "count" : 2,
+        "item" : "25315676"
+      }, {
+        "count" : 1,
+        "item" : "25320411"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831232,
+    "name" : "Created Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "created_date",
+    "position" : 2,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567788,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "2012-10-30T00:00:00",
+      "null" : 0,
+      "largest" : "2013-04-24T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-10-30T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-11-01T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-10-31T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-11-11T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-12T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-11-13T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-11-14T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-11-15T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-11-16T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-11-19T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-11-20T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-11-26T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-11-30T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-01-31T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-02-20T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-07T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-03-26T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-03-27T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-04-11T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-04-20T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831233,
+    "name" : "Closed Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "closed_date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567789,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 531
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831234,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567790,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "DPR",
+      "null" : 0,
+      "largest" : "DPR",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DPR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831235,
+    "name" : "Agency Name",
+    "dataTypeName" : "text",
+    "fieldName" : "agency_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567791,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "Department of Parks and Recreation",
+      "null" : 0,
+      "largest" : "Department of Parks and Recreation",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Department of Parks and Recreation"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831236,
+    "name" : "Complaint Type",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567792,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "Damaged Tree",
+      "null" : 0,
+      "largest" : "Damaged Tree",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Damaged Tree"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831237,
+    "name" : "Descriptor",
+    "dataTypeName" : "text",
+    "fieldName" : "descriptor",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567793,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "Entire Tree Has Fallen Down",
+      "null" : 0,
+      "largest" : "Entire Tree Has Fallen Down",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Entire Tree Has Fallen Down"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831247,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567803,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 528,
+      "smallest" : "ARVERNE",
+      "null" : 3,
+      "largest" : "WOODSIDE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RIDGEWOOD"
+      }, {
+        "count" : 19,
+        "item" : "WOODSIDE"
+      }, {
+        "count" : 18,
+        "item" : "OAKLAND GARDENS"
+      }, {
+        "count" : 17,
+        "item" : "LONG ISLAND CITY"
+      }, {
+        "count" : 16,
+        "item" : "ELMHURST"
+      }, {
+        "count" : 15,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 14,
+        "item" : "MIDDLE VILLAGE"
+      }, {
+        "count" : 13,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 12,
+        "item" : "OZONE PARK"
+      }, {
+        "count" : 11,
+        "item" : "QUEENS VILLAGE"
+      }, {
+        "count" : 10,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 9,
+        "item" : "EAST ELMHURST"
+      }, {
+        "count" : 8,
+        "item" : "KEW GARDENS"
+      }, {
+        "count" : 7,
+        "item" : "FRESH MEADOWS"
+      }, {
+        "count" : 6,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 5,
+        "item" : "MASPETH"
+      }, {
+        "count" : 4,
+        "item" : "CAMBRIA HEIGHTS"
+      }, {
+        "count" : 3,
+        "item" : "SAINT ALBANS"
+      }, {
+        "count" : 2,
+        "item" : "SOUTH OZONE PARK"
+      }, {
+        "count" : 1,
+        "item" : "SUNNYSIDE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831250,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567806,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "Assigned",
+      "null" : 0,
+      "largest" : "Open",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Assigned"
+      }, {
+        "count" : 19,
+        "item" : "Open"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831251,
+    "name" : "Due Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "due_date",
+    "position" : 21,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567807,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "2012-11-04T00:00:00",
+      "null" : 0,
+      "largest" : "2013-05-24T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-11-29T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-11-04T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-12-03T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-12-04T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-12-01T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2013-01-13T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-12-20T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-12-21T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-12-23T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-12-24T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-01-01T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-01-02T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-02-07T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-03-02T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-02-05T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-03-31T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-03-30T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-04-06T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-04-19T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-04-01T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831252,
+    "name" : "Resolution Action Updated Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "resolution_action_updated_date",
+    "position" : 22,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567808,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 407,
+      "smallest" : "2012-10-30T00:00:00",
+      "null" : 124,
+      "largest" : "2013-04-24T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-10-30T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-11-03T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-11-04T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-11-01T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-05T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-12-14T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-11-11T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2012-11-12T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2012-11-17T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2012-11-20T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2012-11-21T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2012-11-23T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2012-11-25T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2012-11-24T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2012-12-02T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2012-12-03T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-01-08T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-01-02T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-01-31T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-03-01T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831254,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567810,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 531,
+      "smallest" : "QUEENS",
+      "null" : 0,
+      "largest" : "QUEENS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "QUEENS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60831282,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 52,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1567838,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 526,
+      "smallest" : {
+        "longitude" : "-73.86610122117402",
+        "latitude" : "40.70637417392376"
+      },
+      "null" : 5,
+      "largest" : {
+        "longitude" : "-73.79267216452689",
+        "latitude" : "40.699977062638006"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.74580474259331",
+          "latitude" : "40.66913877992341"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.7267790068229",
+          "latitude" : "40.75352171456331"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.80722024799661",
+          "latitude" : "40.70883776827289"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.73064476697293",
+          "latitude" : "40.66779776410291"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.78160134074592",
+          "latitude" : "40.70186969583803"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.8359511539707",
+          "latitude" : "40.70230583173208"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.7305892647421",
+          "latitude" : "40.74847209596693"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.8705171981976",
+          "latitude" : "40.74100987191557"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.8365249953453",
+          "latitude" : "40.69332026506024"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.89423145890211",
+          "latitude" : "40.73996638301459"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.79261098701701",
+          "latitude" : "40.74398927541202"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.74219903452325",
+          "latitude" : "40.65911501654492"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.75873823795564",
+          "latitude" : "40.73106957611631"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.78216415415773",
+          "latitude" : "40.69739677922166"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.91423288558333",
+          "latitude" : "40.768885203475634"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.84586499725464",
+          "latitude" : "40.57935571300214"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.80182300126447",
+          "latitude" : "40.755366034939875"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.79487244190625",
+          "latitude" : "40.67642532083063"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.73138981534788",
+          "latitude" : "40.72715537355521"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.8621749410768",
+          "latitude" : "40.571309448724584"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.545599,
+      "ymax" : 40.798701,
+      "xmin" : -74.737313,
+      "xmax" : -73.274758
+    },
+    "plotStyle" : "rastermap",
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1567838
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "rp9m-5dfa",
+    "displayName" : "Robert J Samson",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1352324392,
+    "screenName" : "Robert J Samson"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "GREATER_THAN",
+          "children" : [ {
+            "columnId" : 60831232,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "2012-10-29T00:00:00"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567788
+          },
+          "operator" : "GREATER_THAN"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 60831237,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Entire Tree Has Fallen Down"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567793
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "IS_BLANK",
+          "children" : [ {
+            "columnId" : 60831233,
+            "type" : "column"
+          } ]
+        } ],
+        "metadata" : {
+          "customValues" : [ "IS_NOT_BLANK" ],
+          "tableColumnId" : {
+            "244403" : 1567789
+          },
+          "operator" : "blank?"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 60831254,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Queens"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567810
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    },
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 60831232,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 60831232
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "311", "311 service requests", "2010", "2011", "2012", "service request status", "all service requests" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "GREATER_THAN",
+        "children" : [ {
+          "columnId" : 60831232,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "2012-10-29T00:00:00"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567788
+        },
+        "operator" : "GREATER_THAN"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 60831237,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Entire Tree Has Fallen Down"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567793
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "IS_BLANK",
+        "children" : [ {
+          "columnId" : 60831233,
+          "type" : "column"
+        } ]
+      } ],
+      "metadata" : {
+        "customValues" : [ "IS_NOT_BLANK" ],
+        "tableColumnId" : {
+          "244403" : 1567789
+        },
+        "operator" : "blank?"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 60831254,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Queens"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567810
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

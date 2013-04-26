@@ -1,0 +1,88 @@
+{
+  "id" : "uh7r-6nya",
+  "name" : "Fire Battalions",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyfb_12c.zip",
+  "blobFileSize" : 727943,
+  "blobId" : "pPvpesJMsbb7pvGB6eoOtAq61gujUuKvK6NtC-O5OKY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Public Safety",
+  "createdAt" : 1359494390,
+  "description" : "GIS data: Boundaries of Fire Battalions",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2376594,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366234953,
+  "publicationGroup" : 644448,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644448,
+  "totalTimesRated" : 0,
+  "viewCount" : 29,
+  "viewLastModified" : 1366235006,
+  "viewType" : "geo",
+  "childViews" : [ "qprx-7ynu" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/uh7r-6nya",
+      "bbox" : "-74.25715897546385,40.495992204970186,-73.69921518299194,40.91556552923368",
+      "layers" : "geo_uh7r-6nya-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_uh7r-6nya"
+    },
+    "attachments" : [ {
+      "blobId" : "E51A6E9D-4673-49EC-8781-5A5EFE47F692",
+      "name" : "DCP_nyfbav_001.zip",
+      "filename" : "DCP_nyfbav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "fire battalions", "dcp", "public safety", "fdny" ],
+  "flags" : [ "default" ]
+}

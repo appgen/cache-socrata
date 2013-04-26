@@ -1,0 +1,526 @@
+{
+  "id" : "96kv-h5cw",
+  "name" : "Boardwalk Features",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1318024038,
+  "description" : "Planimetric basemap polygon layer containing boardwalk features.",
+  "displayType" : "map",
+  "downloadCount" : 27,
+  "numberOfComments" : 0,
+  "oid" : 341809,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318024052,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243893,
+  "totalTimesRated" : 0,
+  "viewCount" : 139,
+  "viewLastModified" : 1360613536,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980035,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561156,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 61,
+      "smallest" : "1",
+      "sum" : "1891",
+      "null" : 0,
+      "average" : "31",
+      "largest" : "61",
+      "top" : [ {
+        "count" : 20,
+        "item" : "42"
+      }, {
+        "count" : 19,
+        "item" : "43"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "45"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "48"
+      }, {
+        "count" : 13,
+        "item" : "49"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "51"
+      }, {
+        "count" : 10,
+        "item" : "52"
+      }, {
+        "count" : 9,
+        "item" : "53"
+      }, {
+        "count" : 8,
+        "item" : "54"
+      }, {
+        "count" : 7,
+        "item" : "55"
+      }, {
+        "count" : 6,
+        "item" : "56"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "58"
+      }, {
+        "count" : 3,
+        "item" : "59"
+      }, {
+        "count" : 2,
+        "item" : "60"
+      }, {
+        "count" : 1,
+        "item" : "61"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980036,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1561157,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2980037,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561158,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 61,
+      "smallest" : "1430000001",
+      "sum" : "697230000487",
+      "null" : 0,
+      "average" : "11430000007.98361",
+      "largest" : "19430000005",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14430000003"
+      }, {
+        "count" : 19,
+        "item" : "14430000004"
+      }, {
+        "count" : 18,
+        "item" : "14430000005"
+      }, {
+        "count" : 17,
+        "item" : "14430000007"
+      }, {
+        "count" : 16,
+        "item" : "15430000002"
+      }, {
+        "count" : 15,
+        "item" : "15430000003"
+      }, {
+        "count" : 14,
+        "item" : "15430000004"
+      }, {
+        "count" : 13,
+        "item" : "16430000001"
+      }, {
+        "count" : 12,
+        "item" : "16430000004"
+      }, {
+        "count" : 11,
+        "item" : "17430000001"
+      }, {
+        "count" : 10,
+        "item" : "17430000002"
+      }, {
+        "count" : 9,
+        "item" : "17430000003"
+      }, {
+        "count" : 8,
+        "item" : "17430000005"
+      }, {
+        "count" : 7,
+        "item" : "18430000001"
+      }, {
+        "count" : 6,
+        "item" : "18430000005"
+      }, {
+        "count" : 5,
+        "item" : "19430000001"
+      }, {
+        "count" : 4,
+        "item" : "19430000002"
+      }, {
+        "count" : 3,
+        "item" : "19430000003"
+      }, {
+        "count" : 2,
+        "item" : "19430000004"
+      }, {
+        "count" : 1,
+        "item" : "19430000005"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980038,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561159,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 61,
+      "smallest" : "4300",
+      "sum" : "262300",
+      "null" : 0,
+      "average" : "4300",
+      "largest" : "4300",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4300"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980039,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561160,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 61,
+      "smallest" : "430000",
+      "sum" : "26230000",
+      "null" : 0,
+      "average" : "430000",
+      "largest" : "430000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "430000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980040,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561161,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 61,
+      "smallest" : "357.90524576758645025620353408157825469970703125",
+      "sum" : "435774.02873739795546725872554816305637359619140625",
+      "null" : 0,
+      "average" : "7143.836536678655",
+      "largest" : "71205.7746427878155373036861419677734375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5710.9184603900748697924427688121795654296875"
+      }, {
+        "count" : 19,
+        "item" : "578.4349514619758565459051169455051422119140625"
+      }, {
+        "count" : 18,
+        "item" : "357.90524576758645025620353408157825469970703125"
+      }, {
+        "count" : 17,
+        "item" : "1201.00275682340407001902349293231964111328125"
+      }, {
+        "count" : 16,
+        "item" : "1566.182793783979150248342193663120269775390625"
+      }, {
+        "count" : 15,
+        "item" : "11150.985766329597026924602687358856201171875"
+      }, {
+        "count" : 14,
+        "item" : "904.0860453476376505932421423494815826416015625"
+      }, {
+        "count" : 13,
+        "item" : "28137.99916136522733722813427448272705078125"
+      }, {
+        "count" : 12,
+        "item" : "1205.207246188723956947796978056430816650390625"
+      }, {
+        "count" : 11,
+        "item" : "1562.6653669366178291966207325458526611328125"
+      }, {
+        "count" : 10,
+        "item" : "4586.7343214458060174365527927875518798828125"
+      }, {
+        "count" : 9,
+        "item" : "2990.0881858596903839497826993465423583984375"
+      }, {
+        "count" : 8,
+        "item" : "2276.80438677026859295438043773174285888671875"
+      }, {
+        "count" : 7,
+        "item" : "35233.5078352950440603308379650115966796875"
+      }, {
+        "count" : 6,
+        "item" : "1545.73325199421788056497462093830108642578125"
+      }, {
+        "count" : 5,
+        "item" : "4798.8649954281600003014318645000457763671875"
+      }, {
+        "count" : 4,
+        "item" : "482.07307220584380047512240707874298095703125"
+      }, {
+        "count" : 3,
+        "item" : "1050.800148492316338888485915958881378173828125"
+      }, {
+        "count" : 2,
+        "item" : "576.8914492191050840119714848697185516357421875"
+      }, {
+        "count" : 1,
+        "item" : "1007.07964006191423322889022529125213623046875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980041,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561162,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 61,
+      "smallest" : "1668.23949687209506009821780025959014892578125",
+      "sum" : "5314390.65460905160807669744826853275299072265625",
+      "null" : 0,
+      "average" : "87121.15827227953",
+      "largest" : "1186828.6804027962498366832733154296875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "32667.32087367052372428588569164276123046875"
+      }, {
+        "count" : 19,
+        "item" : "3961.449085744074182002805173397064208984375"
+      }, {
+        "count" : 18,
+        "item" : "2262.12476143898811642429791390895843505859375"
+      }, {
+        "count" : 17,
+        "item" : "3672.62379179737399681471288204193115234375"
+      }, {
+        "count" : 16,
+        "item" : "8584.72851119355982518754899501800537109375"
+      }, {
+        "count" : 15,
+        "item" : "254101.73921344615519046783447265625"
+      }, {
+        "count" : 14,
+        "item" : "2488.6977047102600408834405243396759033203125"
+      }, {
+        "count" : 13,
+        "item" : "561766.3509779633022844791412353515625"
+      }, {
+        "count" : 12,
+        "item" : "10964.898537257433417835272848606109619140625"
+      }, {
+        "count" : 11,
+        "item" : "4998.847705599857363267801702022552490234375"
+      }, {
+        "count" : 10,
+        "item" : "22433.669387931571691296994686126708984375"
+      }, {
+        "count" : 9,
+        "item" : "24892.32654389969320618547499179840087890625"
+      }, {
+        "count" : 8,
+        "item" : "9677.25719901949560153298079967498779296875"
+      }, {
+        "count" : 7,
+        "item" : "1061466.7235680674202740192413330078125"
+      }, {
+        "count" : 6,
+        "item" : "8702.546509000376317999325692653656005859375"
+      }, {
+        "count" : 5,
+        "item" : "40447.4005893750800169073045253753662109375"
+      }, {
+        "count" : 4,
+        "item" : "2652.28076394944173443946056067943572998046875"
+      }, {
+        "count" : 3,
+        "item" : "11468.530878746110829524695873260498046875"
+      }, {
+        "count" : 2,
+        "item" : "4885.3400887676480124355293810367584228515625"
+      }, {
+        "count" : 1,
+        "item" : "6122.250585158339163172058761119842529296875"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561157,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561158
+      } ],
+      "latitudeId" : 1561156
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSFS",
+        "defaultSymbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_BOARDWALK_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SOURCE_ID",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_BOARDWALK_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "types_1" : {
+        "id" : "4300",
+        "name" : "Boardwalk along beach"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dBoardwalk2"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "430000",
+        "codedValues_1.name" : "Boardwalk along beach"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer.defaultSymbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "ABE23802-C1AC-44EA-9B0C-B6C5C90611EA",
+      "name" : "DoITT_BOARDWALK_2012.zip",
+      "filename" : "DoITT_BOARDWALK_2012.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.16023084482,
+    "lat" : 40.9056178878345
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7427227996614,
+    "lat" : 40.5274007045184
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "basemap", "board", "walk", "boardwalk", "cartography", "park", "parks", "doitt gis" ],
+  "flags" : [ "default" ]
+}

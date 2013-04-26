@@ -1,0 +1,327 @@
+{
+  "id" : "f4s3-twcm",
+  "name" : "green",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1322778605,
+  "description" : "Location of green markets in the city with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 40,
+  "numberOfComments" : 0,
+  "oid" : 384016,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115444,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244114,
+  "totalTimesRated" : 0,
+  "viewCount" : 172,
+  "viewLastModified" : 1360612143,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3814616,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564216,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "1",
+      "sum" : "1081",
+      "null" : 0,
+      "average" : "23.5",
+      "largest" : "46",
+      "top" : [ {
+        "count" : 20,
+        "item" : "42"
+      }, {
+        "count" : 19,
+        "item" : "43"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "45"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3814617,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564218,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "175th Street",
+      "null" : 0,
+      "largest" : "Zuccotti Park",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Cortelyou"
+      }, {
+        "count" : 19,
+        "item" : "Borough Park"
+      }, {
+        "count" : 18,
+        "item" : "Sunset Park"
+      }, {
+        "count" : 17,
+        "item" : "St. George"
+      }, {
+        "count" : 16,
+        "item" : "Bay Ridge"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3814618,
+    "name" : "LOCATION",
+    "dataTypeName" : "text",
+    "description" : "LOCATION",
+    "fieldName" : "location",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564221,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "14 Street - 31 Avenue & 31 Road",
+      "null" : 0,
+      "largest" : "Washington Park & DeKalb Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Courtelyou Road & Rugby Road"
+      }, {
+        "count" : 19,
+        "item" : "14th Avenue - 49 Street & 50 Street"
+      }, {
+        "count" : 18,
+        "item" : "4th Avenue - 59 Street & 60 Street"
+      }, {
+        "count" : 17,
+        "item" : "Boro Hall park lot, St. Mark's Place & Hyatt Street"
+      }, {
+        "count" : 16,
+        "item" : "3rd Avenue & 95th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3814619,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564220,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 46
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3814620,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564219,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3814621,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564217,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : {
+        "longitude" : "-74.01365504499995",
+        "latitude" : "40.70496936300009"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.03360756099994",
+        "latitude" : "40.61724073400006"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.96569709399995",
+          "latitude" : "40.64089044600007"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.99040200199994",
+          "latitude" : "40.63338325400008"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.01814246399994",
+          "latitude" : "40.641122522000046"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.07736966399995",
+          "latitude" : "40.641333977000045"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.03360756099994",
+          "latitude" : "40.61724073400006"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564217,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564218
+      } ],
+      "latitudeId" : 1564216
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_GREEN_MARKET_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_GREEN_MARKET_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "B1741353-BC93-4569-81A6-31373AED34B3",
+      "name" : "DOITT_GREEN_MARKET.zip",
+      "filename" : "DOITT_GREEN_MARKET.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "wt3r-tb9c",
+    "displayName" : "Veronique",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1321128652,
+    "screenName" : "Veronique"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "business", "green", "market", "grocer", "food", "sale", "sell" ]
+}

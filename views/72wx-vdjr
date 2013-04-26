@@ -1,0 +1,585 @@
+{
+  "id" : "72wx-vdjr",
+  "name" : "NYCHA PSA (Police Service Areas)",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Construction and Housing",
+  "createdAt" : 1318116061,
+  "description" : "Police Service Areas",
+  "displayType" : "map",
+  "downloadCount" : 887,
+  "numberOfComments" : 0,
+  "oid" : 342275,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116070,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244130,
+  "totalTimesRated" : 0,
+  "viewCount" : 419,
+  "viewLastModified" : 1360609361,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989062,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564353,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "1",
+      "sum" : "136",
+      "null" : 0,
+      "average" : "8.5",
+      "largest" : "16",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989063,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564354,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : {
+        "longitude" : "-73.99033262299992",
+        "latitude" : "40.57694558600008"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.07749395299993",
+        "latitude" : "40.594923261000076"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99033262299992",
+          "latitude" : "40.57694558600008"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.00884978099992",
+          "latitude" : "40.676281335000056"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.88672560999993",
+          "latitude" : "40.65242489900004"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.89826624699992",
+          "latitude" : "40.66885049200005"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.93245118199991",
+          "latitude" : "40.70232141300005"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.97785241699995",
+          "latitude" : "40.69419762500007"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.97821878899992",
+          "latitude" : "40.72481696300008"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.93621227499995",
+          "latitude" : "40.80223956200007"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.94083621499993",
+          "latitude" : "40.82417645600009"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.9157037949999",
+          "latitude" : "40.82082615100006"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.8255743599999",
+          "latitude" : "40.82422560900005"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.84444040299991",
+          "latitude" : "40.88597420800005"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.81303473799994",
+          "latitude" : "40.73263297200003"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.93448946199993",
+          "latitude" : "40.76217697700008"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.78450542799993",
+          "latitude" : "40.59373099600003"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-74.07749395299993",
+          "latitude" : "40.594923261000076"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2989064,
+    "name" : "DEVELOPMEN",
+    "dataTypeName" : "text",
+    "description" : "DEVELOPMEN",
+    "fieldName" : "developmen",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564355,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "101ST PRECINCT SATELLITE",
+      "null" : 0,
+      "largest" : "POLICE SERVICE AREA #9 SATELLITE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "POLICE SERVICE AREA #1"
+      }, {
+        "count" : 19,
+        "item" : "POLICE SERVICE AREA #1 SATELLITE"
+      }, {
+        "count" : 18,
+        "item" : "POLICE SERVICE AREA #2"
+      }, {
+        "count" : 17,
+        "item" : "POLICE SERVICE AREA #3"
+      }, {
+        "count" : 16,
+        "item" : "POLICE SERVICE AREA #3 SATELLITE"
+      }, {
+        "count" : 15,
+        "item" : "POLICE SERVICE AREA #4"
+      }, {
+        "count" : 14,
+        "item" : "POLICE SERVICE AREA #5"
+      }, {
+        "count" : 13,
+        "item" : "POLICE SERVICE AREA #6"
+      }, {
+        "count" : 12,
+        "item" : "POLICE SERVICE AREA #7"
+      }, {
+        "count" : 11,
+        "item" : "POLICE SERVICE AREA #8"
+      }, {
+        "count" : 10,
+        "item" : "POLICE SERVICE AREA #8 SATELLITE"
+      }, {
+        "count" : 9,
+        "item" : "POLICE SERVICE AREA #9"
+      }, {
+        "count" : 8,
+        "item" : "POLICE SERVICE AREA #9 SATELLITE"
+      }, {
+        "count" : 7,
+        "item" : "101ST PRECINCT SATELLITE"
+      }, {
+        "count" : 6,
+        "item" : "PBSI Anti-Crime/ECT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989065,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564356,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "106-09 FLATLANDS AVENUE",
+      "null" : 0,
+      "largest" : "80 DWIGHT STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2860 WEST 23RD STREET"
+      }, {
+        "count" : 19,
+        "item" : "80 DWIGHT STREET"
+      }, {
+        "count" : 18,
+        "item" : "106-09 FLATLANDS AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "560 SUTTER AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "25 CENTRAL AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "4 AUBURN PLACE"
+      }, {
+        "count" : 14,
+        "item" : "130 AVENUE C"
+      }, {
+        "count" : 13,
+        "item" : "221 EAST 123RD STREET"
+      }, {
+        "count" : 12,
+        "item" : "2770 F DOUGLASS BOULEVARD"
+      }, {
+        "count" : 11,
+        "item" : "737 MELROSE AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "2794 RANDALL AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "1165 EAST 229TH STREET"
+      }, {
+        "count" : 8,
+        "item" : "155-09 JEWEL AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "34-41 21ST STREET"
+      }, {
+        "count" : 6,
+        "item" : "349 BEACH 54TH STREET"
+      }, {
+        "count" : 5,
+        "item" : "154 LAMPORT BOULEVARD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989066,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564357,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 19,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989067,
+    "name" : "ZIP_CODE",
+    "dataTypeName" : "text",
+    "description" : "ZIP_CODE",
+    "fieldName" : "zip_code",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564358,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "10009",
+      "null" : 0,
+      "largest" : "11692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11224"
+      }, {
+        "count" : 19,
+        "item" : "11231"
+      }, {
+        "count" : 18,
+        "item" : "11236"
+      }, {
+        "count" : 17,
+        "item" : "11207"
+      }, {
+        "count" : 16,
+        "item" : "11206"
+      }, {
+        "count" : 15,
+        "item" : "11205"
+      }, {
+        "count" : 14,
+        "item" : "10009"
+      }, {
+        "count" : 13,
+        "item" : "10035"
+      }, {
+        "count" : 12,
+        "item" : "10039"
+      }, {
+        "count" : 11,
+        "item" : "10455"
+      }, {
+        "count" : 10,
+        "item" : "10465"
+      }, {
+        "count" : 9,
+        "item" : "10466"
+      }, {
+        "count" : 8,
+        "item" : "11367"
+      }, {
+        "count" : 7,
+        "item" : "11106"
+      }, {
+        "count" : 6,
+        "item" : "11692"
+      }, {
+        "count" : 5,
+        "item" : "10305"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989068,
+    "name" : "BOROCODE",
+    "dataTypeName" : "text",
+    "description" : "BOROCODE",
+    "fieldName" : "borocode",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564359,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 16,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564354,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564355
+      } ],
+      "latitudeId" : 1564353
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_NYCHA_PSA_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "DEVELOPMEN",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_NYCHA_PSA_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "14BF793A-84C5-42D2-AF56-E4014F17601E",
+      "name" : "DOITT_NYCHA_PSA.zip",
+      "filename" : "DOITT_NYCHA_PSA.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0778333091864,
+    "lat" : 40.886079034555
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7835584591021,
+    "lat" : 40.5767439870959
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "location", "map", "cartography", "basemap", "police", "police service area", "public safety", "crime", "safety" ],
+  "flags" : [ "default" ]
+}

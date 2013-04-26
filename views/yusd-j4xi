@@ -1,0 +1,88 @@
+{
+  "id" : "yusd-j4xi",
+  "name" : "City Council Districts",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nycc_12c.zip",
+  "blobFileSize" : 724595,
+  "blobId" : "KStjzmaM6u-hlC1W_Eo__VrpgW3L5HWEDY1ADGSCbc4",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359498822,
+  "description" : "GIS data: Boundaries of City Council Districts",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2377004,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366299224,
+  "publicationGroup" : 644587,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644587,
+  "totalTimesRated" : 0,
+  "viewCount" : 41,
+  "viewLastModified" : 1366299274,
+  "viewType" : "geo",
+  "childViews" : [ "kjti-bv5b" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/yusd-j4xi",
+      "bbox" : "-74.2571589754619,40.495992204973774,-73.6992151823303,40.915565528731065",
+      "layers" : "geo_yusd-j4xi-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_yusd-j4xi"
+    },
+    "attachments" : [ {
+      "blobId" : "78744DD8-CC65-42F2-A9F5-9083332037AE",
+      "name" : "DCP_nyccav_001.zip",
+      "filename" : "DCP_nyccav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "voting", "location", "map", "cartography", "city council", "council", "boundary", "elect", "election", "city council districts", "dcp" ],
+  "flags" : [ "default" ]
+}

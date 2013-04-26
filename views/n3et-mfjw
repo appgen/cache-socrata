@@ -1,0 +1,899 @@
+{
+  "id" : "n3et-mfjw",
+  "name" : "DYCD Beacon",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318026694,
+  "description" : "DYCD Beacon",
+  "displayType" : "map",
+  "downloadCount" : 28,
+  "numberOfComments" : 0,
+  "oid" : 341820,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318026706,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243904,
+  "totalTimesRated" : 0,
+  "viewCount" : 96,
+  "viewLastModified" : 1360613657,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980132,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561253,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "1",
+      "sum" : "3321",
+      "null" : 0,
+      "average" : "41",
+      "largest" : "81",
+      "top" : [ {
+        "count" : 20,
+        "item" : "42"
+      }, {
+        "count" : 19,
+        "item" : "43"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "45"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "48"
+      }, {
+        "count" : 13,
+        "item" : "49"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "51"
+      }, {
+        "count" : 10,
+        "item" : "52"
+      }, {
+        "count" : 9,
+        "item" : "53"
+      }, {
+        "count" : 8,
+        "item" : "54"
+      }, {
+        "count" : 7,
+        "item" : "55"
+      }, {
+        "count" : 6,
+        "item" : "56"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "58"
+      }, {
+        "count" : 3,
+        "item" : "59"
+      }, {
+        "count" : 2,
+        "item" : "60"
+      }, {
+        "count" : 1,
+        "item" : "61"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980133,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561254,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : {
+        "longitude" : "-73.8661646459999",
+        "latitude" : "40.74821357900004"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.90305760599995",
+        "latitude" : "40.70561005300004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.90668329399995",
+          "latitude" : "40.65580690200005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.95157535999994",
+          "latitude" : "40.656424160000086"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.91114472499993",
+          "latitude" : "40.66636095300004"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.95135738499994",
+          "latitude" : "40.67393424200009"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9459128119999",
+          "latitude" : "40.64812487200004"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.01171132199994",
+          "latitude" : "40.649222921000046"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.93576959799992",
+          "latitude" : "40.68172335600008"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.01929935299995",
+          "latitude" : "40.64195125900005"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.91090242399991",
+          "latitude" : "40.63532027500008"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.92871897899994",
+          "latitude" : "40.65869606000007"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.94803845799993",
+          "latitude" : "40.71961387500005"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.93907053499993",
+          "latitude" : "40.711863125000036"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.92763966299992",
+          "latitude" : "40.70086955600004"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.91033313399993",
+          "latitude" : "40.68891749200009"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.93080287899994",
+          "latitude" : "40.84921082300008"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93721177499992",
+          "latitude" : "40.836947502000044"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.97095993199991",
+          "latitude" : "40.79146737600007"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.95701981099995",
+          "latitude" : "40.819751705000044"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.98594483699992",
+          "latitude" : "40.72022276900009"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.96278311599991",
+          "latitude" : "40.80057419000008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980134,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561255,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "1",
+      "sum" : "3321",
+      "null" : 0,
+      "average" : "41",
+      "largest" : "81",
+      "top" : [ {
+        "count" : 20,
+        "item" : "28"
+      }, {
+        "count" : 19,
+        "item" : "29"
+      }, {
+        "count" : 18,
+        "item" : "30"
+      }, {
+        "count" : 17,
+        "item" : "31"
+      }, {
+        "count" : 16,
+        "item" : "32"
+      }, {
+        "count" : 15,
+        "item" : "33"
+      }, {
+        "count" : 14,
+        "item" : "34"
+      }, {
+        "count" : 13,
+        "item" : "35"
+      }, {
+        "count" : 12,
+        "item" : "36"
+      }, {
+        "count" : 11,
+        "item" : "37"
+      }, {
+        "count" : 10,
+        "item" : "38"
+      }, {
+        "count" : 9,
+        "item" : "39"
+      }, {
+        "count" : 8,
+        "item" : "40"
+      }, {
+        "count" : 7,
+        "item" : "41"
+      }, {
+        "count" : 6,
+        "item" : "42"
+      }, {
+        "count" : 5,
+        "item" : "43"
+      }, {
+        "count" : 4,
+        "item" : "44"
+      }, {
+        "count" : 3,
+        "item" : "45"
+      }, {
+        "count" : 2,
+        "item" : "46"
+      }, {
+        "count" : 1,
+        "item" : "47"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980135,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561256,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "Out of School Time - Beacon",
+      "null" : 0,
+      "largest" : "Out of School Time - Beacon",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Out of School Time - Beacon"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980136,
+    "name" : "DIVISIONNA",
+    "dataTypeName" : "text",
+    "description" : "DIVISIONNA",
+    "fieldName" : "divisionna",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561257,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "21st Century Academy DYCD After School Program",
+      "null" : 0,
+      "largest" : "Wings Academy High School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "JHS 275 / KappaV"
+      }, {
+        "count" : 19,
+        "item" : "MS 2"
+      }, {
+        "count" : 18,
+        "item" : "IS 323"
+      }, {
+        "count" : 17,
+        "item" : "PS 138"
+      }, {
+        "count" : 16,
+        "item" : "PS 181"
+      }, {
+        "count" : 15,
+        "item" : "PS 1"
+      }, {
+        "count" : 14,
+        "item" : "IS 35"
+      }, {
+        "count" : 13,
+        "item" : "PS 503/506"
+      }, {
+        "count" : 12,
+        "item" : "IS 68"
+      }, {
+        "count" : 11,
+        "item" : "IS 232"
+      }, {
+        "count" : 10,
+        "item" : "JHS 126"
+      }, {
+        "count" : 9,
+        "item" : "Grand Street Campus"
+      }, {
+        "count" : 8,
+        "item" : "IS 347"
+      }, {
+        "count" : 7,
+        "item" : "IS 296"
+      }, {
+        "count" : 6,
+        "item" : "JHS 143"
+      }, {
+        "count" : 5,
+        "item" : "MS 328"
+      }, {
+        "count" : 4,
+        "item" : "MS 258"
+      }, {
+        "count" : 3,
+        "item" : "IS 195"
+      }, {
+        "count" : 2,
+        "item" : "Marta Valley HS"
+      }, {
+        "count" : 1,
+        "item" : "MS 54"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980137,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561258,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "100 Hester Street",
+      "null" : 0,
+      "largest" : "99 Avenue P",
+      "top" : [ {
+        "count" : 20,
+        "item" : "985 Rockaway Avenue"
+      }, {
+        "count" : 19,
+        "item" : "655 Parkside Avenue"
+      }, {
+        "count" : 18,
+        "item" : "210 Chester Street"
+      }, {
+        "count" : 17,
+        "item" : "760 Prospect Place"
+      }, {
+        "count" : 16,
+        "item" : "1023 New York Avenue"
+      }, {
+        "count" : 15,
+        "item" : "309 47th Street"
+      }, {
+        "count" : 14,
+        "item" : "272 McDonough Street"
+      }, {
+        "count" : 13,
+        "item" : "330 59th Street"
+      }, {
+        "count" : 12,
+        "item" : "956 E. 82nd Street"
+      }, {
+        "count" : 11,
+        "item" : "905 Winthrop Avenue"
+      }, {
+        "count" : 10,
+        "item" : "424 Leonard Street"
+      }, {
+        "count" : 9,
+        "item" : "850 Grand Street"
+      }, {
+        "count" : 8,
+        "item" : "35 Starr Street"
+      }, {
+        "count" : 7,
+        "item" : "125 Covert Street"
+      }, {
+        "count" : 6,
+        "item" : "511 West 182nd Street"
+      }, {
+        "count" : 5,
+        "item" : "401 W 164th Street"
+      }, {
+        "count" : 4,
+        "item" : "154 West 93rd Street"
+      }, {
+        "count" : 3,
+        "item" : "625 W. 133 Street"
+      }, {
+        "count" : 2,
+        "item" : "145 Stanton Street"
+      }, {
+        "count" : 1,
+        "item" : "103 W.107Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980138,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "number",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561259,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "10002",
+      "sum" : "878978",
+      "null" : 0,
+      "average" : "10851.58024691358",
+      "largest" : "11692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10466"
+      }, {
+        "count" : 19,
+        "item" : "11208"
+      }, {
+        "count" : 18,
+        "item" : "11204"
+      }, {
+        "count" : 17,
+        "item" : "11212"
+      }, {
+        "count" : 16,
+        "item" : "11203"
+      }, {
+        "count" : 15,
+        "item" : "11220"
+      }, {
+        "count" : 14,
+        "item" : "11233"
+      }, {
+        "count" : 13,
+        "item" : "11236"
+      }, {
+        "count" : 12,
+        "item" : "11222"
+      }, {
+        "count" : 11,
+        "item" : "11211"
+      }, {
+        "count" : 10,
+        "item" : "11221"
+      }, {
+        "count" : 9,
+        "item" : "11207"
+      }, {
+        "count" : 8,
+        "item" : "10033"
+      }, {
+        "count" : 7,
+        "item" : "10032"
+      }, {
+        "count" : 6,
+        "item" : "10025"
+      }, {
+        "count" : 5,
+        "item" : "10027"
+      }, {
+        "count" : 4,
+        "item" : "10022"
+      }, {
+        "count" : 3,
+        "item" : "10030"
+      }, {
+        "count" : 2,
+        "item" : "10011"
+      }, {
+        "count" : 1,
+        "item" : "10026"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980139,
+    "name" : "PHONENUMBE",
+    "dataTypeName" : "text",
+    "description" : "PHONENUMBE",
+    "fieldName" : "phonenumbe",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561260,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "(212) 219-8393",
+      "null" : 0,
+      "largest" : "TBD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 485-2719"
+      }, {
+        "count" : 19,
+        "item" : "(718) 826-2889"
+      }, {
+        "count" : 18,
+        "item" : "(718) 498-7030"
+      }, {
+        "count" : 17,
+        "item" : "(718) 953-0857"
+      }, {
+        "count" : 16,
+        "item" : "(718) 703-3633"
+      }, {
+        "count" : 15,
+        "item" : "(718) 492-2619"
+      }, {
+        "count" : 14,
+        "item" : "(718) 453-7004"
+      }, {
+        "count" : 13,
+        "item" : "(718) 439-5986"
+      }, {
+        "count" : 12,
+        "item" : "(718) 241-3847"
+      }, {
+        "count" : 11,
+        "item" : "(718) 221-8880 X 1130"
+      }, {
+        "count" : 10,
+        "item" : "(718) 388-5546"
+      }, {
+        "count" : 9,
+        "item" : "(718) 302-5930"
+      }, {
+        "count" : 8,
+        "item" : "(718) 947-0604"
+      }, {
+        "count" : 7,
+        "item" : "(718) 919-4453"
+      }, {
+        "count" : 6,
+        "item" : "(212) 928-4992"
+      }, {
+        "count" : 5,
+        "item" : "(212) 795-9511"
+      }, {
+        "count" : 4,
+        "item" : "(212) 866-0009"
+      }, {
+        "count" : 3,
+        "item" : "(212) 368-1827"
+      }, {
+        "count" : 2,
+        "item" : "(212) 505-6338"
+      }, {
+        "count" : 1,
+        "item" : "(212) 866-5579"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980140,
+    "name" : "SERVICESOF",
+    "dataTypeName" : "text",
+    "description" : "SERVICESOF",
+    "fieldName" : "servicesof",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561261,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "After school program for elementary school students. The program operates during the school year and offers academics, arts, music and sports. Enrollment is required. Contact the program directly to find out if it has openings.",
+      "null" : 0,
+      "largest" : "After school program for elementary school students. The program operates during the school year and offers academics, arts, music and sports. Enrollment is required. Contact the program directly to find out if it has openings.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "After school program for elementary school students. The program operates during the school year and offers academics, arts, music and sports. Enrollment is required. Contact the program directly to find out if it has openings."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980141,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561262,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "http://www.nyc.gov/html/dycd/html/afterschool/beacon_program.shtml",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/dycd/html/afterschool/beacon_program.shtml",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/dycd/html/afterschool/beacon_program.shtml"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980142,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561263,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 81,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Corona"
+      }, {
+        "count" : 19,
+        "item" : "Astoria"
+      }, {
+        "count" : 18,
+        "item" : "Arverne"
+      }, {
+        "count" : 17,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 16,
+        "item" : "Fresh Meadows"
+      }, {
+        "count" : 15,
+        "item" : "Bayside"
+      }, {
+        "count" : 14,
+        "item" : "Glen Oaks"
+      }, {
+        "count" : 13,
+        "item" : "Jamaica"
+      }, {
+        "count" : 12,
+        "item" : "Elmhurst"
+      }, {
+        "count" : 11,
+        "item" : "Ozone Park"
+      }, {
+        "count" : 10,
+        "item" : "Staten Island"
+      }, {
+        "count" : 9,
+        "item" : "New York"
+      }, {
+        "count" : 8,
+        "item" : "Bronx"
+      }, {
+        "count" : 7,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 6,
+        "item" : "South Ozone Park"
+      }, {
+        "count" : 5,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 4,
+        "item" : "Cambria Heights"
+      }, {
+        "count" : 3,
+        "item" : "Flushing"
+      }, {
+        "count" : 2,
+        "item" : "Jackson Heights"
+      }, {
+        "count" : 1,
+        "item" : "Ridgewood"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561254,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561255
+      } ],
+      "latitudeId" : 1561253
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_DYCD_BEACON_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SERVICE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_DYCD_BEACON_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D51A4CB1-23DD-442F-9F92-8CF551B3A2FA",
+      "name" : "DOITT_DYCD_BEACON.zip",
+      "filename" : "DOITT_DYCD_BEACON.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.193515744888,
+    "lat" : 40.886286180025
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7126821781399,
+    "lat" : 40.5276066044044
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "beacon", "youth" ],
+  "flags" : [ "default" ]
+}

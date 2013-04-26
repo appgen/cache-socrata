@@ -1,0 +1,259 @@
+{
+  "id" : "dp8f-e6hc",
+  "name" : "sisewalks",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1366679282,
+  "description" : "Planimetric basemap polygon layer containing sidewalk features.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3306714,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116488,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "searchString" : "sidewalks",
+  "signed" : false,
+  "tableId" : 244144,
+  "totalTimesRated" : 0,
+  "viewCount" : 3,
+  "viewLastModified" : 1366679282,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 60072912,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564636,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60072913,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564637,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 60072914,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564638,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60072915,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564639,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60072916,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564640,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60072917,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564641,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60072918,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564642,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "self",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564638
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1564637,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564638
+      } ],
+      "latitudeId" : 1564636
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSFS",
+        "defaultSymbol.style" : "esriSFSSolid"
+      },
+      "types_1" : {
+        "id" : "3800",
+        "name" : "Sidewalk"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_SIDEWALK_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SOURCE_ID",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_SIDEWALK_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dSidewalk2"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "380000",
+        "codedValues_1.name" : "Sidewalk"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer.defaultSymbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "1AFFF2CD-91DD-49EE-A560-00B7C971972B",
+      "name" : "DOITT_SIDEWALK.zip",
+      "filename" : "DOITT_SIDEWALK.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "qaui-aknc",
+    "displayName" : "sanhita",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1366679281,
+    "screenName" : "sanhita"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "sidewalk", "doitt gis" ]
+}

@@ -1,0 +1,639 @@
+{
+  "id" : "j2bb-ejds",
+  "name" : "Railroad Features",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318116341,
+  "description" : "Planimetric basemap line layer containing the railroad features. (rail and subway lines)",
+  "displayType" : "map",
+  "downloadCount" : 35,
+  "numberOfComments" : 0,
+  "oid" : 342283,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116351,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244138,
+  "totalTimesRated" : 0,
+  "viewCount" : 276,
+  "viewLastModified" : 1360611233,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989188,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564479,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14129,
+      "smallest" : "1",
+      "sum" : "99821385",
+      "null" : 0,
+      "average" : "7065",
+      "largest" : "14129",
+      "top" : [ {
+        "count" : 20,
+        "item" : "14105"
+      }, {
+        "count" : 19,
+        "item" : "14106"
+      }, {
+        "count" : 18,
+        "item" : "14107"
+      }, {
+        "count" : 17,
+        "item" : "14108"
+      }, {
+        "count" : 16,
+        "item" : "14109"
+      }, {
+        "count" : 15,
+        "item" : "14110"
+      }, {
+        "count" : 14,
+        "item" : "14111"
+      }, {
+        "count" : 13,
+        "item" : "14112"
+      }, {
+        "count" : 12,
+        "item" : "14113"
+      }, {
+        "count" : 11,
+        "item" : "14114"
+      }, {
+        "count" : 10,
+        "item" : "14115"
+      }, {
+        "count" : 9,
+        "item" : "14116"
+      }, {
+        "count" : 8,
+        "item" : "14117"
+      }, {
+        "count" : 7,
+        "item" : "14118"
+      }, {
+        "count" : 6,
+        "item" : "14119"
+      }, {
+        "count" : 5,
+        "item" : "14120"
+      }, {
+        "count" : 4,
+        "item" : "14121"
+      }, {
+        "count" : 3,
+        "item" : "14122"
+      }, {
+        "count" : 2,
+        "item" : "14123"
+      }, {
+        "count" : 1,
+        "item" : "14124"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989189,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564480,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989190,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564481,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14129,
+      "smallest" : "2 AV",
+      "null" : 0,
+      "largest" : "STILLWELL- CONEY IS.- CUL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LONG ISLAND RR"
+      }, {
+        "count" : 19,
+        "item" : "NO NAME"
+      }, {
+        "count" : 18,
+        "item" : "IND F ROCKAWAY"
+      }, {
+        "count" : 17,
+        "item" : "LONG ISLAND ATLANTIC BRAN"
+      }, {
+        "count" : 16,
+        "item" : "LONG ISLAND MONTAUK BRANC"
+      }, {
+        "count" : 15,
+        "item" : "NEW YORK CONNECTING RR"
+      }, {
+        "count" : 14,
+        "item" : "BMT J JAMAICA"
+      }, {
+        "count" : 13,
+        "item" : "LONG ISLAND MAIN LINE RR"
+      }, {
+        "count" : 12,
+        "item" : "LONG ISLAND PORT WASHINGT"
+      }, {
+        "count" : 11,
+        "item" : "IRT C FLUSHING"
+      }, {
+        "count" : 10,
+        "item" : "IND DT QUEENS BLVD"
+      }, {
+        "count" : 9,
+        "item" : "AMTRAK"
+      }, {
+        "count" : 8,
+        "item" : "METRO-NORTH COMMUTER HUDS"
+      }, {
+        "count" : 7,
+        "item" : "CONRAIL-AMTRAK"
+      }, {
+        "count" : 6,
+        "item" : "METRO-NORTH COMMUTER HARL"
+      }, {
+        "count" : 5,
+        "item" : "IRT J JEROME AVE"
+      }, {
+        "count" : 4,
+        "item" : "HP MKT RR SPUR"
+      }, {
+        "count" : 3,
+        "item" : "IRT Y DYRE AVE"
+      }, {
+        "count" : 2,
+        "item" : "IRT PW WESTCHESTER PELHAM"
+      }, {
+        "count" : 1,
+        "item" : "IRT WT 239TH ST RAIL YARD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989191,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564482,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14129,
+      "smallest" : "1240000021",
+      "sum" : "190883519234492",
+      "null" : 0,
+      "average" : "13510051612.60471",
+      "largest" : "24246500117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "24240000077"
+      }, {
+        "count" : 19,
+        "item" : "24240000078"
+      }, {
+        "count" : 18,
+        "item" : "24240000079"
+      }, {
+        "count" : 17,
+        "item" : "24240000080"
+      }, {
+        "count" : 16,
+        "item" : "24240000081"
+      }, {
+        "count" : 15,
+        "item" : "24240000082"
+      }, {
+        "count" : 14,
+        "item" : "24240000083"
+      }, {
+        "count" : 13,
+        "item" : "24240000084"
+      }, {
+        "count" : 12,
+        "item" : "24240000085"
+      }, {
+        "count" : 11,
+        "item" : "24240000086"
+      }, {
+        "count" : 10,
+        "item" : "24240000087"
+      }, {
+        "count" : 9,
+        "item" : "24240000088"
+      }, {
+        "count" : 8,
+        "item" : "24240000089"
+      }, {
+        "count" : 7,
+        "item" : "24240000092"
+      }, {
+        "count" : 6,
+        "item" : "24240000093"
+      }, {
+        "count" : 5,
+        "item" : "24240000094"
+      }, {
+        "count" : 4,
+        "item" : "24240000095"
+      }, {
+        "count" : 3,
+        "item" : "24240000096"
+      }, {
+        "count" : 2,
+        "item" : "24240000097"
+      }, {
+        "count" : 1,
+        "item" : "24240000098"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989192,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564483,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14129,
+      "smallest" : "2400",
+      "sum" : "34115140",
+      "null" : 0,
+      "average" : "2414.547384811381",
+      "largest" : "2465",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2450"
+      }, {
+        "count" : 19,
+        "item" : "2420"
+      }, {
+        "count" : 18,
+        "item" : "2410"
+      }, {
+        "count" : 17,
+        "item" : "2400"
+      }, {
+        "count" : 16,
+        "item" : "2440"
+      }, {
+        "count" : 15,
+        "item" : "2465"
+      }, {
+        "count" : 14,
+        "item" : "2430"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989193,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564484,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14129,
+      "smallest" : "240000",
+      "sum" : "3411572710",
+      "null" : 0,
+      "average" : "241458.8937645976",
+      "largest" : "246500",
+      "top" : [ {
+        "count" : 20,
+        "item" : "245000"
+      }, {
+        "count" : 19,
+        "item" : "242000"
+      }, {
+        "count" : 18,
+        "item" : "241000"
+      }, {
+        "count" : 17,
+        "item" : "240000"
+      }, {
+        "count" : 16,
+        "item" : "240010"
+      }, {
+        "count" : 15,
+        "item" : "244000"
+      }, {
+        "count" : 14,
+        "item" : "246500"
+      }, {
+        "count" : 13,
+        "item" : "243000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989194,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564485,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14129,
+      "smallest" : "0.0201417521834591113638612824843221460469067096710205078125",
+      "sum" : "5280605.0177342413708069697453328927849725005216896533966064453125",
+      "null" : 0,
+      "average" : "373.7423043197849",
+      "largest" : "13864.162913946594926528632640838623046875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "413.65345523383592762911575846374034881591796875"
+      }, {
+        "count" : 19,
+        "item" : "18.672754258318679632111525279469788074493408203125"
+      }, {
+        "count" : 18,
+        "item" : "45.0060106887121520458094892092049121856689453125"
+      }, {
+        "count" : 17,
+        "item" : "163.644783372859819792211055755615234375"
+      }, {
+        "count" : 16,
+        "item" : "132.0013665846132653314271010458469390869140625"
+      }, {
+        "count" : 15,
+        "item" : "157.6663571308282598693040199577808380126953125"
+      }, {
+        "count" : 14,
+        "item" : "137.018216132679214069867157377302646636962890625"
+      }, {
+        "count" : 13,
+        "item" : "307.0072541485213832856970839202404022216796875"
+      }, {
+        "count" : 12,
+        "item" : "25.916032068808458888042878243140876293182373046875"
+      }, {
+        "count" : 11,
+        "item" : "25.42273680226677612381536164321005344390869140625"
+      }, {
+        "count" : 10,
+        "item" : "25.577904904527432705663159140385687351226806640625"
+      }, {
+        "count" : 9,
+        "item" : "139.13120466124502172533539123833179473876953125"
+      }, {
+        "count" : 8,
+        "item" : "385.765073057267500189482234418392181396484375"
+      }, {
+        "count" : 7,
+        "item" : "25.87666875182018344503376283682882785797119140625"
+      }, {
+        "count" : 6,
+        "item" : "25.61994264157375056356613640673458576202392578125"
+      }, {
+        "count" : 5,
+        "item" : "14.0448371167351329091843581409193575382232666015625"
+      }, {
+        "count" : 4,
+        "item" : "14.33280373801662932464751065708696842193603515625"
+      }, {
+        "count" : 3,
+        "item" : "28.64988464741268359148307354189455509185791015625"
+      }, {
+        "count" : 2,
+        "item" : "20.434654392472179296191825415007770061492919921875"
+      }, {
+        "count" : 1,
+        "item" : "24.59898337135174273271331912837922573089599609375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564480,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564481
+      } ],
+      "latitudeId" : 1564479
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_6.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "245000",
+        "codedValues_1.name" : "Railway fence"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_7" : {
+        "id" : "2410",
+        "name" : "Elevated railroad"
+      },
+      "types_6" : {
+        "id" : "2450",
+        "name" : "Railway fence"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSLS",
+        "defaultSymbol.style" : "esriSLSSolid",
+        "defaultSymbol.width" : "1"
+      },
+      "types_1" : {
+        "id" : "2400",
+        "name" : "Railroad"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRRViaductCenterline"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRRRailroad"
+      },
+      "types_4.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "246500",
+        "codedValues_1.name" : "Abandoned railroad"
+      },
+      "types_4" : {
+        "id" : "2465",
+        "name" : "Abandoned railroad"
+      },
+      "types_5" : {
+        "id" : "2440",
+        "name" : "Open cut depression railroad"
+      },
+      "types_2" : {
+        "id" : "2430",
+        "name" : "Viaduct centerline"
+      },
+      "types_3" : {
+        "id" : "2420",
+        "name" : "Embankment railroad"
+      },
+      "types_5.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "244000",
+        "codedValues_1.name" : "Open cut depression railroad"
+      },
+      "types_7.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "241000",
+        "codedValues_1.name" : "Elevated Railroad"
+      },
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "243000",
+        "codedValues_1.name" : "Viaduct centerline"
+      },
+      "types_4.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRRAbandoned"
+      },
+      "types_7.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRRElevated"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "240010",
+        "codedValues_1.code" : "240000",
+        "codedValues_1.name" : "Railroad",
+        "codedValues_2.name" : "Railroad, Hidden"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "242000",
+        "codedValues_1.name" : "Embankment railroad"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_RAILROAD_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_RAILROAD_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "types_6.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRRFence"
+      },
+      "types_5.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRROpenCutDepress"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dRREmbarkment"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A12AC138-6E23-4D6A-86CB-C5EFD4E5A702",
+      "name" : "DOITT_RAILROAD.zip",
+      "filename" : "DOITT_RAILROAD.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2543372697868,
+    "lat" : 40.9154338025702
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7255481026655,
+    "lat" : 40.5119993002062
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "transportation", "rail", "railroad", "train", "subway", "line" ],
+  "flags" : [ "default" ]
+}

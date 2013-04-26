@@ -1,0 +1,1266 @@
+{
+  "id" : "388s-pnvc",
+  "name" : "Publicly Accessible Waterfront Spaces (PAWS)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Government",
+  "createdAt" : 1318119195,
+  "description" : "This is a polygon shapefile of publicly accessible waterfront spaces in NYC containing jurisdictional and construction status information. The majority of these spaces were constructed in conjunction with private waterfront developments, pursuant to the NYC Zoning Resolution.  This feature class also includes spaces that are under construction (in progress), or have been approved through ULURP (Uniform Land Use Review Procedure) but construction of the waterfront spaces has not commenced.  The publicly owned spaces in this database do not include parks or open spaces under the jurisdiction of NYC Department of Parks and Recreation, NYS Office of Parks, Recreation & Historic Preservation, or the National Park Service.  This shapefile was used to create the City Waterfront Interactive Maps at http://www.nyc.gov/html/dcp/html/cwp/cw.shtml .",
+  "displayType" : "map",
+  "downloadCount" : 34,
+  "numberOfComments" : 0,
+  "oid" : 342360,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318119208,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244214,
+  "totalTimesRated" : 0,
+  "viewCount" : 288,
+  "viewLastModified" : 1340901639,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2990099,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565345,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "69",
+      "sum" : "6970",
+      "null" : 0,
+      "average" : "102.5",
+      "largest" : "136",
+      "top" : [ {
+        "count" : 20,
+        "item" : "110"
+      }, {
+        "count" : 19,
+        "item" : "111"
+      }, {
+        "count" : 18,
+        "item" : "112"
+      }, {
+        "count" : 17,
+        "item" : "113"
+      }, {
+        "count" : 16,
+        "item" : "114"
+      }, {
+        "count" : 15,
+        "item" : "115"
+      }, {
+        "count" : 14,
+        "item" : "116"
+      }, {
+        "count" : 13,
+        "item" : "117"
+      }, {
+        "count" : 12,
+        "item" : "118"
+      }, {
+        "count" : 11,
+        "item" : "119"
+      }, {
+        "count" : 10,
+        "item" : "120"
+      }, {
+        "count" : 9,
+        "item" : "121"
+      }, {
+        "count" : 8,
+        "item" : "122"
+      }, {
+        "count" : 7,
+        "item" : "123"
+      }, {
+        "count" : 6,
+        "item" : "124"
+      }, {
+        "count" : 5,
+        "item" : "125"
+      }, {
+        "count" : 4,
+        "item" : "126"
+      }, {
+        "count" : 3,
+        "item" : "127"
+      }, {
+        "count" : 2,
+        "item" : "128"
+      }, {
+        "count" : 1,
+        "item" : "129"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990100,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1565346,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2990101,
+    "name" : "PAWS_ID",
+    "dataTypeName" : "text",
+    "description" : "PAWS_ID",
+    "fieldName" : "paws_id",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565347,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "1000001",
+      "null" : 0,
+      "largest" : "5030016",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4070013"
+      }, {
+        "count" : 19,
+        "item" : "4070014"
+      }, {
+        "count" : 18,
+        "item" : "4010002"
+      }, {
+        "count" : 17,
+        "item" : "4020003"
+      }, {
+        "count" : 16,
+        "item" : "4070001"
+      }, {
+        "count" : 15,
+        "item" : "4020002"
+      }, {
+        "count" : 14,
+        "item" : "4070010"
+      }, {
+        "count" : 13,
+        "item" : "4100004"
+      }, {
+        "count" : 12,
+        "item" : "4070015"
+      }, {
+        "count" : 11,
+        "item" : "4010003"
+      }, {
+        "count" : 10,
+        "item" : "4010001"
+      }, {
+        "count" : 9,
+        "item" : "5030007"
+      }, {
+        "count" : 8,
+        "item" : "5030009"
+      }, {
+        "count" : 7,
+        "item" : "5030001"
+      }, {
+        "count" : 6,
+        "item" : "5010002"
+      }, {
+        "count" : 5,
+        "item" : "5010001"
+      }, {
+        "count" : 4,
+        "item" : "5010005"
+      }, {
+        "count" : 3,
+        "item" : "5010006"
+      }, {
+        "count" : 2,
+        "item" : "5010003"
+      }, {
+        "count" : 1,
+        "item" : "5030012"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990102,
+    "name" : "PAWS_Name",
+    "dataTypeName" : "text",
+    "description" : "PAWS_Name",
+    "fieldName" : "paws_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565348,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "155 West Street",
+      "null" : 0,
+      "largest" : "Williamsburg - The Edge",
+      "top" : [ {
+        "count" : 20,
+        "item" : "River Park Place"
+      }, {
+        "count" : 19,
+        "item" : "Crown Landmark Vista Pointe"
+      }, {
+        "count" : 18,
+        "item" : "Vernon Boulevard"
+      }, {
+        "count" : 17,
+        "item" : "East River Tennis Club"
+      }, {
+        "count" : 16,
+        "item" : "Riverview"
+      }, {
+        "count" : 15,
+        "item" : "Site B (Hunter's Point South)"
+      }, {
+        "count" : 14,
+        "item" : "Soundview Pointe"
+      }, {
+        "count" : 13,
+        "item" : "Starbucks (157-41 Cross Bay Blvd)"
+      }, {
+        "count" : 12,
+        "item" : "Professional Service Center for the Handicapped (PSCH)"
+      }, {
+        "count" : 11,
+        "item" : "Shore Towers"
+      }, {
+        "count" : 10,
+        "item" : "Costco"
+      }, {
+        "count" : 9,
+        "item" : "Central Park East Estates"
+      }, {
+        "count" : 8,
+        "item" : "Prince's Point"
+      }, {
+        "count" : 7,
+        "item" : "The Tides at Charleston"
+      }, {
+        "count" : 6,
+        "item" : "St. George Terminal"
+      }, {
+        "count" : 5,
+        "item" : "St. George Esplanade at Staten Island Ballpark"
+      }, {
+        "count" : 4,
+        "item" : "Bay Street Landing Esplanade"
+      }, {
+        "count" : 3,
+        "item" : "New Stapleton Waterfront District"
+      }, {
+        "count" : 2,
+        "item" : "Merchant Marine Memorial Plaza/Pier 1"
+      }, {
+        "count" : 1,
+        "item" : "Atlantic Village"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990103,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "description" : "Status",
+    "fieldName" : "status",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565349,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "Constructed/Completed",
+      "null" : 0,
+      "largest" : "Not Constructed/CPC Approved",
+      "top" : [ {
+        "count" : 20,
+        "item" : "In Progress/Remediation"
+      }, {
+        "count" : 19,
+        "item" : "Constructed/Completed"
+      }, {
+        "count" : 18,
+        "item" : "Not Constructed/CPC Approved"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990104,
+    "name" : "StatusCode",
+    "dataTypeName" : "number",
+    "description" : "StatusCode",
+    "fieldName" : "statuscode",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565350,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "1",
+      "sum" : "114",
+      "null" : 0,
+      "average" : "1.676470588235294",
+      "largest" : "3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990105,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "description" : "Agency",
+    "fieldName" : "agency",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565351,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "NYC (DEP)",
+      "null" : 0,
+      "largest" : "Private",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYC (SBS/EDC)"
+      }, {
+        "count" : 19,
+        "item" : "NYC (EDC/DOT)"
+      }, {
+        "count" : 18,
+        "item" : "NYC (EDC/SBS)"
+      }, {
+        "count" : 17,
+        "item" : "NYC (EDC)"
+      }, {
+        "count" : 16,
+        "item" : "NYC (DOT/SBS/EDC)"
+      }, {
+        "count" : 15,
+        "item" : "Private"
+      }, {
+        "count" : 14,
+        "item" : "NYC (DOT/DPR)"
+      }, {
+        "count" : 13,
+        "item" : "NYC (SBS/DOT/EDC)"
+      }, {
+        "count" : 12,
+        "item" : "NYC (DEP)"
+      }, {
+        "count" : 11,
+        "item" : "NYC (DOT)"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990106,
+    "name" : "Ownership",
+    "dataTypeName" : "text",
+    "description" : "Ownership",
+    "fieldName" : "ownership",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565352,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "City",
+      "null" : 0,
+      "largest" : "Private (Future Transfer to DPR)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "City/Private Lease"
+      }, {
+        "count" : 19,
+        "item" : "City"
+      }, {
+        "count" : 18,
+        "item" : "Private"
+      }, {
+        "count" : 17,
+        "item" : "Private (Future Transfer to DPR)"
+      }, {
+        "count" : 16,
+        "item" : "Private/City Lease"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990107,
+    "name" : "OwnerCode",
+    "dataTypeName" : "number",
+    "description" : "OwnerCode",
+    "fieldName" : "ownercode",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565353,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "1",
+      "sum" : "114",
+      "null" : 0,
+      "average" : "1.676470588235294",
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990108,
+    "name" : "Boro_Name",
+    "dataTypeName" : "text",
+    "description" : "Boro_Name",
+    "fieldName" : "boro_name",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565354,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990109,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "description" : "Borough",
+    "fieldName" : "borough",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565355,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "BK",
+      "null" : 0,
+      "largest" : "SI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MN"
+      }, {
+        "count" : 19,
+        "item" : "BX"
+      }, {
+        "count" : 18,
+        "item" : "BK"
+      }, {
+        "count" : 17,
+        "item" : "QN"
+      }, {
+        "count" : 16,
+        "item" : "SI"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990110,
+    "name" : "Boro_Code",
+    "dataTypeName" : "number",
+    "description" : "Boro_Code",
+    "fieldName" : "boro_code",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565356,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "1.0",
+      "sum" : "214.0",
+      "null" : 0,
+      "average" : "3.147058823529412",
+      "largest" : "5.0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1.0"
+      }, {
+        "count" : 19,
+        "item" : "2.0"
+      }, {
+        "count" : 18,
+        "item" : "3.0"
+      }, {
+        "count" : 17,
+        "item" : "4.0"
+      }, {
+        "count" : 16,
+        "item" : "5.0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990111,
+    "name" : "CD",
+    "dataTypeName" : "number",
+    "description" : "CD",
+    "fieldName" : "cd",
+    "position" : 13,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565357,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "101",
+      "sum" : "21726",
+      "null" : 0,
+      "average" : "319.5",
+      "largest" : "503",
+      "top" : [ {
+        "count" : 20,
+        "item" : "103"
+      }, {
+        "count" : 19,
+        "item" : "106"
+      }, {
+        "count" : 18,
+        "item" : "101"
+      }, {
+        "count" : 17,
+        "item" : "109"
+      }, {
+        "count" : 16,
+        "item" : "104"
+      }, {
+        "count" : 15,
+        "item" : "210"
+      }, {
+        "count" : 14,
+        "item" : "209"
+      }, {
+        "count" : 13,
+        "item" : "201"
+      }, {
+        "count" : 12,
+        "item" : "202"
+      }, {
+        "count" : 11,
+        "item" : "302"
+      }, {
+        "count" : 10,
+        "item" : "301"
+      }, {
+        "count" : 9,
+        "item" : "303"
+      }, {
+        "count" : 8,
+        "item" : "307"
+      }, {
+        "count" : 7,
+        "item" : "306"
+      }, {
+        "count" : 6,
+        "item" : "315"
+      }, {
+        "count" : 5,
+        "item" : "318"
+      }, {
+        "count" : 4,
+        "item" : "313"
+      }, {
+        "count" : 3,
+        "item" : "402"
+      }, {
+        "count" : 2,
+        "item" : "407"
+      }, {
+        "count" : 1,
+        "item" : "401"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990112,
+    "name" : "CD_Text",
+    "dataTypeName" : "text",
+    "description" : "CD_Text",
+    "fieldName" : "cd_text",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565358,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "6"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "1 & 3"
+      }, {
+        "count" : 16,
+        "item" : "9"
+      }, {
+        "count" : 15,
+        "item" : "4"
+      }, {
+        "count" : 14,
+        "item" : "10"
+      }, {
+        "count" : 13,
+        "item" : "2"
+      }, {
+        "count" : 12,
+        "item" : "7"
+      }, {
+        "count" : 11,
+        "item" : "15"
+      }, {
+        "count" : 10,
+        "item" : "18"
+      }, {
+        "count" : 9,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990113,
+    "name" : "Boro_CD",
+    "dataTypeName" : "text",
+    "description" : "Boro_CD",
+    "fieldName" : "boro_cd",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565359,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "BK 1",
+      "null" : 0,
+      "largest" : "SI 3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MN 3"
+      }, {
+        "count" : 19,
+        "item" : "MN 6"
+      }, {
+        "count" : 18,
+        "item" : "MN 1"
+      }, {
+        "count" : 17,
+        "item" : "MN 1 & 3"
+      }, {
+        "count" : 16,
+        "item" : "MN 9"
+      }, {
+        "count" : 15,
+        "item" : "MN 4"
+      }, {
+        "count" : 14,
+        "item" : "BX 10"
+      }, {
+        "count" : 13,
+        "item" : "BX 9"
+      }, {
+        "count" : 12,
+        "item" : "BX 1"
+      }, {
+        "count" : 11,
+        "item" : "BX 2"
+      }, {
+        "count" : 10,
+        "item" : "BK 2"
+      }, {
+        "count" : 9,
+        "item" : "BK 1"
+      }, {
+        "count" : 8,
+        "item" : "BK 7"
+      }, {
+        "count" : 7,
+        "item" : "BK 6"
+      }, {
+        "count" : 6,
+        "item" : "BK 15"
+      }, {
+        "count" : 5,
+        "item" : "BK 18"
+      }, {
+        "count" : 4,
+        "item" : "BK 13"
+      }, {
+        "count" : 3,
+        "item" : "QN 2"
+      }, {
+        "count" : 2,
+        "item" : "QN 7"
+      }, {
+        "count" : 1,
+        "item" : "QN 1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990114,
+    "name" : "Address",
+    "dataTypeName" : "text",
+    "description" : "Address",
+    "fieldName" : "address",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565360,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "100 Nicolosi Drive",
+      "null" : 0,
+      "largest" : "White Plains Rd, Bolton Ave, Soundview Ave, Cornell Ave, Pugsley Creek & The East River",
+      "top" : [ {
+        "count" : 20,
+        "item" : "39-08 Janet Place"
+      }, {
+        "count" : 19,
+        "item" : "109-09 15th Ave"
+      }, {
+        "count" : 18,
+        "item" : "34-22/50 Vernon Blvd"
+      }, {
+        "count" : 17,
+        "item" : "44-02 Vernon Blvd"
+      }, {
+        "count" : 16,
+        "item" : "121-21/121-39 5th Ave"
+      }, {
+        "count" : 15,
+        "item" : "2nd St & 54th Ave"
+      }, {
+        "count" : 14,
+        "item" : "5th Ave, East River"
+      }, {
+        "count" : 13,
+        "item" : "157-41 Cross Bay Blvd"
+      }, {
+        "count" : 12,
+        "item" : "22-44 119 St"
+      }, {
+        "count" : 11,
+        "item" : "25-40 Shore Blvd"
+      }, {
+        "count" : 10,
+        "item" : "32-04/32-50 Vernon Blvd"
+      }, {
+        "count" : 9,
+        "item" : "Discala La, Dominick La, Poughkeepsie Ave"
+      }, {
+        "count" : 8,
+        "item" : "Holton Ave, Purdy Pl, Seguine Ave"
+      }, {
+        "count" : 7,
+        "item" : "Arthur Kill Rd, Allentown La, Kreischer St, Arthur Kill"
+      }, {
+        "count" : 6,
+        "item" : "Richmond Ter, Ferry Terminal's North Ramp, Waterfront Bulkhead & Ferry Slip & Ramp to Bay St"
+      }, {
+        "count" : 5,
+        "item" : "Richmond Terrace, St George Ferry Terminal's North Ramp, St Peter's Pierhead Line"
+      }, {
+        "count" : 4,
+        "item" : "80 Bay Street Landing"
+      }, {
+        "count" : 3,
+        "item" : "Greenfield Ave, Hannah St, Bay St"
+      }, {
+        "count" : 2,
+        "item" : "5 Bay St"
+      }, {
+        "count" : 1,
+        "item" : "Hyland Blvd, Arden Ave, Mayberry Pr, Woods of Arden Rd, US Bulkhead line"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990115,
+    "name" : "Water_Body",
+    "dataTypeName" : "text",
+    "description" : "Water_Body",
+    "fieldName" : "water_body",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565361,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "Arthur Kill",
+      "null" : 0,
+      "largest" : "Westchester Creek",
+      "top" : [ {
+        "count" : 20,
+        "item" : "East River"
+      }, {
+        "count" : 19,
+        "item" : "Hudson River"
+      }, {
+        "count" : 18,
+        "item" : "New York Harbor"
+      }, {
+        "count" : 17,
+        "item" : "Eastchester Bay, Long Island Sound"
+      }, {
+        "count" : 16,
+        "item" : "Eastchester Bay"
+      }, {
+        "count" : 15,
+        "item" : "Loung Island Sound"
+      }, {
+        "count" : 14,
+        "item" : "Westchester Creek"
+      }, {
+        "count" : 13,
+        "item" : "Pugsley Creek, East River"
+      }, {
+        "count" : 12,
+        "item" : "Bronx Kill"
+      }, {
+        "count" : 11,
+        "item" : "Newtown Creek, Whale Creek Canal"
+      }, {
+        "count" : 10,
+        "item" : "Upper New York Bay"
+      }, {
+        "count" : 9,
+        "item" : "Erie Basin, Upper New York Bay"
+      }, {
+        "count" : 8,
+        "item" : "Shell Bank Creek, Lower New York Bay"
+      }, {
+        "count" : 7,
+        "item" : "Mill Basin"
+      }, {
+        "count" : 6,
+        "item" : "New York Bay"
+      }, {
+        "count" : 5,
+        "item" : "Gowanus Canal"
+      }, {
+        "count" : 4,
+        "item" : "Coney Island Creek, Lower New York Bay"
+      }, {
+        "count" : 3,
+        "item" : "Lower New York Bay"
+      }, {
+        "count" : 2,
+        "item" : "Flushing River"
+      }, {
+        "count" : 1,
+        "item" : "Flushing Bay"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990116,
+    "name" : "Shape_Leng",
+    "dataTypeName" : "number",
+    "description" : "Shape_Leng",
+    "fieldName" : "shape_leng",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565362,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "401.15600661000001991851604543626308441162109375",
+      "sum" : "227599.19128532699784273063414730131626129150390625",
+      "null" : 0,
+      "average" : "3347.046930666573",
+      "largest" : "22207.4380339999988791532814502716064453125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1999.799332540000023072934709489345550537109375"
+      }, {
+        "count" : 19,
+        "item" : "1172.682985800000096787698566913604736328125"
+      }, {
+        "count" : 18,
+        "item" : "2127.1863075800001752213574945926666259765625"
+      }, {
+        "count" : 17,
+        "item" : "2019.579569819999960600398480892181396484375"
+      }, {
+        "count" : 16,
+        "item" : "8289.184172639999815146438777446746826171875"
+      }, {
+        "count" : 15,
+        "item" : "2565.26934244999984002788551151752471923828125"
+      }, {
+        "count" : 14,
+        "item" : "2869.1263827299999320530332624912261962890625"
+      }, {
+        "count" : 13,
+        "item" : "730.0191663970000490735401399433612823486328125"
+      }, {
+        "count" : 12,
+        "item" : "578.497394023999959244974888861179351806640625"
+      }, {
+        "count" : 11,
+        "item" : "1176.94409184000005552661605179309844970703125"
+      }, {
+        "count" : 10,
+        "item" : "2324.21611239000003479304723441600799560546875"
+      }, {
+        "count" : 9,
+        "item" : "3710.19037125000022570020519196987152099609375"
+      }, {
+        "count" : 8,
+        "item" : "4064.43611275000012028613127768039703369140625"
+      }, {
+        "count" : 7,
+        "item" : "5650.3723953500002608052454888820648193359375"
+      }, {
+        "count" : 6,
+        "item" : "4334.6788720499998817103914916515350341796875"
+      }, {
+        "count" : 5,
+        "item" : "6432.1658952099996895412914454936981201171875"
+      }, {
+        "count" : 4,
+        "item" : "6685.2502511100001356680877506732940673828125"
+      }, {
+        "count" : 3,
+        "item" : "13890.844765899999401881359517574310302734375"
+      }, {
+        "count" : 2,
+        "item" : "3591.55664483999998992658220231533050537109375"
+      }, {
+        "count" : 1,
+        "item" : "2574.92903144999991127406246960163116455078125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990117,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565363,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "401.15600660989315429105772636830806732177734375",
+      "sum" : "227599.19128537248349175570183433592319488525390625",
+      "null" : 0,
+      "average" : "3347.046930667242",
+      "largest" : "22207.4380340421994333155453205108642578125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1999.799332541283320097136311233043670654296875"
+      }, {
+        "count" : 19,
+        "item" : "1172.68298580452756141312420368194580078125"
+      }, {
+        "count" : 18,
+        "item" : "2127.18630757698656452703289687633514404296875"
+      }, {
+        "count" : 17,
+        "item" : "2019.579569815129843846079893410205841064453125"
+      }, {
+        "count" : 16,
+        "item" : "8289.184172644154386944137513637542724609375"
+      }, {
+        "count" : 15,
+        "item" : "2565.269342448560564662329852581024169921875"
+      }, {
+        "count" : 14,
+        "item" : "2869.12638273247966935741715133190155029296875"
+      }, {
+        "count" : 13,
+        "item" : "730.0191663965030102190212346613407135009765625"
+      }, {
+        "count" : 12,
+        "item" : "578.497394023719834876828826963901519775390625"
+      }, {
+        "count" : 11,
+        "item" : "1176.944091838317717702011577785015106201171875"
+      }, {
+        "count" : 10,
+        "item" : "2324.2161123927953667589463293552398681640625"
+      }, {
+        "count" : 9,
+        "item" : "3710.19037125455497516668401658535003662109375"
+      }, {
+        "count" : 8,
+        "item" : "4064.43611275247485536965541541576385498046875"
+      }, {
+        "count" : 7,
+        "item" : "5650.3723953453800277202390134334564208984375"
+      }, {
+        "count" : 6,
+        "item" : "4334.6788720460435797576792538166046142578125"
+      }, {
+        "count" : 5,
+        "item" : "6432.16589521283094654791057109832763671875"
+      }, {
+        "count" : 4,
+        "item" : "6685.2502511147276891279034316539764404296875"
+      }, {
+        "count" : 3,
+        "item" : "13890.844765878850012086331844329833984375"
+      }, {
+        "count" : 2,
+        "item" : "3591.55664483507780460058711469173431396484375"
+      }, {
+        "count" : 1,
+        "item" : "2574.929031452209528652019798755645751953125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990118,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565364,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 68,
+      "smallest" : "7362.39624847183949896134436130523681640625",
+      "sum" : "19125056.4918351343940230435691773891448974609375",
+      "null" : 0,
+      "average" : "281250.8307622814",
+      "largest" : "1998575.6962318434379994869232177734375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "174713.4276941507123410701751708984375"
+      }, {
+        "count" : 19,
+        "item" : "74575.728511163164512254297733306884765625"
+      }, {
+        "count" : 18,
+        "item" : "282689.4755384117015637457370758056640625"
+      }, {
+        "count" : 17,
+        "item" : "243384.84943893295712769031524658203125"
+      }, {
+        "count" : 16,
+        "item" : "1108440.332458837889134883880615234375"
+      }, {
+        "count" : 15,
+        "item" : "346649.1337820069747976958751678466796875"
+      }, {
+        "count" : 14,
+        "item" : "381369.666216731187887489795684814453125"
+      }, {
+        "count" : 13,
+        "item" : "9956.943808629197519621811807155609130859375"
+      }, {
+        "count" : 12,
+        "item" : "8270.90608726066784583963453769683837890625"
+      }, {
+        "count" : 11,
+        "item" : "30863.1037438465791638009250164031982421875"
+      }, {
+        "count" : 10,
+        "item" : "44035.7148161825825809501111507415771484375"
+      }, {
+        "count" : 9,
+        "item" : "825774.578553070663474500179290771484375"
+      }, {
+        "count" : 8,
+        "item" : "1064246.9242496080696582794189453125"
+      }, {
+        "count" : 7,
+        "item" : "1394196.74627682729624211788177490234375"
+      }, {
+        "count" : 6,
+        "item" : "239731.95009908280917443335056304931640625"
+      }, {
+        "count" : 5,
+        "item" : "444046.23530185525305569171905517578125"
+      }, {
+        "count" : 4,
+        "item" : "351681.0833036378608085215091705322265625"
+      }, {
+        "count" : 3,
+        "item" : "674016.25931446813046932220458984375"
+      }, {
+        "count" : 2,
+        "item" : "109197.951615477781160734593868255615234375"
+      }, {
+        "count" : 1,
+        "item" : "104060.053266203423845581710338592529296875"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1565346,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1565347
+      } ],
+      "latitudeId" : 1565345
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/PAWS_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "PAWS_Name",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "PAWS",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "E539E3BE-F4B5-47B1-B453-CCE2E3471F1B",
+      "name" : "DCP_nyc_paws_shp_001.zip",
+      "filename" : "DCP_nyc_paws_shp_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2439732054779,
+    "lat" : 40.8533912109633
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7814023856685,
+    "lat" : 40.5096572429136
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "geographic", "location", "map", "cartography", "water", "waterfront", "public", "accessible", "paws", "jurisdiction", "construction", "status", "private", "zone", "zoning", "ulurp", "land", "land use" ],
+  "flags" : [ "default" ]
+}

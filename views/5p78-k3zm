@@ -1,0 +1,88 @@
+{
+  "id" : "5p78-k3zm",
+  "name" : "Health Areas",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyha_12c.zip",
+  "blobFileSize" : 892625,
+  "blobId" : "g3V9GshyQxL-Tao4KHBuznnToLAEkeT_su12iLIfdQY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Health",
+  "createdAt" : 1359497677,
+  "description" : "GIS data: Boundaries of Health Areas",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2376946,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366235252,
+  "publicationGroup" : 644550,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644550,
+  "totalTimesRated" : 0,
+  "viewCount" : 34,
+  "viewLastModified" : 1366235281,
+  "viewType" : "geo",
+  "childViews" : [ "rzm2-2pie" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/5p78-k3zm",
+      "bbox" : "-74.2571589748033,40.495992204975586,-73.69921518303877,40.915565529736185",
+      "layers" : "geo_5p78-k3zm-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_5p78-k3zm"
+    },
+    "attachments" : [ {
+      "blobId" : "DCE2A452-23A7-402C-B8A1-B1885DAB15B6",
+      "name" : "DCP_nyhaav_001.zip",
+      "filename" : "DCP_nyhaav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health areas", "dcp", "health", "city planning" ],
+  "flags" : [ "default" ]
+}

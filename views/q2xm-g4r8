@@ -1,0 +1,644 @@
+{
+  "id" : "q2xm-g4r8",
+  "name" : "Long Island City Detail",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1359945204,
+  "description" : "Planimetric basemap line layer containing the street centerline. (roads, alley and interior park paths`.)",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2423352,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116524,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "searchString" : "vernon blvd",
+  "signed" : false,
+  "tableId" : 244145,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1359945421,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42810843,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564643,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "42885",
+      "sum" : "2890831",
+      "null" : 0,
+      "average" : "53533.90740740741",
+      "largest" : "73294",
+      "top" : [ {
+        "count" : 20,
+        "item" : "62517"
+      }, {
+        "count" : 19,
+        "item" : "65311"
+      }, {
+        "count" : 18,
+        "item" : "65312"
+      }, {
+        "count" : 17,
+        "item" : "65920"
+      }, {
+        "count" : 16,
+        "item" : "67405"
+      }, {
+        "count" : 15,
+        "item" : "69199"
+      }, {
+        "count" : 14,
+        "item" : "69266"
+      }, {
+        "count" : 13,
+        "item" : "69270"
+      }, {
+        "count" : 12,
+        "item" : "69272"
+      }, {
+        "count" : 11,
+        "item" : "70156"
+      }, {
+        "count" : 10,
+        "item" : "70365"
+      }, {
+        "count" : 9,
+        "item" : "71978"
+      }, {
+        "count" : 8,
+        "item" : "73294"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810844,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564644,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 42810845,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564645,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "VERNON BLVD",
+      "null" : 0,
+      "largest" : "VERNON BLVD",
+      "top" : [ {
+        "count" : 20,
+        "item" : "VERNON BLVD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810846,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564646,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "10290000232",
+      "sum" : "601660200547",
+      "null" : 0,
+      "average" : "11141855565.68519",
+      "largest" : "13290009529",
+      "top" : [ {
+        "count" : 20,
+        "item" : "12290002032"
+      }, {
+        "count" : 19,
+        "item" : "13290004093"
+      }, {
+        "count" : 18,
+        "item" : "13290004094"
+      }, {
+        "count" : 17,
+        "item" : "13290004878"
+      }, {
+        "count" : 16,
+        "item" : "13290004507"
+      }, {
+        "count" : 15,
+        "item" : "13290008586"
+      }, {
+        "count" : 14,
+        "item" : "13290000543"
+      }, {
+        "count" : 13,
+        "item" : "13290000547"
+      }, {
+        "count" : 12,
+        "item" : "13290000549"
+      }, {
+        "count" : 11,
+        "item" : "13290005894"
+      }, {
+        "count" : 10,
+        "item" : "13290001424"
+      }, {
+        "count" : 9,
+        "item" : "13290002975"
+      }, {
+        "count" : 8,
+        "item" : "13290009529"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810847,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564647,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "2900",
+      "sum" : "156600",
+      "null" : 0,
+      "average" : "2900",
+      "largest" : "2900",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2900"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810848,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564648,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "290000",
+      "sum" : "15660010",
+      "null" : 0,
+      "average" : "290000.1851851852",
+      "largest" : "290010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "290000"
+      }, {
+        "count" : 19,
+        "item" : "290010"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810849,
+    "name" : "NUMBER_TRAVEL_LANES",
+    "dataTypeName" : "number",
+    "description" : "NUMBER_TRAVEL_LANES",
+    "fieldName" : "number_travel_lanes",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564649,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "1",
+      "sum" : "105",
+      "null" : 0,
+      "average" : "1.944444444444444",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810850,
+    "name" : "NUMBER_PARK_LANES",
+    "dataTypeName" : "number",
+    "description" : "NUMBER_PARK_LANES",
+    "fieldName" : "number_park_lanes",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564650,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "0",
+      "sum" : "92",
+      "null" : 0,
+      "average" : "1.703703703703704",
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810851,
+    "name" : "NUMBER_TOTAL_LANES",
+    "dataTypeName" : "number",
+    "description" : "NUMBER_TOTAL_LANES",
+    "fieldName" : "number_total_lanes",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564651,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "1",
+      "sum" : "197",
+      "null" : 0,
+      "average" : "3.648148148148148",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "2"
+      }, {
+        "count" : 17,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810852,
+    "name" : "WIDTH",
+    "dataTypeName" : "number",
+    "description" : "WIDTH",
+    "fieldName" : "width",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564652,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "20",
+      "sum" : "2571",
+      "null" : 0,
+      "average" : "47.61111111111111",
+      "largest" : "118",
+      "top" : [ {
+        "count" : 20,
+        "item" : "45"
+      }, {
+        "count" : 19,
+        "item" : "32"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "94"
+      }, {
+        "count" : 16,
+        "item" : "30"
+      }, {
+        "count" : 15,
+        "item" : "118"
+      }, {
+        "count" : 14,
+        "item" : "36"
+      }, {
+        "count" : 13,
+        "item" : "42"
+      }, {
+        "count" : 12,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42810853,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564653,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 54,
+      "smallest" : "4.30158345880976611397272790782153606414794921875",
+      "sum" : "13626.422807997193618945175330736674368381500244140625",
+      "null" : 0,
+      "average" : "252.3411631110591",
+      "largest" : "783.7941920927650016892584972083568572998046875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "139.249583702134941631811670958995819091796875"
+      }, {
+        "count" : 19,
+        "item" : "233.79153421102608945147949270904064178466796875"
+      }, {
+        "count" : 18,
+        "item" : "493.73993429973762658846681006252765655517578125"
+      }, {
+        "count" : 17,
+        "item" : "387.84241974096357807866297662258148193359375"
+      }, {
+        "count" : 16,
+        "item" : "117.2381252161795970323510118760168552398681640625"
+      }, {
+        "count" : 15,
+        "item" : "230.181626239592532101596589200198650360107421875"
+      }, {
+        "count" : 14,
+        "item" : "382.58518760314206019756966270506381988525390625"
+      }, {
+        "count" : 13,
+        "item" : "700.58557916445670343819074332714080810546875"
+      }, {
+        "count" : 12,
+        "item" : "387.97679205324988060965551994740962982177734375"
+      }, {
+        "count" : 11,
+        "item" : "100.919773595192083348592859692871570587158203125"
+      }, {
+        "count" : 10,
+        "item" : "71.864332310708817885824828408658504486083984375"
+      }, {
+        "count" : 9,
+        "item" : "262.194636069604484873707406222820281982421875"
+      }, {
+        "count" : 8,
+        "item" : "286.73967762046942198139731772243976593017578125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.761662737331,
+      "ymax" : 40.776698061764,
+      "xmin" : -73.947629011743,
+      "xmax" : -73.927274263975
+    },
+    "distinctLegend" : true,
+    "exclusiveLayers" : false,
+    "viewDefinitions" : [ {
+      "uid" : "9ihd-38yr",
+      "flyoutsNoLabel" : false,
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564645
+        }, {
+          "tableColumnId" : 1564647
+        }, {
+          "tableColumnId" : 1564649
+        }, {
+          "tableColumnId" : 1564650
+        }, {
+          "tableColumnId" : 1564652
+        } ],
+        "titleId" : 1564645
+      }
+    } ]
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_6.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "293000",
+        "codedValues_1.name" : "Stepped Street"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_7" : {
+        "id" : "2265",
+        "name" : "Interior Path"
+      },
+      "types_6" : {
+        "id" : "2930",
+        "name" : "Stepped Street"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSLS",
+        "defaultSymbol.style" : "esriSLSSolid",
+        "defaultSymbol.width" : "1"
+      },
+      "types_1" : {
+        "id" : "2245",
+        "name" : "Boardwalk"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dUnPavedRoad"
+      },
+      "types_4.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "292010",
+        "codedValues_1.code" : "292000",
+        "codedValues_1.name" : "Alley",
+        "codedValues_2.name" : "Alley, Hidden"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dStBoardwalk"
+      },
+      "types_4" : {
+        "id" : "2920",
+        "name" : "Alley"
+      },
+      "types_5" : {
+        "id" : "2240",
+        "name" : "Driveway"
+      },
+      "types_2" : {
+        "id" : "2910",
+        "name" : "Unpaved Road"
+      },
+      "types_3" : {
+        "id" : "2900",
+        "name" : "Paved Road"
+      },
+      "types_5.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "224000",
+        "codedValues_1.name" : "Driveways"
+      },
+      "types_7.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "226500",
+        "codedValues_1.name" : "Interior Path"
+      },
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "291010",
+        "codedValues_1.code" : "291000",
+        "codedValues_1.name" : "Unpaved Road",
+        "codedValues_2.name" : "Unpaved Road, Hidden"
+      },
+      "types_4.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dAlley"
+      },
+      "types_7.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dInteriorPath"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_3.name" : "Boardwalk, Wooden",
+        "codedValues_2.code" : "224510",
+        "codedValues_3.code" : "224520",
+        "codedValues_1.code" : "224500",
+        "codedValues_1.name" : "Boardwalk",
+        "codedValues_2.name" : "Boardwalk, Concrete"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "290010",
+        "codedValues_1.code" : "290000",
+        "codedValues_1.name" : "Paved Road",
+        "codedValues_2.name" : "Paved Road, Hidden"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_STREET_CENTERLINE_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_STREET_CENTERLINE_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolyline"
+      },
+      "types_6.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dStSteppedStreet"
+      },
+      "types_5.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dDriveways"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "FEATURE_CODE.type" : "inherited",
+        "SUB_FEATURE_CODE.name" : "dPavedRoad"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "C00DDF14-E67F-475A-B3C0-0F463E189739",
+      "name" : "DOITT_STREET_CENTERLINE.zip",
+      "filename" : "DOITT_STREET_CENTERLINE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "mndz-isey",
+    "displayName" : "bas",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1359518354,
+    "screenName" : "bas"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "transportation", "street", "center", "centerline", "road", "alley", "path" ]
+}

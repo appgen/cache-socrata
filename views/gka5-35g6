@@ -1,0 +1,681 @@
+{
+  "id" : "gka5-35g6",
+  "name" : "2013-2-3_adr_wifi",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Media",
+  "createdAt" : 1359938596,
+  "description" : "Location of wifi hotspots in the city with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2422976,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318014001,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243853,
+  "totalTimesRated" : 0,
+  "viewCount" : 8,
+  "viewLastModified" : 1359938596,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42805371,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560339,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "42",
+      "sum" : "104533",
+      "null" : 0,
+      "average" : "504.9903381642512",
+      "largest" : "1216",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1209"
+      }, {
+        "count" : 19,
+        "item" : "1216"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805372,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560340,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : {
+        "longitude" : "-73.8977157839999",
+        "latitude" : "40.67754047900007"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.98679463799994",
+        "latitude" : "40.69469288100004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99146640799995",
+          "latitude" : "40.692471142000045"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98679463799994",
+          "latitude" : "40.69469288100004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42805373,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560341,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "Affinia Dumont",
+      "null" : 0,
+      "largest" : "Uprising Cafe - 9 street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "McDonald's"
+      }, {
+        "count" : 19,
+        "item" : "Starbucks"
+      }, {
+        "count" : 18,
+        "item" : "Tea Lounge"
+      }, {
+        "count" : 17,
+        "item" : "Co Labs"
+      }, {
+        "count" : 16,
+        "item" : "Barnes & Noble"
+      }, {
+        "count" : 15,
+        "item" : "Naidre's"
+      }, {
+        "count" : 14,
+        "item" : "Amazon Café"
+      }, {
+        "count" : 13,
+        "item" : "AL"
+      }, {
+        "count" : 12,
+        "item" : "Affinia Dumont"
+      }, {
+        "count" : 11,
+        "item" : "Fedex Kinko's"
+      }, {
+        "count" : 10,
+        "item" : "Starbucks Atlantic Terminal"
+      }, {
+        "count" : 9,
+        "item" : "T-Mobile"
+      }, {
+        "count" : 8,
+        "item" : "The Chocolate Monkey"
+      }, {
+        "count" : 7,
+        "item" : "The UPS Store"
+      }, {
+        "count" : 6,
+        "item" : "McDonalds"
+      }, {
+        "count" : 5,
+        "item" : "Equinox 130 - Brooklyn Heights"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805374,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560342,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "25",
+      "sum" : "100589",
+      "null" : 0,
+      "average" : "485.9371980676329",
+      "largest" : "1353",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1129"
+      }, {
+        "count" : 19,
+        "item" : "1171"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805375,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560343,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "1000 Utica Ave.",
+      "null" : 0,
+      "largest" : "Thomas S. Boyland St. at \"Macon St.\"",
+      "top" : [ {
+        "count" : 20,
+        "item" : "194 Joralemon"
+      }, {
+        "count" : 19,
+        "item" : "6 Metro Tech"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805376,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560344,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "Brooklyn",
+      "null" : 0,
+      "largest" : "Brooklyn",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805377,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560345,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "11201",
+      "null" : 0,
+      "largest" : "11238",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11207"
+      }, {
+        "count" : 19,
+        "item" : "11220"
+      }, {
+        "count" : 18,
+        "item" : "11215"
+      }, {
+        "count" : 17,
+        "item" : "11214"
+      }, {
+        "count" : 16,
+        "item" : "11211"
+      }, {
+        "count" : 15,
+        "item" : "11233"
+      }, {
+        "count" : 14,
+        "item" : "11206"
+      }, {
+        "count" : 13,
+        "item" : "11210"
+      }, {
+        "count" : 12,
+        "item" : "11232"
+      }, {
+        "count" : 11,
+        "item" : "11226"
+      }, {
+        "count" : 10,
+        "item" : "11229"
+      }, {
+        "count" : 9,
+        "item" : "11224"
+      }, {
+        "count" : 8,
+        "item" : "11216"
+      }, {
+        "count" : 7,
+        "item" : "11225"
+      }, {
+        "count" : 6,
+        "item" : "11209"
+      }, {
+        "count" : 5,
+        "item" : "11218"
+      }, {
+        "count" : 4,
+        "item" : "11236"
+      }, {
+        "count" : 3,
+        "item" : "11237"
+      }, {
+        "count" : 2,
+        "item" : "11234"
+      }, {
+        "count" : 1,
+        "item" : "11212"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805378,
+    "name" : "PHONE",
+    "dataTypeName" : "text",
+    "fieldName" : "phone",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2121535,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "718-965-7585",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "718-489-5201"
+      }, {
+        "count" : 18,
+        "item" : "718-921-0217"
+      }, {
+        "count" : 17,
+        "item" : "718-782-7470"
+      }, {
+        "count" : 16,
+        "item" : "718-771-0633"
+      }, {
+        "count" : 15,
+        "item" : "718-636-5835"
+      }, {
+        "count" : 14,
+        "item" : "718-768-2613"
+      }, {
+        "count" : 13,
+        "item" : "718-783-8691"
+      }, {
+        "count" : 12,
+        "item" : "718 857-4816"
+      }, {
+        "count" : 11,
+        "item" : "718-230-3244"
+      }, {
+        "count" : 10,
+        "item" : "718-638-1936"
+      }, {
+        "count" : 9,
+        "item" : "718-636-1260"
+      }, {
+        "count" : 8,
+        "item" : "718-768-4966"
+      }, {
+        "count" : 7,
+        "item" : "718-783-7375"
+      }, {
+        "count" : 6,
+        "item" : "718-599-8859"
+      }, {
+        "count" : 5,
+        "item" : "718-302-1629"
+      }, {
+        "count" : 4,
+        "item" : "718-349-6635"
+      }, {
+        "count" : 3,
+        "item" : "718-381-1944"
+      }, {
+        "count" : 2,
+        "item" : "718-782-0437"
+      }, {
+        "count" : 1,
+        "item" : "718-388-4642"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805379,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "fieldName" : "type",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2121536,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : "Fee-based",
+      "null" : 0,
+      "largest" : "Free",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Fee-based"
+      }, {
+        "count" : 19,
+        "item" : "Free"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42805380,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 2121537,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 207,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "https://auth.nycwireless.net/hotspots_map.php",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.mcdonalds.com/wireless.html"
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "http://www.starbucks.com"
+      }, {
+        "count" : 17,
+        "item" : "http://www.brooklynpubliclibrary.org/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.wififreespot.com/ny.html"
+      }, {
+        "count" : 15,
+        "item" : "http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Solomons_Porch_New_York_NY_6742.aspx"
+      }, {
+        "count" : 14,
+        "item" : "https://auth.nycwireless.net/hotspots_map.php"
+      }, {
+        "count" : 13,
+        "item" : "http://www.barnesandnobleinc.com"
+      }, {
+        "count" : 12,
+        "item" : "http://www.naidres.com/"
+      }, {
+        "count" : 11,
+        "item" : "http://www.openwifispots.com/spot_free_wifi_wireless_hotspot_Amazon_Cafe_New_York_NY_5572.aspx"
+      }, {
+        "count" : 10,
+        "item" : "http://www.FedexKinkos.com"
+      }, {
+        "count" : 9,
+        "item" : "http://www.t-mobile.com"
+      }, {
+        "count" : 8,
+        "item" : "http://www.theUPSstore.com"
+      }, {
+        "count" : 7,
+        "item" : "http://www.equinoxfitness.com/"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.684821293858,
+      "ymax" : 40.694778710532,
+      "xmin" : -74.000228625754,
+      "xmax" : -73.968924027905
+    },
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "ehc4-fktp",
+      "flyoutsNoLabel" : false,
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1560341
+        }, {
+        } ],
+        "titleId" : 1560341
+      }
+    } ]
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.height" : "14",
+        "symbol.url" : "3E7B5863",
+        "symbol.type" : "esriPMS",
+        "symbol.yoffset" : "0",
+        "symbol.contentType" : "image/png",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "21",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAABwAAAATCAYAAACDW21BAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAA4ZJREFUSIm9lX9MlWUUxz/nve/tvVxWsJkT3BizYWYQP3RFoZJtGqQwGY6s1DXC/kicVNIWbekta46irTYjZot0hEtAk2wMV5Y4jWmbWEzDSZbNQEejcJcfL3vvPf1B2S7cF+mfzj/vs+c55/k83+e85zwm/7OZbgvh8FggHAbT9AX+y4aOMxrY23yVTU/OjxoXFdjW8asahRb6xTiO4+wwTVNmAgs5tnpMS6ztqlZm2w773KopcVGBq15U+o79gfg+4+yPT8yEBcD1ccBqUPt1EZ5Sba8b0PwHZ0dApwCt1MNqp8+m6o0uWF5C1jyLN9/r0qryVAzztqhKwyFbq3dfYK7fkryGkB7dOKSXPxjlrnu6pvhOAdq+NLTeh8xXfv/By6ysAwzOeYxXtnpclRkeS9a3jCq8q+0bQD4vIzgQhPyVNK/r05L8uTcPGgE8dKxPiz9KpL7xImRkcac/Rsi5otruRcQzbR4/WeulsWwL1XUXqNl2N+kp+3n79BZKcr9xV1i1+xKZD8+ibGsHpe8/jXfBKd3zSzxh/BFBqqMKBiLWzUOImHL4vK1FizrRsVQqU+7npWyPkHJG6XUBXuy4Ru12k83DFhW5JpnlPTxXm4ZnkjpZb5NynxfVcRX5N69r7hVIykTEEPKuTYDi5rgrZNghOc6A2BiS44Fhm/QkJ8LlxKmTmrtkIb1rrnKyx550sR6Ii58Y+mMnvpZ3GmCsRX8wDMND/HzDgYQ4egZ9ES65S5YKoLR6WNbKpLyGIBicGAZH/p5Sd+DywkTqvwtB0u18eEbYVZlB1REPoXBIPUbEtUb9gVq7hmHgJ1QdlbSzE5N/XncHvvNyKourvXy1bykrak1oTBNSTqghD0TbP8JUbZVih8dLEth51Ibebl790tGdBQfdgYsXxgsLvtUVe3OExBa9MjSi1TXnkU1eVMdUxOdaGtUtv0F3L029j0pT34g2HFzGxj0eauqyqCx1AQJkZzicW6e6L7uf5GcN9EAW3UVtQN60Cl9Ym0D56gQK3xrU47v2s/LTDbCti8rmRdO3ttNNuUJiu857/hGsikPIMwXQWihyi/ZtGX5RHdfjH/ejY6VIkUFgs59ARaRf1OY9dDmHuNWD6KXiiOK+lf1Tk1JwQ+n8mkBr0cxei7iYO6Tz+/6A6vhMWREWPuJ9zTCKAtHWXB/ghzISowbMxAwjxjX2LxEASqVBE02+AAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/WIFIHotspotsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "WIFIHotspots",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "table" : {
+          "id" : "ehc4-fktp"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "ehc4-fktp" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 2979146,
+                "type" : "column"
+              }, {
+                "value" : "Brooklyn",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "undefined" : 1560344
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "attachments" : [ {
+      "blobId" : "B48D0331-BD21-4275-A32B-B9AA75CFA124",
+      "name" : "DOITT_WIFI_HOTSPOT_01.zip",
+      "filename" : "DOITT_WIFI_HOTSPOT_01.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "m2yz-i3gy",
+    "displayName" : "lililyking",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1359938247,
+    "screenName" : "lililyking"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 42805376,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "BROOKLYN"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "undefined" : 1560344
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "services", "wifi", "wireless", "hot spot", "access", "telecommunication" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 42805376,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "BROOKLYN"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "undefined" : 1560344
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

@@ -1,0 +1,1653 @@
+{
+  "id" : "86sd-4yhi",
+  "name" : "Greenthumb",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1318115471,
+  "description" : "Greenthumb",
+  "displayType" : "map",
+  "downloadCount" : 161,
+  "numberOfComments" : 0,
+  "oid" : 342260,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115485,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244116,
+  "totalTimesRated" : 0,
+  "viewCount" : 578,
+  "viewLastModified" : 1360608009,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988925,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564227,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "1",
+      "sum" : "359128",
+      "null" : 0,
+      "average" : "424",
+      "largest" : "847",
+      "top" : [ {
+        "count" : 20,
+        "item" : "821"
+      }, {
+        "count" : 19,
+        "item" : "822"
+      }, {
+        "count" : 18,
+        "item" : "823"
+      }, {
+        "count" : 17,
+        "item" : "824"
+      }, {
+        "count" : 16,
+        "item" : "825"
+      }, {
+        "count" : 15,
+        "item" : "826"
+      }, {
+        "count" : 14,
+        "item" : "827"
+      }, {
+        "count" : 13,
+        "item" : "828"
+      }, {
+        "count" : 12,
+        "item" : "829"
+      }, {
+        "count" : 11,
+        "item" : "830"
+      }, {
+        "count" : 10,
+        "item" : "831"
+      }, {
+        "count" : 9,
+        "item" : "832"
+      }, {
+        "count" : 8,
+        "item" : "833"
+      }, {
+        "count" : 7,
+        "item" : "834"
+      }, {
+        "count" : 6,
+        "item" : "835"
+      }, {
+        "count" : 5,
+        "item" : "836"
+      }, {
+        "count" : 4,
+        "item" : "837"
+      }, {
+        "count" : 3,
+        "item" : "838"
+      }, {
+        "count" : 2,
+        "item" : "839"
+      }, {
+        "count" : 1,
+        "item" : "840"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988926,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564228,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2988927,
+    "name" : "OWNER",
+    "dataTypeName" : "text",
+    "description" : "OWNER",
+    "fieldName" : "owner",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564229,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "UNION TEMPLE OF BROOK",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BOARD OF EDUCATION                  28-1"
+      }, {
+        "count" : 19,
+        "item" : "CITY WIDE ADMINISTRATIVE SERVICES"
+      }, {
+        "count" : 18,
+        "item" : "HOUSING PRESERVATION & DEVELOPMENT"
+      }, {
+        "count" : 17,
+        "item" : "PARKS AND RECREATION (GENERAL)"
+      }, {
+        "count" : 16,
+        "item" : " "
+      }, {
+        "count" : 15,
+        "item" : "UNION TEMPLE OF BROOK"
+      }, {
+        "count" : 14,
+        "item" : "JOINTLY OWNED PLAYGROUND"
+      }, {
+        "count" : 13,
+        "item" : "NOVODVORSKITY, MIKHAI"
+      }, {
+        "count" : 12,
+        "item" : "HUMAN RESOURCES ADMINISTRATION"
+      }, {
+        "count" : 11,
+        "item" : "NYC PUBLIC DVLPT CP"
+      }, {
+        "count" : 10,
+        "item" : "OFFICE OF ECONOMIC DEV/EDC"
+      }, {
+        "count" : 9,
+        "item" : "NEW YORK CITY HOUSING AUTH"
+      }, {
+        "count" : 8,
+        "item" : "ROMAN CATHOLIC CHURCH"
+      }, {
+        "count" : 7,
+        "item" : "Calvary Methodist Church"
+      }, {
+        "count" : 6,
+        "item" : "BOE"
+      }, {
+        "count" : 5,
+        "item" : "MTA"
+      }, {
+        "count" : 4,
+        "item" : "NIEVES JOSE"
+      }, {
+        "count" : 3,
+        "item" : "DEPT OF ENVIRONMENTAL PROTECTION"
+      }, {
+        "count" : 2,
+        "item" : "DEP"
+      }, {
+        "count" : 1,
+        "item" : "DPR"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988928,
+    "name" : "GARDENNAME",
+    "dataTypeName" : "text",
+    "description" : "GARDENNAME",
+    "fieldName" : "gardenname",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564230,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "1001 Anderson Ave HDFC 12 Association",
+      "null" : 0,
+      "largest" : "Youth and Senior Citizen",
+      "top" : [ {
+        "count" : 20,
+        "item" : "El Jardin Del Paraiso"
+      }, {
+        "count" : 19,
+        "item" : "9th Street Community Garden & Park"
+      }, {
+        "count" : 18,
+        "item" : "Jacquline Denise Davis Garden"
+      }, {
+        "count" : 17,
+        "item" : "Taqwa Community Farm"
+      }, {
+        "count" : 16,
+        "item" : "176th Street Community Garden"
+      }, {
+        "count" : 15,
+        "item" : "Krystal Community Garden"
+      }, {
+        "count" : 14,
+        "item" : "Garden of Happiness"
+      }, {
+        "count" : 13,
+        "item" : "Bayview Habitat"
+      }, {
+        "count" : 12,
+        "item" : "Community Leaders of West 146th Street"
+      }, {
+        "count" : 11,
+        "item" : "Ebenezer Wesleyan Methodist Church"
+      }, {
+        "count" : 10,
+        "item" : "El Girasol"
+      }, {
+        "count" : 9,
+        "item" : "Family Group Garden"
+      }, {
+        "count" : 8,
+        "item" : "Harlem Rose Garden"
+      }, {
+        "count" : 7,
+        "item" : "Hispanos Unidos (Daly Ave. Block Association"
+      }, {
+        "count" : 6,
+        "item" : "El Flamboyan"
+      }, {
+        "count" : 5,
+        "item" : "Manley's Place"
+      }, {
+        "count" : 4,
+        "item" : "Mc Kinley's Children's Garden"
+      }, {
+        "count" : 3,
+        "item" : "Our Little Green Acres (Garden Eight)"
+      }, {
+        "count" : 2,
+        "item" : "Prophecy Garden Church of God"
+      }, {
+        "count" : 1,
+        "item" : "Rainbow Block Association"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988929,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564231,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "West 89th Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "144 Avenue C / 703 E. 9th Street"
+      }, {
+        "count" : 18,
+        "item" : "1022-1024 Boston Road/N/S E. 165th St."
+      }, {
+        "count" : 17,
+        "item" : "90 W. 164th Street"
+      }, {
+        "count" : 16,
+        "item" : "940-950 E. 180th St./2085-2093 Vyse Ave."
+      }, {
+        "count" : 15,
+        "item" : "2035 Honeywell Avenue"
+      }, {
+        "count" : 14,
+        "item" : "2156-2160 Prospect Avenue"
+      }, {
+        "count" : 13,
+        "item" : "S/E/C Bayview Terrace E/o Holdridge Ave."
+      }, {
+        "count" : 12,
+        "item" : "226, 234 West 146th Street"
+      }, {
+        "count" : 11,
+        "item" : "624-638 East 138th Street"
+      }, {
+        "count" : 10,
+        "item" : "592 Tinton Avenue"
+      }, {
+        "count" : 9,
+        "item" : "2539 Pitkin Avenue"
+      }, {
+        "count" : 8,
+        "item" : "108-56 Union Hall St"
+      }, {
+        "count" : 7,
+        "item" : "275-277 West 122nd Street"
+      }, {
+        "count" : 6,
+        "item" : "43-69 Malta Street"
+      }, {
+        "count" : 5,
+        "item" : "200 Vernon Avenue"
+      }, {
+        "count" : 4,
+        "item" : "1036-53 Amsterdam Avenue"
+      }, {
+        "count" : 3,
+        "item" : "560 Van Siclen Avenue"
+      }, {
+        "count" : 2,
+        "item" : "511 La Guardia"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988930,
+    "name" : "JURIS",
+    "dataTypeName" : "text",
+    "description" : "JURIS",
+    "fieldName" : "juris",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564232,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "TPL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BOE"
+      }, {
+        "count" : 19,
+        "item" : "PARKS"
+      }, {
+        "count" : 18,
+        "item" : " "
+      }, {
+        "count" : 17,
+        "item" : "DOT"
+      }, {
+        "count" : 16,
+        "item" : "HPD"
+      }, {
+        "count" : 15,
+        "item" : "HRA"
+      }, {
+        "count" : 14,
+        "item" : "DCAS"
+      }, {
+        "count" : 13,
+        "item" : "Parks"
+      }, {
+        "count" : 12,
+        "item" : "PRI"
+      }, {
+        "count" : 11,
+        "item" : "POL"
+      }, {
+        "count" : 10,
+        "item" : "OTH"
+      }, {
+        "count" : 9,
+        "item" : "Private"
+      }, {
+        "count" : 8,
+        "item" : "MTA"
+      }, {
+        "count" : 7,
+        "item" : "Priv"
+      }, {
+        "count" : 6,
+        "item" : "DEP"
+      }, {
+        "count" : 5,
+        "item" : "Public"
+      }, {
+        "count" : 4,
+        "item" : "DPR"
+      }, {
+        "count" : 3,
+        "item" : "TPL"
+      }, {
+        "count" : 2,
+        "item" : "BXLT"
+      }, {
+        "count" : 1,
+        "item" : "NYS EDC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988931,
+    "name" : "HOLD",
+    "dataTypeName" : "text",
+    "description" : "HOLD",
+    "fieldName" : "hold",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564233,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "TPL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BOE"
+      }, {
+        "count" : 19,
+        "item" : "PARKS"
+      }, {
+        "count" : 18,
+        "item" : " "
+      }, {
+        "count" : 17,
+        "item" : "DOT"
+      }, {
+        "count" : 16,
+        "item" : "HPD"
+      }, {
+        "count" : 15,
+        "item" : "HRA"
+      }, {
+        "count" : 14,
+        "item" : "DCAS"
+      }, {
+        "count" : 13,
+        "item" : "Parks"
+      }, {
+        "count" : 12,
+        "item" : "PRI"
+      }, {
+        "count" : 11,
+        "item" : "POL"
+      }, {
+        "count" : 10,
+        "item" : "DBS"
+      }, {
+        "count" : 9,
+        "item" : "Private"
+      }, {
+        "count" : 8,
+        "item" : "MTA"
+      }, {
+        "count" : 7,
+        "item" : "Priv"
+      }, {
+        "count" : 6,
+        "item" : "DEP"
+      }, {
+        "count" : 5,
+        "item" : "NYR"
+      }, {
+        "count" : 4,
+        "item" : "DPR"
+      }, {
+        "count" : 3,
+        "item" : "TPL"
+      }, {
+        "count" : 2,
+        "item" : "BXLT"
+      }, {
+        "count" : 1,
+        "item" : "CHA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988932,
+    "name" : "EIG",
+    "dataTypeName" : "text",
+    "description" : "EIG",
+    "fieldName" : "eig",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564234,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "SCH",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SCH"
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "LOT"
+      }, {
+        "count" : 17,
+        "item" : "INV"
+      }, {
+        "count" : 16,
+        "item" : "COM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988933,
+    "name" : "TELNUMBER",
+    "dataTypeName" : "text",
+    "description" : "TELNUMBER",
+    "fieldName" : "telnumber",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564235,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Assemblyman J. Lento",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "(718)777-6441"
+      }, {
+        "count" : 18,
+        "item" : "212-614-0507"
+      }, {
+        "count" : 17,
+        "item" : "212-979-8849"
+      }, {
+        "count" : 16,
+        "item" : "(718)-384-2287"
+      }, {
+        "count" : 15,
+        "item" : "(000)-000-0000"
+      }, {
+        "count" : 14,
+        "item" : "(718)-993-7199"
+      }, {
+        "count" : 13,
+        "item" : "(718)-665-2317"
+      }, {
+        "count" : 12,
+        "item" : "(718)-292-2332"
+      }, {
+        "count" : 11,
+        "item" : "(718) 992-4150"
+      }, {
+        "count" : 10,
+        "item" : "(718)-588-1089"
+      }, {
+        "count" : 9,
+        "item" : "718-992-6448"
+      }, {
+        "count" : 8,
+        "item" : "(718) 681-4618"
+      }, {
+        "count" : 7,
+        "item" : "(718)-590-0101"
+      }, {
+        "count" : 6,
+        "item" : "(718)-294-7312"
+      }, {
+        "count" : 5,
+        "item" : "718-716-1538"
+      }, {
+        "count" : 4,
+        "item" : "(718) 294-3050"
+      }, {
+        "count" : 3,
+        "item" : "(718)-901-3147"
+      }, {
+        "count" : 2,
+        "item" : "(718)-299-3850"
+      }, {
+        "count" : 1,
+        "item" : "(718)-583-5553"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988934,
+    "name" : "FIRST_NAME",
+    "dataTypeName" : "text",
+    "description" : "FIRST_NAME",
+    "fieldName" : "first_name",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564236,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Zully",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "James"
+      }, {
+        "count" : 18,
+        "item" : "Mary"
+      }, {
+        "count" : 17,
+        "item" : "Gail"
+      }, {
+        "count" : 16,
+        "item" : "Tim"
+      }, {
+        "count" : 15,
+        "item" : "Susie"
+      }, {
+        "count" : 14,
+        "item" : "Aida"
+      }, {
+        "count" : 13,
+        "item" : "Jose"
+      }, {
+        "count" : 12,
+        "item" : "Dimas"
+      }, {
+        "count" : 11,
+        "item" : "Al"
+      }, {
+        "count" : 10,
+        "item" : "Carol"
+      }, {
+        "count" : 9,
+        "item" : "Irma"
+      }, {
+        "count" : 8,
+        "item" : "Audrey"
+      }, {
+        "count" : 7,
+        "item" : " Miguel  & Car"
+      }, {
+        "count" : 6,
+        "item" : "Abu"
+      }, {
+        "count" : 5,
+        "item" : "Antonia"
+      }, {
+        "count" : 4,
+        "item" : "Troy"
+      }, {
+        "count" : 3,
+        "item" : "JuWon"
+      }, {
+        "count" : 2,
+        "item" : "Ali"
+      }, {
+        "count" : 1,
+        "item" : "George"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988935,
+    "name" : "LAST_NAME",
+    "dataTypeName" : "text",
+    "description" : "LAST_NAME",
+    "fieldName" : "last_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564237,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Zimetbaum",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Harris"
+      }, {
+        "count" : 18,
+        "item" : "Rankine"
+      }, {
+        "count" : 17,
+        "item" : "Rodriguez"
+      }, {
+        "count" : 16,
+        "item" : "Rosa, P.S. 30"
+      }, {
+        "count" : 15,
+        "item" : "Badillo"
+      }, {
+        "count" : 14,
+        "item" : "Davis"
+      }, {
+        "count" : 13,
+        "item" : "Gonzalez"
+      }, {
+        "count" : 12,
+        "item" : "Talib"
+      }, {
+        "count" : 11,
+        "item" : "Diaz"
+      }, {
+        "count" : 10,
+        "item" : "Fields"
+      }, {
+        "count" : 9,
+        "item" : "Nozario"
+      }, {
+        "count" : 8,
+        "item" : "Johnson"
+      }, {
+        "count" : 7,
+        "item" : "Del Valle"
+      }, {
+        "count" : 6,
+        "item" : "Cruz"
+      }, {
+        "count" : 5,
+        "item" : "Mullings"
+      }, {
+        "count" : 4,
+        "item" : "Vishner"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988936,
+    "name" : "STREET_ADD",
+    "dataTypeName" : "text",
+    "description" : "STREET_ADD",
+    "fieldName" : "street_add",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564238,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Po Box 9060",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "4-21 27th Ave"
+      }, {
+        "count" : 18,
+        "item" : "210 E. 17th St #6C"
+      }, {
+        "count" : 17,
+        "item" : "922 Melrose Avenue-#7"
+      }, {
+        "count" : 16,
+        "item" : "576 E. 165th Street-#4M"
+      }, {
+        "count" : 15,
+        "item" : "1480 Washington Avenue  #5E"
+      }, {
+        "count" : 14,
+        "item" : "962 Anderson Ave.-#1R"
+      }, {
+        "count" : 13,
+        "item" : "1001 Anderson Avenue, Apt 2"
+      }, {
+        "count" : 12,
+        "item" : "116 Henwood Pl, #5E"
+      }, {
+        "count" : 11,
+        "item" : "2043 Creston Avenue-#45"
+      }, {
+        "count" : 10,
+        "item" : "2103 Vyse Avenue"
+      }, {
+        "count" : 9,
+        "item" : "2176 Prospect Avenue"
+      }, {
+        "count" : 8,
+        "item" : "2552 Pitkin Avenue"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988937,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564239,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Queens",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "New York"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988938,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564240,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "11435-",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11231-"
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "11216-"
+      }, {
+        "count" : 17,
+        "item" : "11238-"
+      }, {
+        "count" : 16,
+        "item" : "11213-"
+      }, {
+        "count" : 15,
+        "item" : "11233-"
+      }, {
+        "count" : 14,
+        "item" : "11224-"
+      }, {
+        "count" : 13,
+        "item" : "11206-"
+      }, {
+        "count" : 12,
+        "item" : "11211-"
+      }, {
+        "count" : 11,
+        "item" : "11205-"
+      }, {
+        "count" : 10,
+        "item" : "11221-"
+      }, {
+        "count" : 9,
+        "item" : "11207-"
+      }, {
+        "count" : 8,
+        "item" : "11212-"
+      }, {
+        "count" : 7,
+        "item" : "11208-"
+      }, {
+        "count" : 6,
+        "item" : "11102"
+      }, {
+        "count" : 5,
+        "item" : "10027-"
+      }, {
+        "count" : 4,
+        "item" : "10039-"
+      }, {
+        "count" : 3,
+        "item" : "10029-"
+      }, {
+        "count" : 2,
+        "item" : "10009-"
+      }, {
+        "count" : 1,
+        "item" : "10009"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988939,
+    "name" : "ORGANIZATI",
+    "dataTypeName" : "text",
+    "description" : "ORGANIZATI",
+    "fieldName" : "organizati",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564241,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "TPL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GREENTHUMB"
+      }, {
+        "count" : 19,
+        "item" : "GREENTHUMB/BBG"
+      }, {
+        "count" : 18,
+        "item" : " "
+      }, {
+        "count" : 17,
+        "item" : "GREENTHUMB/CEN"
+      }, {
+        "count" : 16,
+        "item" : "BBG"
+      }, {
+        "count" : 15,
+        "item" : "CENYC"
+      }, {
+        "count" : 14,
+        "item" : "GreenThumb"
+      }, {
+        "count" : 13,
+        "item" : "GreenThumb/TPL"
+      }, {
+        "count" : 12,
+        "item" : "NY RESTORATION"
+      }, {
+        "count" : 11,
+        "item" : "GreenThumb/NYR"
+      }, {
+        "count" : 10,
+        "item" : "GREETHUMB"
+      }, {
+        "count" : 9,
+        "item" : "TPL"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988940,
+    "name" : "GARDEN_NAM",
+    "dataTypeName" : "text",
+    "description" : "GARDEN_NAM",
+    "fieldName" : "garden_nam",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564242,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "1001 Anderson Ave HDFC 12 Association",
+      "null" : 0,
+      "largest" : "Youth and Senior Citizen",
+      "top" : [ {
+        "count" : 20,
+        "item" : "El Jardin Del Paraiso"
+      }, {
+        "count" : 19,
+        "item" : "9th Street Community Garden & Park"
+      }, {
+        "count" : 18,
+        "item" : "Jacquline Denise Davis Garden"
+      }, {
+        "count" : 17,
+        "item" : "Taqwa Community Farm"
+      }, {
+        "count" : 16,
+        "item" : "176th Street Community Garden"
+      }, {
+        "count" : 15,
+        "item" : "Krystal Community Garden"
+      }, {
+        "count" : 14,
+        "item" : "Garden of Happiness"
+      }, {
+        "count" : 13,
+        "item" : "Bayview Habitat"
+      }, {
+        "count" : 12,
+        "item" : "Community Leaders of West 146th Street"
+      }, {
+        "count" : 11,
+        "item" : "Ebenezer Wesleyan Methodist Church"
+      }, {
+        "count" : 10,
+        "item" : "El Girasol"
+      }, {
+        "count" : 9,
+        "item" : "Family Group Garden"
+      }, {
+        "count" : 8,
+        "item" : "Harlem Rose Garden"
+      }, {
+        "count" : 7,
+        "item" : "Hispanos Unidos (Daly Ave. Block Association)"
+      }, {
+        "count" : 6,
+        "item" : "El Flamboyan"
+      }, {
+        "count" : 5,
+        "item" : "Manley's Place"
+      }, {
+        "count" : 4,
+        "item" : "Mc Kinley's Children's Garden"
+      }, {
+        "count" : 3,
+        "item" : "Our Little Green Acres (Garden Eight)"
+      }, {
+        "count" : 2,
+        "item" : "Prophecy Garden Church of God"
+      }, {
+        "count" : 1,
+        "item" : "Rainbow Block Association"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988941,
+    "name" : "TYPE",
+    "dataTypeName" : "text",
+    "description" : "TYPE",
+    "fieldName" : "type",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564243,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "TPL",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BOE"
+      }, {
+        "count" : 19,
+        "item" : "Parks"
+      }, {
+        "count" : 18,
+        "item" : "TPL"
+      }, {
+        "count" : 17,
+        "item" : "DOT"
+      }, {
+        "count" : 16,
+        "item" : "HPD"
+      }, {
+        "count" : 15,
+        "item" : "HRA"
+      }, {
+        "count" : 14,
+        "item" : "Private"
+      }, {
+        "count" : 13,
+        "item" : "private"
+      }, {
+        "count" : 12,
+        "item" : "POL"
+      }, {
+        "count" : 11,
+        "item" : "DBS"
+      }, {
+        "count" : 10,
+        "item" : "MTA"
+      }, {
+        "count" : 9,
+        "item" : "DCAS"
+      }, {
+        "count" : 8,
+        "item" : "DEP"
+      }, {
+        "count" : 7,
+        "item" : "NYRP"
+      }, {
+        "count" : 6,
+        "item" : " "
+      }, {
+        "count" : 5,
+        "item" : "BXLT"
+      }, {
+        "count" : 4,
+        "item" : "NYS EDC"
+      }, {
+        "count" : 3,
+        "item" : "PARKS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988942,
+    "name" : "GARDENID",
+    "dataTypeName" : "number",
+    "description" : "GARDENID",
+    "fieldName" : "gardenid",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564244,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "1",
+      "sum" : "686492",
+      "null" : 0,
+      "average" : "810.4982290436836",
+      "largest" : "5077",
+      "top" : [ {
+        "count" : 20,
+        "item" : "119"
+      }, {
+        "count" : 19,
+        "item" : "33"
+      }, {
+        "count" : 18,
+        "item" : "1022"
+      }, {
+        "count" : 17,
+        "item" : "756"
+      }, {
+        "count" : 16,
+        "item" : "362"
+      }, {
+        "count" : 15,
+        "item" : "490"
+      }, {
+        "count" : 14,
+        "item" : "404"
+      }, {
+        "count" : 13,
+        "item" : "1002"
+      }, {
+        "count" : 12,
+        "item" : "249"
+      }, {
+        "count" : 11,
+        "item" : "296"
+      }, {
+        "count" : 10,
+        "item" : "5015"
+      }, {
+        "count" : 9,
+        "item" : "5077"
+      }, {
+        "count" : 8,
+        "item" : "1300"
+      }, {
+        "count" : 7,
+        "item" : "5022"
+      }, {
+        "count" : 6,
+        "item" : "596"
+      }, {
+        "count" : 5,
+        "item" : "905"
+      }, {
+        "count" : 4,
+        "item" : "5034"
+      }, {
+        "count" : 3,
+        "item" : "5041"
+      }, {
+        "count" : 2,
+        "item" : "5059"
+      }, {
+        "count" : 1,
+        "item" : "386"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988943,
+    "name" : "OWNERNAME",
+    "dataTypeName" : "text",
+    "description" : "OWNERNAME",
+    "fieldName" : "ownername",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564245,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "ZIPPORAH ASSOCIATES,L",
+      "top" : [ {
+        "count" : 20,
+        "item" : "PARKS AND RECREATION"
+      }, {
+        "count" : 19,
+        "item" : "HOUSING PRESERVATION"
+      }, {
+        "count" : 18,
+        "item" : "BOARD OF EDUCATION"
+      }, {
+        "count" : 17,
+        "item" : " "
+      }, {
+        "count" : 16,
+        "item" : "PINNACLE HAMILTON LL"
+      }, {
+        "count" : 15,
+        "item" : "CITY OF NEW YORK"
+      }, {
+        "count" : 14,
+        "item" : "MORRIS AVENUE RESIDEN"
+      }, {
+        "count" : 13,
+        "item" : "CASTILLO VICTOR"
+      }, {
+        "count" : 12,
+        "item" : "IPIS AGENCY"
+      }, {
+        "count" : 11,
+        "item" : "ELENODOROS THEODOULOU"
+      }, {
+        "count" : 10,
+        "item" : "GONZALES, GILBERTO"
+      }, {
+        "count" : 9,
+        "item" : "CITY WIDE ADMINISTRAT"
+      }, {
+        "count" : 8,
+        "item" : "PATMOS ASSOCIATES L.P"
+      }, {
+        "count" : 7,
+        "item" : "ZIPPORAH ASSOCIATES,L"
+      }, {
+        "count" : 6,
+        "item" : "215-219 WEST 145TH ST"
+      }, {
+        "count" : 5,
+        "item" : "1570 LEXINGTON AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "CYPRESS CLUSTER APT.H"
+      }, {
+        "count" : 3,
+        "item" : "JULIUS C HAYNIE"
+      }, {
+        "count" : 2,
+        "item" : "SATA REALTY CORP"
+      }, {
+        "count" : 1,
+        "item" : "JOINTLY OWNED PLAYGRO"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988944,
+    "name" : "PLUTOBBL",
+    "dataTypeName" : "text",
+    "description" : "PLUTOBBL",
+    "fieldName" : "plutobbl",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564246,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "5063510015",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2031230074"
+      }, {
+        "count" : 19,
+        "item" : "2026640029"
+      }, {
+        "count" : 18,
+        "item" : "3040070038"
+      }, {
+        "count" : 17,
+        "item" : "1019280105"
+      }, {
+        "count" : 16,
+        "item" : "3077580001"
+      }, {
+        "count" : 15,
+        "item" : "3016740011"
+      }, {
+        "count" : 14,
+        "item" : "3042950052"
+      }, {
+        "count" : 13,
+        "item" : "3042950030"
+      }, {
+        "count" : 12,
+        "item" : "2024060024"
+      }, {
+        "count" : 11,
+        "item" : "3006070001"
+      }, {
+        "count" : 10,
+        "item" : "1017260033"
+      }, {
+        "count" : 9,
+        "item" : "3017600054"
+      }, {
+        "count" : 8,
+        "item" : "2026960075"
+      }, {
+        "count" : 7,
+        "item" : "4051560001"
+      }, {
+        "count" : 6,
+        "item" : "1021180022"
+      }, {
+        "count" : 5,
+        "item" : "3037750124"
+      }, {
+        "count" : 4,
+        "item" : "2025500049"
+      }, {
+        "count" : 3,
+        "item" : "2045140062"
+      }, {
+        "count" : 2,
+        "item" : "1010810029"
+      }, {
+        "count" : 1,
+        "item" : "1010800001"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988945,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 21,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564247,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "26.2116874051314567850567982532083988189697265625",
+      "sum" : "320063.6788030549325725360176875256001949310302734375",
+      "null" : 0,
+      "average" : "377.8791957533116",
+      "largest" : "3249.2015550967835224582813680171966552734375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "246.4608299343893804689287208020687103271484375"
+      }, {
+        "count" : 19,
+        "item" : "223.5261202167231431303662247955799102783203125"
+      }, {
+        "count" : 18,
+        "item" : "238.866208098473492782432003878057003021240234375"
+      }, {
+        "count" : 17,
+        "item" : "172.510415847395734090241603553295135498046875"
+      }, {
+        "count" : 16,
+        "item" : "172.5184278087800748835434205830097198486328125"
+      }, {
+        "count" : 15,
+        "item" : "877.6322181925689847048488445580005645751953125"
+      }, {
+        "count" : 14,
+        "item" : "1273.475129341798265159013681113719940185546875"
+      }, {
+        "count" : 13,
+        "item" : "373.75342242784830659729777835309505462646484375"
+      }, {
+        "count" : 12,
+        "item" : "236.712810644278079053037799894809722900390625"
+      }, {
+        "count" : 11,
+        "item" : "238.121085244315992213159915991127490997314453125"
+      }, {
+        "count" : 10,
+        "item" : "252.99868254374865728095755912363529205322265625"
+      }, {
+        "count" : 9,
+        "item" : "1595.672137489938222643104381859302520751953125"
+      }, {
+        "count" : 8,
+        "item" : "187.724175894747759230085648596286773681640625"
+      }, {
+        "count" : 7,
+        "item" : "240.4556510008325176386279053986072540283203125"
+      }, {
+        "count" : 6,
+        "item" : "257.32163950930390683424775488674640655517578125"
+      }, {
+        "count" : 5,
+        "item" : "494.6018319255080086804809980094432830810546875"
+      }, {
+        "count" : 4,
+        "item" : "2202.0590698820815305225551128387451171875"
+      }, {
+        "count" : 3,
+        "item" : "1163.5262568443185955402441322803497314453125"
+      }, {
+        "count" : 2,
+        "item" : "246.3468890871437224632245488464832305908203125"
+      }, {
+        "count" : 1,
+        "item" : "271.03596924508491383676300756633281707763671875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988946,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 22,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564248,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 847,
+      "smallest" : "26.98975692573372953120269812643527984619140625",
+      "sum" : "11084984.45793078348430071855545975267887115478515625",
+      "null" : 0,
+      "average" : "13087.34882872584",
+      "largest" : "579947.9834203519858419895172119140625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2376.613819986052476451732218265533447265625"
+      }, {
+        "count" : 19,
+        "item" : "1575.50732675079552791430614888668060302734375"
+      }, {
+        "count" : 18,
+        "item" : "2333.44132362424852544791065156459808349609375"
+      }, {
+        "count" : 17,
+        "item" : "985.1334310177606994329835288226604461669921875"
+      }, {
+        "count" : 16,
+        "item" : "996.8821734888578021127614192664623260498046875"
+      }, {
+        "count" : 15,
+        "item" : "47396.2806169193136156536638736724853515625"
+      }, {
+        "count" : 14,
+        "item" : "87281.5210972811910323798656463623046875"
+      }, {
+        "count" : 13,
+        "item" : "3244.2850869508029063581489026546478271484375"
+      }, {
+        "count" : 12,
+        "item" : "1956.98200663117540898383595049381256103515625"
+      }, {
+        "count" : 11,
+        "item" : "2037.78590224114714146708138287067413330078125"
+      }, {
+        "count" : 10,
+        "item" : "2565.5757832624294678680598735809326171875"
+      }, {
+        "count" : 9,
+        "item" : "150001.204221547697670757770538330078125"
+      }, {
+        "count" : 8,
+        "item" : "1306.12272096766855611349456012248992919921875"
+      }, {
+        "count" : 7,
+        "item" : "2028.14611201599427658948116004467010498046875"
+      }, {
+        "count" : 6,
+        "item" : "2852.7857657867652960703708231449127197265625"
+      }, {
+        "count" : 5,
+        "item" : "14771.71535914895139285363256931304931640625"
+      }, {
+        "count" : 4,
+        "item" : "246117.94669142001657746732234954833984375"
+      }, {
+        "count" : 3,
+        "item" : "7816.69533731617775629274547100067138671875"
+      }, {
+        "count" : 2,
+        "item" : "2382.90221901168069962295703589916229248046875"
+      }, {
+        "count" : 1,
+        "item" : "3648.78361399224786509876139461994171142578125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564228,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564229
+      } ],
+      "latitudeId" : 1564227
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_GREENTHUMB_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "GARDENNAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_GREENTHUMB_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D8E7C397-B1A1-4778-9029-21C3A856FAED",
+      "name" : "DOITT_GREENTHUMB.zip",
+      "filename" : "DOITT_GREENTHUMB.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1649111731581,
+    "lat" : 40.9015498512768
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7729139433273,
+    "lat" : 40.526436916194
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "basemap", "green", "thumb", "greenthumb", "garden", "grow", "community" ],
+  "flags" : [ "default" ]
+}

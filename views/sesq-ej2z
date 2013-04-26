@@ -1,0 +1,795 @@
+{
+  "id" : "sesq-ej2z",
+  "name" : "HIS clinics",
+  "attribution" : "Office of Citywide Health Insurance Access (HIA)",
+  "averageRating" : 0,
+  "createdAt" : 1350178007,
+  "description" : "List of NYC public health insurance enrollment sites",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 1281979,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115900,
+  "publicationGroup" : 238854,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1318115873,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244125,
+  "totalTimesRated" : 0,
+  "viewCount" : 20,
+  "viewLastModified" : 1361283038,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 21869179,
+    "name" : "Facility",
+    "dataTypeName" : "text",
+    "fieldName" : "facility",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502042,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Chelsea Health Center",
+      "null" : 0,
+      "largest" : "Washington Heights Health Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Chelsea Health Center"
+      }, {
+        "count" : 19,
+        "item" : "Corona Health Center"
+      }, {
+        "count" : 18,
+        "item" : "Crown Heights Health Center"
+      }, {
+        "count" : 17,
+        "item" : "Fort Greene Health Center"
+      }, {
+        "count" : 16,
+        "item" : "Homecrest Health Center"
+      }, {
+        "count" : 15,
+        "item" : "Jamaica Health Center"
+      }, {
+        "count" : 14,
+        "item" : "Tremont Health Center"
+      }, {
+        "count" : 13,
+        "item" : "Washington Heights Health Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21869180,
+    "name" : "Zip code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1502043,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "10001",
+      "sum" : "86942",
+      "null" : 0,
+      "average" : "10867.75",
+      "largest" : "11437",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10001"
+      }, {
+        "count" : 19,
+        "item" : "11372"
+      }, {
+        "count" : 18,
+        "item" : "11213"
+      }, {
+        "count" : 17,
+        "item" : "11201"
+      }, {
+        "count" : 16,
+        "item" : "11229"
+      }, {
+        "count" : 15,
+        "item" : "11437"
+      }, {
+        "count" : 14,
+        "item" : "10457"
+      }, {
+        "count" : 13,
+        "item" : "10032"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 21869181,
+    "name" : "Telephone",
+    "dataTypeName" : "text",
+    "fieldName" : "telephone",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502044,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "(212) 244-0841",
+      "null" : 0,
+      "largest" : "(718) 953-8234/8236",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 244-0841"
+      }, {
+        "count" : 19,
+        "item" : "(718) 476-7860"
+      }, {
+        "count" : 18,
+        "item" : "(718) 953-8234/8236"
+      }, {
+        "count" : 17,
+        "item" : "(718) 643-4467/4445"
+      }, {
+        "count" : 16,
+        "item" : "(718) 336-2553 x144/145"
+      }, {
+        "count" : 15,
+        "item" : "(718) 262-5512"
+      }, {
+        "count" : 14,
+        "item" : "(718) 466-8842/8883"
+      }, {
+        "count" : 13,
+        "item" : "(212) 491-1661/4453"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21869182,
+    "name" : "Website",
+    "dataTypeName" : "text",
+    "fieldName" : "website",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502045,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "www.nyc.gov/health",
+      "null" : 0,
+      "largest" : "www.nyc.gov/health",
+      "top" : [ {
+        "count" : 20,
+        "item" : "www.nyc.gov/health"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21869183,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 5,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1502046,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : {
+        "longitude" : "-73.93566629477249",
+        "latitude" : "40.67354525266527",
+        "human_address" : "{\"address\":\"1219 Prospect Place\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.80443200013667",
+        "latitude" : "40.696147000083954",
+        "human_address" : "{\"address\":\"90 37 Parsons Boulevard\",\"city\":\"Jamaica\",\"state\":\"New York\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.9992717346642",
+          "latitude" : "40.74929991251548",
+          "human_address" : "{\"address\":\"303 Ninth Avenue\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.88282399992767",
+          "latitude" : "40.751979000030815",
+          "human_address" : "{\"address\":\"34 33 Junction Boulevard\",\"city\":\"Jackson Heights\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.93566629477249",
+          "latitude" : "40.67354525266527",
+          "human_address" : "{\"address\":\"1219 Prospect Place\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98241301998932",
+          "latitude" : "40.69205340232306",
+          "human_address" : "{\"address\":\"295 Flatbush Avenue\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-78.74864600041258",
+          "latitude" : "42.43318899977248",
+          "human_address" : "{\"address\":\"1601 Avenue\",\"city\":\"Brooklyn\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.80443200013667",
+          "latitude" : "40.696147000083954",
+          "human_address" : "{\"address\":\"90 37 Parsons Boulevard\",\"city\":\"Jamaica\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.8945487244044",
+          "latitude" : "40.8440002082747",
+          "human_address" : "{\"address\":\"1826 Arthur Avenue\",\"city\":\"Bronx\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.9399616966274",
+          "latitude" : "40.8411278753413",
+          "human_address" : "{\"address\":\"600 168th Street\",\"city\":\"New York\",\"state\":\"New York\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.171943,
+      "ymax" : 42.91761,
+      "xmin" : -86.647633,
+      "xmax" : -65.905445
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "color" : "#0000ff",
+    "exclusiveLayers" : true,
+    "flyoutsNoLabel" : false,
+    "viewDefinitions" : [ {
+      "uid" : "sesq-ej2z",
+      "viewport" : {
+        "ymin" : 40.171943,
+        "ymax" : 42.91761,
+        "xmin" : -86.647633,
+        "xmax" : -65.905445
+      },
+      "plotStyle" : "point",
+      "color" : "#0000ff",
+      "flyoutsNoLabel" : false,
+      "type" : "google",
+      "plot" : {
+        "colorValueId" : 1502043,
+        "descriptionColumns" : [ {
+        } ],
+        "locationId" : 1502046,
+        "sizeValueId" : 1502043
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "colorValueId" : 1502043,
+      "descriptionColumns" : [ {
+      } ],
+      "locationId" : 1502046,
+      "sizeValueId" : 1502043
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "sesq-ej2z" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Parsons",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Corona",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Homecrest",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Crown Heights",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Jamaica Health Center",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : false
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Tremont",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Fort Greene",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Chelsea",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "CONTAINS",
+              "children" : [ {
+                "columnId" : 21869179,
+                "type" : "column"
+              }, {
+                "value" : "Washington Heights",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "238854" : 1502042
+              },
+              "operator" : "CONTAINS"
+            }
+          }, {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "238854" : 1502043
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "aizh-77mv",
+    "displayName" : "brooklynhubris",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1350178006,
+    "screenName" : "brooklynhubris"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Parsons"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Corona"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Homecrest"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Crown Heights"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Jamaica Health Center"
+          } ],
+          "metadata" : {
+            "freeform" : false
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Tremont"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Fort Greene"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Chelsea"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "CONTAINS",
+          "children" : [ {
+            "columnId" : 21869179,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Washington Heights"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "238854" : 1502042
+          },
+          "operator" : "CONTAINS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "tableColumnId" : {
+            "238854" : 1502043
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "health", "insurance", "insure", "enroll", "enrollment", "access", "site", "ochia" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Parsons"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Corona"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Homecrest"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Crown Heights"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Jamaica Health Center"
+        } ],
+        "metadata" : {
+          "freeform" : false
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Tremont"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Fort Greene"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Chelsea"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "CONTAINS",
+        "children" : [ {
+          "columnId" : 21869179,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Washington Heights"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "238854" : 1502042
+        },
+        "operator" : "CONTAINS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "tableColumnId" : {
+          "238854" : 1502043
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

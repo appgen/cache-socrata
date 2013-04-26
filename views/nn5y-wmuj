@@ -1,0 +1,1419 @@
+{
+  "id" : "nn5y-wmuj",
+  "name" : "Agency Service Center",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318023621,
+  "description" : "Location of City Agency Service Centers with descriptive information on the programs.",
+  "displayType" : "map",
+  "downloadCount" : 455,
+  "numberOfComments" : 0,
+  "oid" : 341801,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023639,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243885,
+  "totalTimesRated" : 0,
+  "viewCount" : 153,
+  "viewLastModified" : 1363728216,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2979961,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561082,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "1",
+      "sum" : "52975",
+      "null" : 0,
+      "average" : "163",
+      "largest" : "325",
+      "top" : [ {
+        "count" : 20,
+        "item" : "288"
+      }, {
+        "count" : 19,
+        "item" : "289"
+      }, {
+        "count" : 18,
+        "item" : "290"
+      }, {
+        "count" : 17,
+        "item" : "291"
+      }, {
+        "count" : 16,
+        "item" : "292"
+      }, {
+        "count" : 15,
+        "item" : "293"
+      }, {
+        "count" : 14,
+        "item" : "294"
+      }, {
+        "count" : 13,
+        "item" : "295"
+      }, {
+        "count" : 12,
+        "item" : "296"
+      }, {
+        "count" : 11,
+        "item" : "297"
+      }, {
+        "count" : 10,
+        "item" : "298"
+      }, {
+        "count" : 9,
+        "item" : "299"
+      }, {
+        "count" : 8,
+        "item" : "300"
+      }, {
+        "count" : 7,
+        "item" : "301"
+      }, {
+        "count" : 6,
+        "item" : "302"
+      }, {
+        "count" : 5,
+        "item" : "303"
+      }, {
+        "count" : 4,
+        "item" : "304"
+      }, {
+        "count" : 3,
+        "item" : "305"
+      }, {
+        "count" : 2,
+        "item" : "306"
+      }, {
+        "count" : 1,
+        "item" : "307"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979962,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561083,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : {
+        "longitude" : "-73.97511165399993",
+        "latitude" : "40.739232713000035"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.07766921099994",
+        "latitude" : "40.64320192100007"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.07782163599995",
+          "latitude" : "40.64502226800005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.9192355429999",
+          "latitude" : "40.82558282000008"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.97985247199995",
+          "latitude" : "40.689238544000034"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99386142499992",
+          "latitude" : "40.71859969700006"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9315394539999",
+          "latitude" : "40.751718796000034"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.00746005799994",
+          "latitude" : "40.717115172000035"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.99550055599991",
+          "latitude" : "40.75273260000006"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.98549462999995",
+          "latitude" : "40.68930540700006"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98778882699992",
+          "latitude" : "40.57348784700008"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.01603253799993",
+          "latitude" : "40.70552053300008"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.98671518099991",
+          "latitude" : "40.69322147200006"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.91697478799995",
+          "latitude" : "40.66900259700009"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.89289712499993",
+          "latitude" : "40.84576740700004"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.92990468599993",
+          "latitude" : "40.75174111100006"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.79648497199992",
+          "latitude" : "40.70841851900008"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.82821341499994",
+          "latitude" : "40.71375879500005"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.75396110399993",
+          "latitude" : "40.606947425000044"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.79782296099995",
+          "latitude" : "40.705058791000056"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-74.07606185299994",
+          "latitude" : "40.64239400400004"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-74.07591968399993",
+          "latitude" : "40.63706094600008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2979963,
+    "name" : "AGENCY",
+    "dataTypeName" : "text",
+    "description" : "AGENCY",
+    "fieldName" : "agency",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561084,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "ACS",
+      "null" : 0,
+      "largest" : "TLC",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ACS"
+      }, {
+        "count" : 19,
+        "item" : "TLC"
+      }, {
+        "count" : 18,
+        "item" : "SBS"
+      }, {
+        "count" : 17,
+        "item" : "DOT"
+      }, {
+        "count" : 16,
+        "item" : "CCRB"
+      }, {
+        "count" : 15,
+        "item" : "City Clerk"
+      }, {
+        "count" : 14,
+        "item" : "DCAS"
+      }, {
+        "count" : 13,
+        "item" : "DCA"
+      }, {
+        "count" : 12,
+        "item" : "DCP"
+      }, {
+        "count" : 11,
+        "item" : "DEP"
+      }, {
+        "count" : 10,
+        "item" : "DFTA"
+      }, {
+        "count" : 9,
+        "item" : "DHS"
+      }, {
+        "count" : 8,
+        "item" : "DOB"
+      }, {
+        "count" : 7,
+        "item" : "DOC"
+      }, {
+        "count" : 6,
+        "item" : "DOF"
+      }, {
+        "count" : 5,
+        "item" : "DORIS"
+      }, {
+        "count" : 4,
+        "item" : "DPR"
+      }, {
+        "count" : 3,
+        "item" : "HPD"
+      }, {
+        "count" : 2,
+        "item" : "NYCHA"
+      }, {
+        "count" : 1,
+        "item" : "NYPD"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979964,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561085,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "30th Street Men's Intake",
+      "null" : 0,
+      "largest" : "Zoning Information Desk",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Child Protective Borough Office"
+      }, {
+        "count" : 19,
+        "item" : "Environmental Control Board Branch Office"
+      }, {
+        "count" : 18,
+        "item" : "Home Energy Assistance Program"
+      }, {
+        "count" : 17,
+        "item" : "Workforce1 Sector-Based Career Centers"
+      }, {
+        "count" : 16,
+        "item" : "Office of Administrative Trials and Hearings"
+      }, {
+        "count" : 15,
+        "item" : "East New York Food Stamps"
+      }, {
+        "count" : 14,
+        "item" : "Asbestos Technical Review Unit (ATRU)"
+      }, {
+        "count" : 13,
+        "item" : "Workforce1 Manufacturing Career Center"
+      }, {
+        "count" : 12,
+        "item" : "Application and Tenancy Administration Office"
+      }, {
+        "count" : 11,
+        "item" : "Bushwick Medicaid Office"
+      }, {
+        "count" : 10,
+        "item" : "Highway Inspection and Quality Assurance - Bronx"
+      }, {
+        "count" : 9,
+        "item" : "Highway Inspection and Quality Assurance - Brooklyn"
+      }, {
+        "count" : 8,
+        "item" : "Highway Inspection and Quality Assurance - Emergency Authorization Unit (EAU)"
+      }, {
+        "count" : 7,
+        "item" : "Highway Inspection and Quality Assurance - Manhattan"
+      }, {
+        "count" : 6,
+        "item" : "Highway Inspection and Quality Assurance - Queens"
+      }, {
+        "count" : 5,
+        "item" : "Highway Inspection and Quality Assurance - Staten Island"
+      }, {
+        "count" : 4,
+        "item" : "NYC Business Solution Centers"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979965,
+    "name" : "PHYSICAL_A",
+    "dataTypeName" : "text",
+    "description" : "PHYSICAL_A",
+    "fieldName" : "physical_a",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561086,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "100 Gold Street",
+      "null" : 0,
+      "largest" : "West 79th Street and the Hudson River",
+      "top" : [ {
+        "count" : 20,
+        "item" : "22 Reade St."
+      }, {
+        "count" : 19,
+        "item" : "280 Broadway"
+      }, {
+        "count" : 18,
+        "item" : "165-08 88th Avenue"
+      }, {
+        "count" : 17,
+        "item" : "109 E. 16th Street"
+      }, {
+        "count" : 16,
+        "item" : "215 Bay Street"
+      }, {
+        "count" : 15,
+        "item" : "30-20 Thomson Avenue"
+      }, {
+        "count" : 14,
+        "item" : "40 Rector Street"
+      }, {
+        "count" : 13,
+        "item" : "404 Pine Street"
+      }, {
+        "count" : 12,
+        "item" : "32 West 125th Street"
+      }, {
+        "count" : 11,
+        "item" : "340A West 34th Street"
+      }, {
+        "count" : 10,
+        "item" : "NYC DEP Building (Lefrak City)"
+      }, {
+        "count" : 9,
+        "item" : "177 Livingston Street"
+      }, {
+        "count" : 8,
+        "item" : "59-17 Junction Blvd"
+      }, {
+        "count" : 7,
+        "item" : "30 Thornton Street"
+      }, {
+        "count" : 6,
+        "item" : "1400 Williamsbridge Road"
+      }, {
+        "count" : 5,
+        "item" : "16 Court Street"
+      }, {
+        "count" : 4,
+        "item" : "59 Maiden Lane"
+      }, {
+        "count" : 3,
+        "item" : "120-55 Queens Blvd"
+      }, {
+        "count" : 2,
+        "item" : "10 Richmond Terrace"
+      }, {
+        "count" : 1,
+        "item" : "120 Stuyvesant Place"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979966,
+    "name" : "EXPANDED_A",
+    "dataTypeName" : "text",
+    "description" : "EXPANDED_A",
+    "fieldName" : "expanded_a",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561087,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Workforce1 Transportation Career Center, 2nd Floor",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Floor 8"
+      }, {
+        "count" : 18,
+        "item" : "Floor 5"
+      }, {
+        "count" : 17,
+        "item" : "Floor 1"
+      }, {
+        "count" : 16,
+        "item" : "Floor 3"
+      }, {
+        "count" : 15,
+        "item" : "Floor 7"
+      }, {
+        "count" : 14,
+        "item" : "Floor 6"
+      }, {
+        "count" : 13,
+        "item" : "Floor 4"
+      }, {
+        "count" : 12,
+        "item" : "N/A"
+      }, {
+        "count" : 11,
+        "item" : "Floor 2"
+      }, {
+        "count" : 10,
+        "item" : "Floor 27"
+      }, {
+        "count" : 9,
+        "item" : "Floor 10"
+      }, {
+        "count" : 8,
+        "item" : "1ST FLOOR"
+      }, {
+        "count" : 7,
+        "item" : "Lower Level"
+      }, {
+        "count" : 6,
+        "item" : "Floor 11"
+      }, {
+        "count" : 5,
+        "item" : "Floors 1, 3, 5"
+      }, {
+        "count" : 4,
+        "item" : " Floor 6"
+      }, {
+        "count" : 3,
+        "item" : "Basement Room B-75"
+      }, {
+        "count" : 2,
+        "item" : "Basement"
+      }, {
+        "count" : 1,
+        "item" : "\"T\" Bldg. Nurses' Residence Floor 1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979967,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561088,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "Flushing"
+      }, {
+        "count" : 15,
+        "item" : "Staten Island"
+      }, {
+        "count" : 14,
+        "item" : "Long Island City"
+      }, {
+        "count" : 13,
+        "item" : " Jamaica"
+      }, {
+        "count" : 12,
+        "item" : "Kew Gardens"
+      }, {
+        "count" : 11,
+        "item" : "Williamsbridge"
+      }, {
+        "count" : 10,
+        "item" : "Corona"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan"
+      }, {
+        "count" : 8,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 7,
+        "item" : "Queens"
+      }, {
+        "count" : 6,
+        "item" : "Sunnyside"
+      }, {
+        "count" : 5,
+        "item" : "Woodside"
+      }, {
+        "count" : 4,
+        "item" : "Rockaway"
+      }, {
+        "count" : 3,
+        "item" : "L.I.C."
+      }, {
+        "count" : 2,
+        "item" : "Far Rockaway"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979968,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561089,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      }, {
+        "count" : 15,
+        "item" : "New York"
+      }, {
+        "count" : 14,
+        "item" : "NY"
+      }, {
+        "count" : 13,
+        "item" : "Kew Gardens"
+      }, {
+        "count" : 12,
+        "item" : "BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979969,
+    "name" : "STATE",
+    "dataTypeName" : "text",
+    "description" : "STATE",
+    "fieldName" : "state",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561090,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979970,
+    "name" : "ZIP_CODE",
+    "dataTypeName" : "number",
+    "description" : "ZIP_CODE",
+    "fieldName" : "zip_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561091,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : "0",
+      "sum" : "3430548",
+      "null" : 0,
+      "average" : "10555.53230769231",
+      "largest" : "11692",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10016"
+      }, {
+        "count" : 19,
+        "item" : "11201"
+      }, {
+        "count" : 18,
+        "item" : "10027"
+      }, {
+        "count" : 17,
+        "item" : "10038"
+      }, {
+        "count" : 16,
+        "item" : "11433"
+      }, {
+        "count" : 15,
+        "item" : "10301"
+      }, {
+        "count" : 14,
+        "item" : "10006"
+      }, {
+        "count" : 13,
+        "item" : "10455"
+      }, {
+        "count" : 12,
+        "item" : "11432"
+      }, {
+        "count" : 11,
+        "item" : "11424"
+      }, {
+        "count" : 10,
+        "item" : "10007"
+      }, {
+        "count" : 9,
+        "item" : "10004"
+      }, {
+        "count" : 8,
+        "item" : "10457"
+      }, {
+        "count" : 7,
+        "item" : "11368"
+      }, {
+        "count" : 6,
+        "item" : "10458"
+      }, {
+        "count" : 5,
+        "item" : "11205"
+      }, {
+        "count" : 4,
+        "item" : "11101"
+      }, {
+        "count" : 3,
+        "item" : "11217"
+      }, {
+        "count" : 2,
+        "item" : "11224"
+      }, {
+        "count" : 1,
+        "item" : "10451"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979971,
+    "name" : "PHONE_NUMB",
+    "dataTypeName" : "text",
+    "description" : "PHONE_NUMB",
+    "fieldName" : "phone_numb",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561092,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Please dial 311",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 720-2495"
+      }, {
+        "count" : 19,
+        "item" : "(718) 664-1845"
+      }, {
+        "count" : 18,
+        "item" : "(718) 772-3034"
+      }, {
+        "count" : 17,
+        "item" : "(212) 334-7654"
+      }, {
+        "count" : 16,
+        "item" : "(718) 784-6979"
+      }, {
+        "count" : 15,
+        "item" : "<Null>"
+      }, {
+        "count" : 14,
+        "item" : "(212) 630-9867"
+      }, {
+        "count" : 13,
+        "item" : "(800) 692-0557"
+      }, {
+        "count" : 12,
+        "item" : "(718) 473-8310"
+      }, {
+        "count" : 11,
+        "item" : "(718) 609-2144"
+      }, {
+        "count" : 10,
+        "item" : "(212) 442-4900"
+      }, {
+        "count" : 9,
+        "item" : "(718) 827-3961<BR/>(718) 827-3444"
+      }, {
+        "count" : 8,
+        "item" : "(718) 595-3048"
+      }, {
+        "count" : 7,
+        "item" : "(347) 710-9900"
+      }, {
+        "count" : 6,
+        "item" : "(718) 707-7771"
+      }, {
+        "count" : 5,
+        "item" : "(718) 963-4454"
+      }, {
+        "count" : 4,
+        "item" : "(212) 748-6610"
+      }, {
+        "count" : 3,
+        "item" : "(718) 222-7207"
+      }, {
+        "count" : 2,
+        "item" : "(718) 222-7202"
+      }, {
+        "count" : 1,
+        "item" : "(212) 839-4700"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979972,
+    "name" : "FAX_NUMBER",
+    "dataTypeName" : "text",
+    "description" : "FAX_NUMBER",
+    "fieldName" : "fax_number",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561093,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "718-956-1400",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "(212) 306-4439"
+      }, {
+        "count" : 18,
+        "item" : "<Null>"
+      }, {
+        "count" : 17,
+        "item" : "(212) 442-8910 -8913"
+      }, {
+        "count" : 16,
+        "item" : "(718) 827-4043"
+      }, {
+        "count" : 15,
+        "item" : "(718) 595-3048"
+      }, {
+        "count" : 14,
+        "item" : "(718) 855-5318"
+      }, {
+        "count" : 13,
+        "item" : "(212) 748-6618"
+      }, {
+        "count" : 12,
+        "item" : "(212) 222-7243<BR/>(212) 222-7247"
+      }, {
+        "count" : 11,
+        "item" : "(212) 839-4740<BR/>(212) 839-4741"
+      }, {
+        "count" : 10,
+        "item" : "(718) 286-2773"
+      }, {
+        "count" : 9,
+        "item" : "(718) 448-6204"
+      }, {
+        "count" : 8,
+        "item" : "(718) 981-0772"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979973,
+    "name" : "HOURS_OF_O",
+    "dataTypeName" : "text",
+    "description" : "HOURS_OF_O",
+    "fieldName" : "hours_of_o",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561094,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Wed-Thur (1pm - 9pm)<br> Fri-Sun (7am - 3pm)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "M-F 9 AM - 5 PM"
+      }, {
+        "count" : 19,
+        "item" : "Monday - Friday, 9:00am - 5:00pm"
+      }, {
+        "count" : 18,
+        "item" : "M-F 8:30 AM - 4 PM"
+      }, {
+        "count" : 17,
+        "item" : "Monday thru Friday 9:00 AM to 5:00 PM"
+      }, {
+        "count" : 16,
+        "item" : "24 Hours / 7 Days"
+      }, {
+        "count" : 15,
+        "item" : "8:30 AM - 4:30 PM"
+      }, {
+        "count" : 14,
+        "item" : "9:00 AM - 4:00 PM"
+      }, {
+        "count" : 13,
+        "item" : "7 Days / 24-Hours"
+      }, {
+        "count" : 12,
+        "item" : "M-F 8:30 AM - 4:30 PM"
+      }, {
+        "count" : 11,
+        "item" : "Through April 2, 2010<BR/>10:00 a.m. to 4:30 p.m. daily<BR/>"
+      }, {
+        "count" : 10,
+        "item" : "M-F 10 AM - 4 PM"
+      }, {
+        "count" : 9,
+        "item" : "M-F 8:00 AM - 5:00 PM"
+      }, {
+        "count" : 8,
+        "item" : "M-F 9:00 AM - 5:00 PM"
+      }, {
+        "count" : 7,
+        "item" : "M-F 8:30 AM - 5:00 PM"
+      }, {
+        "count" : 6,
+        "item" : "M-F 8:30 AM - 3:30 PM for hearings<br>\nM-F 8:30 AM - 5 PM for general inquiries"
+      }, {
+        "count" : 5,
+        "item" : " "
+      }, {
+        "count" : 4,
+        "item" : "M-F 8:30 AM - 5 PM"
+      }, {
+        "count" : 3,
+        "item" : "M -F 8:30 AM - 6 PM<BR/>Sat: 9 AM - 5 PM"
+      }, {
+        "count" : 2,
+        "item" : "M - F 8:30 AM - 5 PM"
+      }, {
+        "count" : 1,
+        "item" : "M-F 9AM-5PM"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979974,
+    "name" : "LANGUAGES",
+    "dataTypeName" : "text",
+    "description" : "LANGUAGES",
+    "fieldName" : "languages",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561095,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Spanish and English",
+      "top" : [ {
+        "count" : 20,
+        "item" : "170+ languages (phone & in-person interpretation)"
+      }, {
+        "count" : 19,
+        "item" : "language interpretation: Spanish, Hindi, Mandarin, Cantonese, Korean, Russian, Urdu, Italian, French, Arabic, Yiddish, Japanese, German, Hebrew, Greek, Polish, Albanian, Bengali, Haitian Creole, Tagalong, Ukrainian"
+      }, {
+        "count" : 18,
+        "item" : "Language line interpretation services will soon be available at this location."
+      }, {
+        "count" : 17,
+        "item" : "English"
+      }, {
+        "count" : 16,
+        "item" : "English, Spanish"
+      }, {
+        "count" : 15,
+        "item" : "English and 170+ languages phone interpretation<BR/>(now available)"
+      }, {
+        "count" : 14,
+        "item" : "English and 170+ languages phone interpretation<BR/>(coming January 2010)"
+      }, {
+        "count" : 13,
+        "item" : "Spanish <br>\n170+ languages (phone interpretation)"
+      }, {
+        "count" : 12,
+        "item" : " "
+      }, {
+        "count" : 11,
+        "item" : "170+ languages (phone interpretation)"
+      }, {
+        "count" : 10,
+        "item" : "-"
+      }, {
+        "count" : 9,
+        "item" : "English and Spanish"
+      }, {
+        "count" : 8,
+        "item" : "All languages"
+      }, {
+        "count" : 7,
+        "item" : "Arabic, Creole, French, Hindu, Italian, Russian, Spanish"
+      }, {
+        "count" : 6,
+        "item" : "English, Phone interpretation available via Language Line."
+      }, {
+        "count" : 5,
+        "item" : "170+ languages, telephonic interpretation"
+      }, {
+        "count" : 4,
+        "item" : "30+ languages, NYCHA Language Bank"
+      }, {
+        "count" : 3,
+        "item" : "Spanish"
+      }, {
+        "count" : 2,
+        "item" : "170+ languages (Language line services) are available in the hearing rooms."
+      }, {
+        "count" : 1,
+        "item" : "Current Languages available: Spanish, Chinese, Russian.  language interpretation coming soon: Spanish, Hindi, Mandarin, Cantonese, Korean, Russian, Urdu, Italian, French, Arabic, Yiddish, Japanese, German, Hebrew, Greek, Polish, Albanian, Bengali, Haitia"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979975,
+    "name" : "NOTES",
+    "dataTypeName" : "text",
+    "description" : "NOTES",
+    "fieldName" : "notes",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561096,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "You must make an appointment for this location for all Licensing transactions.",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Phone interpreters used when needed"
+      }, {
+        "count" : 18,
+        "item" : "We provide interpretation services for court hearings.  Respondents can also bring their own interpreters to hearings.  Respondent must arrive one-half hour before their scheduled hearing.  Guilty pleas and fine payments do not require appointments."
+      }, {
+        "count" : 17,
+        "item" : "We provide translation services for court hearings.  Respondents can also bring an interpreter to any hearing."
+      }, {
+        "count" : 16,
+        "item" : "Major thoroughfares or critical streets processed through central permit office<BR/>up to a two day wait<BR/>Check the DOT website (download or open Highway Rules Book)<BR/>http://www.nyc.gov/html/dot/downloads/pdf/hwyrules.pdf"
+      }, {
+        "count" : 15,
+        "item" : "Major thoroughfares or critical streets processed through central permit officeup to a two day wait<BR/>Check the DOT website (download or open Highway Rules Book)<BR/>http://www.nyc.gov/html/dot/downloads/pdf/hwyrules.pdf"
+      }, {
+        "count" : 14,
+        "item" : "Major thoroughfares or critical streets processed through central permit office<BR/>Up to a two day wait<BR/>Check the DOT website (download or open Highway Rules Book)<BR/>http://www.nyc.gov/html/dot/downloads/pdf/hwyrules.pdf"
+      }, {
+        "count" : 13,
+        "item" : "http://www.nyc.gov/html/dcas/html/employment/civilservice_exams.shtml"
+      }, {
+        "count" : 12,
+        "item" : "http://www.nyc.gov/html/dcas/html/vendors/vendors.shtml"
+      }, {
+        "count" : 11,
+        "item" : "www.nyc.gov/citystore"
+      }, {
+        "count" : 10,
+        "item" : "Inspections conducted seasonally and by appointment only"
+      }, {
+        "count" : 9,
+        "item" : "Credit cards (American Express, Visa, Mastercard and Discover) are accepted by the bookstore for orders made in person or by mail."
+      }, {
+        "count" : 8,
+        "item" : "Notice to Applicants: \n¿ There will be no meetings with applicants, nor will applications, revisions, etc. be accepted for immediate preliminary review and distribution after 3:30 PM.\n¿ Applicants are strongly advised to schedule an appointment with us b"
+      }, {
+        "count" : 7,
+        "item" : "Please know the borough, address and tax block and lot of the property when making inquiries."
+      }, {
+        "count" : 6,
+        "item" : "Women only, 18 and older"
+      }, {
+        "count" : 5,
+        "item" : "Men only"
+      }, {
+        "count" : 4,
+        "item" : "Men and Women. Minimum age is 21. Serve families 18 and above if they are married or have a domestic partnership."
+      }, {
+        "count" : 3,
+        "item" : "PATH is the DHS entry point for all families seeking emergency housing assistance and operates on a 24 hour/7 days a week basis."
+      }, {
+        "count" : 2,
+        "item" : "Men and women over 18."
+      }, {
+        "count" : 1,
+        "item" : "Men and women, 21 and older."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979976,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561097,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "http://www.queenszoo.com",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/acs/"
+      }, {
+        "count" : 19,
+        "item" : "http://www.nyc.gov/taxi"
+      }, {
+        "count" : 18,
+        "item" : "http://www.nyc.gov/html/sbs/nycbiz/html/home/home.shtml"
+      }, {
+        "count" : 17,
+        "item" : "http://www.nyc.gov/html/sbs/wf1/html/home/home.shtml"
+      }, {
+        "count" : 16,
+        "item" : "http://www.nyc.gov/html/dot/html/home/home.shtml"
+      }, {
+        "count" : 15,
+        "item" : "http://www.ci.nyc.ny.us/html/ccrb/"
+      }, {
+        "count" : 14,
+        "item" : "http://www.cityclerk.nyc.gov/"
+      }, {
+        "count" : 13,
+        "item" : "http://www.nyc.gov/html/dcas/"
+      }, {
+        "count" : 12,
+        "item" : "http://www.nyc.gov/html/dca/"
+      }, {
+        "count" : 11,
+        "item" : "http://www.nyc.gov/html/dcp/home.html"
+      }, {
+        "count" : 10,
+        "item" : "http://www.nyc.gov/dep"
+      }, {
+        "count" : 9,
+        "item" : "http://www.nyc.gov/html/dfta/html/home/home.shtml"
+      }, {
+        "count" : 8,
+        "item" : "http://www.nyc.gov/html/dhs/html/home/home.shtml"
+      }, {
+        "count" : 7,
+        "item" : "http://www.nyc.gov/html/dob/"
+      }, {
+        "count" : 6,
+        "item" : "http://www.nyc.gov/html/doc/"
+      }, {
+        "count" : 5,
+        "item" : "http://www.nyc.gov/html/dof/"
+      }, {
+        "count" : 4,
+        "item" : "http://www.nyc.gov/html/records/"
+      }, {
+        "count" : 3,
+        "item" : " "
+      }, {
+        "count" : 2,
+        "item" : "http://www.prospectparkzoo.com"
+      }, {
+        "count" : 1,
+        "item" : "http://www.centralparkzoo.com"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979977,
+    "name" : "SERVICES_O",
+    "dataTypeName" : "text",
+    "description" : "SERVICES_O",
+    "fieldName" : "services_o",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561098,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 325,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Walk-ins by appointment only<BR/>Workshops<BR/>Networking events<BR/>Technical assistance<BR/>Register as contractor in NYCHA's MWSBE Directory",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Child Protection <BR/>Preventive"
+      }, {
+        "count" : 19,
+        "item" : "Business Planning <BR/> Business Courses <BR/> Financing <BR/> Hiring <BR/> Training <BR/> M/WBE Services <BR/> Selling to the Government <BR/> Navigating Government <BR/> Incentives <BR/> Emergency Response"
+      }, {
+        "count" : 18,
+        "item" : "Bill Payments, Payment Agreements, Permits, Title Reads, Inspections"
+      }, {
+        "count" : 17,
+        "item" : "File jobs <br>Obtain Permits<br>Certificate of Occupancies<br>Records<br>Property Information and Inspection Reviews"
+      }, {
+        "count" : 16,
+        "item" : "Payments<BR/>\nParking Hearings and Settlements<BR/>\nSheriff Civil Enforcement<BR/>\nDocument Recording<BR/>\nTax Maps"
+      }, {
+        "count" : 15,
+        "item" : "General admissions, events, programming"
+      }, {
+        "count" : 14,
+        "item" : "Special Events Permits, Athetic Field Permits, Tennis Permits"
+      }, {
+        "count" : 13,
+        "item" : "Services tenants and owners with housing maintenance issues/questions"
+      }, {
+        "count" : 12,
+        "item" : "Section 8 Rentals<BR/>Annual Recertification<BR/>Transfers<BR/>HAP Renewals<BR/>Customer Service"
+      }, {
+        "count" : 11,
+        "item" : "NYCHA residents social service support, including:<BR/>Management Assistance<BR/>Transitional & supportive services<BR/>Outreach & referral to community organizations<BR/>Preventive services for substance, child & elder abuse assistance<BR/>Domestic viol"
+      }, {
+        "count" : 10,
+        "item" : "General Information on Seized Property"
+      }, {
+        "count" : 9,
+        "item" : "Administrative tribunal hearings regarding quality of life notices of violations."
+      }, {
+        "count" : 8,
+        "item" : "Investigation & Prosecution of Discrimination Complaints<BR/>\nCCHR Workshops for students<BR/>\nYouth Peer Mediation Training<BR/>\nEqual Access Investigation (Disability Access)<BR/>\nImmigrant Employment Rights Training<BR/>\nMortgage Foreclosure Counselin"
+      }, {
+        "count" : 7,
+        "item" : "Food Stamp Program<BR/>Eligibility and applications<BR/>General information on food support for low-income New Yorkers"
+      }, {
+        "count" : 6,
+        "item" : "Provides assistance to eligible individuals<BR/>Temporary financial assistance<BR/>Food stamps<BR/>Medicaid<BR/>Employment services"
+      }, {
+        "count" : 5,
+        "item" : "Provides assistance to individuals not receiving cash benefits but who are payees for eligible children.<BR/>Temporary financial assistance<BR/>Food stamps<BR/>Medicaid<BR/>Employment services"
+      }, {
+        "count" : 4,
+        "item" : "Provides services for individuals 18 years or older, who are physically or mentally impaired and unable to manage their own resources and have no one to assist<BR/>Referrals for psychiatric and medical examination<BR/>Medicaid & Home Care services<BR/>So"
+      }, {
+        "count" : 3,
+        "item" : "For medically needy individuals & families:<BR/>Apply for Medicaid<BR/>Apply for Family Plus<BR/>Apply for Child Health Plus<BR/>Other health care services"
+      }, {
+        "count" : 2,
+        "item" : "For Medicaid-eligible individuals seeking personal care services<BR/>Personal care<BR/>Long-term health care program<BR/>Managed long-term care program<BR/>Assisted Living program<BR/>Care-at-Home program"
+      }, {
+        "count" : 1,
+        "item" : "Assist families to ensure that non-custodial parents provide financial support for their children."
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561083,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561084
+      } ],
+      "latitudeId" : 1561082
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_AGENCY_SERVICE_CENTER_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "AGENCY",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_AGENCY_SERVICE_CENTER_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "4A8BAEA5-62CA-4EBC-8953-1DFBA3911EDF",
+      "name" : "DOITT_AGENCY_SERVICE_CENTER_01_13SEPT2010.zip",
+      "filename" : "DOITT_AGENCY_SERVICE_CENTER_01_13SEPT2010.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1733288528229,
+    "lat" : 40.8704559749709
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7529870999781,
+    "lat" : 40.5731811272172
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic mobility", "services", "geographic", "location", "map", "cartography", "agency", "agencies", "center", "doitt gis" ],
+  "flags" : [ "default" ]
+}

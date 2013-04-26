@@ -1,0 +1,527 @@
+{
+  "id" : "yc8w-uwrg",
+  "name" : "Subway Entrances",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1357751500,
+  "description" : "Map of NYC Subway Entrances",
+  "displayType" : "map",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 2191645,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318009653,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243811,
+  "totalTimesRated" : 0,
+  "viewCount" : 48,
+  "viewLastModified" : 1357751500,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 38293001,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559864,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1904,
+      "smallest" : "1",
+      "sum" : "1813560",
+      "null" : 0,
+      "average" : "952.5",
+      "largest" : "1904",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1887"
+      }, {
+        "count" : 19,
+        "item" : "1888"
+      }, {
+        "count" : 18,
+        "item" : "1889"
+      }, {
+        "count" : 17,
+        "item" : "1890"
+      }, {
+        "count" : 16,
+        "item" : "1891"
+      }, {
+        "count" : 15,
+        "item" : "1892"
+      }, {
+        "count" : 14,
+        "item" : "1893"
+      }, {
+        "count" : 13,
+        "item" : "1894"
+      }, {
+        "count" : 12,
+        "item" : "1895"
+      }, {
+        "count" : 11,
+        "item" : "1896"
+      }, {
+        "count" : 10,
+        "item" : "1897"
+      }, {
+        "count" : 9,
+        "item" : "1898"
+      }, {
+        "count" : 8,
+        "item" : "1899"
+      }, {
+        "count" : 7,
+        "item" : "1900"
+      }, {
+        "count" : 6,
+        "item" : "1901"
+      }, {
+        "count" : 5,
+        "item" : "1902"
+      }, {
+        "count" : 4,
+        "item" : "1903"
+      }, {
+        "count" : 3,
+        "item" : "1904"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38293002,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1559865,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1904,
+      "smallest" : {
+        "longitude" : "-73.9902719989999",
+        "latitude" : "40.68672833100004"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.9881690009999",
+        "latitude" : "40.749832333000086"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.00858400099992",
+          "latitude" : "40.714313333000064"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.00932800099991",
+          "latitude" : "40.71573633200006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.00842799899993",
+          "latitude" : "40.71453933200007"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.00798899999995",
+          "latitude" : "40.71509933300007"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00705799999992",
+          "latitude" : "40.719251333000045"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.0069250009999",
+          "latitude" : "40.719888333000085"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.00640899899992",
+          "latitude" : "40.70947533200007"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.98891899999995",
+          "latitude" : "40.74113433400004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98634300099991",
+          "latitude" : "40.73998433400004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.98895400099991",
+          "latitude" : "40.74531233400006"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9885419979999",
+          "latitude" : "40.74529033300007"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.9843019999999",
+          "latitude" : "40.74335133500006"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.9838059999999",
+          "latitude" : "40.74312833500005"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.9837379999999",
+          "latitude" : "40.74325733400008"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.9821029979999",
+          "latitude" : "40.74564133500007"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.98188199999993",
+          "latitude" : "40.746632333000036"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9882879999999",
+          "latitude" : "40.74847733300004"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.9881690009999",
+          "latitude" : "40.749832333000086"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 38293003,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559866,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1904,
+      "smallest" : "  & Ellis St At S Corner",
+      "null" : 0,
+      "largest" : "Woodhaven Blvd & Queens Blvd At Sw Corner",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Broadway & Warren St At Se Corner"
+      }, {
+        "count" : 19,
+        "item" : "Chambers St & West Broadway At Nw Corner"
+      }, {
+        "count" : 18,
+        "item" : "Church St & Warren St At Nw Corner"
+      }, {
+        "count" : 17,
+        "item" : "Church St & Chambers St At Nw Corner"
+      }, {
+        "count" : 16,
+        "item" : "Varick St & Franklin St At Nw Corner (Downtown Only)"
+      }, {
+        "count" : 15,
+        "item" : "Varick St & North Moore St At Nw Corner (Downtown Only)"
+      }, {
+        "count" : 14,
+        "item" : "William St & Fulton St At Se Corner"
+      }, {
+        "count" : 13,
+        "item" : "Broadway & 23rd St At Se Corner (Uptown Only)"
+      }, {
+        "count" : 12,
+        "item" : "Park Ave & 23rd St At Se Corner (Uptown Only)"
+      }, {
+        "count" : 11,
+        "item" : "Broadway & 28th St At Sw Corner (Downtown Only)"
+      }, {
+        "count" : 10,
+        "item" : "Broadway & 28th St At Ne Corner (Uptown Only)"
+      }, {
+        "count" : 9,
+        "item" : "Park Ave & 28th St At Sw Corner (Downtown Only)"
+      }, {
+        "count" : 8,
+        "item" : "Park Ave & 28th St At Se Corner (Uptown Only)"
+      }, {
+        "count" : 7,
+        "item" : "Park Ave & 28th St At Ne Corner (Uptown Only)"
+      }, {
+        "count" : 6,
+        "item" : "Park Ave & 32nd St At Se Corner (Uptown Only)"
+      }, {
+        "count" : 5,
+        "item" : "Park Ave & 33rd St At Nw Corner (Downtown Only)"
+      }, {
+        "count" : 4,
+        "item" : "Broadway & 32nd St At Nw Corner"
+      }, {
+        "count" : 3,
+        "item" : "Broadway & 34th St At Sw Corner"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38293004,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559867,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1904,
+      "smallest" : "http://www.mta.info/nyct/service/",
+      "null" : 0,
+      "largest" : "http://www.mta.info/nyct/service/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.mta.info/nyct/service/"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38293005,
+    "name" : "LINE",
+    "dataTypeName" : "text",
+    "description" : "LINE",
+    "fieldName" : "line",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559868,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1904,
+      "smallest" : "@",
+      "null" : 0,
+      "largest" : "S",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N-R"
+      }, {
+        "count" : 19,
+        "item" : "F"
+      }, {
+        "count" : 18,
+        "item" : "A-C"
+      }, {
+        "count" : 17,
+        "item" : "E-M-R"
+      }, {
+        "count" : 16,
+        "item" : "G"
+      }, {
+        "count" : 15,
+        "item" : "@"
+      }, {
+        "count" : 14,
+        "item" : "2-5"
+      }, {
+        "count" : 13,
+        "item" : "L"
+      }, {
+        "count" : 12,
+        "item" : "1"
+      }, {
+        "count" : 11,
+        "item" : "4-6-6 Express"
+      }, {
+        "count" : 10,
+        "item" : "D"
+      }, {
+        "count" : 9,
+        "item" : "A-S"
+      }, {
+        "count" : 8,
+        "item" : "7-7 Express"
+      }, {
+        "count" : 7,
+        "item" : "A"
+      }, {
+        "count" : 6,
+        "item" : "6"
+      }, {
+        "count" : 5,
+        "item" : "4"
+      }, {
+        "count" : 4,
+        "item" : "B-D"
+      }, {
+        "count" : 3,
+        "item" : "A-C-B"
+      }, {
+        "count" : 2,
+        "item" : "F-G"
+      }, {
+        "count" : 1,
+        "item" : "6-6 Express"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.567382415042,
+      "ymax" : 40.841443318127,
+      "xmin" : -74.44384004945,
+      "xmax" : -73.48844149005
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "drex-xx56",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1559866
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1559865,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1559866
+      } ],
+      "latitudeId" : 1559864
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.height" : "9",
+        "symbol.url" : "C57B8C5F",
+        "symbol.type" : "esriPMS",
+        "symbol.yoffset" : "0",
+        "symbol.contentType" : "image/png",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "11",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAA8AAAAMCAYAAAC9QufkAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAh9JREFUKJFNzc1Lk3EAwPHv9rzt2fbMx2dOp6bOSEkoKLpmdCgCwewgXusgRHTrFBQUghDRpYsQdBEi1FPYoQ5eioIoKoKkIMl8d9A2dc+eZ7/nZU+nmH/Ah48MMPZgbbRq9FBz97G8NdJ6K+siCVoGXBtUHTv4Tq82AK5Gd3eVp1c7XsoAazvFRdM4AqEgIckEvo1ldbBTqoFbpbtFJ+XLNAIPIeKs/FoFiMkAua4865Uig5bK+aFjhL7g1ecVclqWsFbmQsGikelg6W0RLTGAE1kAyABy0kC362z//sL49YvocY33HzaR9Bh9/TqT5wxE2mDp9TIYx/GkQ7hs22iSDG6FTASf3nzl7s1L3H+0wJWxCcobfzCHCjRCgYh8UNQmlqIIoggjk0KNw4v5We4Nn6ZN8zhRgOk7c9yavo3jCkLNI8A5hOsOnqojfBURg3Q2jxKHRFhFbsCWl8EDJAUID9A8+xAOPYSfABQEsF+XmFt4x8OpGzx5PI/Z2gYArkBRXDxJNDGhQxIfKQ4VgNxRZp49Z3TiLIsfl+nrHSQC9pw6mh5gk2hij4AwiiOpKUauzZKVHZLtgwyPT5E2e1j9tsnI5AxKqhfb9ejKtrP8H/9c3+DUyTNslSqg5QiUBmZripJUxsj3k+xUQDqg9NdFl2OUN34058585+WiXcXMtEBSw97bZc8JMa12yrYgnTbYreySz7aRCg1qlW0A/gHjT9YpSPicUAAAAABJRU5ErkJggg=="
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/SubwayEntrancesWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "SubwayEntrances",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "958A587B-B84F-4E19-914D-808C770C0676",
+      "name" : "DOITT_SUBWAY_ENTRANCE.zip",
+      "filename" : "DOITT_SUBWAY_ENTRANCE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "tm4c-rqum",
+    "displayName" : "Lilia Gutnik",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/1897/6931/Get_excited_and_make_things_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/1897/6931/Get_excited_and_make_things_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/1897/6931/Get_excited_and_make_things_tiny.jpeg",
+    "profileLastModified" : 1366653612,
+    "screenName" : "Lilia Gutnik",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "location", "map", "cartography", "basemap", "transit", "transportation", "train", "subway", "travel", "entrance", "station" ]
+}

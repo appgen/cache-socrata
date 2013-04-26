@@ -1,0 +1,622 @@
+{
+  "id" : "h7fg-wtx5",
+  "name" : "street",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1350453321,
+  "description" : "Polygon representing the boundary of the zip codes in the city.",
+  "displayType" : "map",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 1317960,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318014052,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243855,
+  "totalTimesRated" : 0,
+  "viewCount" : 82,
+  "viewLastModified" : 1360614162,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 22521592,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560359,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "1",
+      "sum" : "34453",
+      "null" : 0,
+      "average" : "131.5",
+      "largest" : "262",
+      "top" : [ {
+        "count" : 20,
+        "item" : "247"
+      }, {
+        "count" : 19,
+        "item" : "248"
+      }, {
+        "count" : 18,
+        "item" : "249"
+      }, {
+        "count" : 17,
+        "item" : "250"
+      }, {
+        "count" : 16,
+        "item" : "251"
+      }, {
+        "count" : 15,
+        "item" : "252"
+      }, {
+        "count" : 14,
+        "item" : "253"
+      }, {
+        "count" : 13,
+        "item" : "254"
+      }, {
+        "count" : 12,
+        "item" : "255"
+      }, {
+        "count" : 11,
+        "item" : "256"
+      }, {
+        "count" : 10,
+        "item" : "257"
+      }, {
+        "count" : 9,
+        "item" : "258"
+      }, {
+        "count" : 8,
+        "item" : "259"
+      }, {
+        "count" : 7,
+        "item" : "260"
+      }, {
+        "count" : 6,
+        "item" : "261"
+      }, {
+        "count" : 5,
+        "item" : "262"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521593,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1560360,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 22521594,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560361,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "00083",
+      "null" : 0,
+      "largest" : "11697",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10004"
+      }, {
+        "count" : 19,
+        "item" : "11693"
+      }, {
+        "count" : 18,
+        "item" : "10196"
+      }, {
+        "count" : 17,
+        "item" : "10047"
+      }, {
+        "count" : 16,
+        "item" : "10203"
+      }, {
+        "count" : 15,
+        "item" : "10259"
+      }, {
+        "count" : 14,
+        "item" : "10260"
+      }, {
+        "count" : 13,
+        "item" : "10285"
+      }, {
+        "count" : 12,
+        "item" : "10286"
+      }, {
+        "count" : 11,
+        "item" : "11370"
+      }, {
+        "count" : 10,
+        "item" : "10065"
+      }, {
+        "count" : 9,
+        "item" : "10075"
+      }, {
+        "count" : 8,
+        "item" : "10069"
+      }, {
+        "count" : 7,
+        "item" : "10281"
+      }, {
+        "count" : 6,
+        "item" : "10282"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521595,
+    "name" : "PO_NAME",
+    "dataTypeName" : "text",
+    "description" : "PO_NAME",
+    "fieldName" : "po_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560362,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Fresh Meadows"
+      }, {
+        "count" : 19,
+        "item" : "Floral Park"
+      }, {
+        "count" : 18,
+        "item" : "Queens Village"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "Bronx"
+      }, {
+        "count" : 14,
+        "item" : "New York"
+      }, {
+        "count" : 13,
+        "item" : "Bayside"
+      }, {
+        "count" : 12,
+        "item" : "Astoria"
+      }, {
+        "count" : 11,
+        "item" : "Flushing"
+      }, {
+        "count" : 10,
+        "item" : "Little Neck"
+      }, {
+        "count" : 9,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 8,
+        "item" : "Long Island City"
+      }, {
+        "count" : 7,
+        "item" : "Ozone Park"
+      }, {
+        "count" : 6,
+        "item" : "Howard Beach"
+      }, {
+        "count" : 5,
+        "item" : "Staten Island"
+      }, {
+        "count" : 4,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 3,
+        "item" : "Inwood"
+      }, {
+        "count" : 2,
+        "item" : "Arverne"
+      }, {
+        "count" : 1,
+        "item" : "Rockaway Park"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521596,
+    "name" : "STATE",
+    "dataTypeName" : "text",
+    "description" : "STATE",
+    "fieldName" : "state",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560363,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521597,
+    "name" : "COUNTY",
+    "dataTypeName" : "text",
+    "description" : "COUNTY",
+    "fieldName" : "county",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560364,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Richmond",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Queens"
+      }, {
+        "count" : 19,
+        "item" : "Kings"
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "New York"
+      }, {
+        "count" : 16,
+        "item" : "Richmond"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521598,
+    "name" : "ST_FIPS",
+    "dataTypeName" : "text",
+    "description" : "ST_FIPS",
+    "fieldName" : "st_fips",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560365,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "36",
+      "null" : 0,
+      "largest" : "36",
+      "top" : [ {
+        "count" : 20,
+        "item" : "36"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521599,
+    "name" : "CTY_FIPS",
+    "dataTypeName" : "text",
+    "description" : "CTY_FIPS",
+    "fieldName" : "cty_fips",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560366,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "005",
+      "null" : 0,
+      "largest" : "085",
+      "top" : [ {
+        "count" : 20,
+        "item" : "081"
+      }, {
+        "count" : 19,
+        "item" : "047"
+      }, {
+        "count" : 18,
+        "item" : "005"
+      }, {
+        "count" : 17,
+        "item" : "061"
+      }, {
+        "count" : 16,
+        "item" : "085"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521600,
+    "name" : "BLDGZIP",
+    "dataTypeName" : "number",
+    "description" : "BLDGZIP",
+    "fieldName" : "bldgzip",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560367,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "0",
+      "sum" : "57",
+      "null" : 0,
+      "average" : "0.2175572519083969",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521601,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560368,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "289.27398604729415865222108550369739532470703125",
+      "sum" : "6570529.74674296338798740180209279060363769531250000",
+      "null" : 0,
+      "average" : "25078.35781199604",
+      "largest" : "126071.690073734978795982897281646728515625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "528.531814925804383165086619555950164794921875"
+      }, {
+        "count" : 19,
+        "item" : "1050.931798172838853133725933730602264404296875"
+      }, {
+        "count" : 18,
+        "item" : "544.562515040513744679628871381282806396484375"
+      }, {
+        "count" : 17,
+        "item" : "1312.780597957373856843332760035991668701171875"
+      }, {
+        "count" : 16,
+        "item" : "909.939659360313044089707545936107635498046875"
+      }, {
+        "count" : 15,
+        "item" : "620.1578609734295923772151581943035125732421875"
+      }, {
+        "count" : 14,
+        "item" : "980.356289437359237126656807959079742431640625"
+      }, {
+        "count" : 13,
+        "item" : "1067.98354189372776090749539434909820556640625"
+      }, {
+        "count" : 12,
+        "item" : "437.69928028091857186154811643064022064208984375"
+      }, {
+        "count" : 11,
+        "item" : "17837.72114865841649589128792285919189453125"
+      }, {
+        "count" : 10,
+        "item" : "15541.743363630293970345519483089447021484375"
+      }, {
+        "count" : 9,
+        "item" : "13540.765334403418819420039653778076171875"
+      }, {
+        "count" : 8,
+        "item" : "7780.632133116499971947632730007171630859375"
+      }, {
+        "count" : 7,
+        "item" : "4717.025265958785894326865673065185546875"
+      }, {
+        "count" : 6,
+        "item" : "6083.8697611567404237575829029083251953125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 22521602,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560369,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 262,
+      "smallest" : "3154.82497313187559484504163265228271484375",
+      "sum" : "8367606492.065206614046473987400531768798828125000",
+      "null" : 0,
+      "average" : "31937429.35902751",
+      "largest" : "473985727.13005459308624267578125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "17229.15496417763279168866574764251708984375"
+      }, {
+        "count" : 19,
+        "item" : "47808.98541408308665268123149871826171875"
+      }, {
+        "count" : 18,
+        "item" : "10149.779683925056815496645867824554443359375"
+      }, {
+        "count" : 17,
+        "item" : "77111.447711050204816274344921112060546875"
+      }, {
+        "count" : 16,
+        "item" : "37226.8835819896703469567000865936279296875"
+      }, {
+        "count" : 15,
+        "item" : "21064.3129529685029410757124423980712890625"
+      }, {
+        "count" : 14,
+        "item" : "52514.73508272637263871729373931884765625"
+      }, {
+        "count" : 13,
+        "item" : "67350.388959865100332535803318023681640625"
+      }, {
+        "count" : 12,
+        "item" : "11264.412378398659711820073425769805908203125"
+      }, {
+        "count" : 11,
+        "item" : "18190205.1866400949656963348388671875"
+      }, {
+        "count" : 10,
+        "item" : "11442579.5473713576793670654296875"
+      }, {
+        "count" : 9,
+        "item" : "4809654.930632115341722965240478515625"
+      }, {
+        "count" : 8,
+        "item" : "2372365.8890541666187345981597900390625"
+      }, {
+        "count" : 7,
+        "item" : "958087.211210716632194817066192626953125"
+      }, {
+        "count" : 6,
+        "item" : "1561954.68332928395830094814300537109375"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "color" : "#0000ff",
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 0
+      }
+    } ],
+    "flyoutsNoLabel" : false,
+    "type" : "esri",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560364
+      }, {
+        "tableColumnId" : 1560360
+      } ],
+      "titleId" : 1560361
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/ZipcodesWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "PO_NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Zipcodes",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D1B8B36D-AEE5-4B51-979B-E8D4AAA83D79",
+      "name" : "DOITT_ZIP_CODE_01_29JUL2009.zip",
+      "filename" : "DOITT_ZIP_CODE_01_29JUL2009.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "2chp-kiu9",
+    "displayName" : "contactlogan",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1350453320,
+    "screenName" : "contactlogan"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "zip", "code", "zip code", "boundary" ]
+}

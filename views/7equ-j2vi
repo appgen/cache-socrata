@@ -1,0 +1,88 @@
+{
+  "id" : "7equ-j2vi",
+  "name" : "State Senate Districts (water areas included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "DCP_nysswiav_001.zip",
+  "blobFileSize" : 208257,
+  "blobId" : "Kxx3DOGiI8KqUwyhZbGyztB5P9FhZzYDq4Z0wwhu--8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1366310089,
+  "description" : "GIS data: Boundaries of State Senate Districts (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3254869,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366310091,
+  "publicationGroup" : 804686,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 804686,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1366310170,
+  "viewType" : "geo",
+  "childViews" : [ "stk9-nmdc" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Annually"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/7equ-j2vi",
+      "bbox" : "-74.26038033006296,40.48580757610566,-73.69920557304853,40.917688959607275",
+      "layers" : "geo_7equ-j2vi-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_7equ-j2vi"
+    },
+    "attachments" : [ {
+      "blobId" : "D9A3EDE9-D6A4-4DA7-8C94-79EF99979161",
+      "name" : "DCP_nysswiav_001.zip",
+      "filename" : "DCP_nysswiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "state senate districts (water areas included)", "dcp", "city planning", "maps", "gis" ],
+  "flags" : [ "default" ]
+}

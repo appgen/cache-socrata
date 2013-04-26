@@ -1,0 +1,747 @@
+{
+  "id" : "berx-iad2",
+  "name" : "dance venues",
+  "attribution" : "Department of Cultural Affairs (DCLA)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1328658132,
+  "description" : "Listing of all Cultural Institutions in the Department of Cultural Affairs directory",
+  "displayType" : "map",
+  "downloadCount" : 36,
+  "numberOfComments" : 0,
+  "oid" : 468720,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318031752,
+  "publicationGroup" : 243929,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318031661,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243929,
+  "totalTimesRated" : 0,
+  "viewCount" : 119,
+  "viewLastModified" : 1354318637,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 5317375,
+    "name" : "Organization Name",
+    "dataTypeName" : "text",
+    "fieldName" : "organization_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561625,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 168,
+      "smallest" : "ABAKUA Afro-Latin Dance Company",
+      "null" : 0,
+      "largest" : "ZGD Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "World Dance Theatre"
+      }, {
+        "count" : 19,
+        "item" : "Young Dancers in Repertory, Inc."
+      }, {
+        "count" : 18,
+        "item" : "ZGD Inc."
+      }, {
+        "count" : 17,
+        "item" : "iLAND, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5317376,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561626,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 168,
+      "smallest" : "10001",
+      "sum" : "1742482",
+      "null" : 0,
+      "average" : "10371.91666666667",
+      "largest" : "11412",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11215"
+      }, {
+        "count" : 19,
+        "item" : "10025"
+      }, {
+        "count" : 18,
+        "item" : "10001"
+      }, {
+        "count" : 17,
+        "item" : "10014"
+      }, {
+        "count" : 16,
+        "item" : "10012"
+      }, {
+        "count" : 15,
+        "item" : "10038"
+      }, {
+        "count" : 14,
+        "item" : "10003"
+      }, {
+        "count" : 13,
+        "item" : "11217"
+      }, {
+        "count" : 12,
+        "item" : "10011"
+      }, {
+        "count" : 11,
+        "item" : "10013"
+      }, {
+        "count" : 10,
+        "item" : "11201"
+      }, {
+        "count" : 9,
+        "item" : "10036"
+      }, {
+        "count" : 8,
+        "item" : "10018"
+      }, {
+        "count" : 7,
+        "item" : "10027"
+      }, {
+        "count" : 6,
+        "item" : "10033"
+      }, {
+        "count" : 5,
+        "item" : "11369"
+      }, {
+        "count" : 4,
+        "item" : "10019"
+      }, {
+        "count" : 3,
+        "item" : "10023"
+      }, {
+        "count" : 2,
+        "item" : "11211"
+      }, {
+        "count" : 1,
+        "item" : "10002"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right",
+      "noCommas" : "true"
+    }
+  }, {
+    "id" : 5317377,
+    "name" : "Main Phone #",
+    "dataTypeName" : "text",
+    "fieldName" : "main_phone_",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561627,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 168,
+      "smallest" : "(212) 200-8000 x102",
+      "null" : 0,
+      "largest" : "(917) 903-0149",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(646) 330-5152"
+      }, {
+        "count" : 19,
+        "item" : "(718) 567-9620"
+      }, {
+        "count" : 18,
+        "item" : "(212) 869-7429"
+      }, {
+        "count" : 17,
+        "item" : "(917) 860-8239"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5317378,
+    "name" : "Discipline Code",
+    "dataTypeName" : "text",
+    "fieldName" : "discipline_code",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561628,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 168,
+      "smallest" : "Dance",
+      "null" : 0,
+      "largest" : "Dance",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Dance"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5317379,
+    "name" : "Council District",
+    "dataTypeName" : "text",
+    "fieldName" : "council_district",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561629,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 163,
+      "smallest" : "Bronx Council District #15",
+      "null" : 5,
+      "largest" : "Staten Island Council Dist #50",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn Council District #38"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan Council District #2"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan Council District #6"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan Council District #3"
+      }, {
+        "count" : 16,
+        "item" : "Queens Council District #26"
+      }, {
+        "count" : 15,
+        "item" : "Manhattan Council District #4"
+      }, {
+        "count" : 14,
+        "item" : "Manhattan Council District #1"
+      }, {
+        "count" : 13,
+        "item" : "Brooklyn Council District #47"
+      }, {
+        "count" : 12,
+        "item" : "Brooklyn Council District #33"
+      }, {
+        "count" : 11,
+        "item" : "Manhattan Council District #7"
+      }, {
+        "count" : 10,
+        "item" : "Brooklyn Council District #48"
+      }, {
+        "count" : 9,
+        "item" : "Bronx Council District #15"
+      }, {
+        "count" : 8,
+        "item" : "Queens Council District #25"
+      }, {
+        "count" : 7,
+        "item" : "Manhattan Council District #9"
+      }, {
+        "count" : 6,
+        "item" : "Brooklyn Council District #35"
+      }, {
+        "count" : 5,
+        "item" : "Brooklyn Council District #39"
+      }, {
+        "count" : 4,
+        "item" : "Manhattan Council District #8"
+      }, {
+        "count" : 3,
+        "item" : "Queens Council District #20"
+      }, {
+        "count" : 2,
+        "item" : "Queens Council District #24"
+      }, {
+        "count" : 1,
+        "item" : "Bronx Council District #18"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5317380,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561630,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 168,
+      "smallest" : "Bronx Community Board #1",
+      "null" : 0,
+      "largest" : "Staten Island Community Brd #2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn Community Board #6"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan Community Board #6"
+      }, {
+        "count" : 18,
+        "item" : "Queens Community Board #12"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan Community Board #7"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan Community Board #4"
+      }, {
+        "count" : 15,
+        "item" : "Manhattan Community Board #5"
+      }, {
+        "count" : 14,
+        "item" : "Queens Community Board #2"
+      }, {
+        "count" : 13,
+        "item" : "Manhattan Community Board #8"
+      }, {
+        "count" : 12,
+        "item" : "Manhattan Community Board #1"
+      }, {
+        "count" : 11,
+        "item" : "Manhattan Community Board #3"
+      }, {
+        "count" : 10,
+        "item" : "Brooklyn Community Board #13"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan Community Board #2"
+      }, {
+        "count" : 8,
+        "item" : "Manhattan Community Board #9"
+      }, {
+        "count" : 7,
+        "item" : "Brooklyn Community Board #15"
+      }, {
+        "count" : 6,
+        "item" : "Bronx Community Board #6"
+      }, {
+        "count" : 5,
+        "item" : "Brooklyn Community Board #2"
+      }, {
+        "count" : 4,
+        "item" : "Brooklyn Community Board #1"
+      }, {
+        "count" : 3,
+        "item" : "Queens Community Board #3"
+      }, {
+        "count" : 2,
+        "item" : "Manhattan Community Board #10"
+      }, {
+        "count" : 1,
+        "item" : "Brooklyn Community Board #7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5317381,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561631,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 168,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 5317382,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 8,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561632,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 160,
+      "smallest" : {
+        "longitude" : "-73.99772988940123",
+        "latitude" : "40.6666151570148",
+        "human_address" : "{\"address\":\"10 18th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 8,
+      "largest" : {
+        "longitude" : "-73.87618599958421",
+        "latitude" : "40.76780899978547",
+        "human_address" : "{\"address\":\"94 28 32nd Avenue\",\"city\":\"East Elmhurst\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.75958200030908",
+          "latitude" : "40.696460000128866",
+          "human_address" : "{\"address\":\"113 35 Farmers Boulevard\",\"city\":\"Saint Albans\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.9912638386262",
+          "latitude" : "40.678290570384384",
+          "human_address" : "{\"address\":\"51 1st Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99847133805815",
+          "latitude" : "40.72339044485136",
+          "human_address" : "{\"address\":\"541 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.1187155195518",
+          "latitude" : "40.57339051797251",
+          "human_address" : "{\"address\":\"62 4th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.93448693235298",
+          "latitude" : "40.82805236428151",
+          "human_address" : "{\"address\":\"2090 Adam Clayton Powell Jr Boulevard\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.98782336523124",
+          "latitude" : "40.72835470245309",
+          "human_address" : "{\"address\":\"127 Second Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.96230025593704",
+          "latitude" : "40.7161125194844",
+          "human_address" : "{\"address\":\"140 Metropolitan Avenue\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.97771212398017",
+          "latitude" : "40.73657113832088",
+          "human_address" : "{\"address\":\"405 23rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98819255070833",
+          "latitude" : "40.58272837449162",
+          "human_address" : "{\"address\":\"159 53rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.82934410015008",
+          "latitude" : "42.833114400209354",
+          "human_address" : "{\"address\":\"66 79 73 Place\",\"city\":\"Middle Village\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9869510002884",
+          "latitude" : "40.756053999992105",
+          "human_address" : "{\"address\":\"70 Lincoln Center Plaza\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.99738402131213",
+          "latitude" : "40.599652327946785",
+          "human_address" : "{\"address\":\"135 29th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.97826849211384",
+          "latitude" : "40.67891586332753",
+          "human_address" : "{\"address\":\"11 Sterling Place\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.98515509020673",
+          "latitude" : "40.595327319579255",
+          "human_address" : "{\"address\":\"4 43rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-76.94420299966868",
+          "latitude" : "43.20390300022325",
+          "human_address" : "{\"address\":\"1200 New\",\"city\":\"York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-74.16240100000613",
+          "latitude" : "40.60667400010499",
+          "human_address" : "{\"address\":\"3081 Richmond Road\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9873647109963",
+          "latitude" : "40.7289932210939",
+          "human_address" : "{\"address\":\"140 Second Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-74.01177143571483",
+          "latitude" : "40.65602265140345",
+          "human_address" : "{\"address\":\"142 39th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.9650973616847",
+          "latitude" : "40.6830847796403",
+          "human_address" : "{\"address\":\"900 Fulton Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.9873647109963",
+          "latitude" : "40.7289932210939",
+          "human_address" : "{\"address\":\"140 Second Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.669936,
+      "ymax" : 40.81768,
+      "xmin" : -74.391314,
+      "xmax" : -73.638751
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "berx-iad2",
+      "viewport" : {
+        "ymin" : 40.669936,
+        "ymax" : 40.81768,
+        "xmin" : -74.391314,
+        "xmax" : -73.638751
+      },
+      "plotStyle" : "point",
+      "type" : "google",
+      "plot" : {
+        "locationId" : 1561632
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1561632
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "berx-iad2" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 5317378,
+                "type" : "column"
+              }, {
+                "value" : "Dance",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "243929" : 1561628
+              },
+              "operator" : "EQUALS"
+            }
+          }, {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "243929" : 1561626
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "3w5f-gg42",
+    "displayName" : "Vallp049",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1328122153,
+    "screenName" : "Vallp049"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 5317378,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Dance"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "243929" : 1561628
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "tableColumnId" : {
+            "243929" : 1561626
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "culture", "gallery", "art", "museum", "museo", "dance", "performance", "painting", "sculpture" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 5317378,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Dance"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "243929" : 1561628
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "tableColumnId" : {
+          "243929" : 1561626
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

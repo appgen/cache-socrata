@@ -1,0 +1,782 @@
+{
+  "id" : "gbra-32re",
+  "name" : "Coney culture",
+  "attribution" : "Department of Cultural Affairs (DCLA)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1358804275,
+  "description" : "Listing of all Cultural Institutions in the Department of Cultural Affairs directory",
+  "displayType" : "map",
+  "downloadCount" : 4,
+  "numberOfComments" : 0,
+  "oid" : 2300522,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318031752,
+  "publicationGroup" : 243929,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318031661,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243929,
+  "totalTimesRated" : 0,
+  "viewCount" : 21,
+  "viewLastModified" : 1358804275,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 40384392,
+    "name" : "Organization Name",
+    "dataTypeName" : "text",
+    "fieldName" : "organization_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561625,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 1536,
+      "smallest" : "13 Playwrights, Inc.",
+      "null" : 0,
+      "largest" : "ZGD Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Young Concert Artists, Inc."
+      }, {
+        "count" : 19,
+        "item" : "Young Dancers in Repertory, Inc."
+      }, {
+        "count" : 18,
+        "item" : "Young Jean Lee's Theater Company"
+      }, {
+        "count" : 17,
+        "item" : "Young Men's & Young Women's Hebrew Association"
+      }, {
+        "count" : 16,
+        "item" : "Young New Yorker's Chorus"
+      }, {
+        "count" : 15,
+        "item" : "Young People's Chorus of New York City Inc."
+      }, {
+        "count" : 14,
+        "item" : "Young Playwrights, Inc."
+      }, {
+        "count" : 13,
+        "item" : "Youth Orchestra, CYCNY"
+      }, {
+        "count" : 12,
+        "item" : "ZGD Inc."
+      }, {
+        "count" : 11,
+        "item" : "Zeus's Thigh, Ltd."
+      }, {
+        "count" : 10,
+        "item" : "artHARLEM, Inc."
+      }, {
+        "count" : 9,
+        "item" : "dell'Arte Opera Ensemble, Inc."
+      }, {
+        "count" : 8,
+        "item" : "eyeBLINK"
+      }, {
+        "count" : 7,
+        "item" : "human future dance corps"
+      }, {
+        "count" : 6,
+        "item" : "iLAND, Inc."
+      }, {
+        "count" : 5,
+        "item" : "n+1 Foundation"
+      }, {
+        "count" : 4,
+        "item" : "openhousenewyork, Inc."
+      }, {
+        "count" : 3,
+        "item" : "stageFARM, Inc."
+      }, {
+        "count" : 2,
+        "item" : "viBe Theater Experience, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40384393,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561626,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 1535,
+      "smallest" : "6705",
+      "sum" : "15989183",
+      "null" : 1,
+      "average" : "10416.40586319218",
+      "largest" : "55401",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10018"
+      }, {
+        "count" : 19,
+        "item" : "10019"
+      }, {
+        "count" : 18,
+        "item" : "10003"
+      }, {
+        "count" : 17,
+        "item" : "11217"
+      }, {
+        "count" : 16,
+        "item" : "10002"
+      }, {
+        "count" : 15,
+        "item" : "10011"
+      }, {
+        "count" : 14,
+        "item" : "10036"
+      }, {
+        "count" : 13,
+        "item" : "10012"
+      }, {
+        "count" : 12,
+        "item" : "10025"
+      }, {
+        "count" : 11,
+        "item" : "10001"
+      }, {
+        "count" : 10,
+        "item" : "10013"
+      }, {
+        "count" : 9,
+        "item" : "11201"
+      }, {
+        "count" : 8,
+        "item" : "10023"
+      }, {
+        "count" : 7,
+        "item" : "10301"
+      }, {
+        "count" : 6,
+        "item" : "10024"
+      }, {
+        "count" : 5,
+        "item" : "10027"
+      }, {
+        "count" : 4,
+        "item" : "11211"
+      }, {
+        "count" : 3,
+        "item" : "11231"
+      }, {
+        "count" : 2,
+        "item" : "10014"
+      }, {
+        "count" : 1,
+        "item" : "10016"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 40384394,
+    "name" : "Main Phone #",
+    "dataTypeName" : "text",
+    "fieldName" : "main_phone_",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561627,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 1536,
+      "smallest" : "(201) 709-5720",
+      "null" : 0,
+      "largest" : "(973) 945-3929",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 220-5100"
+      }, {
+        "count" : 19,
+        "item" : "(718) 567-9620"
+      }, {
+        "count" : 18,
+        "item" : "(606) 627-3358"
+      }, {
+        "count" : 17,
+        "item" : "(212) 415-5500"
+      }, {
+        "count" : 16,
+        "item" : "(212) 330-8784"
+      }, {
+        "count" : 15,
+        "item" : "(212) 289-7779"
+      }, {
+        "count" : 14,
+        "item" : "(212) 594-5440"
+      }, {
+        "count" : 13,
+        "item" : "(718) 454-7181"
+      }, {
+        "count" : 12,
+        "item" : "(212) 869-7429"
+      }, {
+        "count" : 11,
+        "item" : "(212) 501-4069"
+      }, {
+        "count" : 10,
+        "item" : "(917) 602-1927"
+      }, {
+        "count" : 9,
+        "item" : "(646) 796-3492"
+      }, {
+        "count" : 8,
+        "item" : "(646) 489-5322"
+      }, {
+        "count" : 7,
+        "item" : "(212) 691-6500 x378"
+      }, {
+        "count" : 6,
+        "item" : "(917) 860-8239"
+      }, {
+        "count" : 5,
+        "item" : "(718) 797-0750"
+      }, {
+        "count" : 4,
+        "item" : "(212) 991-6470"
+      }, {
+        "count" : 3,
+        "item" : "(917) 751-2906"
+      }, {
+        "count" : 2,
+        "item" : "(917) 647-0326"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40384395,
+    "name" : "Discipline Code",
+    "dataTypeName" : "text",
+    "fieldName" : "discipline_code",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561628,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 1529,
+      "smallest" : "Architecture/Design",
+      "null" : 7,
+      "largest" : "Zoo",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Theater"
+      }, {
+        "count" : 19,
+        "item" : "Multi-Discipline, Performing"
+      }, {
+        "count" : 18,
+        "item" : "Multi-Discipl, Perf & Non-Perf"
+      }, {
+        "count" : 17,
+        "item" : "Film/Video/Audio"
+      }, {
+        "count" : 16,
+        "item" : "Literature"
+      }, {
+        "count" : 15,
+        "item" : "Dance"
+      }, {
+        "count" : 14,
+        "item" : "Architecture/Design"
+      }, {
+        "count" : 13,
+        "item" : "Visual Arts"
+      }, {
+        "count" : 12,
+        "item" : "Music"
+      }, {
+        "count" : 11,
+        "item" : "Multi-Discipline, Non-Perform"
+      }, {
+        "count" : 10,
+        "item" : "Humanities"
+      }, {
+        "count" : 9,
+        "item" : "Other"
+      }, {
+        "count" : 8,
+        "item" : "Folk Arts"
+      }, {
+        "count" : 7,
+        "item" : "Science"
+      }, {
+        "count" : 6,
+        "item" : "Museum"
+      }, {
+        "count" : 5,
+        "item" : "Photography"
+      }, {
+        "count" : 4,
+        "item" : "New Media"
+      }, {
+        "count" : 3,
+        "item" : "Botanical"
+      }, {
+        "count" : 2,
+        "item" : "Crafts"
+      }, {
+        "count" : 1,
+        "item" : "Zoo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40384396,
+    "name" : "Council District",
+    "dataTypeName" : "text",
+    "fieldName" : "council_district",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561629,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 1507,
+      "smallest" : "Bronx Council District #11",
+      "null" : 29,
+      "largest" : "Staten Island Council Dist #51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn Council District #39"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan Council District #3"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn Council District #33"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan Council District #9"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan Council District #1"
+      }, {
+        "count" : 15,
+        "item" : "Queens Council District #27"
+      }, {
+        "count" : 14,
+        "item" : "Manhattan Council District #2"
+      }, {
+        "count" : 13,
+        "item" : "Brooklyn Council District #38"
+      }, {
+        "count" : 12,
+        "item" : "Bronx Council District #11"
+      }, {
+        "count" : 11,
+        "item" : "Queens Council District #22"
+      }, {
+        "count" : 10,
+        "item" : "Brooklyn Council District #35"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan Council District #7"
+      }, {
+        "count" : 8,
+        "item" : "Manhattan Council District #8"
+      }, {
+        "count" : 7,
+        "item" : "Manhattan Council District #10"
+      }, {
+        "count" : 6,
+        "item" : "Queens Council District #19"
+      }, {
+        "count" : 5,
+        "item" : "Manhattan Council District #6"
+      }, {
+        "count" : 4,
+        "item" : "Queens Council District #26"
+      }, {
+        "count" : 3,
+        "item" : "Manhattan Council District #4"
+      }, {
+        "count" : 2,
+        "item" : "Queens Council District #24"
+      }, {
+        "count" : 1,
+        "item" : "Bronx Council District #17"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40384397,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561630,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 1522,
+      "smallest" : "Bronx Community Board #1",
+      "null" : 14,
+      "largest" : "Staten Island Community Brd #3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn Community Board #6"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan Community Board #2"
+      }, {
+        "count" : 18,
+        "item" : "Manhattan Community Board #10"
+      }, {
+        "count" : 17,
+        "item" : "Manhattan Community Board #1"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan Community Board #4"
+      }, {
+        "count" : 15,
+        "item" : "Manhattan Community Board #3"
+      }, {
+        "count" : 14,
+        "item" : "Queens Community Board #12"
+      }, {
+        "count" : 13,
+        "item" : "Brooklyn Community Board #2"
+      }, {
+        "count" : 12,
+        "item" : "Queens Community Board #1"
+      }, {
+        "count" : 11,
+        "item" : "Manhattan Community Board #6"
+      }, {
+        "count" : 10,
+        "item" : "Manhattan Community Board #9"
+      }, {
+        "count" : 9,
+        "item" : "Manhattan Community Board #5"
+      }, {
+        "count" : 8,
+        "item" : "Manhattan Community Board #12"
+      }, {
+        "count" : 7,
+        "item" : "Manhattan Community Board #7"
+      }, {
+        "count" : 6,
+        "item" : "Manhattan Community Board #8"
+      }, {
+        "count" : 5,
+        "item" : "Manhattan Community Board #11"
+      }, {
+        "count" : 4,
+        "item" : "Brooklyn Community Board #1"
+      }, {
+        "count" : 3,
+        "item" : "Brooklyn Community Board #3"
+      }, {
+        "count" : 2,
+        "item" : "Staten Island Community Brd #1"
+      }, {
+        "count" : 1,
+        "item" : "Queens Community Board #2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40384398,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561631,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 1536,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      }, {
+        "count" : 16,
+        "item" : "Bronx"
+      }, {
+        "count" : 15,
+        "item" : "NA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40384399,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 8,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561632,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 1457,
+      "smallest" : {
+        "longitude" : "-78.74864600041258",
+        "latitude" : "42.43318899977248",
+        "human_address" : "{\"address\":\"020 334\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 79,
+      "largest" : {
+        "longitude" : "-73.94850800004417",
+        "latitude" : "40.74468399996658",
+        "human_address" : "{\"address\":\"Variety Boys\",\"city\":\"Long Island City\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.98798624277238",
+          "latitude" : "40.66826702731989",
+          "human_address" : "{\"address\":\"306 11th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.99571019380892",
+          "latitude" : "40.66793785949226",
+          "human_address" : "{\"address\":\"15 16th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.9869510002884",
+          "latitude" : "40.756053999992105",
+          "human_address" : "{\"address\":\"The Theatre\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.02077646730692",
+          "latitude" : "40.64871982239463",
+          "human_address" : "{\"address\":\"One 53rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.0199309621451",
+          "latitude" : "40.64449044769492",
+          "human_address" : "{\"address\":\"250 57th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-78.74864600041258",
+          "latitude" : "42.43318899977248",
+          "human_address" : "{\"address\":\"1041 Broadway\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.95292821634511",
+          "latitude" : "40.78304098123146",
+          "human_address" : "{\"address\":\"1395 Lexington Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.12133547112633",
+          "latitude" : "40.57302757854208",
+          "human_address" : "{\"address\":\"194 2nd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98229253475102",
+          "latitude" : "40.77543421068691",
+          "human_address" : "{\"address\":\"1995 Broadway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-76.94420299966868",
+          "latitude" : "43.20390300022325",
+          "human_address" : "{\"address\":\"5134 New\",\"city\":\"York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "human_address" : "{\"address\":\"86 30 188th Street\",\"city\":\"Jamaica Estates\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.99303996689655",
+          "latitude" : "40.59350209076893",
+          "human_address" : "{\"address\":\"246 38th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-76.94420299966868",
+          "latitude" : "43.20390300022325",
+          "human_address" : "{\"address\":\"237166 New\",\"city\":\"York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.94854549884934",
+          "latitude" : "40.804039196053864",
+          "human_address" : "{\"address\":\"104 119th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.93782106040214",
+          "latitude" : "40.85572568146284",
+          "human_address" : "{\"address\":\"255 Cabrini Boulevard\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-74.00945218740448",
+          "latitude" : "40.65093167233431",
+          "human_address" : "{\"address\":\"350 43rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.00652925753506",
+          "latitude" : "40.60252604815905",
+          "human_address" : "{\"address\":\"219 19th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.9873647109963",
+          "latitude" : "40.7289932210939",
+          "human_address" : "{\"address\":\"140 Second Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.98670836139206",
+          "latitude" : "40.70276560150608",
+          "human_address" : "{\"address\":\"68 Jay Street\",\"city\":\"Brooklyn\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-74.00161494363238",
+          "latitude" : "40.66086434225174",
+          "human_address" : "{\"address\":\"115 27th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "center" : {
+        "lng" : -74.0147316605782,
+        "lat" : 40.615587723100276
+      },
+      "ymin" : 40.561245374363,
+      "ymax" : 40.617325571233,
+      "zoom" : 15,
+      "xmin" : -74.098395463581,
+      "xmax" : -73.801764604247
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "xyce-82vd",
+      "viewport" : {
+        "center" : {
+          "lng" : -74.0147316605782,
+          "lat" : 40.615587723100276
+        },
+        "ymin" : 40.608534,
+        "ymax" : 40.62264,
+        "zoom" : 15,
+        "xmin" : -74.035739,
+        "xmax" : -73.993725
+      },
+      "plotStyle" : "point",
+      "type" : "google",
+      "plot" : {
+        "locationId" : 1561632
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1561632
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ]
+  },
+  "owner" : {
+    "id" : "w5s3-ms2u",
+    "displayName" : "ntaub",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358803857,
+    "screenName" : "ntaub"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "culture", "gallery", "art", "museum", "museo", "dance", "performance", "painting", "sculpture" ]
+}

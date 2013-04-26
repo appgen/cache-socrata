@@ -1,0 +1,88 @@
+{
+  "id" : "cpf4-rkhq",
+  "name" : "Neighborhood Tabulation Areas",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nynta_12c.zip",
+  "blobFileSize" : 873173,
+  "blobId" : "fPvYRfkHzazNbGuGPANY0nvUmhOa3DQ7mv070GjrClQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359501722,
+  "description" : "data: Boundaries of Neighborhood Tabulation Areas as created by the NYC Department of City Planning using whole census tracts from the 2010 Census as building blocks.  These aggregations of census tracts are subsets of New York City's 55 Public Use Microdata Areas (PUMAs).",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2377322,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366236255,
+  "publicationGroup" : 644667,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644667,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1366236507,
+  "viewType" : "geo",
+  "childViews" : [ "93vf-i5bz" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/cpf4-rkhq",
+      "bbox" : "-74.2571589748033,40.49599220497379,-73.69921518303877,40.915565529736185",
+      "layers" : "geo_cpf4-rkhq-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_cpf4-rkhq"
+    },
+    "attachments" : [ {
+      "blobId" : "473AC6D2-E85B-4414-BECC-260966F12E65",
+      "name" : "DCP_nyntaav_001.zip",
+      "filename" : "DCP_nyntaav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "neighborhood tabulation areas", "dcp", "city planning", "community", "area" ],
+  "flags" : [ "default" ]
+}

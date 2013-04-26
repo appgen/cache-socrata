@@ -1,0 +1,716 @@
+{
+  "id" : "eypk-ccwq",
+  "name" : "junpeng1984@yahoo.com",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Education",
+  "createdAt" : 1350163447,
+  "description" : "Location of colleges and universities with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 7,
+  "numberOfComments" : 0,
+  "oid" : 1280214,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318010576,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243821,
+  "totalTimesRated" : 0,
+  "viewCount" : 60,
+  "viewLastModified" : 1360614572,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 21834123,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559951,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : "1",
+      "sum" : "2926",
+      "null" : 0,
+      "average" : "38.5",
+      "largest" : "76",
+      "top" : [ {
+        "count" : 20,
+        "item" : "42"
+      }, {
+        "count" : 19,
+        "item" : "43"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "45"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "48"
+      }, {
+        "count" : 13,
+        "item" : "49"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "51"
+      }, {
+        "count" : 10,
+        "item" : "52"
+      }, {
+        "count" : 9,
+        "item" : "53"
+      }, {
+        "count" : 8,
+        "item" : "54"
+      }, {
+        "count" : 7,
+        "item" : "55"
+      }, {
+        "count" : 6,
+        "item" : "56"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "58"
+      }, {
+        "count" : 3,
+        "item" : "59"
+      }, {
+        "count" : 2,
+        "item" : "60"
+      }, {
+        "count" : 1,
+        "item" : "61"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21834124,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559953,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : "American Academy Mcallister Institute Of Funeral Service",
+      "null" : 0,
+      "largest" : "York College (Cuny)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Pratt Institute"
+      }, {
+        "count" : 19,
+        "item" : "St. Joseph's College / Brooklyn Campus"
+      }, {
+        "count" : 18,
+        "item" : "Long Island College Hospital School Of Nursing"
+      }, {
+        "count" : 17,
+        "item" : "Polytechnic University / Brooklyn-Metrotech Campus"
+      }, {
+        "count" : 16,
+        "item" : "Boricua College, Graham Center"
+      }, {
+        "count" : 15,
+        "item" : "Pace University / New York City Campus"
+      }, {
+        "count" : 14,
+        "item" : "St. John's University / Manhattan Campus"
+      }, {
+        "count" : 13,
+        "item" : "Fordham University/Lincoln Center Campus"
+      }, {
+        "count" : 12,
+        "item" : "Columbia University"
+      }, {
+        "count" : 11,
+        "item" : "Manhattan School Of Music"
+      }, {
+        "count" : 10,
+        "item" : "Rockefeller University, The"
+      }, {
+        "count" : 9,
+        "item" : "College Of New Rochelle, The / School Of New Resources/District Council 37 Campus"
+      }, {
+        "count" : 8,
+        "item" : "Cornell University / Weill Medical College Of Cornell University"
+      }, {
+        "count" : 7,
+        "item" : "College Of New Rochelle, The / School Of New Resources/Rosa Parks Campus"
+      }, {
+        "count" : 6,
+        "item" : "New School University / Mannes College Of Music"
+      }, {
+        "count" : 5,
+        "item" : "New York School Of Interior Design"
+      }, {
+        "count" : 4,
+        "item" : "New York College Of Podiatric Medicine"
+      }, {
+        "count" : 3,
+        "item" : "Helene Fuld College Of Nursing Of North General Hospital"
+      }, {
+        "count" : 2,
+        "item" : "New York University"
+      }, {
+        "count" : 1,
+        "item" : "Marymount Manhattan College"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21834125,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 3,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1559952,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : {
+        "longitude" : "-73.99465215499993",
+        "latitude" : "40.73519649600007"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.99747679899991",
+        "latitude" : "40.735262695000074"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.96417133799991",
+          "latitude" : "40.69179185100006"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.96769005699991",
+          "latitude" : "40.690522344000044"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99740081999994",
+          "latitude" : "40.690559488000076"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9856582939999",
+          "latitude" : "40.69463249000006"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.94248381799991",
+          "latitude" : "40.70129719300007"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.00479825299993",
+          "latitude" : "40.711105298000064"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.01263555499992",
+          "latitude" : "40.715434739000045"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.98514610099994",
+          "latitude" : "40.77082229300004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9616669909999",
+          "latitude" : "40.806815408000034"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.96148487499994",
+          "latitude" : "40.81239358100004"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.95662756199994",
+          "latitude" : "40.762890037000034"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.01295986899993",
+          "latitude" : "40.71458559700005"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.9547293839999",
+          "latitude" : "40.76473809700008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.94772625899992",
+          "latitude" : "40.80824486800009"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.97466142799993",
+          "latitude" : "40.78642530600007"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.96245272099992",
+          "latitude" : "40.76858098300005"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.9402562269999",
+          "latitude" : "40.804941427000074"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.94169697299992",
+          "latitude" : "40.80324562100009"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.99787780199995",
+          "latitude" : "40.73207543700005"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.95974673799992",
+          "latitude" : "40.76872228600007"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 21834126,
+    "name" : "HOUSENUM",
+    "dataTypeName" : "text",
+    "description" : "HOUSENUM",
+    "fieldName" : "housenum",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559954,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "94-20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "66"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "65-30"
+      }, {
+        "count" : 17,
+        "item" : "6"
+      }, {
+        "count" : 16,
+        "item" : "9"
+      }, {
+        "count" : 15,
+        "item" : "101"
+      }, {
+        "count" : 14,
+        "item" : "113"
+      }, {
+        "count" : 13,
+        "item" : "1130"
+      }, {
+        "count" : 12,
+        "item" : "120"
+      }, {
+        "count" : 11,
+        "item" : "1230"
+      }, {
+        "count" : 10,
+        "item" : "125"
+      }, {
+        "count" : 9,
+        "item" : "1300"
+      }, {
+        "count" : 8,
+        "item" : "144"
+      }, {
+        "count" : 7,
+        "item" : "150"
+      }, {
+        "count" : 6,
+        "item" : "170"
+      }, {
+        "count" : 5,
+        "item" : "1800"
+      }, {
+        "count" : 4,
+        "item" : "1879"
+      }, {
+        "count" : 3,
+        "item" : "22"
+      }, {
+        "count" : 2,
+        "item" : "221"
+      }, {
+        "count" : 1,
+        "item" : "252"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21834127,
+    "name" : "STREETNAME",
+    "dataTypeName" : "text",
+    "description" : "STREETNAME",
+    "fieldName" : "streetname",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559955,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : "10 AVENUE",
+      "null" : 0,
+      "largest" : "YORK AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FIFTH AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "BEDFORD AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "KISSENA BOULEVARD"
+      }, {
+        "count" : 17,
+        "item" : "METROTECH CENTER"
+      }, {
+        "count" : 16,
+        "item" : "GRAHAM AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "PACE PLAZA"
+      }, {
+        "count" : 14,
+        "item" : "MURRAY STREET"
+      }, {
+        "count" : 13,
+        "item" : "WEST 60 STREET"
+      }, {
+        "count" : 12,
+        "item" : "AMSTERDAM AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "CLAREMONT AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "YORK AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "BARCLAY STREET"
+      }, {
+        "count" : 8,
+        "item" : "WEST 125 STREET"
+      }, {
+        "count" : 7,
+        "item" : "WEST 85 STREET"
+      }, {
+        "count" : 6,
+        "item" : "EAST 70 STREET"
+      }, {
+        "count" : 5,
+        "item" : "PARK AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "MADISON AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "WASHINGTON SQUARE NORTH"
+      }, {
+        "count" : 2,
+        "item" : "EAST 71 STREET"
+      }, {
+        "count" : 1,
+        "item" : "WEST 29 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21834128,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559956,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Fresh Meadows"
+      }, {
+        "count" : 18,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 17,
+        "item" : "Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 15,
+        "item" : "Staten Island"
+      }, {
+        "count" : 14,
+        "item" : "Bronx"
+      }, {
+        "count" : 13,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 12,
+        "item" : "Oakland Gardens"
+      }, {
+        "count" : 11,
+        "item" : "Long Island City"
+      }, {
+        "count" : 10,
+        "item" : "Flushing"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 21834129,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559957,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 76,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11433",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10011"
+      }, {
+        "count" : 19,
+        "item" : "10013"
+      }, {
+        "count" : 18,
+        "item" : "10001"
+      }, {
+        "count" : 17,
+        "item" : "10451"
+      }, {
+        "count" : 16,
+        "item" : "11201"
+      }, {
+        "count" : 15,
+        "item" : "10021"
+      }, {
+        "count" : 14,
+        "item" : "10010"
+      }, {
+        "count" : 13,
+        "item" : "11367"
+      }, {
+        "count" : 12,
+        "item" : "10471"
+      }, {
+        "count" : 11,
+        "item" : "11205"
+      }, {
+        "count" : 10,
+        "item" : "10007"
+      }, {
+        "count" : 9,
+        "item" : "10027"
+      }, {
+        "count" : 8,
+        "item" : "10035"
+      }, {
+        "count" : 7,
+        "item" : "10019"
+      }, {
+        "count" : 6,
+        "item" : "10033"
+      }, {
+        "count" : 5,
+        "item" : "10025"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.538212,
+      "ymax" : 40.860446,
+      "xmin" : -74.324086,
+      "xmax" : -73.44518
+    },
+    "plotStyle" : "point",
+    "color" : "#0000ff",
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 1
+      }
+    } ],
+    "flyoutsNoLabel" : false,
+    "type" : "esri",
+    "plot" : {
+      "colorValueId" : 1559951,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1559953
+      } ],
+      "sizeValueId" : 1559951
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.url" : "F7436491",
+        "symbol.height" : "13",
+        "symbol.type" : "esriPMS",
+        "symbol.contentType" : "image/png",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "8",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAAsAAAASCAYAAACNdSR1AAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAR9JREFUKJFjYcACPm/fbsDr6XkBXZwFm+K/z571vOvpUWRWUFjCys/fzeXq+gWnYgYGBoYfJSVKDAwMdUxOTrXvenvvsmhpBeNUzMDAwMBka/ufLSjoEquCQjGvp+clnIq5Fi1azygqms3v6fkcr5sZGBgYGCUlo/hdXX8gi+F1BjrAUPx/926W9xcvKrKIi3swMDBswKn405Yt9m/37dv0q72dj9HAYP2HBQs28UtLBzK6uv5DUfxhyZLFX9vaov8fO8bIwMDA8P/CBYZvCQl+f6qq3n7cutWX39v7CAsDAwPDm4aG199iYkSwufNXW5vAH1vbQx/Xrq1jYWBgYPjV0IBVIQz8O3yY8V9srAdloTGAiqUYGBgJqkxLI81kAJW+WfywQ1XzAAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/CollegesUniversitiesWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "CollegesUniversities",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "F3B3A37C-CF12-4232-A3D0-614BF2B97B9F",
+      "name" : "DOITT_COLLEGE_UNIVERSITY.zip",
+      "filename" : "DOITT_COLLEGE_UNIVERSITY.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "uds7-76fj",
+    "displayName" : "nomadicpeng",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1350163447,
+    "screenName" : "nomadicpeng"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "education", "college", "university", "universities" ]
+}

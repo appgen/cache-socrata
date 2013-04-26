@@ -1,0 +1,784 @@
+{
+  "id" : "mzbd-kucq",
+  "name" : "Areas of Interest GIS",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Health",
+  "createdAt" : 1318022933,
+  "description" : "GIS data: Areas of interest labels as depicted in New York : A City of Neighborhoods",
+  "displayType" : "map",
+  "downloadCount" : 87,
+  "numberOfComments" : 0,
+  "oid" : 341791,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318022944,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243875,
+  "totalTimesRated" : 0,
+  "viewCount" : 529,
+  "viewLastModified" : 1340832008,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2979559,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560680,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "97",
+      "sum" : "13872",
+      "null" : 0,
+      "average" : "144.5",
+      "largest" : "192",
+      "top" : [ {
+        "count" : 20,
+        "item" : "179"
+      }, {
+        "count" : 19,
+        "item" : "180"
+      }, {
+        "count" : 18,
+        "item" : "181"
+      }, {
+        "count" : 17,
+        "item" : "182"
+      }, {
+        "count" : 16,
+        "item" : "183"
+      }, {
+        "count" : 15,
+        "item" : "184"
+      }, {
+        "count" : 14,
+        "item" : "185"
+      }, {
+        "count" : 13,
+        "item" : "186"
+      }, {
+        "count" : 12,
+        "item" : "187"
+      }, {
+        "count" : 11,
+        "item" : "188"
+      }, {
+        "count" : 10,
+        "item" : "189"
+      }, {
+        "count" : 9,
+        "item" : "190"
+      }, {
+        "count" : 8,
+        "item" : "191"
+      }, {
+        "count" : 7,
+        "item" : "192"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979560,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560681,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : {
+        "longitude" : "-73.88895938999991",
+        "latitude" : "40.89621814900005"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.84421243699995",
+        "latitude" : "40.64632423300009"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.20503801199993",
+          "latitude" : "40.55119169800008"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.1949778629999",
+          "latitude" : "40.57406514000007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.91512304299994",
+          "latitude" : "40.583203454000056"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.7860002349999",
+          "latitude" : "40.64807579300009"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.87428217099995",
+          "latitude" : "40.77542385900006"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.82629022899994",
+          "latitude" : "40.62288568300005"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9936966219999",
+          "latitude" : "40.58508360400003"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.11492170299994",
+          "latitude" : "40.59044294200004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.0055540319999",
+          "latitude" : "40.67205550600005"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.89847322199995",
+          "latitude" : "40.76445701200004"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.91683038999992",
+          "latitude" : "40.89231384500005"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.86271512299993",
+          "latitude" : "40.69945582400004"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.86502066999992",
+          "latitude" : "40.64583629700007"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.84421243699995",
+          "latitude" : "40.64632423300009"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2979561,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560682,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "1",
+      "sum" : "4722",
+      "null" : 0,
+      "average" : "49.1875",
+      "largest" : "109",
+      "top" : [ {
+        "count" : 20,
+        "item" : "83"
+      }, {
+        "count" : 19,
+        "item" : "84"
+      }, {
+        "count" : 18,
+        "item" : "85"
+      }, {
+        "count" : 17,
+        "item" : "86"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "89"
+      }, {
+        "count" : 13,
+        "item" : "90"
+      }, {
+        "count" : 12,
+        "item" : "100"
+      }, {
+        "count" : 11,
+        "item" : "102"
+      }, {
+        "count" : 10,
+        "item" : "103"
+      }, {
+        "count" : 9,
+        "item" : "105"
+      }, {
+        "count" : 8,
+        "item" : "108"
+      }, {
+        "count" : 7,
+        "item" : "109"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979562,
+    "name" : "Id",
+    "dataTypeName" : "number",
+    "description" : "Id",
+    "fieldName" : "id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560683,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "1",
+      "sum" : "4656",
+      "null" : 0,
+      "average" : "48.5",
+      "largest" : "96",
+      "top" : [ {
+        "count" : 20,
+        "item" : "85"
+      }, {
+        "count" : 19,
+        "item" : "38"
+      }, {
+        "count" : 18,
+        "item" : "70"
+      }, {
+        "count" : 17,
+        "item" : "48"
+      }, {
+        "count" : 16,
+        "item" : "51"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "13"
+      }, {
+        "count" : 13,
+        "item" : "43"
+      }, {
+        "count" : 12,
+        "item" : "73"
+      }, {
+        "count" : 11,
+        "item" : "80"
+      }, {
+        "count" : 10,
+        "item" : "75"
+      }, {
+        "count" : 9,
+        "item" : "31"
+      }, {
+        "count" : 8,
+        "item" : "87"
+      }, {
+        "count" : 7,
+        "item" : "86"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979563,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Name",
+    "fieldName" : "name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560684,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "Alley Pond Park",
+      "null" : 0,
+      "largest" : "Zoo/Wildlife Conser. Park",
+      "top" : [ {
+        "count" : 20,
+        "item" : "South Shore Golf Course"
+      }, {
+        "count" : 19,
+        "item" : "Fresh Kills"
+      }, {
+        "count" : 18,
+        "item" : "Plumb Beach"
+      }, {
+        "count" : 17,
+        "item" : "John F. Kennedy International Airport"
+      }, {
+        "count" : 16,
+        "item" : "LaGuardia Airport"
+      }, {
+        "count" : 15,
+        "item" : "Jamaica Bay Wildlife Refuge"
+      }, {
+        "count" : 14,
+        "item" : "Calvert Vaux"
+      }, {
+        "count" : 13,
+        "item" : "High Rock Park"
+      }, {
+        "count" : 12,
+        "item" : "Red Hook Park"
+      }, {
+        "count" : 11,
+        "item" : "Saint Michael's Cemetery"
+      }, {
+        "count" : 10,
+        "item" : "Riverdale Park"
+      }, {
+        "count" : 9,
+        "item" : "Forest Park (Golf Course)"
+      }, {
+        "count" : 8,
+        "item" : "Spring Creek Park Preserve (No Access)"
+      }, {
+        "count" : 7,
+        "item" : "Spring Creek Park Gateway National Recreation Area"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979564,
+    "name" : "Stacked",
+    "dataTypeName" : "number",
+    "description" : "Stacked",
+    "fieldName" : "stacked",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560685,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "0",
+      "sum" : "217",
+      "null" : 0,
+      "average" : "2.260416666666667",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979565,
+    "name" : "AnnoLine1",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine1",
+    "fieldName" : "annoline1",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560686,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "Alley",
+      "null" : 0,
+      "largest" : "Zoo/Wildlife",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Fort"
+      }, {
+        "count" : 19,
+        "item" : "Mt."
+      }, {
+        "count" : 18,
+        "item" : "Jamaica Bay"
+      }, {
+        "count" : 17,
+        "item" : "Calvert Vaux"
+      }, {
+        "count" : 16,
+        "item" : "  High Rock"
+      }, {
+        "count" : 15,
+        "item" : "Red Hook"
+      }, {
+        "count" : 14,
+        "item" : "St. Michael's"
+      }, {
+        "count" : 13,
+        "item" : "Riverdale Park"
+      }, {
+        "count" : 12,
+        "item" : "Forest"
+      }, {
+        "count" : 11,
+        "item" : "Spring Creek"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979566,
+    "name" : "AnnoLine3",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine3",
+    "fieldName" : "annoline3",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560687,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Track",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Park"
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "          Cemetery"
+      }, {
+        "count" : 17,
+        "item" : "                Park"
+      }, {
+        "count" : 16,
+        "item" : "     Park"
+      }, {
+        "count" : 15,
+        "item" : "Field"
+      }, {
+        "count" : 14,
+        "item" : "Track"
+      }, {
+        "count" : 13,
+        "item" : "Cemetery"
+      }, {
+        "count" : 12,
+        "item" : "Corona"
+      }, {
+        "count" : 11,
+        "item" : "Golf"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979567,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "description" : "Borough",
+    "fieldName" : "borough",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560688,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Queens"
+      }, {
+        "count" : 17,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979568,
+    "name" : "AnnoLine4",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine4",
+    "fieldName" : "annoline4",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560689,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Park",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Park"
+      }, {
+        "count" : 18,
+        "item" : "Course"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979569,
+    "name" : "AnnoLine2a",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine2a",
+    "fieldName" : "annoline2a",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560690,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Wilkins",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Cemetery"
+      }, {
+        "count" : 19,
+        "item" : "Garden"
+      }, {
+        "count" : 18,
+        "item" : "Park"
+      }, {
+        "count" : 17,
+        "item" : "Island"
+      }, {
+        "count" : 16,
+        "item" : "Square"
+      }, {
+        "count" : 15,
+        "item" : "Beach"
+      }, {
+        "count" : 14,
+        "item" : "Pond"
+      }, {
+        "count" : 13,
+        "item" : " "
+      }, {
+        "count" : 12,
+        "item" : "Loretto"
+      }, {
+        "count" : 11,
+        "item" : "House"
+      }, {
+        "count" : 10,
+        "item" : "Shore"
+      }, {
+        "count" : 9,
+        "item" : "Kills"
+      }, {
+        "count" : 8,
+        "item" : "International Airport"
+      }, {
+        "count" : 7,
+        "item" : " Wildlife Refuge"
+      }, {
+        "count" : 6,
+        "item" : "  Park"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979570,
+    "name" : "Angle",
+    "dataTypeName" : "number",
+    "description" : "Angle",
+    "fieldName" : "angle",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560691,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 96,
+      "smallest" : "0",
+      "sum" : "116",
+      "null" : 0,
+      "average" : "1.208333333333333",
+      "largest" : "75",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "41"
+      }, {
+        "count" : 18,
+        "item" : "75"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.608385,
+      "ymax" : 40.786167,
+      "xmin" : -74.210601,
+      "xmax" : -73.771148
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1560681,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560682
+      } ],
+      "latitudeId" : 1560680
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/AreasOfInterestCentroidsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "Name",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Areas_of_Interest_Centroids",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "B3667B13-B295-4B18-AF65-2836DE3E72BF",
+      "name" : "DCP_nyc_areasofinterest_001.zip",
+      "filename" : "DCP_nyc_areasofinterest_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2500470410791,
+    "lat" : 40.8962632747398
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7317057765661,
+    "lat" : 40.4995251639969
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "areas of interest gis", "dcp", "geographic", "location", "map", "cartography", "neighborhood", "historic", "scenic", "interest", "area of interest", "areas of interest" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,398 @@
+{
+  "id" : "6rdw-7wk8",
+  "name" : "Map of Handball Courts",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318116757,
+  "description" : "GIS Map of Handball Courts in New York City Department of Parks & Recreation properties.\r\n\r\nUpdate Frequency: Quarterly",
+  "displayType" : "map",
+  "downloadCount" : 33,
+  "numberOfComments" : 0,
+  "oid" : 342299,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116766,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244153,
+  "totalTimesRated" : 0,
+  "viewCount" : 308,
+  "viewLastModified" : 1363706530,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989472,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564718,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1891,
+      "smallest" : "1",
+      "sum" : "1788886",
+      "null" : 0,
+      "average" : "946",
+      "largest" : "1891",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1887"
+      }, {
+        "count" : 19,
+        "item" : "1888"
+      }, {
+        "count" : 18,
+        "item" : "1889"
+      }, {
+        "count" : 17,
+        "item" : "1890"
+      }, {
+        "count" : 16,
+        "item" : "1891"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989473,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564719,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989474,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564720,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1891,
+      "smallest" : "B001",
+      "null" : 0,
+      "largest" : "X266",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Q005"
+      }, {
+        "count" : 19,
+        "item" : "X010"
+      }, {
+        "count" : 18,
+        "item" : "Q163"
+      }, {
+        "count" : 17,
+        "item" : "X039"
+      }, {
+        "count" : 16,
+        "item" : "B054"
+      }, {
+        "count" : 15,
+        "item" : "B169B"
+      }, {
+        "count" : 14,
+        "item" : "M192"
+      }, {
+        "count" : 13,
+        "item" : "M159"
+      }, {
+        "count" : 12,
+        "item" : "X202"
+      }, {
+        "count" : 11,
+        "item" : "X159"
+      }, {
+        "count" : 10,
+        "item" : "B008"
+      }, {
+        "count" : 9,
+        "item" : "Q141"
+      }, {
+        "count" : 8,
+        "item" : "X232"
+      }, {
+        "count" : 7,
+        "item" : "X163"
+      }, {
+        "count" : 6,
+        "item" : "X168"
+      }, {
+        "count" : 5,
+        "item" : "M014"
+      }, {
+        "count" : 4,
+        "item" : "M223"
+      }, {
+        "count" : 3,
+        "item" : "Q301"
+      }, {
+        "count" : 2,
+        "item" : "Q304"
+      }, {
+        "count" : 1,
+        "item" : "Q305"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989475,
+    "name" : "area",
+    "dataTypeName" : "number",
+    "description" : "area",
+    "fieldName" : "area",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564721,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1891,
+      "smallest" : "431.408747921999975005746819078922271728515625",
+      "sum" : "2137889.1077698809939420243608765304088592529296875",
+      "null" : 0,
+      "average" : "1130.560078143776",
+      "largest" : "6388.8131876199995531351305544376373291015625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1626.962642810000033932738006114959716796875"
+      }, {
+        "count" : 19,
+        "item" : "1047.63881798000011258409358561038970947265625"
+      }, {
+        "count" : 18,
+        "item" : "975.0864372839999987263581715524196624755859375"
+      }, {
+        "count" : 17,
+        "item" : "1084.856089659999952345970086753368377685546875"
+      }, {
+        "count" : 16,
+        "item" : "1036.768333629999915501684881746768951416015625"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989476,
+    "name" : "len",
+    "dataTypeName" : "number",
+    "description" : "len",
+    "fieldName" : "len",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564722,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1891,
+      "smallest" : "83.360428370899995798026793636381626129150390625",
+      "sum" : "256349.1856906345002897751328418962657451629638671875",
+      "null" : 0,
+      "average" : "135.5627634535349",
+      "largest" : "335.40918876799997860871371813118457794189453125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "163.161541631999995161095284856855869293212890625"
+      }, {
+        "count" : 19,
+        "item" : "131.668875353999993649267707951366901397705078125"
+      }, {
+        "count" : 18,
+        "item" : "127.9427093919999975923929014243185520172119140625"
+      }, {
+        "count" : 17,
+        "item" : "133.587123854999987315750331617891788482666015625"
+      }, {
+        "count" : 16,
+        "item" : "130.80389299699999128279159776866436004638671875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989477,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564723,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1891,
+      "smallest" : "83.3602753996941459035951993428170680999755859375",
+      "sum" : "256349.1943329524863202095730230212211608886718750000",
+      "null" : 0,
+      "average" : "135.5627680237718",
+      "largest" : "335.4097061796393290933337993919849395751953125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "163.161259105101834165907348506152629852294921875"
+      }, {
+        "count" : 19,
+        "item" : "131.668878765877337855272344313561916351318359375"
+      }, {
+        "count" : 18,
+        "item" : "127.94293302297950276624760590493679046630859375"
+      }, {
+        "count" : 17,
+        "item" : "133.587411467263876829747459851205348968505859375"
+      }, {
+        "count" : 16,
+        "item" : "130.804146185531834589710342697799205780029296875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989478,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564724,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1891,
+      "smallest" : "431.4037445002912818381446413695812225341796875",
+      "sum" : "2137889.3088216536658592303865589201450347900390625",
+      "null" : 0,
+      "average" : "1130.560184464121",
+      "largest" : "6388.83301396329261478967964649200439453125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1626.96747919067411203286610543727874755859375"
+      }, {
+        "count" : 19,
+        "item" : "1047.644684254777303067385219037532806396484375"
+      }, {
+        "count" : 18,
+        "item" : "975.0908402363778577637276612222194671630859375"
+      }, {
+        "count" : 17,
+        "item" : "1084.856387120731824325048364698886871337890625"
+      }, {
+        "count" : 16,
+        "item" : "1036.77122547907538319122977554798126220703125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564719,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564720
+      } ],
+      "latitudeId" : 1564718
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DPR_Handball_001_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "PARKNUMBER",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DPR_Handball_001",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "3E49C1B1-9984-4AD9-BFFF-F81689771459",
+      "name" : "DPR_Handball_001.zip",
+      "filename" : "DPR_Handball_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1889679081542,
+    "lat" : 40.8999789812505
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7091546036585,
+    "lat" : 40.5363649468241
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "cartography", "handball", "ball", "court", "sports", "game", "geographic", "healthy living" ],
+  "flags" : [ "default" ]
+}

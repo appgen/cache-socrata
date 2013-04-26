@@ -1,0 +1,88 @@
+{
+  "id" : "78dh-3ptz",
+  "name" : "Police Precincts",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nypp_12c.zip",
+  "blobFileSize" : 712817,
+  "blobId" : "5gghm8iqdYR8HPUlNL7KCSDWAK7t6Frdug_-fEVQ9S8",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Public Safety",
+  "createdAt" : 1359491551,
+  "description" : "GIS data: Boundaries of Police Precincts",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2376034,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366234509,
+  "publicationGroup" : 644361,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644361,
+  "totalTimesRated" : 0,
+  "viewCount" : 79,
+  "viewLastModified" : 1366234554,
+  "viewType" : "geo",
+  "childViews" : [ "j8mb-qisi" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/78dh-3ptz",
+      "bbox" : "-74.25715897479941,40.495992204977696,-73.6992151836567,40.91556552873112",
+      "layers" : "geo_78dh-3ptz-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_78dh-3ptz"
+    },
+    "attachments" : [ {
+      "blobId" : "47D8DC86-F712-4790-8D09-77575577B4AD",
+      "name" : "DCP_nyppav_001.zip",
+      "filename" : "DCP_nyppav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "police precincts", "dcp", "geographic", "location", "map", "cartography", "safety", "crime", "boundary", "police", "policeman", "cop", "division", "precinct", "precincts", "gis", "jurisdiction", "school", "health", "fire & police gis: police precincts" ],
+  "flags" : [ "default" ]
+}

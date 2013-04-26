@@ -1,0 +1,570 @@
+{
+  "id" : "8eaa-hwzm",
+  "name" : "Map of Golf Courses",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318116721,
+  "description" : "GIS Map of Golf Courses in New York City Department of Parks & Recreation properties.\r\n\r\nUpdate Frequency: Quarterly",
+  "displayType" : "map",
+  "downloadCount" : 20,
+  "numberOfComments" : 0,
+  "oid" : 342298,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116733,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244152,
+  "totalTimesRated" : 0,
+  "viewCount" : 108,
+  "viewLastModified" : 1363707627,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989464,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564710,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "1",
+      "sum" : "105",
+      "null" : 0,
+      "average" : "7.5",
+      "largest" : "14",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989465,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564711,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989466,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564712,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "Clearview Golf Course",
+      "null" : 0,
+      "largest" : "Van Cortlandt Golf Course",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Forest Park Golf Course"
+      }, {
+        "count" : 19,
+        "item" : "Kissena Park Golf Course"
+      }, {
+        "count" : 18,
+        "item" : "Park Golf Course"
+      }, {
+        "count" : 17,
+        "item" : "Van Cortlandt Golf Course"
+      }, {
+        "count" : 16,
+        "item" : "Silver Lake Golf Course"
+      }, {
+        "count" : 15,
+        "item" : "Dyker Beach Golf Course"
+      }, {
+        "count" : 14,
+        "item" : "Marine Park Golf Course"
+      }, {
+        "count" : 13,
+        "item" : "Clearview Golf Course"
+      }, {
+        "count" : 12,
+        "item" : "Split Rock Golf Course"
+      }, {
+        "count" : 11,
+        "item" : "Pelham Bay Golf Course"
+      }, {
+        "count" : 10,
+        "item" : "Mosholu Golf Course"
+      }, {
+        "count" : 9,
+        "item" : "La Tourette Golf Course"
+      }, {
+        "count" : 8,
+        "item" : "South Shore Golf Course"
+      }, {
+        "count" : 7,
+        "item" : "Putt-Putt Golf Course"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989467,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564713,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "B028",
+      "null" : 0,
+      "largest" : "X092",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Q015"
+      }, {
+        "count" : 19,
+        "item" : "Q024"
+      }, {
+        "count" : 18,
+        "item" : "Q411"
+      }, {
+        "count" : 17,
+        "item" : "X092"
+      }, {
+        "count" : 16,
+        "item" : "R022"
+      }, {
+        "count" : 15,
+        "item" : "B028"
+      }, {
+        "count" : 14,
+        "item" : "B057"
+      }, {
+        "count" : 13,
+        "item" : "Q010"
+      }, {
+        "count" : 12,
+        "item" : "X039"
+      }, {
+        "count" : 11,
+        "item" : "R013"
+      }, {
+        "count" : 10,
+        "item" : "R104"
+      }, {
+        "count" : 9,
+        "item" : "Q099"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989468,
+    "name" : "area",
+    "dataTypeName" : "number",
+    "description" : "area",
+    "fieldName" : "area",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564714,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "541943.527876000036485493183135986328125",
+      "sum" : "83276448.266095999744720757007598876953125",
+      "null" : 0,
+      "average" : "5948317.733292571",
+      "largest" : "9894068.89993000030517578125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4190460.640279999934136867523193359375"
+      }, {
+        "count" : 19,
+        "item" : "3854171.959139999933540821075439453125"
+      }, {
+        "count" : 18,
+        "item" : "4605398.2967900000512599945068359375"
+      }, {
+        "count" : 17,
+        "item" : "6572660.633240000344812870025634765625"
+      }, {
+        "count" : 16,
+        "item" : "4063899.816639999859035015106201171875"
+      }, {
+        "count" : 15,
+        "item" : "7066416.220660000108182430267333984375"
+      }, {
+        "count" : 14,
+        "item" : "9370283.1880300007760524749755859375"
+      }, {
+        "count" : 13,
+        "item" : "5161648.026119999587535858154296875"
+      }, {
+        "count" : 12,
+        "item" : "9094248.95295999944210052490234375"
+      }, {
+        "count" : 11,
+        "item" : "9894068.89993000030517578125"
+      }, {
+        "count" : 10,
+        "item" : "4694074.505239999853074550628662109375"
+      }, {
+        "count" : 9,
+        "item" : "6190157.175819999538362026214599609375"
+      }, {
+        "count" : 8,
+        "item" : "7977016.4233699999749660491943359375"
+      }, {
+        "count" : 7,
+        "item" : "541943.527876000036485493183135986328125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989469,
+    "name" : "len",
+    "dataTypeName" : "number",
+    "description" : "len",
+    "fieldName" : "len",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564715,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "4311.1214991799997733323834836483001708984375",
+      "sum" : "173723.0078913800016380264423787593841552734375",
+      "null" : 0,
+      "average" : "12408.78627795571",
+      "largest" : "21318.5267390000008163042366504669189453125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8063.438750909999725990928709506988525390625"
+      }, {
+        "count" : 19,
+        "item" : "7856.532560620000367634929716587066650390625"
+      }, {
+        "count" : 18,
+        "item" : "9503.171525780000592931173741817474365234375"
+      }, {
+        "count" : 17,
+        "item" : "21318.5267390000008163042366504669189453125"
+      }, {
+        "count" : 16,
+        "item" : "15443.092083600000478327274322509765625"
+      }, {
+        "count" : 15,
+        "item" : "10860.89521980000063194893300533294677734375"
+      }, {
+        "count" : 14,
+        "item" : "19696.6954990000012912787497043609619140625"
+      }, {
+        "count" : 13,
+        "item" : "10086.167165799999565933831036090850830078125"
+      }, {
+        "count" : 12,
+        "item" : "13020.348842800000056740827858448028564453125"
+      }, {
+        "count" : 11,
+        "item" : "13418.615663599999606958590447902679443359375"
+      }, {
+        "count" : 10,
+        "item" : "8723.3037860900003579445183277130126953125"
+      }, {
+        "count" : 9,
+        "item" : "18534.1822223999988636933267116546630859375"
+      }, {
+        "count" : 8,
+        "item" : "12886.9163327999995090067386627197265625"
+      }, {
+        "count" : 7,
+        "item" : "4311.1214991799997733323834836483001708984375"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989470,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564716,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "4311.121592748546390794217586517333984375",
+      "sum" : "173723.0094043852914182934910058975219726562500",
+      "null" : 0,
+      "average" : "12408.78638602752",
+      "largest" : "21318.52768148806717363186180591583251953125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8063.4388991796304253512062132358551025390625"
+      }, {
+        "count" : 19,
+        "item" : "7856.5331638598863719380460679531097412109375"
+      }, {
+        "count" : 18,
+        "item" : "9503.1720922036547563038766384124755859375"
+      }, {
+        "count" : 17,
+        "item" : "21318.52768148806717363186180591583251953125"
+      }, {
+        "count" : 16,
+        "item" : "15443.09197578778184833936393260955810546875"
+      }, {
+        "count" : 15,
+        "item" : "10860.89439400253104395233094692230224609375"
+      }, {
+        "count" : 14,
+        "item" : "19696.69535079310662695206701755523681640625"
+      }, {
+        "count" : 13,
+        "item" : "10086.167187578392258728854358196258544921875"
+      }, {
+        "count" : 12,
+        "item" : "13020.34894228448320063762366771697998046875"
+      }, {
+        "count" : 11,
+        "item" : "13418.61580414926356752403080463409423828125"
+      }, {
+        "count" : 10,
+        "item" : "8723.303285292806322104297578334808349609375"
+      }, {
+        "count" : 9,
+        "item" : "18534.183332120868726633489131927490234375"
+      }, {
+        "count" : 8,
+        "item" : "12886.9157028962727054022252559661865234375"
+      }, {
+        "count" : 7,
+        "item" : "4311.121592748546390794217586517333984375"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989471,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564717,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 14,
+      "smallest" : "541943.487846009433269500732421875",
+      "sum" : "83276448.0658050593920052051544189453125",
+      "null" : 0,
+      "average" : "5948317.718986076",
+      "largest" : "9894069.35200105048716068267822265625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4190460.6628606677986681461334228515625"
+      }, {
+        "count" : 19,
+        "item" : "3854171.9720780369825661182403564453125"
+      }, {
+        "count" : 18,
+        "item" : "4605398.225710759870707988739013671875"
+      }, {
+        "count" : 17,
+        "item" : "6572660.373862408101558685302734375"
+      }, {
+        "count" : 16,
+        "item" : "4063899.8314844178967177867889404296875"
+      }, {
+        "count" : 15,
+        "item" : "7066416.139136224053800106048583984375"
+      }, {
+        "count" : 14,
+        "item" : "9370283.07219539582729339599609375"
+      }, {
+        "count" : 13,
+        "item" : "5161648.013844891451299190521240234375"
+      }, {
+        "count" : 12,
+        "item" : "9094249.090830735862255096435546875"
+      }, {
+        "count" : 11,
+        "item" : "9894069.35200105048716068267822265625"
+      }, {
+        "count" : 10,
+        "item" : "4694074.406008935533463954925537109375"
+      }, {
+        "count" : 9,
+        "item" : "6190157.081795453093945980072021484375"
+      }, {
+        "count" : 8,
+        "item" : "7977016.356150072999298572540283203125"
+      }, {
+        "count" : 7,
+        "item" : "541943.487846009433269500732421875"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564711,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564712
+      } ],
+      "latitudeId" : 1564710
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DPR_GolfCourses_001_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DPR_GolfCourses_001",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A7DA9777-6DF5-4ECA-8D68-36BA77EE18AE",
+      "name" : "DPR_GolfCourses_001.zip",
+      "filename" : "DPR_GolfCourses_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2119883204279,
+    "lat" : 40.9060780120709
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7278455531402,
+    "lat" : 40.543464882942
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "cartography", "golf", "course", "game", "putting", "tee", "geographic", "healthy living" ],
+  "flags" : [ "default" ]
+}

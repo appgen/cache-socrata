@@ -1,0 +1,1847 @@
+{
+  "id" : "z8ur-axk8",
+  "name" : "Google Map of 311 Placard Complaints - 2009",
+  "attribution" : "311",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1319741353,
+  "description" : "All 311 Requests from year 2009. This is historical data and will not be updated.",
+  "displayType" : "map",
+  "downloadCount" : 16,
+  "numberOfComments" : 0,
+  "oid" : 354963,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1319136771,
+  "publicationGroup" : 244475,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1319026436,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 246136,
+  "totalTimesRated" : 0,
+  "viewCount" : 69,
+  "viewLastModified" : 1319741353,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3278395,
+    "name" : "Unique Key",
+    "dataTypeName" : "text",
+    "fieldName" : "unique_key",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568763,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "12825247",
+      "null" : 0,
+      "largest" : "15617723",
+      "top" : [ {
+        "count" : 20,
+        "item" : "15161723"
+      }, {
+        "count" : 19,
+        "item" : "13015526"
+      }, {
+        "count" : 18,
+        "item" : "15572495"
+      }, {
+        "count" : 17,
+        "item" : "13814313"
+      }, {
+        "count" : 16,
+        "item" : "13953984"
+      }, {
+        "count" : 15,
+        "item" : "14227079"
+      }, {
+        "count" : 14,
+        "item" : "15030884"
+      }, {
+        "count" : 13,
+        "item" : "15081320"
+      }, {
+        "count" : 12,
+        "item" : "15024822"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278396,
+    "name" : "Created Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "created_date",
+    "position" : 2,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568764,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "2009-01-01T00:00:00",
+      "null" : 0,
+      "largest" : "2009-12-30T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009-11-10T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2009-10-08T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-12-23T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-04-28T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2009-05-14T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-06-21T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-10-09T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-10-16T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278397,
+    "name" : "Closed Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "closed_date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568765,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "2009-01-01T00:00:00",
+      "null" : 0,
+      "largest" : "2009-12-30T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2009-11-10T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2009-10-08T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2009-12-23T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2009-04-28T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2009-05-14T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2009-06-21T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2009-10-09T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2009-10-16T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278398,
+    "name" : "Agency",
+    "dataTypeName" : "text",
+    "fieldName" : "agency",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568766,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "3-1-1",
+      "null" : 0,
+      "largest" : "3-1-1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3-1-1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278399,
+    "name" : "Agency Name",
+    "dataTypeName" : "text",
+    "fieldName" : "agency_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568767,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "3-1-1 Call Center",
+      "null" : 0,
+      "largest" : "3-1-1 Call Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3-1-1 Call Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278400,
+    "name" : "Complaint Type",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568768,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "City Vehicle Placard Complaint",
+      "null" : 0,
+      "largest" : "City Vehicle Placard Complaint",
+      "top" : [ {
+        "count" : 20,
+        "item" : "City Vehicle Placard Complaint"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278401,
+    "name" : "Descriptor",
+    "dataTypeName" : "text",
+    "fieldName" : "descriptor",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568769,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "N/A",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278402,
+    "name" : "Location Type",
+    "dataTypeName" : "text",
+    "fieldName" : "location_type",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568770,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Roadway",
+      "null" : 0,
+      "largest" : "Roadway",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Roadway"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278403,
+    "name" : "Incident Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "incident_zip",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568771,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11385"
+      }, {
+        "count" : 19,
+        "item" : "11432"
+      }, {
+        "count" : 18,
+        "item" : "11201"
+      }, {
+        "count" : 17,
+        "item" : "10019"
+      }, {
+        "count" : 16,
+        "item" : "10301"
+      }, {
+        "count" : 15,
+        "item" : "11215"
+      }, {
+        "count" : 14,
+        "item" : "11378"
+      }, {
+        "count" : 13,
+        "item" : "10032"
+      }, {
+        "count" : 12,
+        "item" : "10013"
+      }, {
+        "count" : 11,
+        "item" : "10467"
+      }, {
+        "count" : 10,
+        "item" : "11419"
+      }, {
+        "count" : 9,
+        "item" : "10024"
+      }, {
+        "count" : 8,
+        "item" : "11230"
+      }, {
+        "count" : 7,
+        "item" : "10463"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278404,
+    "name" : "Incident Address",
+    "dataTypeName" : "text",
+    "fieldName" : "incident_address",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568772,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "100 CENTER STREET",
+      "null" : 184,
+      "largest" : " WOODYCREST AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : " KINGSTON PLACE"
+      }, {
+        "count" : 19,
+        "item" : "52 RUSSEK DRIVE"
+      }, {
+        "count" : 18,
+        "item" : "2238 5 AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "452 SENECA AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "166-36 17 ROAD"
+      }, {
+        "count" : 15,
+        "item" : "330 WEST 58 STREET"
+      }, {
+        "count" : 14,
+        "item" : "37-11 21 AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "131 6 AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "3356 PERRY AVENUE"
+      }, {
+        "count" : 11,
+        "item" : " WEST 213 STREET"
+      }, {
+        "count" : 10,
+        "item" : "3314 NEPTUNE AVENUE"
+      }, {
+        "count" : 9,
+        "item" : " 61 STREET"
+      }, {
+        "count" : 8,
+        "item" : "366 ATLANTIC AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "8 MARKHAM PLACE"
+      }, {
+        "count" : 6,
+        "item" : "170 TILLARY STREET"
+      }, {
+        "count" : 5,
+        "item" : "68-02 138 STREET"
+      }, {
+        "count" : 4,
+        "item" : " CHERRY STREET"
+      }, {
+        "count" : 3,
+        "item" : "8015 7 AVENUE"
+      }, {
+        "count" : 2,
+        "item" : " ELIOT AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "61-14 224 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278405,
+    "name" : "Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "street_name",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568773,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "107 AVENUE",
+      "null" : 184,
+      "largest" : "WOOSTER STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "KINGSTON PLACE"
+      }, {
+        "count" : 19,
+        "item" : "8 AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "ATLANTIC AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "WEST 58 STREET"
+      }, {
+        "count" : 15,
+        "item" : "21 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "6 AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "PERRY AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "WEST 213 STREET"
+      }, {
+        "count" : 11,
+        "item" : "NEPTUNE AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "61 STREET"
+      }, {
+        "count" : 9,
+        "item" : "MARKHAM PLACE"
+      }, {
+        "count" : 8,
+        "item" : "TILLARY STREET"
+      }, {
+        "count" : 7,
+        "item" : "138 STREET"
+      }, {
+        "count" : 6,
+        "item" : "CHERRY STREET"
+      }, {
+        "count" : 5,
+        "item" : "7 AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "ELIOT AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "224 STREET"
+      }, {
+        "count" : 2,
+        "item" : "109 STREET"
+      }, {
+        "count" : 1,
+        "item" : "WEST 78 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278406,
+    "name" : "Cross Street 1",
+    "dataTypeName" : "text",
+    "fieldName" : "cross_street_1",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568774,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 273,
+      "smallest" : "103 AVENUE",
+      "null" : 187,
+      "largest" : "WYTHE AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "WEST 54 STREET"
+      }, {
+        "count" : 18,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 17,
+        "item" : "BEND"
+      }, {
+        "count" : 16,
+        "item" : "2 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "8 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "BROOME STREET"
+      }, {
+        "count" : 13,
+        "item" : "WEST 33 STREET"
+      }, {
+        "count" : 12,
+        "item" : "18 AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "HOYT STREET"
+      }, {
+        "count" : 10,
+        "item" : "DUFFIELD STREET"
+      }, {
+        "count" : 9,
+        "item" : "DEAD END"
+      }, {
+        "count" : 8,
+        "item" : "RUTGERS PLACE"
+      }, {
+        "count" : 7,
+        "item" : "80 STREET"
+      }, {
+        "count" : 6,
+        "item" : "60 PLACE"
+      }, {
+        "count" : 5,
+        "item" : "HORACE HARDING EXPRESSWAY"
+      }, {
+        "count" : 4,
+        "item" : "103 AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "AMSTERDAM AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "PARSONS BOULEVARD"
+      }, {
+        "count" : 1,
+        "item" : "EAST 208 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278407,
+    "name" : "Cross Street 2",
+    "dataTypeName" : "text",
+    "fieldName" : "cross_street_2",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568775,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 276,
+      "smallest" : "108 STREET",
+      "null" : 184,
+      "largest" : "WILLOUGHBY STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10 AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "HILLSIDE AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "WEST 55 STREET"
+      }, {
+        "count" : 17,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "1 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "9 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 13,
+        "item" : "DOMINICK STREET"
+      }, {
+        "count" : 12,
+        "item" : "EAST GUN HILL ROAD"
+      }, {
+        "count" : 11,
+        "item" : "WEST 35 STREET"
+      }, {
+        "count" : 10,
+        "item" : "19 AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "BOND STREET"
+      }, {
+        "count" : 8,
+        "item" : "DAKOTA PLACE"
+      }, {
+        "count" : 7,
+        "item" : "GOLD STREET"
+      }, {
+        "count" : 6,
+        "item" : "68 DRIVE"
+      }, {
+        "count" : 5,
+        "item" : "CLINTON STREET"
+      }, {
+        "count" : 4,
+        "item" : "81 STREET"
+      }, {
+        "count" : 3,
+        "item" : "60 LANE"
+      }, {
+        "count" : 2,
+        "item" : "223 PLACE"
+      }, {
+        "count" : 1,
+        "item" : "LIBERTY AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278408,
+    "name" : "Intersection Street 1",
+    "dataTypeName" : "text",
+    "fieldName" : "intersection_street_1",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568776,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "107 AVENUE",
+      "null" : 276,
+      "largest" : "WILLOUGHBY STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "HILLSIDE AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "STOCKHOLM STREET"
+      }, {
+        "count" : 18,
+        "item" : "WASHINGTON AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "JUNIPER BOULEVARD"
+      }, {
+        "count" : 16,
+        "item" : "GILES PLACE"
+      }, {
+        "count" : 15,
+        "item" : "6 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "107 AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "KINGSTON PLACE"
+      }, {
+        "count" : 12,
+        "item" : "AMSTERDAM AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "WEST   41 STREET"
+      }, {
+        "count" : 10,
+        "item" : "216 STREET"
+      }, {
+        "count" : 9,
+        "item" : "WALKER STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278409,
+    "name" : "Intersection Street 2",
+    "dataTypeName" : "text",
+    "fieldName" : "intersection_street_2",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568777,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "108 STREET",
+      "null" : 276,
+      "largest" : "WOODWARD AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 19,
+        "item" : "153 STREET"
+      }, {
+        "count" : 18,
+        "item" : "WILSON AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "WALL STREET"
+      }, {
+        "count" : 16,
+        "item" : "EAST  167 STREET"
+      }, {
+        "count" : 15,
+        "item" : "EAST  189 STREET"
+      }, {
+        "count" : 14,
+        "item" : "10 AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "47 AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "LAFAYETTE STREET"
+      }, {
+        "count" : 11,
+        "item" : "SEDGWICK AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278410,
+    "name" : "Address Type",
+    "dataTypeName" : "text",
+    "fieldName" : "address_type",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568778,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "ADDRESS",
+      "null" : 0,
+      "largest" : "INTERSECTION",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ADDRESS"
+      }, {
+        "count" : 19,
+        "item" : "INTERSECTION"
+      }, {
+        "count" : 18,
+        "item" : "BLOCKFACE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278411,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568779,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "ASTORIA",
+      "null" : 0,
+      "largest" : "WOODHAVEN",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 19,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "KEW GARDENS"
+      }, {
+        "count" : 16,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 15,
+        "item" : "RICHMOND HILL"
+      }, {
+        "count" : 14,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 13,
+        "item" : "LONG ISLAND CITY"
+      }, {
+        "count" : 12,
+        "item" : "RIDGEWOOD"
+      }, {
+        "count" : 11,
+        "item" : "MASPETH"
+      }, {
+        "count" : 10,
+        "item" : "WHITESTONE"
+      }, {
+        "count" : 9,
+        "item" : "FOREST HILLS"
+      }, {
+        "count" : 8,
+        "item" : "BAYSIDE"
+      }, {
+        "count" : 7,
+        "item" : "WOODHAVEN"
+      }, {
+        "count" : 6,
+        "item" : "MIDDLE VILLAGE"
+      }, {
+        "count" : 5,
+        "item" : "ELMHURST"
+      }, {
+        "count" : 4,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 3,
+        "item" : "SOUTH RICHMOND HILL"
+      }, {
+        "count" : 2,
+        "item" : "FRESH MEADOWS"
+      }, {
+        "count" : 1,
+        "item" : "JACKSON HEIGHTS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278412,
+    "name" : "Landmark",
+    "dataTypeName" : "text",
+    "fieldName" : "landmark",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568780,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278413,
+    "name" : "Facility Type",
+    "dataTypeName" : "text",
+    "fieldName" : "facility_type",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568781,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "N/A",
+      "null" : 0,
+      "largest" : "N/A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "N/A"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278414,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568782,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Closed",
+      "null" : 0,
+      "largest" : "Closed",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Closed"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278415,
+    "name" : "Due Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "due_date",
+    "position" : 21,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568783,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278416,
+    "name" : "Resolution Action Updated Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "resolution_action_updated_date",
+    "position" : 22,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1568784,
+    "width" : 460,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278417,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568785,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "01 BRONX",
+      "null" : 0,
+      "largest" : "28 BRONX",
+      "top" : [ {
+        "count" : 20,
+        "item" : "01 MANHATTAN"
+      }, {
+        "count" : 19,
+        "item" : "07 BRONX"
+      }, {
+        "count" : 18,
+        "item" : "08 QUEENS"
+      }, {
+        "count" : 17,
+        "item" : "10 MANHATTAN"
+      }, {
+        "count" : 16,
+        "item" : "05 QUEENS"
+      }, {
+        "count" : 15,
+        "item" : "04 MANHATTAN"
+      }, {
+        "count" : 14,
+        "item" : "12 MANHATTAN"
+      }, {
+        "count" : 13,
+        "item" : "06 BROOKLYN"
+      }, {
+        "count" : 12,
+        "item" : "07 BROOKLYN"
+      }, {
+        "count" : 11,
+        "item" : "06 MANHATTAN"
+      }, {
+        "count" : 10,
+        "item" : "02 BROOKLYN"
+      }, {
+        "count" : 9,
+        "item" : "04 BRONX"
+      }, {
+        "count" : 8,
+        "item" : "02 MANHATTAN"
+      }, {
+        "count" : 7,
+        "item" : "12 QUEENS"
+      }, {
+        "count" : 6,
+        "item" : "10 BROOKLYN"
+      }, {
+        "count" : 5,
+        "item" : "03 QUEENS"
+      }, {
+        "count" : 4,
+        "item" : "04 BROOKLYN"
+      }, {
+        "count" : 3,
+        "item" : "05 MANHATTAN"
+      }, {
+        "count" : 2,
+        "item" : "10 BRONX"
+      }, {
+        "count" : 1,
+        "item" : "12 BROOKLYN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278418,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568786,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 19,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278419,
+    "name" : "X Coordinate (State Plane)",
+    "dataTypeName" : "number",
+    "fieldName" : "x_coordinate_state_plane_",
+    "position" : 25,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568787,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "918917",
+      "sum" : "460773430",
+      "null" : 0,
+      "average" : "1001681.369565217",
+      "largest" : "1064798",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1033832"
+      }, {
+        "count" : 19,
+        "item" : "1049424"
+      }, {
+        "count" : 18,
+        "item" : "983976"
+      }, {
+        "count" : 17,
+        "item" : "1017939"
+      }, {
+        "count" : 16,
+        "item" : "981960"
+      }, {
+        "count" : 15,
+        "item" : "1000195"
+      }, {
+        "count" : 14,
+        "item" : "988554"
+      }, {
+        "count" : 13,
+        "item" : "993837"
+      }, {
+        "count" : 12,
+        "item" : "1012291"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278420,
+    "name" : "Y Coordinate (State Plane)",
+    "dataTypeName" : "number",
+    "fieldName" : "y_coordinate_state_plane_",
+    "position" : 26,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568788,
+    "width" : 412,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "129553",
+      "sum" : "94369559",
+      "null" : 0,
+      "average" : "205151.2152173913",
+      "largest" : "266048",
+      "top" : [ {
+        "count" : 20,
+        "item" : "216466"
+      }, {
+        "count" : 19,
+        "item" : "215349"
+      }, {
+        "count" : 18,
+        "item" : "200838"
+      }, {
+        "count" : 17,
+        "item" : "259415"
+      }, {
+        "count" : 16,
+        "item" : "173779"
+      }, {
+        "count" : 15,
+        "item" : "244392"
+      }, {
+        "count" : 14,
+        "item" : "210444"
+      }, {
+        "count" : 13,
+        "item" : "163671"
+      }, {
+        "count" : 12,
+        "item" : "259360"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278421,
+    "name" : "Park Facility Name",
+    "dataTypeName" : "text",
+    "fieldName" : "park_facility_name",
+    "position" : 27,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568789,
+    "width" : 316,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278422,
+    "name" : "Park Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "park_borough",
+    "position" : 28,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568790,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "BRONX",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 19,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "QUEENS"
+      }, {
+        "count" : 16,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278423,
+    "name" : "School Name",
+    "dataTypeName" : "text",
+    "fieldName" : "school_name",
+    "position" : 29,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568791,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278424,
+    "name" : "School Number",
+    "dataTypeName" : "text",
+    "fieldName" : "school_number",
+    "position" : 30,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568792,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278425,
+    "name" : "School Region",
+    "dataTypeName" : "text",
+    "fieldName" : "school_region",
+    "position" : 31,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568793,
+    "width" : 256,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278426,
+    "name" : "School Code",
+    "dataTypeName" : "text",
+    "fieldName" : "school_code",
+    "position" : 32,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568794,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278427,
+    "name" : "School Phone Number",
+    "dataTypeName" : "text",
+    "fieldName" : "school_phone_number",
+    "position" : 33,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568795,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278428,
+    "name" : "School Address",
+    "dataTypeName" : "text",
+    "fieldName" : "school_address",
+    "position" : 34,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568796,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278429,
+    "name" : "School City",
+    "dataTypeName" : "text",
+    "fieldName" : "school_city",
+    "position" : 35,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568797,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278430,
+    "name" : "School State",
+    "dataTypeName" : "text",
+    "fieldName" : "school_state",
+    "position" : 36,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568798,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278431,
+    "name" : "School Zip",
+    "dataTypeName" : "text",
+    "fieldName" : "school_zip",
+    "position" : 37,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568799,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "Unspecified",
+      "null" : 0,
+      "largest" : "Unspecified",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Unspecified"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278432,
+    "name" : "School Not Found",
+    "dataTypeName" : "text",
+    "fieldName" : "school_not_found",
+    "position" : 38,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568800,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278433,
+    "name" : "School or Citywide Complaint",
+    "dataTypeName" : "text",
+    "fieldName" : "school_or_citywide_complaint",
+    "position" : 39,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568801,
+    "width" : 436,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278434,
+    "name" : "Vehicle Type",
+    "dataTypeName" : "text",
+    "fieldName" : "vehicle_type",
+    "position" : 40,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568802,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278435,
+    "name" : "Taxi Company Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "taxi_company_borough",
+    "position" : 41,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568803,
+    "width" : 340,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278436,
+    "name" : "Taxi Pick Up Location",
+    "dataTypeName" : "text",
+    "fieldName" : "taxi_pick_up_location",
+    "position" : 42,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568804,
+    "width" : 352,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278437,
+    "name" : "Bridge Highway Name",
+    "dataTypeName" : "text",
+    "fieldName" : "bridge_highway_name",
+    "position" : 43,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568805,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278438,
+    "name" : "Bridge Highway Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "bridge_highway_direction",
+    "position" : 44,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568806,
+    "width" : 388,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278439,
+    "name" : "Road Ramp",
+    "dataTypeName" : "text",
+    "fieldName" : "road_ramp",
+    "position" : 45,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568807,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278440,
+    "name" : "Bridge Highway Segment",
+    "dataTypeName" : "text",
+    "fieldName" : "bridge_highway_segment",
+    "position" : 46,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568808,
+    "width" : 364,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278441,
+    "name" : "Garage Lot Name",
+    "dataTypeName" : "text",
+    "fieldName" : "garage_lot_name",
+    "position" : 47,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568809,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278442,
+    "name" : "Ferry Direction",
+    "dataTypeName" : "text",
+    "fieldName" : "ferry_direction",
+    "position" : 48,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568810,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278443,
+    "name" : "Ferry Terminal Name",
+    "dataTypeName" : "text",
+    "fieldName" : "ferry_terminal_name",
+    "position" : 49,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1568811,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 460
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278444,
+    "name" : "Latitude",
+    "dataTypeName" : "number",
+    "fieldName" : "latitude",
+    "position" : 50,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568812,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "40.52202772102884",
+      "sum" : "18735.673227120226642",
+      "null" : 0,
+      "average" : "40.72972440678310",
+      "largest" : "40.89684612627412",
+      "top" : [ {
+        "count" : 20,
+        "item" : "40.76068659803476"
+      }, {
+        "count" : 19,
+        "item" : "40.75751954080197"
+      }, {
+        "count" : 18,
+        "item" : "40.71793064247224"
+      }, {
+        "count" : 17,
+        "item" : "40.87864420954078"
+      }, {
+        "count" : 16,
+        "item" : "40.643659544930856"
+      }, {
+        "count" : 15,
+        "item" : "40.837460481733466"
+      }, {
+        "count" : 14,
+        "item" : "40.74429571535494"
+      }, {
+        "count" : 13,
+        "item" : "40.615910327402496"
+      }, {
+        "count" : 12,
+        "item" : "40.878513003610564"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278445,
+    "name" : "Longitude",
+    "dataTypeName" : "number",
+    "fieldName" : "longitude",
+    "position" : 51,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1568813,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : "-74.23499329355215",
+      "sum" : "-34011.05092495997651",
+      "null" : 0,
+      "average" : "-73.93706722817386",
+      "largest" : "-73.70930966599532",
+      "top" : [ {
+        "count" : 20,
+        "item" : "-73.82102185023426"
+      }, {
+        "count" : 19,
+        "item" : "-73.76474984427003"
+      }, {
+        "count" : 18,
+        "item" : "-74.00098843369604"
+      }, {
+        "count" : 17,
+        "item" : "-73.878175751956"
+      }, {
+        "count" : 16,
+        "item" : "-74.00825180159869"
+      }, {
+        "count" : 15,
+        "item" : "-73.94237630452947"
+      }, {
+        "count" : 14,
+        "item" : "-73.98446751025271"
+      }, {
+        "count" : 13,
+        "item" : "-73.96546849890346"
+      }, {
+        "count" : 12,
+        "item" : "-73.8985999388569"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3278446,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 52,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1568814,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 460,
+      "smallest" : {
+        "longitude" : "-73.98613648215364",
+        "latitude" : "40.61480578161794"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.8985999388569",
+        "latitude" : "40.878513003610564"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.82102185023426",
+          "latitude" : "40.76068659803476"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.76474984427003",
+          "latitude" : "40.75751954080197"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.00098843369604",
+          "latitude" : "40.71793064247224"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.878175751956",
+          "latitude" : "40.87864420954078"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00825180159869",
+          "latitude" : "40.643659544930856"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.94237630452947",
+          "latitude" : "40.837460481733466"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.98446751025271",
+          "latitude" : "40.74429571535494"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.96546849890346",
+          "latitude" : "40.615910327402496"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.8985999388569",
+          "latitude" : "40.878513003610564"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "center" : {
+        "lng" : -73.97215147977374,
+        "lat" : 40.70970064400476
+      },
+      "ymin" : 40.389351,
+      "ymax" : 41.028516,
+      "zoom" : 9,
+      "xmin" : -75.280898,
+      "xmax" : -72.663405
+    },
+    "plotStyle" : "point",
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1568814
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "7ukw-z2kb",
+    "displayName" : "Mike",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1319577169,
+    "screenName" : "Mike"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 3278400,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "City Vehicle Placard Complaint"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244475" : 1568768
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "311", "311 service requests", "2009", "all service requests" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 3278400,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "City Vehicle Placard Complaint"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244475" : 1568768
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

@@ -1,0 +1,787 @@
+{
+  "id" : "pm4y-qqzt",
+  "name" : "Open Tree Down Complaints - Staten Island",
+  "attribution" : "311",
+  "averageRating" : 0,
+  "category" : "Social Services",
+  "createdAt" : 1352325080,
+  "description" : "All 311 Service Requests from 2010 to present. This information is automatically updated daily.",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 3346125,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366921804,
+  "publicationGroup" : 244403,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1366920524,
+  "rowsUpdatedBy" : "x539-akqs",
+  "signed" : false,
+  "state" : "normal",
+  "tableId" : 818535,
+  "totalTimesRated" : 0,
+  "viewCount" : 19,
+  "viewLastModified" : 1354319765,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 60815858,
+    "name" : "Unique Key",
+    "dataTypeName" : "text",
+    "fieldName" : "unique_key",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567787,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "24281707",
+      "null" : 0,
+      "largest" : "25409308",
+      "top" : [ {
+        "count" : 20,
+        "item" : "25262931"
+      }, {
+        "count" : 19,
+        "item" : "25291789"
+      }, {
+        "count" : 18,
+        "item" : "25308633"
+      }, {
+        "count" : 17,
+        "item" : "25318669"
+      }, {
+        "count" : 16,
+        "item" : "25328829"
+      }, {
+        "count" : 15,
+        "item" : "25334588"
+      }, {
+        "count" : 14,
+        "item" : "25334587"
+      }, {
+        "count" : 13,
+        "item" : "25363571"
+      }, {
+        "count" : 12,
+        "item" : "25373473"
+      }, {
+        "count" : 11,
+        "item" : "25379587"
+      }, {
+        "count" : 10,
+        "item" : "25387964"
+      }, {
+        "count" : 9,
+        "item" : "25389637"
+      }, {
+        "count" : 8,
+        "item" : "25398345"
+      }, {
+        "count" : 7,
+        "item" : "25397314"
+      }, {
+        "count" : 6,
+        "item" : "25409308"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815859,
+    "name" : "Created Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "created_date",
+    "position" : 2,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567788,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "2012-10-30T00:00:00",
+      "null" : 0,
+      "largest" : "2013-04-23T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-10-30T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-10-31T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-11-12T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-11-13T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-14T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-11-16T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-11-19T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-03-15T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-03-18T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2013-03-20T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-03-26T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-04-10T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-04-18T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-04-19T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-04-20T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-04-23T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815860,
+    "name" : "Closed Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "closed_date",
+    "position" : 3,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567789,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 179
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815863,
+    "name" : "Complaint Type",
+    "dataTypeName" : "text",
+    "fieldName" : "complaint_type",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567792,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "Damaged Tree",
+      "null" : 0,
+      "largest" : "Damaged Tree",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Damaged Tree"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815864,
+    "name" : "Descriptor",
+    "dataTypeName" : "text",
+    "fieldName" : "descriptor",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567793,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "Entire Tree Has Fallen Down",
+      "null" : 0,
+      "largest" : "Entire Tree Has Fallen Down",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Entire Tree Has Fallen Down"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815874,
+    "name" : "City",
+    "dataTypeName" : "text",
+    "fieldName" : "city",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567803,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 170,
+      "smallest" : "RICHMOND",
+      "null" : 9,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 19,
+        "item" : "RICHMOND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815877,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "fieldName" : "status",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567806,
+    "width" : 172,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "Assigned",
+      "null" : 0,
+      "largest" : "Open",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Open"
+      }, {
+        "count" : 19,
+        "item" : "Assigned"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815878,
+    "name" : "Due Date",
+    "dataTypeName" : "calendar_date",
+    "fieldName" : "due_date",
+    "position" : 21,
+    "renderTypeName" : "calendar_date",
+    "tableColumnId" : 1567807,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "2012-11-04T00:00:00",
+      "null" : 0,
+      "largest" : "2013-05-23T00:00:00",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2012-11-04T00:00:00"
+      }, {
+        "count" : 19,
+        "item" : "2012-11-05T00:00:00"
+      }, {
+        "count" : 18,
+        "item" : "2012-11-17T00:00:00"
+      }, {
+        "count" : 17,
+        "item" : "2012-11-18T00:00:00"
+      }, {
+        "count" : 16,
+        "item" : "2012-11-19T00:00:00"
+      }, {
+        "count" : 15,
+        "item" : "2012-11-21T00:00:00"
+      }, {
+        "count" : 14,
+        "item" : "2012-11-24T00:00:00"
+      }, {
+        "count" : 13,
+        "item" : "2013-02-05T00:00:00"
+      }, {
+        "count" : 12,
+        "item" : "2013-02-11T00:00:00"
+      }, {
+        "count" : 11,
+        "item" : "2013-02-20T00:00:00"
+      }, {
+        "count" : 10,
+        "item" : "2013-03-20T00:00:00"
+      }, {
+        "count" : 9,
+        "item" : "2013-03-25T00:00:00"
+      }, {
+        "count" : 8,
+        "item" : "2013-03-31T00:00:00"
+      }, {
+        "count" : 7,
+        "item" : "2013-04-15T00:00:00"
+      }, {
+        "count" : 6,
+        "item" : "2013-04-21T00:00:00"
+      }, {
+        "count" : 5,
+        "item" : "2013-04-22T00:00:00"
+      }, {
+        "count" : 4,
+        "item" : "2013-04-23T00:00:00"
+      }, {
+        "count" : 3,
+        "item" : "2013-04-24T00:00:00"
+      }, {
+        "count" : 2,
+        "item" : "2013-04-25T00:00:00"
+      }, {
+        "count" : 1,
+        "item" : "2013-04-28T00:00:00"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815881,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1567810,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 179,
+      "smallest" : "STATEN ISLAND",
+      "null" : 0,
+      "largest" : "STATEN ISLAND",
+      "top" : [ {
+        "count" : 20,
+        "item" : "STATEN ISLAND"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 60815909,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 52,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1567838,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 167,
+      "smallest" : {
+        "longitude" : "-74.0636019903703",
+        "latitude" : "40.615362683915045"
+      },
+      "null" : 12,
+      "largest" : {
+        "longitude" : "-74.20814011099941",
+        "latitude" : "40.52696533847064"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.09213411798828",
+          "latitude" : "40.57739924342294"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.2482114525743",
+          "latitude" : "40.50160033190027"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.20814011099941",
+          "latitude" : "40.52696533847064"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.545599,
+      "ymax" : 40.798701,
+      "xmin" : -74.737313,
+      "xmax" : -73.274758
+    },
+    "plotStyle" : "rastermap",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "pm4y-qqzt",
+      "viewport" : {
+        "ymin" : 40.545599,
+        "ymax" : 40.798701,
+        "xmin" : -74.737313,
+        "xmax" : -73.274758
+      },
+      "plotStyle" : "rastermap",
+      "type" : "google",
+      "plot" : {
+        "locationId" : 1567838
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1567838
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Daily"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "pm4y-qqzt" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "GREATER_THAN",
+              "children" : [ {
+                "columnId" : 32340988,
+                "type" : "column"
+              }, {
+                "value" : "2012-10-29T00:00:00",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "244403" : 1567788
+              },
+              "operator" : "GREATER_THAN"
+            }
+          }, {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 32340993,
+                "type" : "column"
+              }, {
+                "value" : "Entire Tree Has Fallen Down",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "244403" : 1567793
+              },
+              "operator" : "EQUALS"
+            }
+          }, {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "IS_BLANK",
+              "children" : [ {
+                "columnId" : 32340989,
+                "type" : "column"
+              } ],
+              "type" : "operator"
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "customValues" : [ "IS_NOT_BLANK" ],
+              "tableColumnId" : {
+                "244403" : 1567789
+              },
+              "operator" : "blank?"
+            }
+          }, {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 32341010,
+                "type" : "column"
+              }, {
+                "value" : "Staten Island",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "244403" : 1567810
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "rp9m-5dfa",
+    "displayName" : "Robert J Samson",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1352324392,
+    "screenName" : "Robert J Samson"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "GREATER_THAN",
+          "children" : [ {
+            "columnId" : 60815859,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "2012-10-29T00:00:00"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567788
+          },
+          "operator" : "GREATER_THAN"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 60815864,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Entire Tree Has Fallen Down"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567793
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "IS_BLANK",
+          "children" : [ {
+            "columnId" : 60815860,
+            "type" : "column"
+          } ]
+        } ],
+        "metadata" : {
+          "customValues" : [ "IS_NOT_BLANK" ],
+          "tableColumnId" : {
+            "244403" : 1567789
+          },
+          "operator" : "blank?"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 60815881,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Staten Island"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244403" : 1567810
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    },
+    "orderBys" : [ {
+      "ascending" : false,
+      "expression" : {
+        "columnId" : 60815859,
+        "type" : "column"
+      }
+    } ]
+  },
+  "rights" : [ "read" ],
+  "sortBys" : [ {
+    "id" : 0,
+    "viewColumnId" : 60815859
+  } ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "311", "311 service requests", "2010", "2011", "2012", "service request status", "all service requests" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "GREATER_THAN",
+        "children" : [ {
+          "columnId" : 60815859,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "2012-10-29T00:00:00"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567788
+        },
+        "operator" : "GREATER_THAN"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 60815864,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Entire Tree Has Fallen Down"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567793
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "IS_BLANK",
+        "children" : [ {
+          "columnId" : 60815860,
+          "type" : "column"
+        } ]
+      } ],
+      "metadata" : {
+        "customValues" : [ "IS_NOT_BLANK" ],
+        "tableColumnId" : {
+          "244403" : 1567789
+        },
+        "operator" : "blank?"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 60815881,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Staten Island"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244403" : 1567810
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

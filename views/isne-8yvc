@@ -1,0 +1,496 @@
+{
+  "id" : "isne-8yvc",
+  "name" : "staten island cultural map",
+  "attribution" : "Department of Cultural Affairs (DCLA)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1342049920,
+  "description" : "Listing of all Cultural Institutions in the Department of Cultural Affairs directory",
+  "displayType" : "map",
+  "downloadCount" : 26,
+  "numberOfComments" : 0,
+  "oid" : 861143,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318031752,
+  "publicationGroup" : 243929,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318031661,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243929,
+  "totalTimesRated" : 0,
+  "viewCount" : 63,
+  "viewLastModified" : 1354319556,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 13133763,
+    "name" : "Organization Name",
+    "dataTypeName" : "text",
+    "fieldName" : "organization_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561625,
+    "width" : 304,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "Art Lab, Inc.",
+      "null" : 0,
+      "largest" : "Wagner College Young Musician's Competition",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Theatre Rehabilitation for Youth, Inc."
+      }, {
+        "count" : 19,
+        "item" : "Universal Temple of the Arts, Inc."
+      }, {
+        "count" : 18,
+        "item" : "Verrazano Foundation"
+      }, {
+        "count" : 17,
+        "item" : "Viva Voce Chamber Ensemble, Inc."
+      }, {
+        "count" : 16,
+        "item" : "Wagner College Young Musician's Competition"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13133765,
+    "name" : "Main Phone #",
+    "dataTypeName" : "text",
+    "fieldName" : "main_phone_",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561627,
+    "width" : 244,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "(212) 561-0283",
+      "null" : 0,
+      "largest" : "(800) 624-8474",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 727-6100"
+      }, {
+        "count" : 19,
+        "item" : "(718) 390-4306"
+      }, {
+        "count" : 18,
+        "item" : "(718) 816-5453"
+      }, {
+        "count" : 17,
+        "item" : "(212) 873-0277"
+      }, {
+        "count" : 16,
+        "item" : "(718) 390-3202"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13133766,
+    "name" : "Discipline Code",
+    "dataTypeName" : "text",
+    "fieldName" : "discipline_code",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561628,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "Dance",
+      "null" : 1,
+      "largest" : "Zoo",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Visual Arts"
+      }, {
+        "count" : 19,
+        "item" : "Multi-Discipline, Performing"
+      }, {
+        "count" : 18,
+        "item" : "Multi-Discipl, Perf & Non-Perf"
+      }, {
+        "count" : 17,
+        "item" : "Museum"
+      }, {
+        "count" : 16,
+        "item" : "Music"
+      }, {
+        "count" : 15,
+        "item" : "Multi-Discipline, Non-Perform"
+      }, {
+        "count" : 14,
+        "item" : "Theater"
+      }, {
+        "count" : 13,
+        "item" : "Humanities"
+      }, {
+        "count" : 12,
+        "item" : "Film/Video/Audio"
+      }, {
+        "count" : 11,
+        "item" : "Dance"
+      }, {
+        "count" : 10,
+        "item" : "Folk Arts"
+      }, {
+        "count" : 9,
+        "item" : "Zoo"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13133767,
+    "name" : "Council District",
+    "dataTypeName" : "text",
+    "fieldName" : "council_district",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561629,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "Staten Island Council Dist #49",
+      "null" : 1,
+      "largest" : "Staten Island Council Dist #51",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Staten Island Council Dist #49"
+      }, {
+        "count" : 19,
+        "item" : "Staten Island Council Dist #50"
+      }, {
+        "count" : 18,
+        "item" : "Staten Island Council Dist #51"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13133768,
+    "name" : "Community Board",
+    "dataTypeName" : "text",
+    "fieldName" : "community_board",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561630,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 45,
+      "smallest" : "Staten Island Community Brd #1",
+      "null" : 1,
+      "largest" : "Staten Island Community Brd #3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Staten Island Community Brd #1"
+      }, {
+        "count" : 19,
+        "item" : "Staten Island Community Brd #2"
+      }, {
+        "count" : 18,
+        "item" : "Staten Island Community Brd #3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13133770,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 6,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561632,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 43,
+      "smallest" : {
+        "longitude" : "-74.16240100000613",
+        "latitude" : "40.60667400010499",
+        "human_address" : "{\"address\":\"1000 Richmond Terrace\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 3,
+      "largest" : {
+        "longitude" : "-74.16240100000613",
+        "latitude" : "40.60667400010499",
+        "human_address" : "{\"address\":\"930 Willowbrook Road\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.07825171674399",
+          "latitude" : "40.57961370325755",
+          "human_address" : "{\"address\":\"777 Seaview Avenue\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.10300580485723",
+          "latitude" : "40.638969103253956",
+          "human_address" : "{\"address\":\"14 Brentwood Avenue\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 13133769,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561631,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "Staten Island",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13133764,
+    "name" : "Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "zip_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561626,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 46,
+      "smallest" : "10025",
+      "sum" : "474459",
+      "null" : 0,
+      "average" : "10314.32608695652",
+      "largest" : "11003",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10301"
+      }, {
+        "count" : 19,
+        "item" : "10314"
+      }, {
+        "count" : 18,
+        "item" : "10307"
+      }, {
+        "count" : 17,
+        "item" : "10025"
+      }, {
+        "count" : 16,
+        "item" : "10305"
+      }, {
+        "count" : 15,
+        "item" : "10306"
+      }, {
+        "count" : 14,
+        "item" : "10304"
+      }, {
+        "count" : 13,
+        "item" : "10312"
+      }, {
+        "count" : 12,
+        "item" : "10309"
+      }, {
+        "count" : 11,
+        "item" : "10310"
+      }, {
+        "count" : 10,
+        "item" : "11003"
+      }, {
+        "count" : 9,
+        "item" : "10303"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.506203,
+      "ymax" : 40.712108,
+      "xmin" : -74.545724,
+      "xmax" : -73.924996
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "isne-8yvc",
+      "viewport" : {
+        "ymin" : 40.506203,
+        "ymax" : 40.712108,
+        "xmin" : -74.545724,
+        "xmax" : -73.924996
+      },
+      "plotStyle" : "point",
+      "type" : "google",
+      "plot" : {
+        "locationId" : 1561632
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1561632
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "isne-8yvc" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 13133769,
+                "type" : "column"
+              }, {
+                "value" : "Staten Island",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "243929" : 1561631
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "tazj-hvy6",
+    "displayName" : "xborough",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1341612525,
+    "screenName" : "xborough"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13133769,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Staten Island"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "243929" : 1561631
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "culture", "gallery", "art", "museum", "museo", "dance", "performance", "painting", "sculpture" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13133769,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Staten Island"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "243929" : 1561631
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

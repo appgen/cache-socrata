@@ -1,0 +1,405 @@
+{
+  "id" : "9qjk-4pyi",
+  "name" : "NYC Water Fountains",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1347498055,
+  "description" : "GIS Map of Water Fountains in New York City Department of Parks & Recreation properties.",
+  "displayType" : "map",
+  "downloadCount" : 47,
+  "numberOfComments" : 0,
+  "oid" : 1071389,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318013789,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243852,
+  "totalTimesRated" : 0,
+  "viewCount" : 174,
+  "viewLastModified" : 1347498055,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 17704684,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 1,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560337,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1985,
+      "smallest" : {
+        "longitude" : "-73.74460677399992",
+        "latitude" : "40.74789742300004"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.76538055799995",
+        "latitude" : "40.739329088000034"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.77390284199993",
+          "latitude" : "40.67496182700006"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.77469539999993",
+          "latitude" : "40.67441189300007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.77406987799992",
+          "latitude" : "40.674621158000036"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.77429784799995",
+          "latitude" : "40.67424693000004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.80879834599995",
+          "latitude" : "40.585453673000075"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.80180558699993",
+          "latitude" : "40.58644745300006"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.86402620699994",
+          "latitude" : "40.89074793600008"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.96564595699994",
+          "latitude" : "40.78954975700009"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9565451229999",
+          "latitude" : "40.78771559100005"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.96422045799994",
+          "latitude" : "40.79176209100007"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.94033480999991",
+          "latitude" : "40.57747034700009"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.95039112199993",
+          "latitude" : "40.81399193000004"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.95079512199993",
+          "latitude" : "40.813919930000054"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.95102545499992",
+          "latitude" : "40.813731429000086"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.95124612199993",
+          "latitude" : "40.81335926300005"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.76505239199992",
+          "latitude" : "40.739242921000084"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.76538055799995",
+          "latitude" : "40.739329088000034"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 17704685,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560336,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1985,
+      "smallest" : "1",
+      "sum" : "1971105",
+      "null" : 0,
+      "average" : "993",
+      "largest" : "1985",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1969"
+      }, {
+        "count" : 19,
+        "item" : "1970"
+      }, {
+        "count" : 18,
+        "item" : "1971"
+      }, {
+        "count" : 17,
+        "item" : "1972"
+      }, {
+        "count" : 16,
+        "item" : "1973"
+      }, {
+        "count" : 15,
+        "item" : "1974"
+      }, {
+        "count" : 14,
+        "item" : "1975"
+      }, {
+        "count" : 13,
+        "item" : "1976"
+      }, {
+        "count" : 12,
+        "item" : "1977"
+      }, {
+        "count" : 11,
+        "item" : "1978"
+      }, {
+        "count" : 10,
+        "item" : "1979"
+      }, {
+        "count" : 9,
+        "item" : "1980"
+      }, {
+        "count" : 8,
+        "item" : "1981"
+      }, {
+        "count" : 7,
+        "item" : "1982"
+      }, {
+        "count" : 6,
+        "item" : "1983"
+      }, {
+        "count" : 5,
+        "item" : "1984"
+      }, {
+        "count" : 4,
+        "item" : "1985"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17704686,
+    "name" : "PARKNUMBER",
+    "dataTypeName" : "text",
+    "description" : "PARKNUMBER",
+    "fieldName" : "parknumber",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560338,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1985,
+      "smallest" : "B001",
+      "null" : 0,
+      "largest" : "X286",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R046"
+      }, {
+        "count" : 19,
+        "item" : "B169"
+      }, {
+        "count" : 18,
+        "item" : "Q163"
+      }, {
+        "count" : 17,
+        "item" : "M144"
+      }, {
+        "count" : 16,
+        "item" : "X039"
+      }, {
+        "count" : 15,
+        "item" : "M071"
+      }, {
+        "count" : 14,
+        "item" : "M010"
+      }, {
+        "count" : 13,
+        "item" : "Q001"
+      }, {
+        "count" : 12,
+        "item" : "M104"
+      }, {
+        "count" : 11,
+        "item" : "B021"
+      }, {
+        "count" : 10,
+        "item" : "Q220C"
+      }, {
+        "count" : 9,
+        "item" : "Q008"
+      }, {
+        "count" : 8,
+        "item" : "M005"
+      }, {
+        "count" : 7,
+        "item" : "B395"
+      }, {
+        "count" : 6,
+        "item" : "B002"
+      }, {
+        "count" : 5,
+        "item" : "Q364"
+      }, {
+        "count" : 4,
+        "item" : "Q343"
+      }, {
+        "count" : 3,
+        "item" : "M251"
+      }, {
+        "count" : 2,
+        "item" : "B139"
+      }, {
+        "count" : 1,
+        "item" : "M223"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.655036,
+      "ymax" : 40.858665,
+      "xmin" : -74.141508,
+      "xmax" : -73.713728
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1560337,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560338
+      } ],
+      "latitudeId" : 1560336
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.height" : "10",
+        "symbol.url" : "499A2EBC",
+        "symbol.type" : "esriPMS",
+        "symbol.yoffset" : "0",
+        "symbol.contentType" : "image/png",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "10",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAWFJREFUKJFjYSATsDAwMDBMmrVX2tpUQY+RkZERl8L/////v3XnzYPIUPPrcI3sLIyXZi0+JUTIFjVlod/LV5/Ujww1v87CwMDA8O7jD6GZR99gKMxxFGOYfeg1w8+//yF8NiZWBysVBQYGBohGdJBmJcJgqCPGkJHkxGC05BBD0pRLcDmYd1A0xhoLMhSkWjEY6CkwPH32lmHztnMMbGwsDKUeUgzdO55hBg4M9DX5MogI8zE8f/GegYmJiYGDg4VBRFSEQVKCj+HGvU+4NbKzsTIcPnadIanhAMORJZEMKkriDIoK4gwMDAwM67dfw62RgYGB4d37rwx3Pv1lqO/cwWBnLsfw/sM3Bh1tWYb//xgYGJnwaISBmUffMKCHdI6jGGGNhACKxt9//jD8+PEHr4b/////h2sUFeK8VR8gr7Z45QmGT59/MdQHyGPVJCbK/f7o6QeX4BpT4h3VSXUqADsma+FkQT5yAAAAAElFTkSuQmCC"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/WaterFountainsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "PARKNUMBER",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "WaterFountains",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "sidebar" : {
+      "width" : 300
+    },
+    "attachments" : [ {
+      "blobId" : "CA258BE0-4C50-438F-9964-179D0E42F1B0",
+      "name" : "DPR_WaterFountain_001.zip",
+      "filename" : "DPR_WaterFountain_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "frct-aq3i",
+    "displayName" : "BIG",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1347498054,
+    "screenName" : "BIG"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "parks", "nature", "recreation", "location", "map", "cartography", "water", "fountain", "park", "geographic" ]
+}

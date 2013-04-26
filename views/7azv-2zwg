@@ -1,0 +1,815 @@
+{
+  "id" : "7azv-2zwg",
+  "name" : "Map of Kayak and Canoe Launches",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318117163,
+  "description" : "GIS Map of Kayak and Canoe Launches in New York City Department of Parks & Recreation properties.\r\n\r\nUpdate Frequency: Quarterly",
+  "displayType" : "map",
+  "downloadCount" : 44,
+  "numberOfComments" : 0,
+  "oid" : 342311,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117177,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244165,
+  "totalTimesRated" : 0,
+  "viewCount" : 181,
+  "viewLastModified" : 1363706919,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989561,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564807,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "1",
+      "sum" : "435",
+      "null" : 0,
+      "average" : "15",
+      "largest" : "29",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989562,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564808,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : {
+        "longitude" : "-74.19961354599991",
+        "latitude" : "40.51298581900005"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.12767795799994",
+        "latitude" : "40.543521001000045"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.19961354599991",
+          "latitude" : "40.51298581900005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.9321278999999",
+          "latitude" : "40.86983070300005"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.98510834699994",
+          "latitude" : "40.78599911100008"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.98807935899993",
+          "latitude" : "40.78183699300007"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.01192787899993",
+          "latitude" : "40.728305258000034"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.99543756199995",
+          "latitude" : "40.77116778200008"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.00131729199995",
+          "latitude" : "40.76316558700006"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.0182965699999",
+          "latitude" : "40.67858433500004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9053554059999",
+          "latitude" : "40.62739774800008"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.90234759499992",
+          "latitude" : "40.61202244100008"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.84886936899994",
+          "latitude" : "40.805161309000084"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.88144073299992",
+          "latitude" : "40.81788648700007"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.88917025599994",
+          "latitude" : "40.80565757800008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.8492013099999",
+          "latitude" : "40.76026840800006"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.76827236499992",
+          "latitude" : "40.77947545600006"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.82472379599994",
+          "latitude" : "40.79724502700009"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.92997527299991",
+          "latitude" : "40.60376279600007"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.79733780499993",
+          "latitude" : "40.87229399700004"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.78079526599993",
+          "latitude" : "40.79328568200009"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.73692941799993",
+          "latitude" : "40.64922890400004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2989563,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564809,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "1",
+      "sum" : "435",
+      "null" : 0,
+      "average" : "15",
+      "largest" : "29",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989564,
+    "name" : "Location_N",
+    "dataTypeName" : "text",
+    "description" : "Location_N",
+    "fieldName" : "location_n",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564810,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "Barretto Point",
+      "null" : 0,
+      "largest" : "World's Fair Marina (Flus",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Lemon Creek"
+      }, {
+        "count" : 19,
+        "item" : "Inwood Hill Park"
+      }, {
+        "count" : 18,
+        "item" : "Riverside Park"
+      }, {
+        "count" : 17,
+        "item" : "Hudson River"
+      }, {
+        "count" : 16,
+        "item" : "Louis J. Valentino"
+      }, {
+        "count" : 15,
+        "item" : "Paerdegat Basin"
+      }, {
+        "count" : 14,
+        "item" : "Mill Basin Marina"
+      }, {
+        "count" : 13,
+        "item" : "Pugsley Creek Park - Clas"
+      }, {
+        "count" : 12,
+        "item" : "Hunts Point Riverside"
+      }, {
+        "count" : 11,
+        "item" : "Barretto Point"
+      }, {
+        "count" : 10,
+        "item" : "World's Fair Marina (Flus"
+      }, {
+        "count" : 9,
+        "item" : "Bayside Marina"
+      }, {
+        "count" : 8,
+        "item" : "Francis Lewis"
+      }, {
+        "count" : 7,
+        "item" : "Salt Marsh Nature Center/"
+      }, {
+        "count" : 6,
+        "item" : "Pelham Bay Park - Orchard"
+      }, {
+        "count" : 5,
+        "item" : "Fort Totten"
+      }, {
+        "count" : 4,
+        "item" : "Idlewild"
+      }, {
+        "count" : 3,
+        "item" : "Midland Beach"
+      }, {
+        "count" : 2,
+        "item" : "Conference House"
+      }, {
+        "count" : 1,
+        "item" : "Newtown Creek"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989565,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "description" : "Borough",
+    "fieldName" : "borough",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564811,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Staten Island"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Queens"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989566,
+    "name" : "Status",
+    "dataTypeName" : "text",
+    "description" : "Status",
+    "fieldName" : "status",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564812,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "Existing",
+      "null" : 0,
+      "largest" : "Existing",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Existing"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989567,
+    "name" : "LaunchLand",
+    "dataTypeName" : "text",
+    "description" : "LaunchLand",
+    "fieldName" : "launchland",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564813,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Sand beach landing only",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Floating Launch"
+      }, {
+        "count" : 19,
+        "item" : "Natural Sand Beach"
+      }, {
+        "count" : 18,
+        "item" : "Launch Site"
+      }, {
+        "count" : 17,
+        "item" : "Both"
+      }, {
+        "count" : 16,
+        "item" : "Launch"
+      }, {
+        "count" : 15,
+        "item" : "Floating Pier"
+      }, {
+        "count" : 14,
+        "item" : "Fixed Launch"
+      }, {
+        "count" : 13,
+        "item" : "Sand beach landing only"
+      }, {
+        "count" : 12,
+        "item" : "Launch ramp to high tide line"
+      }, {
+        "count" : 11,
+        "item" : "Land and Launch"
+      }, {
+        "count" : 10,
+        "item" : " "
+      }, {
+        "count" : 9,
+        "item" : "Launch and Landing"
+      }, {
+        "count" : 8,
+        "item" : "Launch & Landing"
+      }, {
+        "count" : 7,
+        "item" : "LaunchLand"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989568,
+    "name" : "Park_Numbe",
+    "dataTypeName" : "text",
+    "description" : "Park_Numbe",
+    "fieldName" : "park_numbe",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564814,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "X336",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R079"
+      }, {
+        "count" : 19,
+        "item" : "M042"
+      }, {
+        "count" : 18,
+        "item" : "M071"
+      }, {
+        "count" : 17,
+        "item" : "Not Parks"
+      }, {
+        "count" : 16,
+        "item" : "Not Park"
+      }, {
+        "count" : 15,
+        "item" : "B418"
+      }, {
+        "count" : 14,
+        "item" : "B406"
+      }, {
+        "count" : 13,
+        "item" : " "
+      }, {
+        "count" : 12,
+        "item" : "X088"
+      }, {
+        "count" : 11,
+        "item" : "X336"
+      }, {
+        "count" : 10,
+        "item" : "X307"
+      }, {
+        "count" : 9,
+        "item" : "Q099"
+      }, {
+        "count" : 8,
+        "item" : "Q135"
+      }, {
+        "count" : 7,
+        "item" : "Q126"
+      }, {
+        "count" : 6,
+        "item" : "B057"
+      }, {
+        "count" : 5,
+        "item" : "X039"
+      }, {
+        "count" : 4,
+        "item" : "Q458"
+      }, {
+        "count" : 3,
+        "item" : "Q454"
+      }, {
+        "count" : 2,
+        "item" : "R046"
+      }, {
+        "count" : 1,
+        "item" : "R006"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989569,
+    "name" : "Parks",
+    "dataTypeName" : "text",
+    "description" : "Parks",
+    "fieldName" : "parks",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564815,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "FALSE",
+      "null" : 0,
+      "largest" : "TRUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "TRUE"
+      }, {
+        "count" : 19,
+        "item" : "FALSE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989570,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Name",
+    "fieldName" : "name",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564816,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "Barretto Point Park",
+      "null" : 0,
+      "largest" : "World's Fair Marina",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Lemon Creek Marina"
+      }, {
+        "count" : 19,
+        "item" : "Inwood Hill Park"
+      }, {
+        "count" : 18,
+        "item" : "Riverside Park (79th Street)"
+      }, {
+        "count" : 17,
+        "item" : "Riverside PArk (72nd Street)"
+      }, {
+        "count" : 16,
+        "item" : "Hudson River Park (Pier 40)"
+      }, {
+        "count" : 15,
+        "item" : "Hudson River Park (Pier 96)"
+      }, {
+        "count" : 14,
+        "item" : "Hudson River Park (Pier 84)"
+      }, {
+        "count" : 13,
+        "item" : "Louis J. Valention Park"
+      }, {
+        "count" : 12,
+        "item" : "Sebago Canoe Club (Paerdegat Basin)"
+      }, {
+        "count" : 11,
+        "item" : "Mill Basin Marina"
+      }, {
+        "count" : 10,
+        "item" : "Pugsley Creek Park"
+      }, {
+        "count" : 9,
+        "item" : "Hunts Point Riverside Park"
+      }, {
+        "count" : 8,
+        "item" : "Barretto Point Park"
+      }, {
+        "count" : 7,
+        "item" : "World's Fair Marina"
+      }, {
+        "count" : 6,
+        "item" : "Bayside Marina"
+      }, {
+        "count" : 5,
+        "item" : "Francis Lewis Park"
+      }, {
+        "count" : 4,
+        "item" : "Salt Marsh Nature Center (Gerritsen Inlet)"
+      }, {
+        "count" : 3,
+        "item" : "Pelham Bay Park (Orchard Beach Lagoon)"
+      }, {
+        "count" : 2,
+        "item" : "Fort Totten"
+      }, {
+        "count" : 1,
+        "item" : "Idlewild"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564808,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564809
+      } ],
+      "latitudeId" : 1564807
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/Kayak_Canoe_launches_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "Name",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Kayak_Canoe_launches",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "82F95FF5-5AC7-49B2-9083-9ADA2A712C66",
+      "name" : "DPR_KayakCanoeLaunches_001.zip",
+      "filename" : "DPR_KayakCanoeLaunches_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2548147649955,
+    "lat" : 40.8724719538768
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7360474043121,
+    "lat" : 40.5008664307972
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "map", "location", "cartography", "site", "kayak", "canoe", "sport", "launch", "water", "river", "bay", "recreation", "healthy living" ],
+  "flags" : [ "default" ]
+}

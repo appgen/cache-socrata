@@ -1,0 +1,668 @@
+{
+  "id" : "h682-ywyg",
+  "name" : "DYCD RHY (Runaway and Homeless Youth) Services",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318026973,
+  "description" : "Runaway and Homeless Youth Services",
+  "displayType" : "map",
+  "downloadCount" : 73,
+  "numberOfComments" : 0,
+  "oid" : 341824,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318026985,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243908,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1360613615,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980176,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561297,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1",
+      "sum" : "91",
+      "null" : 0,
+      "average" : "7",
+      "largest" : "13",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980177,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561298,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : {
+        "longitude" : "-73.99338310599995",
+        "latitude" : "40.74862808100005"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.94858861499995",
+        "latitude" : "40.809390747000066"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99338310599995",
+          "latitude" : "40.74862808100005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98926242699991",
+          "latitude" : "40.76543659300006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99557687099991",
+          "latitude" : "40.758541465000064"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.95931030999992",
+          "latitude" : "40.69090313000004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00935104899992",
+          "latitude" : "40.652027994000036"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.99542364399991",
+          "latitude" : "40.66053403900008"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.0145004229999",
+          "latitude" : "40.64510297800007"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.9201789729999",
+          "latitude" : "40.81698294700004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.00516928299993",
+          "latitude" : "40.72412129400004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.13440427699993",
+          "latitude" : "40.63574444100004"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9650913449999",
+          "latitude" : "40.70832272900009"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.91562948299992",
+          "latitude" : "40.814910189000045"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.94858861499995",
+          "latitude" : "40.809390747000066"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980178,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561299,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1",
+      "sum" : "93",
+      "null" : 0,
+      "average" : "7.153846153846154",
+      "largest" : "14",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "13"
+      }, {
+        "count" : 8,
+        "item" : "14"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980179,
+    "name" : "SERVICE",
+    "dataTypeName" : "text",
+    "description" : "SERVICE",
+    "fieldName" : "service",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561300,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Crises",
+      "null" : 0,
+      "largest" : "Drop in",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Crises"
+      }, {
+        "count" : 19,
+        "item" : "Drop in"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980180,
+    "name" : "DIVISIONNA",
+    "dataTypeName" : "text",
+    "description" : "DIVISIONNA",
+    "fieldName" : "divisionna",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561301,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Ali Forney Center",
+      "null" : 0,
+      "largest" : "The Turning Point Sunset Terrace",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Safe Horizon, Inc"
+      }, {
+        "count" : 19,
+        "item" : "Covenant House"
+      }, {
+        "count" : 18,
+        "item" : "Ali Forney Center"
+      }, {
+        "count" : 17,
+        "item" : "The Turning Point Sunset Terrace"
+      }, {
+        "count" : 16,
+        "item" : "The Turning Point"
+      }, {
+        "count" : 15,
+        "item" : "Cardinal McCloskey"
+      }, {
+        "count" : 14,
+        "item" : "The Door"
+      }, {
+        "count" : 13,
+        "item" : "Project Hospitality"
+      }, {
+        "count" : 12,
+        "item" : "SCO Family of Services"
+      }, {
+        "count" : 11,
+        "item" : "Bronx Community Pride Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980181,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561302,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "121 6th Avenue",
+      "null" : 0,
+      "largest" : "89 South 10th Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "214 West 30th Street"
+      }, {
+        "count" : 19,
+        "item" : "427 West 52nd Street,"
+      }, {
+        "count" : 18,
+        "item" : "460 West 41st Street"
+      }, {
+        "count" : 17,
+        "item" : "241 Taffee Place"
+      }, {
+        "count" : 16,
+        "item" : "319-321 42nd Street"
+      }, {
+        "count" : 15,
+        "item" : "216 23rd Street"
+      }, {
+        "count" : 14,
+        "item" : "5220 Fourth Avenue"
+      }, {
+        "count" : 13,
+        "item" : "333 East 149th Street"
+      }, {
+        "count" : 12,
+        "item" : "121 6th Avenue"
+      }, {
+        "count" : 11,
+        "item" : "1546 Castleton Avenue"
+      }, {
+        "count" : 10,
+        "item" : "89 South 10th Street"
+      }, {
+        "count" : 9,
+        "item" : "448 East 149th Street"
+      }, {
+        "count" : 8,
+        "item" : "209 West 125th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980182,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "number",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561303,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "10013",
+      "sum" : "137428",
+      "null" : 0,
+      "average" : "10571.38461538462",
+      "largest" : "11232",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10027"
+      }, {
+        "count" : 19,
+        "item" : "10019"
+      }, {
+        "count" : 18,
+        "item" : "10036"
+      }, {
+        "count" : 17,
+        "item" : "11205"
+      }, {
+        "count" : 16,
+        "item" : "11220"
+      }, {
+        "count" : 15,
+        "item" : "11232"
+      }, {
+        "count" : 14,
+        "item" : "10451"
+      }, {
+        "count" : 13,
+        "item" : "10013"
+      }, {
+        "count" : 12,
+        "item" : "10302"
+      }, {
+        "count" : 11,
+        "item" : "11221"
+      }, {
+        "count" : 10,
+        "item" : "10455"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980183,
+    "name" : "PHONENUMBE",
+    "dataTypeName" : "text",
+    "description" : "PHONENUMBE",
+    "fieldName" : "phonenumbe",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561304,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "(212) 206-0574",
+      "null" : 0,
+      "largest" : "(877) 994-6736",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 268-3943"
+      }, {
+        "count" : 19,
+        "item" : "(212) 613-0300 ext. 0532"
+      }, {
+        "count" : 18,
+        "item" : "(212) 613-0300 ext. 0531"
+      }, {
+        "count" : 17,
+        "item" : "(212) 206-0574"
+      }, {
+        "count" : 16,
+        "item" : "(718) 640-1560 ext. 9025"
+      }, {
+        "count" : 15,
+        "item" : "(718) 439-0077"
+      }, {
+        "count" : 14,
+        "item" : "(718) 993-5495"
+      }, {
+        "count" : 13,
+        "item" : "(212) 453-0248"
+      }, {
+        "count" : 12,
+        "item" : "(877) 994-6736"
+      }, {
+        "count" : 11,
+        "item" : "(718) 384-7083"
+      }, {
+        "count" : 10,
+        "item" : "(718) 292-4368"
+      }, {
+        "count" : 9,
+        "item" : "(212) 695-2220"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980184,
+    "name" : "SERVICESOF",
+    "dataTypeName" : "text",
+    "description" : "SERVICESOF",
+    "fieldName" : "servicesof",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561305,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Runaway and Homeless Youth (RHY) services",
+      "null" : 0,
+      "largest" : "Runaway and Homeless Youth (RHY) services",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Runaway and Homeless Youth (RHY) services"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980185,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561306,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/dycd/html/runaway/runaway.shtml"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980186,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 11,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561307,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561298,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561299
+      } ],
+      "latitudeId" : 1561297
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_DYCD_RHY_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SERVICE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_DYCD_RHY_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "076A448C-8450-4EE5-9776-73F7A7791D2F",
+      "name" : "DOITT_DYCD_RHY.zip",
+      "filename" : "DOITT_DYCD_RHY.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1347702001184,
+    "lat" : 40.8170105747873
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.9156268590456,
+    "lat" : 40.6357444407861
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "run", "runaway", "homeless", "youth", "rhy" ],
+  "flags" : [ "default" ]
+}

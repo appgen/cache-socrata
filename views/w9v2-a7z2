@@ -1,0 +1,479 @@
+{
+  "id" : "w9v2-a7z2",
+  "name" : "LPC Landmark Interiors",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318115626,
+  "description" : "Landmark Interiors",
+  "displayType" : "map",
+  "downloadCount" : 71,
+  "numberOfComments" : 0,
+  "oid" : 342265,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115635,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244121,
+  "totalTimesRated" : 0,
+  "viewCount" : 134,
+  "viewLastModified" : 1360613427,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988977,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564279,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 134,
+      "smallest" : "1",
+      "sum" : "9045",
+      "null" : 0,
+      "average" : "67.5",
+      "largest" : "134",
+      "top" : [ {
+        "count" : 20,
+        "item" : "124"
+      }, {
+        "count" : 19,
+        "item" : "125"
+      }, {
+        "count" : 18,
+        "item" : "126"
+      }, {
+        "count" : 17,
+        "item" : "127"
+      }, {
+        "count" : 16,
+        "item" : "128"
+      }, {
+        "count" : 15,
+        "item" : "129"
+      }, {
+        "count" : 14,
+        "item" : "130"
+      }, {
+        "count" : 13,
+        "item" : "131"
+      }, {
+        "count" : 12,
+        "item" : "132"
+      }, {
+        "count" : 11,
+        "item" : "133"
+      }, {
+        "count" : 10,
+        "item" : "134"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988978,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564280,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 134,
+      "smallest" : {
+        "longitude" : "-73.98761015899993",
+        "latitude" : "40.75825504200009"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.83172989499991",
+        "latitude" : "40.76365869700004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.07472298999994",
+          "latitude" : "40.63758181500003"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.83189423499994",
+          "latitude" : "40.76403077700007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.83187623899994",
+          "latitude" : "40.76398427000004"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.83186049099993",
+          "latitude" : "40.76394465300007"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.83184474699993",
+          "latitude" : "40.76390331600004"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.83181993999995",
+          "latitude" : "40.76386368500005"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.83180419599995",
+          "latitude" : "40.76382234700009"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.83178618799991",
+          "latitude" : "40.763781005000055"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.83176591199992",
+          "latitude" : "40.763741382000035"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.83174790299995",
+          "latitude" : "40.76370003900007"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.83172989499991",
+          "latitude" : "40.76365869700004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2988979,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564281,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 134,
+      "smallest" : "(Former) New York Bank for Savings",
+      "null" : 0,
+      "largest" : "Woolworth Building (Interior)",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Tompkinsville (Joseph H. Lyons) Pool Bath House, FIrst Floor Interior"
+      }, {
+        "count" : 19,
+        "item" : "RKO Keith's Flushing Theater"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988980,
+    "name" : "LP_NUMBER",
+    "dataTypeName" : "text",
+    "description" : "LP_NUMBER",
+    "fieldName" : "lp_number",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564282,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 134,
+      "smallest" : "LP-0880",
+      "null" : 0,
+      "largest" : "LP-2243",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LP-1096"
+      }, {
+        "count" : 19,
+        "item" : "LP-1097"
+      }, {
+        "count" : 18,
+        "item" : "LP-1696"
+      }, {
+        "count" : 17,
+        "item" : "LP-1123"
+      }, {
+        "count" : 16,
+        "item" : "LP-1904"
+      }, {
+        "count" : 15,
+        "item" : "LP-1320"
+      }, {
+        "count" : 14,
+        "item" : "LP-1365"
+      }, {
+        "count" : 13,
+        "item" : "LP-0923"
+      }, {
+        "count" : 12,
+        "item" : "LP-1906"
+      }, {
+        "count" : 11,
+        "item" : "LP-1329"
+      }, {
+        "count" : 10,
+        "item" : "LP-1448"
+      }, {
+        "count" : 9,
+        "item" : "LP-1750"
+      }, {
+        "count" : 8,
+        "item" : "LP-1911"
+      }, {
+        "count" : 7,
+        "item" : "LP-1322"
+      }, {
+        "count" : 6,
+        "item" : "LP-1022"
+      }, {
+        "count" : 5,
+        "item" : "LP-2119"
+      }, {
+        "count" : 4,
+        "item" : "LP-1110"
+      }, {
+        "count" : 3,
+        "item" : "LP-1271"
+      }, {
+        "count" : 2,
+        "item" : "LP-1308"
+      }, {
+        "count" : 1,
+        "item" : "LP-1804"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988981,
+    "name" : "DESIGNATED",
+    "dataTypeName" : "date",
+    "description" : "DESIGNATED",
+    "fieldName" : "designated",
+    "position" : 5,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1564283,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 134,
+      "smallest" : 153475200,
+      "null" : 0,
+      "largest" : 1221548400,
+      "top" : [ {
+        "count" : 20,
+        "item" : 566553600
+      }, {
+        "count" : 19,
+        "item" : 774601200
+      }, {
+        "count" : 18,
+        "item" : 170406000
+      }, {
+        "count" : 17,
+        "item" : 565948800
+      }, {
+        "count" : 16,
+        "item" : 564134400
+      }, {
+        "count" : 15,
+        "item" : 563011200
+      }, {
+        "count" : 14,
+        "item" : 686300400
+      }, {
+        "count" : 13,
+        "item" : 309510000
+      }, {
+        "count" : 12,
+        "item" : 835686000
+      }, {
+        "count" : 11,
+        "item" : 568368000
+      }, {
+        "count" : 10,
+        "item" : 492159600
+      }, {
+        "count" : 9,
+        "item" : 755683200
+      }, {
+        "count" : 8,
+        "item" : 1153810800
+      }, {
+        "count" : 7,
+        "item" : 842943600
+      }, {
+        "count" : 6,
+        "item" : 539942400
+      }, {
+        "count" : 5,
+        "item" : 1176188400
+      }, {
+        "count" : 4,
+        "item" : 160128000
+      }, {
+        "count" : 3,
+        "item" : 1185260400
+      }, {
+        "count" : 2,
+        "item" : 1182841200
+      }, {
+        "count" : 1,
+        "item" : 1221548400
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988982,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564284,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 134,
+      "smallest" : "http://www.nyc.gov/html/lpc",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/lpc",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/lpc"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564280,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564281
+      } ],
+      "latitudeId" : 1564279
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_LANDMARK_INTERIOR_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_LANDMARK_INTERIOR_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "D9B7E94D-8B81-4DA8-BB93-A7ABDA4041C4",
+      "name" : "DOITT_LANDMARK_INTERIOR.zip",
+      "filename" : "DOITT_LANDMARK_INTERIOR.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1160579045507,
+    "lat" : 40.8911877099864
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7767539518881,
+    "lat" : 40.5730348249952
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "landmark", "interior", "inside", "landmark interior", "interest", "history", "historical" ],
+  "flags" : [ "default" ]
+}

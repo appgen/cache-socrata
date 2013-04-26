@@ -1,0 +1,442 @@
+{
+  "id" : "q5fd-y7n7",
+  "name" : "ferry terminals",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1359596351,
+  "description" : "Location of the ferry terminals with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 8,
+  "numberOfComments" : 0,
+  "oid" : 2388557,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115382,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244113,
+  "totalTimesRated" : 0,
+  "viewCount" : 26,
+  "viewLastModified" : 1359596351,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42139910,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564213,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 34,
+      "smallest" : "1",
+      "sum" : "595",
+      "null" : 0,
+      "average" : "17.5",
+      "largest" : "34",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42139911,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564214,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 34,
+      "smallest" : {
+        "longitude" : "-73.97157715999992",
+        "latitude" : "40.743484823000074"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.0276912569999",
+        "latitude" : "40.73495005400008"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.97157715999992",
+          "latitude" : "40.743484823000074"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.00227202099995",
+          "latitude" : "40.70482991800009"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.01168816099994",
+          "latitude" : "40.70090747200004"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.01727908299995",
+          "latitude" : "40.70362006300007"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.07246514299993",
+          "latitude" : "40.64403463600007"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.00100894799994",
+          "latitude" : "40.76362713000009"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.01690353499993",
+          "latitude" : "40.71631678300008"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.9609661479999",
+          "latitude" : "40.74228147100007"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.99428151599994",
+          "latitude" : "40.70326951800007"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.00974225199991",
+          "latitude" : "40.74868617700008"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-74.0039671859999",
+          "latitude" : "40.75966774700004"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.84905868899995",
+          "latitude" : "40.75999905100008"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.94294021399992",
+          "latitude" : "40.779122328000085"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-74.01089980499995",
+          "latitude" : "40.73238050900005"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-74.01493525399991",
+          "latitude" : "40.68110578100004"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.93172033299993",
+          "latitude" : "40.82538443100009"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.00658818499994",
+          "latitude" : "40.70354963500006"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.96868610599995",
+          "latitude" : "40.712064130000044"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-74.01274805599991",
+          "latitude" : "40.70118190200009"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-74.02494439399993",
+          "latitude" : "40.646892663000074"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42139912,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564215,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 34,
+      "smallest" : "Battery Maritime Building/Slip 7",
+      "null" : 0,
+      "largest" : "Yankee Stadium",
+      "top" : [ {
+        "count" : 20,
+        "item" : "East 34th Street"
+      }, {
+        "count" : 19,
+        "item" : "South Street Seaport"
+      }, {
+        "count" : 18,
+        "item" : "Battery Maritime Building/Slip 7"
+      }, {
+        "count" : 17,
+        "item" : "Battery Park, Slip 6"
+      }, {
+        "count" : 16,
+        "item" : "St. George Ferry Terminal"
+      }, {
+        "count" : 15,
+        "item" : "W. 44th Street/Pier 84"
+      }, {
+        "count" : 14,
+        "item" : "World Financial Center"
+      }, {
+        "count" : 13,
+        "item" : "Hunters Point"
+      }, {
+        "count" : 12,
+        "item" : "Fulton Ferry Landing"
+      }, {
+        "count" : 11,
+        "item" : "W. 23rd Street/Pier 63"
+      }, {
+        "count" : 10,
+        "item" : "W. 38th Street"
+      }, {
+        "count" : 9,
+        "item" : "Shea Stadium"
+      }, {
+        "count" : 8,
+        "item" : "E. 90th Street"
+      }, {
+        "count" : 7,
+        "item" : "Christopher Street/Pier 45"
+      }, {
+        "count" : 6,
+        "item" : "Red Hook"
+      }, {
+        "count" : 5,
+        "item" : "Yankee Stadium"
+      }, {
+        "count" : 4,
+        "item" : "Pier 11 Wall Street"
+      }, {
+        "count" : 3,
+        "item" : "Schaefer Landing"
+      }, {
+        "count" : 2,
+        "item" : "Whitehall Terminal"
+      }, {
+        "count" : 1,
+        "item" : "Brooklyn Army Terminal"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.641885875327,
+      "ymax" : 40.809314554054,
+      "xmin" : -74.245948864443,
+      "xmax" : -73.6526871458
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "9a56-tyfg",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564215
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1564214,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564215
+      } ],
+      "latitudeId" : 1564213
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_FERRY_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_FERRY_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "6583D5E0-1F12-4C16-836C-7B1C63BBA47B",
+      "name" : "DOITT_FERRY.zip",
+      "filename" : "DOITT_FERRY.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "w5s3-ms2u",
+    "displayName" : "ntaub",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1358803857,
+    "screenName" : "ntaub"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "transportation", "ferry", "terminal" ]
+}

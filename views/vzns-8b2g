@@ -1,0 +1,312 @@
+{
+  "id" : "vzns-8b2g",
+  "name" : "Nina",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1334348805,
+  "description" : "Empower Zones",
+  "displayType" : "map",
+  "downloadCount" : 17,
+  "numberOfComments" : 0,
+  "oid" : 597178,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115325,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244112,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1360614530,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 7777174,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564208,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1",
+      "sum" : "36",
+      "null" : 0,
+      "average" : "4.5",
+      "largest" : "8",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7777175,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564209,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 7777176,
+    "name" : "EMPZONE",
+    "dataTypeName" : "text",
+    "description" : "EMPZONE",
+    "fieldName" : "empzone",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564210,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "Bronx 1",
+      "null" : 0,
+      "largest" : "Manhattan 9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx 1"
+      }, {
+        "count" : 19,
+        "item" : "Bronx 2"
+      }, {
+        "count" : 18,
+        "item" : "Bronx 4"
+      }, {
+        "count" : 17,
+        "item" : "Bronx 5"
+      }, {
+        "count" : 16,
+        "item" : "Manhattan 10"
+      }, {
+        "count" : 15,
+        "item" : "Manhattan 11"
+      }, {
+        "count" : 14,
+        "item" : "Manhattan 12"
+      }, {
+        "count" : 13,
+        "item" : "Manhattan 9"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7777177,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564211,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "11587.606133679453705553896725177764892578125",
+      "sum" : "1177662.502784562917440780438482761383056640625",
+      "null" : 0,
+      "average" : "147207.8128480704",
+      "largest" : "220421.50737260770983994007110595703125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "163905.55771911542979069054126739501953125"
+      }, {
+        "count" : 19,
+        "item" : "185239.35353010272956453263759613037109375"
+      }, {
+        "count" : 18,
+        "item" : "126004.589945914034615270793437957763671875"
+      }, {
+        "count" : 17,
+        "item" : "11587.606133679453705553896725177764892578125"
+      }, {
+        "count" : 16,
+        "item" : "220124.92642384112696163356304168701171875"
+      }, {
+        "count" : 15,
+        "item" : "196712.72379318400635384023189544677734375"
+      }, {
+        "count" : 14,
+        "item" : "220421.50737260770983994007110595703125"
+      }, {
+        "count" : 13,
+        "item" : "53666.2378661184266093187034130096435546875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 7777178,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564212,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 8,
+      "smallest" : "1090837.610537483356893062591552734375",
+      "sum" : "147985712.713273311033844947814941406250",
+      "null" : 0,
+      "average" : "18498214.08915916",
+      "largest" : "38363488.34735246002674102783203125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "19937657.202797465026378631591796875"
+      }, {
+        "count" : 19,
+        "item" : "37509108.25015045702457427978515625"
+      }, {
+        "count" : 18,
+        "item" : "12992872.48067488335072994232177734375"
+      }, {
+        "count" : 17,
+        "item" : "1090837.610537483356893062591552734375"
+      }, {
+        "count" : 16,
+        "item" : "16147830.3669368736445903778076171875"
+      }, {
+        "count" : 15,
+        "item" : "16634505.287995718419551849365234375"
+      }, {
+        "count" : 14,
+        "item" : "38363488.34735246002674102783203125"
+      }, {
+        "count" : 13,
+        "item" : "5309413.166827970184385776519775390625"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.759869,
+      "ymax" : 40.852382,
+      "xmin" : -74.089083,
+      "xmax" : -73.868841
+    },
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564209,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564210
+      } ],
+      "latitudeId" : 1564208
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_EMPOWER_ZONE_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "EMPZONE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_EMPOWER_ZONE_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "522FDF72-2B03-49E2-A71A-7ED1D4A40782",
+      "name" : "DOITT_EMPOWER_ZONE.zip",
+      "filename" : "DOITT_EMPOWER_ZONE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "z8k5-68qy",
+    "displayName" : "Nina",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1334348772,
+    "screenName" : "Nina"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "empower", "zone" ]
+}

@@ -1,0 +1,1756 @@
+{
+  "id" : "kqgr-7hyg",
+  "name" : "Bronx Laundromats",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1358973616,
+  "description" : "A list of laundry facilities that have a current DCA license as of the run date.",
+  "displayType" : "map",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2319203,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318031267,
+  "publicationGroup" : 243928,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318031198,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243928,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1358973616,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 40748824,
+    "name" : "Entity Type",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561615,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "LAUNDRY",
+      "null" : 0,
+      "largest" : "LAUNDRY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LAUNDRY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40748825,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561616,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "430336",
+      "sum" : "393820911",
+      "null" : 0,
+      "average" : "1179104.523952096",
+      "largest" : "1360433",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1332573"
+      }, {
+        "count" : 19,
+        "item" : "1340650"
+      }, {
+        "count" : 18,
+        "item" : "1348415"
+      }, {
+        "count" : 17,
+        "item" : "1350548"
+      }, {
+        "count" : 16,
+        "item" : "1351334"
+      }, {
+        "count" : 15,
+        "item" : "1356015"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 40748826,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561617,
+    "width" : 232,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "1082 LAUNDROMAT CORP.",
+      "null" : 0,
+      "largest" : "ZOU, XIAO MING",
+      "top" : [ {
+        "count" : 20,
+        "item" : "F.M.H. LAUNDROMAT, INC."
+      }, {
+        "count" : 19,
+        "item" : "KHANQUEST, INC"
+      }, {
+        "count" : 18,
+        "item" : "CHATREN II CORP"
+      }, {
+        "count" : 17,
+        "item" : "CLEAN & FRESH DRY CLEANERS CORPORATION"
+      }, {
+        "count" : 16,
+        "item" : "MY ELAINE LAUNDROMAT INC."
+      }, {
+        "count" : 15,
+        "item" : "GELA'S LAUNDROMAT LLC"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40748827,
+    "name" : "Camis Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "camis_trade_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561618,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 100,
+      "smallest" : "-",
+      "null" : 234,
+      "largest" : "YUN'S LAUNDROMAT",
+      "top" : [ {
+        "count" : 20,
+        "item" : "KEEP IT CLEAN"
+      }, {
+        "count" : 19,
+        "item" : "TROPICAL SUDS"
+      }, {
+        "count" : 18,
+        "item" : "SUPER LAUNDROMAT"
+      }, {
+        "count" : 17,
+        "item" : "YESAN CLEANER"
+      }, {
+        "count" : 16,
+        "item" : "CASTLE HILL LAUNDRY STATION"
+      }, {
+        "count" : 15,
+        "item" : "CLEAN LAUNDROMAT"
+      }, {
+        "count" : 14,
+        "item" : "BIG APPLE LAUNDROMAT"
+      }, {
+        "count" : 13,
+        "item" : "CIRILO'S LAUNDROMAT"
+      }, {
+        "count" : 12,
+        "item" : "LILI LAUNDROMAT"
+      }, {
+        "count" : 11,
+        "item" : "BAY PARK CLEANERS"
+      }, {
+        "count" : 10,
+        "item" : "OUR LAUNDRY"
+      }, {
+        "count" : 9,
+        "item" : "MORRIS HTS LAUNDROMAT"
+      }, {
+        "count" : 8,
+        "item" : "MEYO'S DRY CLEANERS"
+      }, {
+        "count" : 7,
+        "item" : "SO FRESH SO CLEAN"
+      }, {
+        "count" : 6,
+        "item" : "PREMIER LAUNDRY"
+      }, {
+        "count" : 5,
+        "item" : "LADY WHO LAUNDER"
+      }, {
+        "count" : 4,
+        "item" : "NEW DARLIN LAUNDROMAT"
+      }, {
+        "count" : 3,
+        "item" : "FRESH CLEANERS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40748828,
+    "name" : "Address Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "address_street_name",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561619,
+    "width" : 328,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "3 AVENUE",
+      "null" : 0,
+      "largest" : "ZEREGA AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "WHITE PLAINS ROAD"
+      }, {
+        "count" : 19,
+        "item" : "WESTCHESTER AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "EAST TREMONT AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "BOSTON ROAD"
+      }, {
+        "count" : 16,
+        "item" : "WATSON AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "SOUTHERN BOULEVARD"
+      }, {
+        "count" : 14,
+        "item" : "EAST GUN HILL ROAD"
+      }, {
+        "count" : 13,
+        "item" : "ASTOR AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "WEBSTER AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "SOUNDVIEW AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "EAST  170 STREET"
+      }, {
+        "count" : 9,
+        "item" : "TERRACE VIEW AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "FEATHERBED LANE"
+      }, {
+        "count" : 7,
+        "item" : "OGDEN AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "WASHINGTON AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "WEST  231 STREET"
+      }, {
+        "count" : 4,
+        "item" : "WEST  238 STREET"
+      }, {
+        "count" : 3,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 2,
+        "item" : "CROTONA AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "EAST  183 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40748829,
+    "name" : "Street Address",
+    "dataTypeName" : "text",
+    "fieldName" : "street_address",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561620,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "1000 HOE AVENUE",
+      "null" : 0,
+      "largest" : "988 EAST  163 STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "681 EAST TREMONT AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "608 CASTLE HILL AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "951 HOE AVE"
+      }, {
+        "count" : 17,
+        "item" : "265 WEST KINGSBRIDGE ROAD"
+      }, {
+        "count" : 16,
+        "item" : "3960 LACONIA AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "748 BURKE AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40748830,
+    "name" : "Address Location",
+    "dataTypeName" : "text",
+    "fieldName" : "address_location",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561621,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 9,
+      "smallest" : "1781-1783 NEREID AVENUE",
+      "null" : 325,
+      "largest" : "STORE #2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3951-53"
+      }, {
+        "count" : 19,
+        "item" : "638-640 E 183 ST"
+      }, {
+        "count" : 18,
+        "item" : "1888/1886"
+      }, {
+        "count" : 17,
+        "item" : "STORE #2"
+      }, {
+        "count" : 16,
+        "item" : "2356-58-54"
+      }, {
+        "count" : 15,
+        "item" : "STORE# 2"
+      }, {
+        "count" : 14,
+        "item" : "1781-1783 NEREID AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "AKA 1016-1012 CASTLE HILL AVE."
+      }, {
+        "count" : 12,
+        "item" : "AKA 1210 WEBSTER AVE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 40748831,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561622,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "10451",
+      "sum" : "3494184",
+      "null" : 0,
+      "average" : "10461.62874251497",
+      "largest" : "10475",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10469"
+      }, {
+        "count" : 19,
+        "item" : "10452"
+      }, {
+        "count" : 18,
+        "item" : "10459"
+      }, {
+        "count" : 17,
+        "item" : "10462"
+      }, {
+        "count" : 16,
+        "item" : "10456"
+      }, {
+        "count" : 15,
+        "item" : "10466"
+      }, {
+        "count" : 14,
+        "item" : "10453"
+      }, {
+        "count" : 13,
+        "item" : "10461"
+      }, {
+        "count" : 12,
+        "item" : "10460"
+      }, {
+        "count" : 11,
+        "item" : "10467"
+      }, {
+        "count" : 10,
+        "item" : "10471"
+      }, {
+        "count" : 9,
+        "item" : "10472"
+      }, {
+        "count" : 8,
+        "item" : "10458"
+      }, {
+        "count" : 7,
+        "item" : "10457"
+      }, {
+        "count" : 6,
+        "item" : "10470"
+      }, {
+        "count" : 5,
+        "item" : "10475"
+      }, {
+        "count" : 4,
+        "item" : "10468"
+      }, {
+        "count" : 3,
+        "item" : "10451"
+      }, {
+        "count" : 2,
+        "item" : "10454"
+      }, {
+        "count" : 1,
+        "item" : "10463"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 40748832,
+    "name" : "Telephone Number",
+    "dataTypeName" : "number",
+    "fieldName" : "telephone_number",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561623,
+    "width" : 292,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : "718",
+      "sum" : "2364640022773",
+      "null" : 0,
+      "average" : "7079760547.224551",
+      "largest" : "9999999999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7182993025"
+      }, {
+        "count" : 19,
+        "item" : "3472935451"
+      }, {
+        "count" : 18,
+        "item" : "2018860200"
+      }, {
+        "count" : 17,
+        "item" : "3478438063"
+      }, {
+        "count" : 16,
+        "item" : "6462559648"
+      }, {
+        "count" : 15,
+        "item" : "6465429237"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "noCommas" : "false",
+      "align" : "right",
+      "mask" : "###-###-####"
+    }
+  }, {
+    "id" : 40748833,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 10,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561624,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 334,
+      "smallest" : {
+        "longitude" : "-73.91284314872648",
+        "latitude" : "40.87568278574222",
+        "human_address" : "{\"address\":\"1 TERRACE VIEW AVENUE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10463\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.89415890480926",
+        "latitude" : "40.82095984515815",
+        "human_address" : "{\"address\":\"988 163 STREET\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10459\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.89175381363229",
+          "latitude" : "40.845756092165935",
+          "human_address" : "{\"address\":\"681 TREMONT AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10457\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.84805747738659",
+          "latitude" : "40.81928926640725",
+          "human_address" : "{\"address\":\"608 CASTLE HILL AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10473\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.89036488905197",
+          "latitude" : "40.822104510465735",
+          "human_address" : "{\"address\":\"951 HOE AVE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10459\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.90514780729639",
+          "latitude" : "40.8729576353976",
+          "human_address" : "{\"address\":\"265 KINGSBRIDGE ROAD\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10463\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.8494706382208",
+          "latitude" : "40.88388929344166",
+          "human_address" : "{\"address\":\"3960 LACONIA AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10466\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.8650630866806",
+          "latitude" : "40.87137949987728",
+          "human_address" : "{\"address\":\"748 BURKE AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10467\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.792986045312,
+      "ymax" : 40.902841604392,
+      "xmin" : -74.155152389505,
+      "xmax" : -73.753773757968
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "color" : "#38761d",
+    "exclusiveLayers" : true,
+    "flyoutsNoLabel" : false,
+    "viewDefinitions" : [ {
+      "uid" : "t6wx-qufc",
+      "viewport" : {
+        "ymin" : 40.694148,
+        "ymax" : 40.868066,
+        "xmin" : -74.236846,
+        "xmax" : -73.763404
+      },
+      "plotStyle" : "point",
+      "color" : "#38761d",
+      "flyoutsNoLabel" : false,
+      "type" : "google",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1561618
+        }, {
+          "tableColumnId" : 1561620
+        }, {
+          "tableColumnId" : 1561622
+        }, {
+          "tableColumnId" : 1561623
+        }, {
+          "tableColumnId" : 1561616
+        } ],
+        "locationId" : 1561624,
+        "titleId" : 1561617
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561618
+      }, {
+        "tableColumnId" : 1561620
+      }, {
+        "tableColumnId" : 1561622
+      }, {
+        "tableColumnId" : 1561623
+      }, {
+        "tableColumnId" : 1561616
+      } ],
+      "locationId" : 1561624,
+      "titleId" : 1561617
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "t6wx-qufc" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10451,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10452,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10453,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10454,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10455,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10456,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10457,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10458,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10459,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10460,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10461,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10462,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10463,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10464,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10465,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10466,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10467,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10468,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10469,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10470,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10471,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10472,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10473,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10474,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10475,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            }, {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 8179669,
+                "type" : "column"
+              }, {
+                "value" : 10499,
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "243928" : 1561622
+              },
+              "operator" : "EQUALS"
+            }
+          }, {
+            "value" : "OR",
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "243928" : 1561620
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    }
+  },
+  "owner" : {
+    "id" : "v4c9-bc9b",
+    "displayName" : "cpbride",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/7222/5776/29f1b58_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7222/5776/29f1b58_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7222/5776/29f1b58_tiny.jpg",
+    "profileLastModified" : 1364239685,
+    "screenName" : "cpbride"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10451"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10452"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10453"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10454"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10455"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10456"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10457"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10458"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10459"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10460"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10461"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10462"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10463"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10464"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10465"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10466"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10467"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10468"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10469"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10470"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10471"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10472"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10473"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10474"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10475"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        }, {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 40748831,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "10499"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "243928" : 1561622
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "tableColumnId" : {
+            "243928" : 1561620
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "laundry", "license", "laundromat", "clothing", "washing", "cleaning", "clothes", "consumer affairs", "dca" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10451"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10452"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10453"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10454"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10455"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10456"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10457"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10458"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10459"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10460"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10461"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10462"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10463"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10464"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10465"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10466"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10467"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10468"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10469"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10470"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10471"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10472"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10473"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10474"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10475"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      }, {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 40748831,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "10499"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "243928" : 1561622
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "tableColumnId" : {
+          "243928" : 1561620
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

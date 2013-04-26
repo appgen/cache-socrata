@@ -1,0 +1,420 @@
+{
+  "id" : "3aim-ipk8",
+  "name" : "Empire Zones",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1318115234,
+  "description" : "Empire Zones",
+  "displayType" : "map",
+  "downloadCount" : 14,
+  "numberOfComments" : 0,
+  "oid" : 342255,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115250,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244111,
+  "totalTimesRated" : 0,
+  "viewCount" : 172,
+  "viewLastModified" : 1360612232,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988900,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564202,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "1",
+      "sum" : "78",
+      "null" : 0,
+      "average" : "6.5",
+      "largest" : "12",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988901,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564203,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2988902,
+    "name" : "ID",
+    "dataTypeName" : "text",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564204,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "NYSEZ010",
+      "null" : 0,
+      "largest" : "NYSEZ076",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NYSEZ029"
+      }, {
+        "count" : 19,
+        "item" : "NYSEZ076"
+      }, {
+        "count" : 18,
+        "item" : "NYSEZ011"
+      }, {
+        "count" : 17,
+        "item" : "NYSEZ012"
+      }, {
+        "count" : 16,
+        "item" : "NYSEZ033"
+      }, {
+        "count" : 15,
+        "item" : "NYSEZ040"
+      }, {
+        "count" : 14,
+        "item" : "NYSEZ047"
+      }, {
+        "count" : 13,
+        "item" : "NYSEZ053"
+      }, {
+        "count" : 12,
+        "item" : "NYSEZ010"
+      }, {
+        "count" : 11,
+        "item" : "NYSEZ022"
+      }, {
+        "count" : 10,
+        "item" : "NYSEZ046"
+      }, {
+        "count" : 9,
+        "item" : "NYSEZ068"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988903,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564205,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "East Harlem",
+      "null" : 0,
+      "largest" : "Yonkers",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yonkers"
+      }, {
+        "count" : 19,
+        "item" : "Mount Vernon"
+      }, {
+        "count" : 18,
+        "item" : "Port Morris"
+      }, {
+        "count" : 17,
+        "item" : "South Jamaica"
+      }, {
+        "count" : 16,
+        "item" : "Hunts Point"
+      }, {
+        "count" : 15,
+        "item" : "SW Brooklyn"
+      }, {
+        "count" : 14,
+        "item" : "North Shore"
+      }, {
+        "count" : 13,
+        "item" : "North Brooklyn"
+      }, {
+        "count" : 12,
+        "item" : "East New York"
+      }, {
+        "count" : 11,
+        "item" : "East Harlem"
+      }, {
+        "count" : 10,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 9,
+        "item" : "West Shore"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988904,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564206,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "55326.4948523948187357746064662933349609375",
+      "sum" : "1405209.1776471150587894953787326812744140625",
+      "null" : 0,
+      "average" : "117100.7648039263",
+      "largest" : "311062.8321177098550833761692047119140625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "311062.8321177098550833761692047119140625"
+      }, {
+        "count" : 19,
+        "item" : "102531.325551890753558836877346038818359375"
+      }, {
+        "count" : 18,
+        "item" : "73834.32855738486978225409984588623046875"
+      }, {
+        "count" : 17,
+        "item" : "73202.1731015311670489609241485595703125"
+      }, {
+        "count" : 16,
+        "item" : "55326.4948523948187357746064662933349609375"
+      }, {
+        "count" : 15,
+        "item" : "100618.99162730318494141101837158203125"
+      }, {
+        "count" : 14,
+        "item" : "168043.6077094830689020454883575439453125"
+      }, {
+        "count" : 13,
+        "item" : "156261.10513173879007808864116668701171875"
+      }, {
+        "count" : 12,
+        "item" : "109218.856578809558413922786712646484375"
+      }, {
+        "count" : 11,
+        "item" : "73119.861790533745079301297664642333984375"
+      }, {
+        "count" : 10,
+        "item" : "102874.46297460261848755180835723876953125"
+      }, {
+        "count" : 9,
+        "item" : "79115.137653732628677971661090850830078125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988905,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564207,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 12,
+      "smallest" : "20572674.1461073644459247589111328125",
+      "sum" : "588469484.4498495981097221374511718750",
+      "null" : 0,
+      "average" : "49039123.70415413",
+      "largest" : "99418924.8129854500293731689453125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "65133715.257077895104885101318359375"
+      }, {
+        "count" : 19,
+        "item" : "26519703.343234352767467498779296875"
+      }, {
+        "count" : 18,
+        "item" : "48131519.5503696501255035400390625"
+      }, {
+        "count" : 17,
+        "item" : "28689325.0804036594927310943603515625"
+      }, {
+        "count" : 16,
+        "item" : "50415783.86525936424732208251953125"
+      }, {
+        "count" : 15,
+        "item" : "74539174.68142209947109222412109375"
+      }, {
+        "count" : 14,
+        "item" : "99418924.8129854500293731689453125"
+      }, {
+        "count" : 13,
+        "item" : "55896748.5363669693470001220703125"
+      }, {
+        "count" : 12,
+        "item" : "44658417.840623982250690460205078125"
+      }, {
+        "count" : 11,
+        "item" : "35866879.7376839220523834228515625"
+      }, {
+        "count" : 10,
+        "item" : "20572674.1461073644459247589111328125"
+      }, {
+        "count" : 9,
+        "item" : "38626617.598314888775348663330078125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564203,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564204
+      } ],
+      "latitudeId" : 1564202
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_EMPIRE_ZONE_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_EMPIRE_ZONE_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "FE176A45-90CE-426D-AEA4-833E461B1D16",
+      "name" : "DOITT_EMPIRE_ZONE.zip",
+      "filename" : "DOITT_EMPIRE_ZONE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2061887168122,
+    "lat" : 40.9815981225716
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7416348644027,
+    "lat" : 40.5766903032082
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "empire", "zone", "development" ],
+  "flags" : [ "default" ]
+}

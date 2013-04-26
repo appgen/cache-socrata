@@ -1,0 +1,88 @@
+{
+  "id" : "g6we-qajk",
+  "name" : "Sidewalk Café Regulations GIS: Shapefile",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nycgissidewalkcafe_201301_shp.zip",
+  "blobFileSize" : 2753517,
+  "blobId" : "5G4hwKgjGgnthWczDBXn7wUENtZCtQfVa3ThGr7EzoY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359416948,
+  "description" : "This feature class is a spatial representation of the Sidewalk Cafe regulations in the New York City Zoning Resolution, Chapter 1, Article 4.”",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2367533,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366225768,
+  "publicationGroup" : 642286,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 642286,
+  "totalTimesRated" : 0,
+  "viewCount" : 65,
+  "viewLastModified" : 1366225992,
+  "viewType" : "geo",
+  "childViews" : [ "7e3a-2a4z" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/g6we-qajk",
+      "bbox" : "-74.25189810620226,40.50659343631363,-73.69940122813468,40.91167522534555",
+      "layers" : "geo_g6we-qajk-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_g6we-qajk"
+    },
+    "attachments" : [ {
+      "blobId" : "9B8EF171-14C8-449E-9502-B0E87F2016F1",
+      "name" : "DCP_nycgissidewalkcafe_shp_001.zip",
+      "filename" : "DCP_nycgissidewalkcafe_shp_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "sidewalk café regulations gis: shapefile", "department of city planning (dcp)", "dcp", "restaurant", "food", "cafe" ],
+  "flags" : [ "default" ]
+}

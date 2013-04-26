@@ -1,0 +1,421 @@
+{
+  "id" : "hrii-hezj",
+  "name" : "Botanical Gardens",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1318024125,
+  "description" : "Botanical Gardens",
+  "displayType" : "map",
+  "downloadCount" : 41,
+  "numberOfComments" : 0,
+  "oid" : 341810,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318024135,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243894,
+  "totalTimesRated" : 0,
+  "viewCount" : 172,
+  "viewLastModified" : 1360612278,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980042,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561163,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1",
+      "sum" : "10",
+      "null" : 0,
+      "average" : "2.5",
+      "largest" : "4",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980043,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561164,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : {
+        "longitude" : "-73.87826809799992",
+        "latitude" : "40.863879789000066"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.10455648599992",
+        "latitude" : "40.645101267000086"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.87826809799992",
+          "latitude" : "40.863879789000066"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.96340681999993",
+          "latitude" : "40.66731537800007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.82957497099994",
+          "latitude" : "40.750456933000066"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.10455648599992",
+          "latitude" : "40.645101267000086"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980044,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561165,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Brooklyn Botanic Garden",
+      "null" : 0,
+      "largest" : "Snug Harbor Cultural Center and Botanical Garden",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York Botanical Garden"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn Botanic Garden"
+      }, {
+        "count" : 18,
+        "item" : "Queens Botanical Garden"
+      }, {
+        "count" : 17,
+        "item" : "Snug Harbor Cultural Center and Botanical Garden"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980045,
+    "name" : "TEL",
+    "dataTypeName" : "text",
+    "description" : "TEL",
+    "fieldName" : "tel",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561166,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "(718) 273-8200",
+      "null" : 0,
+      "largest" : "(718) 886-3800",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 817-8700"
+      }, {
+        "count" : 19,
+        "item" : "(718) 623-7200"
+      }, {
+        "count" : 18,
+        "item" : "(718) 886-3800"
+      }, {
+        "count" : 17,
+        "item" : "(718) 273-8200"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980046,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561167,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "http://www.bbg.org/",
+      "null" : 0,
+      "largest" : "http://www.snug-harbor.org/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nybg.org/"
+      }, {
+        "count" : 19,
+        "item" : "http://www.bbg.org/"
+      }, {
+        "count" : 18,
+        "item" : "http://www.queensbotanical.org/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.snug-harbor.org/"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980047,
+    "name" : "ADDRESS1",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS1",
+    "fieldName" : "address1",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561168,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "1000 Richmond Terrace",
+      "null" : 0,
+      "largest" : "43-50 Main Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "200th Street and Kazimiroff Blvd"
+      }, {
+        "count" : 19,
+        "item" : "1000 Washington Ave"
+      }, {
+        "count" : 18,
+        "item" : "43-50 Main Street"
+      }, {
+        "count" : 17,
+        "item" : "1000 Richmond Terrace"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980048,
+    "name" : "ADDRESS2",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS2",
+    "fieldName" : "address2",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561169,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : " ",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980049,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561170,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 18,
+        "item" : "Flushing"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980050,
+    "name" : "ZIP",
+    "dataTypeName" : "number",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561171,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 4,
+      "smallest" : "10310",
+      "sum" : "43348",
+      "null" : 0,
+      "average" : "10837",
+      "largest" : "11355",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10458"
+      }, {
+        "count" : 19,
+        "item" : "11225"
+      }, {
+        "count" : 18,
+        "item" : "11355"
+      }, {
+        "count" : 17,
+        "item" : "10310"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561164,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561165
+      } ],
+      "latitudeId" : 1561163
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_BOT_GARDEN_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_BOT_GARDEN_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "A75B7303-109F-4EE9-98BA-4B90CA17AE4B",
+      "name" : "DOITT_BOT_GARDEN.zip",
+      "filename" : "DOITT_BOT_GARDEN.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1049004761496,
+    "lat" : 40.8639440028568
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.8292844638536,
+    "lat" : 40.6450229167391
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "nature", "park", "recreation", "garden", "botany", "botanical", "site", "doitt gis" ],
+  "flags" : [ "default" ]
+}

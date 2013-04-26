@@ -1,0 +1,534 @@
+{
+  "id" : "jd9a-5gug",
+  "name" : "Newport",
+  "attribution" : "Landmarks Preservation Commission (LPC)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1347574419,
+  "description" : "Landmarks Preservation Commission point shapefile. A point shapefile of NYC Landmarks Preservation Commission individual, interior and scenic landmarks as well as points of all buildings within historic districts; for use in Geographic Information Systems (GIS).",
+  "displayType" : "map",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 1075245,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117252,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244167,
+  "totalTimesRated" : 0,
+  "viewCount" : 36,
+  "viewLastModified" : 1347574474,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 17789107,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564830,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789108,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564831,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 17789109,
+    "name" : "COUNT_BLDG",
+    "dataTypeName" : "number",
+    "description" : "COUNT_BLDG",
+    "fieldName" : "count_bldg",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564832,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789110,
+    "name" : "NON_BLDG",
+    "dataTypeName" : "text",
+    "description" : "NON_BLDG",
+    "fieldName" : "non_bldg",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564833,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789111,
+    "name" : "VACANT_LOT",
+    "dataTypeName" : "number",
+    "description" : "VACANT_LOT",
+    "fieldName" : "vacant_lot",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564834,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789112,
+    "name" : "SECND_BLDG",
+    "dataTypeName" : "number",
+    "description" : "SECND_BLDG",
+    "fieldName" : "secnd_bldg",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564835,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789113,
+    "name" : "BIN_NUMBER",
+    "dataTypeName" : "number",
+    "description" : "BIN_NUMBER",
+    "fieldName" : "bin_number",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564836,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789114,
+    "name" : "BBL",
+    "dataTypeName" : "text",
+    "description" : "BBL",
+    "fieldName" : "bbl",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564837,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789115,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564838,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789116,
+    "name" : "BLOCK",
+    "dataTypeName" : "number",
+    "description" : "BLOCK",
+    "fieldName" : "block",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564839,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789117,
+    "name" : "LOT",
+    "dataTypeName" : "number",
+    "description" : "LOT",
+    "fieldName" : "lot",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564840,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789118,
+    "name" : "LP_NUMBER",
+    "dataTypeName" : "text",
+    "description" : "LP_NUMBER",
+    "fieldName" : "lp_number",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564841,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789119,
+    "name" : "LM_NAME",
+    "dataTypeName" : "text",
+    "description" : "LM_NAME",
+    "fieldName" : "lm_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564842,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789120,
+    "name" : "OTHER_NAME",
+    "dataTypeName" : "text",
+    "description" : "OTHER_NAME",
+    "fieldName" : "other_name",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564843,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789121,
+    "name" : "HOUSE_NUMB",
+    "dataTypeName" : "text",
+    "description" : "HOUSE_NUMB",
+    "fieldName" : "house_numb",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564844,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789122,
+    "name" : "STREET_NAM",
+    "dataTypeName" : "text",
+    "description" : "STREET_NAM",
+    "fieldName" : "street_nam",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564845,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789123,
+    "name" : "DESIG_ADDR",
+    "dataTypeName" : "text",
+    "description" : "DESIG_ADDR",
+    "fieldName" : "desig_addr",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564846,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789124,
+    "name" : "DESIG_DATE",
+    "dataTypeName" : "date",
+    "description" : "DESIG_DATE",
+    "fieldName" : "desig_date",
+    "position" : 18,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1564847,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789125,
+    "name" : "PUBLIC_HEA",
+    "dataTypeName" : "text",
+    "description" : "PUBLIC_HEA",
+    "fieldName" : "public_hea",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564848,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789126,
+    "name" : "LM_TYPE",
+    "dataTypeName" : "text",
+    "description" : "LM_TYPE",
+    "fieldName" : "lm_type",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564849,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789127,
+    "name" : "HIST_DISTR",
+    "dataTypeName" : "text",
+    "description" : "HIST_DISTR",
+    "fieldName" : "hist_distr",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564850,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789128,
+    "name" : "BOUNDARIES",
+    "dataTypeName" : "text",
+    "description" : "BOUNDARIES",
+    "fieldName" : "boundaries",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564851,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789129,
+    "name" : "NOTES",
+    "dataTypeName" : "text",
+    "description" : "NOTES",
+    "fieldName" : "notes",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564852,
+    "width" : 100,
+    "format" : {
+    }
+  }, {
+    "id" : 17789130,
+    "name" : "STATUS",
+    "dataTypeName" : "text",
+    "description" : "STATUS",
+    "fieldName" : "status",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564853,
+    "width" : 100,
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "viewport" : {
+      "ymin" : 40.731339,
+      "ymax" : 40.735891,
+      "xmin" : -74.016025,
+      "xmax" : -74.003907
+    },
+    "plotStyle" : "point",
+    "color" : "#0000ff",
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 1
+      }
+    } ],
+    "flyoutsNoLabel" : false,
+    "type" : "esri",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564842
+      } ]
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/LPC_points_001_23June2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "LM_NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "LPC_points_001_23June2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "43m7-2qc2",
+    "displayName" : "jlashley",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1347574418,
+    "screenName" : "jlashley"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 17789115,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "manhattan"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "undefined" : 1564838
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "customValues" : [ [ "Individual Landmark" ] ],
+          "tableColumnId" : {
+            "undefined" : 1564849
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "customValues" : [ [ " " ] ],
+          "tableColumnId" : {
+            "undefined" : 1564833
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "metadata" : {
+          "customValues" : [ [ 1 ] ],
+          "tableColumnId" : {
+            "undefined" : 1564832
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "historic", "landmark", "preservation", "preserve", "conservation", "conserve", "interior", "scenic", "building", "district" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 17789115,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "manhattan"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "undefined" : 1564838
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "customValues" : [ [ "Individual Landmark" ] ],
+        "tableColumnId" : {
+          "undefined" : 1564849
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "customValues" : [ [ " " ] ],
+        "tableColumnId" : {
+          "undefined" : 1564833
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "metadata" : {
+        "customValues" : [ [ 1 ] ],
+        "tableColumnId" : {
+          "undefined" : 1564832
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

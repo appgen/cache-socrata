@@ -1,0 +1,218 @@
+{
+  "id" : "8ddc-rrz2",
+  "name" : "Airport Point",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318023746,
+  "description" : "Center Point of the city airports.",
+  "displayType" : "map",
+  "downloadCount" : 21,
+  "numberOfComments" : 0,
+  "oid" : 341803,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023755,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243887,
+  "totalTimesRated" : 0,
+  "viewCount" : 93,
+  "viewLastModified" : 1360613798,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2979994,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561115,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "1",
+      "sum" : "3",
+      "null" : 0,
+      "average" : "1.5",
+      "largest" : "2",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979995,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561116,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : {
+        "longitude" : "-73.87586383099995",
+        "latitude" : "40.77816741300006"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.77129350999991",
+        "latitude" : "40.640120954000054"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.87586383099995",
+          "latitude" : "40.77816741300006"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.77129350999991",
+          "latitude" : "40.640120954000054"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2979996,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561117,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 2,
+      "smallest" : "John F. Kennedy International Airport",
+      "null" : 0,
+      "largest" : "La Guardia Airport",
+      "top" : [ {
+        "count" : 20,
+        "item" : "La Guardia Airport"
+      }, {
+        "count" : 19,
+        "item" : "John F. Kennedy International Airport"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561116,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561117
+      } ],
+      "latitudeId" : 1561115
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_AIRPORT_POINT_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_AIRPORT_POINT_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "ACDD114A-F552-4EE1-B9FC-AB2E7FB52F9D",
+      "name" : "DOITT_AIRPORT_POINT.zip",
+      "filename" : "DOITT_AIRPORT_POINT.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -73.8761203464276,
+    "lat" : 40.7781674132427
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7708199317905,
+    "lat" : 40.640120954059
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "transportation", "airport", "point", "center", "doitt gis" ],
+  "flags" : [ "default" ]
+}

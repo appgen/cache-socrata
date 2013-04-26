@@ -1,0 +1,508 @@
+{
+  "id" : "8svr-4kir",
+  "name" : "Bronx Fire Houses",
+  "attribution" : "Fire Department of New York City (FDNY)",
+  "averageRating" : 0,
+  "category" : "Public Safety",
+  "createdAt" : 1347825939,
+  "description" : "Listing of all the fire houses in New York City",
+  "displayType" : "map",
+  "downloadCount" : 9,
+  "modifyingViewUid" : "pg99-2ihy",
+  "numberOfComments" : 0,
+  "oid" : 1083611,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1311895077,
+  "publicationGroup" : 238981,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "rowsUpdatedAt" : 1313895286,
+  "rowsUpdatedBy" : "i7d8-sc4w",
+  "signed" : false,
+  "tableId" : 238981,
+  "totalTimesRated" : 0,
+  "viewCount" : 45,
+  "viewLastModified" : 1354319244,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 17979324,
+    "name" : "Fire House Name",
+    "dataTypeName" : "text",
+    "fieldName" : "fire_house_name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502772,
+    "width" : 280,
+    "cachedContents" : {
+      "non_null" : 34,
+      "smallest" : "Bronx Borough Command, District Office 6 & 7 ",
+      "null" : 0,
+      "largest" : "Squad 61/Battalion 20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Engine 60/Ladder 17/Battalion 14"
+      }, {
+        "count" : 19,
+        "item" : "Squad 41"
+      }, {
+        "count" : 18,
+        "item" : "Engine 71/Ladder 55/Division 6"
+      }, {
+        "count" : 17,
+        "item" : "Engine 50/Ladder 19"
+      }, {
+        "count" : 16,
+        "item" : "Engine 92/Ladder 44/Battalion 17"
+      }, {
+        "count" : 15,
+        "item" : "EMS Station 17 "
+      }, {
+        "count" : 14,
+        "item" : "Engine 68/Ladder 49"
+      }, {
+        "count" : 13,
+        "item" : "EMS Station 26"
+      }, {
+        "count" : 12,
+        "item" : "Engine 73/Ladder 42/Battalion 26"
+      }, {
+        "count" : 11,
+        "item" : "Engine 94/Ladder 48/Battalion 3"
+      }, {
+        "count" : 10,
+        "item" : "Engine 42"
+      }, {
+        "count" : 9,
+        "item" : "Engine 43/Ladder 59"
+      }, {
+        "count" : 8,
+        "item" : "Rescue 3"
+      }, {
+        "count" : 7,
+        "item" : "Engine 46, Ladder 27"
+      }, {
+        "count" : 6,
+        "item" : "Bronx Borough Command, District Office 6 & 7 "
+      }, {
+        "count" : 5,
+        "item" : "Engine 82/Ladder 31"
+      }, {
+        "count" : 4,
+        "item" : "Engine 48/Ladder 56/Division 7"
+      }, {
+        "count" : 3,
+        "item" : "Engine 88/Ladder 38"
+      }, {
+        "count" : 2,
+        "item" : "Engine 45/Ladder 58/Battalion 18"
+      }, {
+        "count" : 1,
+        "item" : "Engine 75/Ladder 33/Battalion 19"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 17979325,
+    "name" : "Street Address",
+    "dataTypeName" : "location",
+    "fieldName" : "street_address",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1502773,
+    "width" : 268,
+    "cachedContents" : {
+      "non_null" : 34,
+      "smallest" : {
+        "longitude" : "-73.92815280283116",
+        "latitude" : "40.83504661570118",
+        "human_address" : "{\"address\":\"1080 Ogden Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.8837105510018",
+        "latitude" : "40.841784502544506",
+        "human_address" : "{\"address\":\"925 Tremont Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.9433453417909",
+          "latitude" : "40.82177493132576",
+          "human_address" : "{\"address\":\"341 143rd Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.81810427852294",
+          "latitude" : "40.797355894694945",
+          "human_address" : "{\"address\":\"330 150th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.9157774070479",
+          "latitude" : "40.820389550841206",
+          "human_address" : "{\"address\":\"720 Melrose Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9869510002884",
+          "latitude" : "40.756053999992105",
+          "human_address" : "{\"address\":\"1155 Washington Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.91334693039914",
+          "latitude" : "40.834609184611345",
+          "human_address" : "{\"address\":\"1259 Morris Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.92815280283116",
+          "latitude" : "40.83504661570118",
+          "human_address" : "{\"address\":\"1080 Ogden Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.92713217714852",
+          "latitude" : "40.836840038726635",
+          "human_address" : "{\"address\":\"1160 Ogden Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.90072908013177",
+          "latitude" : "40.83074586853325",
+          "human_address" : "{\"address\":\"1264 Boston Road\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.90351198008376",
+          "latitude" : "40.815072383967504",
+          "human_address" : "{\"address\":\"655 Prospect Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.88836288981311",
+          "latitude" : "40.81871004373168",
+          "human_address" : "{\"address\":\"1226 Seneca Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.90656498261312",
+          "latitude" : "40.846205186364536",
+          "human_address" : "{\"address\":\"1781 Monroe Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.91682532477923",
+          "latitude" : "40.85487806167291",
+          "human_address" : "{\"address\":\"1901 Sedgwick Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.9869510002884",
+          "latitude" : "40.756053999992105",
+          "human_address" : "{\"address\":\"1655 Washington Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.9869510002884",
+          "latitude" : "40.756053999992105",
+          "human_address" : "{\"address\":\"460 Cross Bronx Expressway\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.8994165753452",
+          "latitude" : "40.846221682782385",
+          "human_address" : "{\"address\":\"451 176th Street\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.89487792255349",
+          "latitude" : "40.82863061136138",
+          "human_address" : "{\"address\":\"1213 Intervale Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.89356177532432",
+          "latitude" : "40.85946622532268",
+          "human_address" : "{\"address\":\"2417 Webster Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.88785459504217",
+          "latitude" : "40.851363983750616",
+          "human_address" : "{\"address\":\"2225 Belmont Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.8837105510018",
+          "latitude" : "40.841784502544506",
+          "human_address" : "{\"address\":\"925 Tremont Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.9042795530419",
+          "latitude" : "40.85600651373484",
+          "human_address" : "{\"address\":\"2175 Walton Avenue\",\"city\":\"New York\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 17979326,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "fieldName" : "borough",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1502774,
+    "width" : 184,
+    "cachedContents" : {
+      "non_null" : 34,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Bronx",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "center" : {
+        "lng" : -73.83871366362956,
+        "lat" : 40.73522751647757
+      },
+      "ymin" : 40.531482,
+      "ymax" : 40.938351,
+      "zoom" : 10,
+      "xmin" : -74.774611,
+      "xmax" : -72.902816
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "flyoutsNoLabel" : false,
+    "viewDefinitions" : [ {
+      "uid" : "8svr-4kir",
+      "viewport" : {
+        "center" : {
+          "lng" : -73.83871366362956,
+          "lat" : 40.73522751647757
+        },
+        "ymin" : 40.531482,
+        "ymax" : 40.938351,
+        "zoom" : 10,
+        "xmin" : -74.774611,
+        "xmax" : -72.902816
+      },
+      "plotStyle" : "point",
+      "flyoutsNoLabel" : false,
+      "type" : "google",
+      "plot" : {
+        "locationId" : 1502773,
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1502773
+        }, {
+          "tableColumnId" : 1502774
+        } ],
+        "titleId" : 1502772
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1502773,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1502773
+      }, {
+        "tableColumnId" : 1502774
+      } ],
+      "titleId" : 1502772
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "thumbnail" : {
+      "page" : {
+        "created" : true
+      }
+    },
+    "rdfSubject" : "0",
+    "query" : {
+      "8svr-4kir" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 17979326,
+                "type" : "column"
+              }, {
+                "value" : "Bronx",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "238981" : 1502774
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "855x-2w2r",
+    "displayName" : "schu1989",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1347228510,
+    "screenName" : "schu1989"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 17979326,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "Bronx"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "238981" : 1502774
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "fire department", "fdny", "fd", "fires", "community board", "station", "fire station", "fire house", "emergency", "911" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 17979326,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "Bronx"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "238981" : 1502774
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

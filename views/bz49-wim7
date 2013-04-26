@@ -1,0 +1,323 @@
+{
+  "id" : "bz49-wim7",
+  "name" : "Fresh&Manhattan",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1362362850,
+  "description" : "GIS data: FRESH boundaries where zoning and discretionary tax incentives are available for the development, expansion and renovation of full line grocery stores and supermarkets.",
+  "displayType" : "map",
+  "downloadCount" : 6,
+  "numberOfComments" : 0,
+  "oid" : 2700836,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117139,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244164,
+  "totalTimesRated" : 0,
+  "viewCount" : 17,
+  "viewLastModified" : 1362362850,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 48233044,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564800,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "4",
+      "sum" : "15",
+      "null" : 0,
+      "average" : "5",
+      "largest" : "6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4"
+      }, {
+        "count" : 19,
+        "item" : "5"
+      }, {
+        "count" : 18,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48233045,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564801,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 48233046,
+    "name" : "INCENTIVE",
+    "dataTypeName" : "text",
+    "description" : "INCENTIVE",
+    "fieldName" : "incentive",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564802,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "Discretionary tax incentives are available",
+      "null" : 0,
+      "largest" : "Zoning incentives are available",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Zoning and discretionary tax incentives are available"
+      }, {
+        "count" : 19,
+        "item" : "Zoning incentives are available"
+      }, {
+        "count" : 18,
+        "item" : "Discretionary tax incentives are available"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48233047,
+    "name" : "NOTES",
+    "dataTypeName" : "text",
+    "description" : "NOTES",
+    "fieldName" : "notes",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564803,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Tax incentives are discretionary and will be assessed on a per case basis for eligiblity in the FRESH program.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Tax incentives are discretionary and will be assessed on a per case basis for eligibility in the FRESH program."
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "Tax incentives are discretionary and will be assessed on a per case basis for eligiblity in the FRESH program."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48233048,
+    "name" : "SHAPE_Leng",
+    "dataTypeName" : "number",
+    "description" : "SHAPE_Leng",
+    "fieldName" : "shape_leng",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564804,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "92172.566903700004331767559051513671875",
+      "sum" : "2903153.2233806998119689524173736572265625",
+      "null" : 0,
+      "average" : "967717.7411268999",
+      "largest" : "2385290.3462299997918307781219482421875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "425690.3102470000158064067363739013671875"
+      }, {
+        "count" : 19,
+        "item" : "92172.566903700004331767559051513671875"
+      }, {
+        "count" : 18,
+        "item" : "2385290.3462299997918307781219482421875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48233049,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564805,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "92172.56687956512905657291412353515625",
+      "sum" : "2903153.2257701487396843731403350830078125",
+      "null" : 0,
+      "average" : "967717.7419233829",
+      "largest" : "2385290.3465069285593926906585693359375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "425690.3123836550512351095676422119140625"
+      }, {
+        "count" : 19,
+        "item" : "92172.56687956512905657291412353515625"
+      }, {
+        "count" : 18,
+        "item" : "2385290.3465069285593926906585693359375"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 48233050,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564806,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3,
+      "smallest" : "117311611.8156972229480743408203125",
+      "sum" : "4920104537.1549487411975860595703125",
+      "null" : 0,
+      "average" : "1640034845.718316",
+      "largest" : "3637108064.01797771453857421875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1165684861.3212738037109375"
+      }, {
+        "count" : 19,
+        "item" : "117311611.8156972229480743408203125"
+      }, {
+        "count" : 18,
+        "item" : "3637108064.01797771453857421875"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.572460293734,
+      "ymax" : 40.754810909186,
+      "xmin" : -74.322509874483,
+      "xmax" : -73.531494249625
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "w9uz-8epq",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564802
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1564801,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564802
+      } ],
+      "latitudeId" : 1564800
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/FRESH_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "INCENTIVE",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "FRESH",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "805EEDF1-A22D-4295-8F7D-9D531860674C",
+      "name" : "DCP_nyc_freshzoning_001.zip",
+      "filename" : "DCP_nyc_freshzoning_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "m5rf-sdhd",
+    "displayName" : "emmalipner",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1362362849,
+    "screenName" : "emmalipner"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "dcp", "geographic", "location", "map", "cartography", "zone", "zoning", "boundary", "incentive", "development", "grocery", "supermarket", "promote", "promotion" ]
+}

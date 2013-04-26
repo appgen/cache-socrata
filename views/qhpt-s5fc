@@ -1,0 +1,755 @@
+{
+  "id" : "qhpt-s5fc",
+  "name" : "Staten Island New school projects (Capacity) and Capital Improvement Projects (CIP) currently under Construction.",
+  "attribution" : "School Construction Authority (SCA)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1342059891,
+  "description" : "New school projects (Capacity) and Capital Improvement Projects (CIP) currently under Construction.",
+  "displayType" : "map",
+  "downloadCount" : 17,
+  "numberOfComments" : 0,
+  "oid" : 861374,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318119949,
+  "publicationGroup" : 244222,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318119917,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 244222,
+  "totalTimesRated" : 0,
+  "viewCount" : 71,
+  "viewLastModified" : 1354319093,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 13137646,
+    "name" : "name",
+    "dataTypeName" : "text",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565437,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "I.S. 24",
+      "null" : 0,
+      "largest" : "WAGNER HS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "I.S. 24"
+      }, {
+        "count" : 19,
+        "item" : "I.S. 72"
+      }, {
+        "count" : 18,
+        "item" : "NEW DORP HS"
+      }, {
+        "count" : 17,
+        "item" : "P.S. 14"
+      }, {
+        "count" : 16,
+        "item" : "P.S. 18"
+      }, {
+        "count" : 15,
+        "item" : "P.S. 19"
+      }, {
+        "count" : 14,
+        "item" : "P.S. 20"
+      }, {
+        "count" : 13,
+        "item" : "P.S. 21"
+      }, {
+        "count" : 12,
+        "item" : "P.S. 22"
+      }, {
+        "count" : 11,
+        "item" : "P.S. 29"
+      }, {
+        "count" : 10,
+        "item" : "P.S. 3"
+      }, {
+        "count" : 9,
+        "item" : "P.S. 36"
+      }, {
+        "count" : 8,
+        "item" : "P.S. 373 (SP ED) @R040"
+      }, {
+        "count" : 7,
+        "item" : "P.S. 4"
+      }, {
+        "count" : 6,
+        "item" : "P.S. 41"
+      }, {
+        "count" : 5,
+        "item" : "P.S. 45"
+      }, {
+        "count" : 4,
+        "item" : "P.S. 50"
+      }, {
+        "count" : 3,
+        "item" : "P.S. 53"
+      }, {
+        "count" : 2,
+        "item" : "P.S. 54"
+      }, {
+        "count" : 1,
+        "item" : "P.S. 55"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137647,
+    "name" : "boro",
+    "dataTypeName" : "text",
+    "fieldName" : "boro",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565438,
+    "width" : 148,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "R",
+      "null" : 0,
+      "largest" : "R",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137648,
+    "name" : "geo_dist",
+    "dataTypeName" : "number",
+    "fieldName" : "geo_dist",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565439,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "31",
+      "sum" : "899",
+      "null" : 0,
+      "average" : "31",
+      "largest" : "31",
+      "top" : [ {
+        "count" : 20,
+        "item" : "31"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137649,
+    "name" : "projdesc",
+    "dataTypeName" : "text",
+    "fieldName" : "projdesc",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565440,
+    "width" : 196,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "AUDITORIUM FLOORS",
+      "null" : 0,
+      "largest" : "WINDOWS/EXT MASONRY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "AUDITORIUM FLOORS"
+      }, {
+        "count" : 19,
+        "item" : "ELEVATORS & ESCALATORS"
+      }, {
+        "count" : 18,
+        "item" : "LL 41/16 COMPLIANCE"
+      }, {
+        "count" : 17,
+        "item" : "ROOFS/EXT MASONRY/WINDOWS/FLOORS/SAFETY SYSTEMS"
+      }, {
+        "count" : 16,
+        "item" : "BOILER REPLACEMENT"
+      }, {
+        "count" : 15,
+        "item" : "IP SURVEILLANCE CAMERAS"
+      }, {
+        "count" : 14,
+        "item" : "EXT MASONRY/ROOFS/WINDOWS"
+      }, {
+        "count" : 13,
+        "item" : "FLOORS"
+      }, {
+        "count" : 12,
+        "item" : "LIBRARY UPGRADE"
+      }, {
+        "count" : 11,
+        "item" : "PARAPETS/EXT MASONRY/ROOFS"
+      }, {
+        "count" : 10,
+        "item" : "LIGHTING FIXTURES"
+      }, {
+        "count" : 9,
+        "item" : "PARAPETS"
+      }, {
+        "count" : 8,
+        "item" : "ROOFS/PARAPETS"
+      }, {
+        "count" : 7,
+        "item" : "FY09 RESO A TECHNOLOGY"
+      }, {
+        "count" : 6,
+        "item" : "FY10 RESO A PA SYSTEMS"
+      }, {
+        "count" : 5,
+        "item" : "TOILETS STUDENTS"
+      }, {
+        "count" : 4,
+        "item" : "WATER PENETRATION"
+      }, {
+        "count" : 3,
+        "item" : "BOILER REPLACEMENT/CLIMATE CONTROL"
+      }, {
+        "count" : 2,
+        "item" : "FENCING/PAVED AREAS-CONCRETE"
+      }, {
+        "count" : 1,
+        "item" : "PARAPETS/ROOFS/WINDOWS/EXT MASONRY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137650,
+    "name" : "award",
+    "dataTypeName" : "number",
+    "fieldName" : "award",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565441,
+    "width" : 160,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "10621.99",
+      "sum" : "106166513.07",
+      "null" : 0,
+      "average" : "3660914.243793103",
+      "largest" : "53450000",
+      "top" : [ {
+        "count" : 20,
+        "item" : "77000"
+      }, {
+        "count" : 19,
+        "item" : "691000"
+      }, {
+        "count" : 18,
+        "item" : "10621.99"
+      }, {
+        "count" : 17,
+        "item" : "3315000"
+      }, {
+        "count" : 16,
+        "item" : "3171000"
+      }, {
+        "count" : 15,
+        "item" : "1270000"
+      }, {
+        "count" : 14,
+        "item" : "3285000"
+      }, {
+        "count" : 13,
+        "item" : "418000"
+      }, {
+        "count" : 12,
+        "item" : "340000"
+      }, {
+        "count" : 11,
+        "item" : "3826000"
+      }, {
+        "count" : 10,
+        "item" : "934104"
+      }, {
+        "count" : 9,
+        "item" : "617000"
+      }, {
+        "count" : 8,
+        "item" : "824000"
+      }, {
+        "count" : 7,
+        "item" : "90290.18"
+      }, {
+        "count" : 6,
+        "item" : "448000"
+      }, {
+        "count" : 5,
+        "item" : "999999"
+      }, {
+        "count" : 4,
+        "item" : "579900"
+      }, {
+        "count" : 3,
+        "item" : "3330000"
+      }, {
+        "count" : 2,
+        "item" : "675000"
+      }, {
+        "count" : 1,
+        "item" : "5847000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137651,
+    "name" : "consttype",
+    "dataTypeName" : "text",
+    "fieldName" : "consttype",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565442,
+    "width" : 208,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "CAP",
+      "null" : 0,
+      "largest" : "CIP",
+      "top" : [ {
+        "count" : 20,
+        "item" : "CIP"
+      }, {
+        "count" : 19,
+        "item" : "CAP"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137652,
+    "name" : "buildingid",
+    "dataTypeName" : "text",
+    "fieldName" : "buildingid",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565443,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 29,
+      "smallest" : "R003",
+      "null" : 0,
+      "largest" : "R880",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R024"
+      }, {
+        "count" : 19,
+        "item" : "R072"
+      }, {
+        "count" : 18,
+        "item" : "R435"
+      }, {
+        "count" : 17,
+        "item" : "R014"
+      }, {
+        "count" : 16,
+        "item" : "R018"
+      }, {
+        "count" : 15,
+        "item" : "R019"
+      }, {
+        "count" : 14,
+        "item" : "R020"
+      }, {
+        "count" : 13,
+        "item" : "R021"
+      }, {
+        "count" : 12,
+        "item" : "R022"
+      }, {
+        "count" : 11,
+        "item" : "R029"
+      }, {
+        "count" : 10,
+        "item" : "R003"
+      }, {
+        "count" : 9,
+        "item" : "R036"
+      }, {
+        "count" : 8,
+        "item" : "R040"
+      }, {
+        "count" : 7,
+        "item" : "R004"
+      }, {
+        "count" : 6,
+        "item" : "R041"
+      }, {
+        "count" : 5,
+        "item" : "R045"
+      }, {
+        "count" : 4,
+        "item" : "R050"
+      }, {
+        "count" : 3,
+        "item" : "R053"
+      }, {
+        "count" : 2,
+        "item" : "R054"
+      }, {
+        "count" : 1,
+        "item" : "R055"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 13137653,
+    "name" : "Location 1",
+    "dataTypeName" : "location",
+    "fieldName" : "location_1",
+    "position" : 8,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1565444,
+    "width" : 220,
+    "cachedContents" : {
+      "non_null" : 27,
+      "smallest" : {
+        "longitude" : "-74.19217697672369",
+        "latitude" : "40.52826198723337",
+        "human_address" : "{\"address\":\"100 LUTEN AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+      },
+      "null" : 2,
+      "largest" : {
+        "longitude" : "-74.09531252948968",
+        "latitude" : "40.64071111953775",
+        "human_address" : "{\"address\":\"91 HENDERSON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.14643932417457",
+          "latitude" : "40.54537484828736",
+          "human_address" : "{\"address\":\"225 CLEVELAND AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10308\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.15872479868553",
+          "latitude" : "40.59325258206939",
+          "human_address" : "{\"address\":\"33 FERNDALE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.10726241466374",
+          "latitude" : "40.56922370455037",
+          "human_address" : "{\"address\":\"465 NEW DORP LANE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10306\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-74.07837687526822",
+          "latitude" : "40.622148795415534",
+          "human_address" : "{\"address\":\"100 TOMPKINS AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10304\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.11747369098056",
+          "latitude" : "40.63603930909672",
+          "human_address" : "{\"address\":\"221 BROADWAY\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.127115288525",
+          "latitude" : "40.631189624083056",
+          "human_address" : "{\"address\":\"780 POST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.13295576709373",
+          "latitude" : "40.63651173103697",
+          "human_address" : "{\"address\":\"161 PARK AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10302\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.14676832354822",
+          "latitude" : "40.63194814504947",
+          "human_address" : "{\"address\":\"168 HOOKER PLACE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10303\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.15109445915424",
+          "latitude" : "40.62530363633885",
+          "human_address" : "{\"address\":\"1860 FOREST AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10303\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.11613224214713",
+          "latitude" : "40.61361168930647",
+          "human_address" : "{\"address\":\"1581 VICTORY BLVD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-74.21279962614892",
+          "latitude" : "40.52665926345466",
+          "human_address" : "{\"address\":\"80 GOFF AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10309\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.18245006610681",
+          "latitude" : "40.54294395216458",
+          "human_address" : "{\"address\":\"255 IONIA AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-74.09531252948968",
+          "latitude" : "40.64071111953775",
+          "human_address" : "{\"address\":\"91 HENDERSON AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10301\"}"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-74.10928336025026",
+          "latitude" : "40.574024158045525",
+          "human_address" : "{\"address\":\"216 CLAWSON STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10306\"}"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-74.10718417740732",
+          "latitude" : "40.62863428073003",
+          "human_address" : "{\"address\":\"58 LAWRENCE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-74.10718417740732",
+          "latitude" : "40.62863428073003",
+          "human_address" : "{\"address\":\"58 LAWRENCE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10310\"}"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-74.12474473444865",
+          "latitude" : "40.561729222740695",
+          "human_address" : "{\"address\":\"200 ADELAIDE AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10306\"}"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-74.13710643405284",
+          "latitude" : "40.55253899268856",
+          "human_address" : "{\"address\":\"330 DURANT AVENUE\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10308\"}"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-74.13792964309168",
+          "latitude" : "40.60321556338597",
+          "human_address" : "{\"address\":\"1060 WILLOWBROOK RD\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10314\"}"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-74.16332659953605",
+          "latitude" : "40.53686781464157",
+          "human_address" : "{\"address\":\"54 OSBORNE STREET\",\"city\":\"Staten Island\",\"state\":\"NY\",\"zip\":\"10312\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "ymin" : 40.484294,
+      "ymax" : 40.706925,
+      "xmin" : -74.334759,
+      "xmax" : -73.893246
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "qhpt-s5fc",
+      "viewport" : {
+        "ymin" : 40.484294,
+        "ymax" : 40.706925,
+        "xmin" : -74.334759,
+        "xmax" : -73.893246
+      },
+      "plotStyle" : "point",
+      "type" : "google",
+      "plot" : {
+        "locationId" : 1565444
+      }
+    } ],
+    "type" : "google",
+    "plot" : {
+      "locationId" : 1565444
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "query" : {
+      "qhpt-s5fc" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 13137647,
+                "type" : "column"
+              }, {
+                "value" : "R",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "244222" : 1565438
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "attachments" : [ {
+      "blobId" : "98A20663-F9C0-48D6-8EB6-FF90A1DA2B08",
+      "name" : "Big_Apps_Data_Desc.xls",
+      "filename" : "Big_Apps_Data_Desc.xls"
+    } ]
+  },
+  "owner" : {
+    "id" : "tazj-hvy6",
+    "displayName" : "xborough",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1341612525,
+    "screenName" : "xborough"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 13137647,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "R"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "244222" : 1565438
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "school", "construction", "authority", "sca", "capital", "improvement", "project", "current", "education" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 13137647,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "R"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "244222" : 1565438
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

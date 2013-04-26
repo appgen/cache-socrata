@@ -1,0 +1,1733 @@
+{
+  "id" : "cume-ppfg",
+  "name" : "Roosevelt Island Landmark",
+  "attribution" : "Landmarks Preservation Commission (LPC)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1361411094,
+  "description" : "Landmarks Preservation Commission point shapefile. A point shapefile of NYC Landmarks Preservation Commission individual, interior and scenic landmarks as well as points of all buildings within historic districts; for use in Geographic Information Systems (GIS).",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2579874,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117252,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244167,
+  "totalTimesRated" : 0,
+  "viewCount" : 15,
+  "viewLastModified" : 1361411095,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45961010,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564830,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "1",
+      "sum" : "370232866",
+      "null" : 0,
+      "average" : "13606",
+      "largest" : "27211",
+      "top" : [ {
+        "count" : 20,
+        "item" : "27184"
+      }, {
+        "count" : 19,
+        "item" : "27185"
+      }, {
+        "count" : 18,
+        "item" : "27186"
+      }, {
+        "count" : 17,
+        "item" : "27187"
+      }, {
+        "count" : 16,
+        "item" : "27188"
+      }, {
+        "count" : 15,
+        "item" : "27189"
+      }, {
+        "count" : 14,
+        "item" : "27190"
+      }, {
+        "count" : 13,
+        "item" : "27191"
+      }, {
+        "count" : 12,
+        "item" : "27192"
+      }, {
+        "count" : 11,
+        "item" : "27193"
+      }, {
+        "count" : 10,
+        "item" : "27194"
+      }, {
+        "count" : 9,
+        "item" : "27195"
+      }, {
+        "count" : 8,
+        "item" : "27196"
+      }, {
+        "count" : 7,
+        "item" : "27197"
+      }, {
+        "count" : 6,
+        "item" : "27198"
+      }, {
+        "count" : 5,
+        "item" : "27199"
+      }, {
+        "count" : 4,
+        "item" : "27200"
+      }, {
+        "count" : 3,
+        "item" : "27201"
+      }, {
+        "count" : 2,
+        "item" : "27202"
+      }, {
+        "count" : 1,
+        "item" : "27203"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961011,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564831,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27209,
+      "smallest" : {
+        "longitude" : "-73.96168937999994",
+        "latitude" : "40.79800228000005"
+      },
+      "null" : 2,
+      "largest" : {
+        "longitude" : "-73.95359105099993",
+        "latitude" : "40.808421354000075"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.97117883699991",
+          "latitude" : "40.67891769900007"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.96533635199995",
+          "latitude" : "40.67580329800006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.97078127299994",
+          "latitude" : "40.67974675900007"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.96804102099992",
+          "latitude" : "40.67731106900004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9682830079999",
+          "latitude" : "40.68002251200005"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.96400804099994",
+          "latitude" : "40.67552812100007"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.96675563999992",
+          "latitude" : "40.67561582900004"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.97071835499992",
+          "latitude" : "40.67918288900006"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.9726978839999",
+          "latitude" : "40.678709886000036"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.96841688699993",
+          "latitude" : "40.675879922000036"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.97178844299992",
+          "latitude" : "40.68039487000004"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.97059382599991",
+          "latitude" : "40.67970712300007"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.96997937899994",
+          "latitude" : "40.67772347500005"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.9640506639999",
+          "latitude" : "40.67590970300006"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.97023375099991",
+          "latitude" : "40.67816628500009"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.96753631199994",
+          "latitude" : "40.68058078300004"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.96455072499992",
+          "latitude" : "40.676015318000054"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.97112407299994",
+          "latitude" : "40.68149912000007"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.97180271999991",
+          "latitude" : "40.67969254600007"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.96898954699992",
+          "latitude" : "40.67878553600008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 45961012,
+    "name" : "COUNT_BLDG",
+    "dataTypeName" : "number",
+    "description" : "COUNT_BLDG",
+    "fieldName" : "count_bldg",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564832,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "0",
+      "sum" : "25028",
+      "null" : 0,
+      "average" : "0.9197750909558634",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961013,
+    "name" : "NON_BLDG",
+    "dataTypeName" : "text",
+    "description" : "NON_BLDG",
+    "fieldName" : "non_bldg",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564833,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Water tower",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Already counted"
+      }, {
+        "count" : 18,
+        "item" : "Additional Section"
+      }, {
+        "count" : 17,
+        "item" : "Sidewalk clock"
+      }, {
+        "count" : 16,
+        "item" : "Graveyard / Cemetery"
+      }, {
+        "count" : 15,
+        "item" : "Fence"
+      }, {
+        "count" : 14,
+        "item" : "-"
+      }, {
+        "count" : 13,
+        "item" : "Misc"
+      }, {
+        "count" : 12,
+        "item" : "Bridge"
+      }, {
+        "count" : 11,
+        "item" : "Scenic landmark"
+      }, {
+        "count" : 10,
+        "item" : "Street median"
+      }, {
+        "count" : 9,
+        "item" : "Interior, exterior already counted"
+      }, {
+        "count" : 8,
+        "item" : "Scenic landmark / Parkway"
+      }, {
+        "count" : 7,
+        "item" : "Lamppost"
+      }, {
+        "count" : 6,
+        "item" : "Recreation space and tidal wetlands"
+      }, {
+        "count" : 5,
+        "item" : "Ice Rink"
+      }, {
+        "count" : 4,
+        "item" : "Gate"
+      }, {
+        "count" : 3,
+        "item" : "Amuesment ride"
+      }, {
+        "count" : 2,
+        "item" : "Scenic Landmark"
+      }, {
+        "count" : 1,
+        "item" : "Subway"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961014,
+    "name" : "VACANT_LOT",
+    "dataTypeName" : "number",
+    "description" : "VACANT_LOT",
+    "fieldName" : "vacant_lot",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564834,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "0",
+      "sum" : "362",
+      "null" : 0,
+      "average" : "0.01330344346036529",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961015,
+    "name" : "SECND_BLDG",
+    "dataTypeName" : "number",
+    "description" : "SECND_BLDG",
+    "fieldName" : "secnd_bldg",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564835,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "0",
+      "sum" : "1039",
+      "null" : 0,
+      "average" : "0.03818308772187718",
+      "largest" : "1",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961016,
+    "name" : "BIN_NUMBER",
+    "dataTypeName" : "number",
+    "description" : "BIN_NUMBER",
+    "fieldName" : "bin_number",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564836,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "0",
+      "sum" : "61994257798",
+      "null" : 0,
+      "average" : "2278279.291389512",
+      "largest" : "5143933",
+      "top" : [ {
+        "count" : 20,
+        "item" : "4000000"
+      }, {
+        "count" : 19,
+        "item" : "1000000"
+      }, {
+        "count" : 18,
+        "item" : "3028898"
+      }, {
+        "count" : 17,
+        "item" : "3028190"
+      }, {
+        "count" : 16,
+        "item" : "3028711"
+      }, {
+        "count" : 15,
+        "item" : "3029047"
+      }, {
+        "count" : 14,
+        "item" : "3028395"
+      }, {
+        "count" : 13,
+        "item" : "3029166"
+      }, {
+        "count" : 12,
+        "item" : "3028112"
+      }, {
+        "count" : 11,
+        "item" : "3028791"
+      }, {
+        "count" : 10,
+        "item" : "3027876"
+      }, {
+        "count" : 9,
+        "item" : "3029187"
+      }, {
+        "count" : 8,
+        "item" : "3029116"
+      }, {
+        "count" : 7,
+        "item" : "3028170"
+      }, {
+        "count" : 6,
+        "item" : "3028380"
+      }, {
+        "count" : 5,
+        "item" : "3029138"
+      }, {
+        "count" : 4,
+        "item" : "3027830"
+      }, {
+        "count" : 3,
+        "item" : "3028115"
+      }, {
+        "count" : 2,
+        "item" : "3028735"
+      }, {
+        "count" : 1,
+        "item" : "3028886"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961017,
+    "name" : "BBL",
+    "dataTypeName" : "text",
+    "description" : "BBL",
+    "fieldName" : "bbl",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564837,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "5080500013",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1011110001"
+      }, {
+        "count" : 19,
+        "item" : "1000010010"
+      }, {
+        "count" : 18,
+        "item" : "1019480041"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961018,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564838,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "SI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MN"
+      }, {
+        "count" : 19,
+        "item" : "BK"
+      }, {
+        "count" : 18,
+        "item" : "QN"
+      }, {
+        "count" : 17,
+        "item" : "BX"
+      }, {
+        "count" : 16,
+        "item" : "SI"
+      }, {
+        "count" : 15,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961019,
+    "name" : "BLOCK",
+    "dataTypeName" : "number",
+    "description" : "BLOCK",
+    "fieldName" : "block",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564839,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "0",
+      "sum" : "47293927",
+      "null" : 0,
+      "average" : "1738.044430561170",
+      "largest" : "20076",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "182"
+      }, {
+        "count" : 17,
+        "item" : "133"
+      }, {
+        "count" : 16,
+        "item" : "154"
+      }, {
+        "count" : 15,
+        "item" : "148"
+      }, {
+        "count" : 14,
+        "item" : "155"
+      }, {
+        "count" : 13,
+        "item" : "149"
+      }, {
+        "count" : 12,
+        "item" : "1126"
+      }, {
+        "count" : 11,
+        "item" : "530"
+      }, {
+        "count" : 10,
+        "item" : "1871"
+      }, {
+        "count" : 9,
+        "item" : "5237"
+      }, {
+        "count" : 8,
+        "item" : "6693"
+      }, {
+        "count" : 7,
+        "item" : "5239"
+      }, {
+        "count" : 6,
+        "item" : "5240"
+      }, {
+        "count" : 5,
+        "item" : "5238"
+      }, {
+        "count" : 4,
+        "item" : "6692"
+      }, {
+        "count" : 3,
+        "item" : "1111"
+      }, {
+        "count" : 2,
+        "item" : "1144"
+      }, {
+        "count" : 1,
+        "item" : "1143"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961020,
+    "name" : "LOT",
+    "dataTypeName" : "number",
+    "description" : "LOT",
+    "fieldName" : "lot",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564840,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : "0",
+      "sum" : "6280553",
+      "null" : 0,
+      "average" : "230.8093418102973",
+      "largest" : "9999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "10"
+      }, {
+        "count" : 18,
+        "item" : "0"
+      }, {
+        "count" : 17,
+        "item" : "23"
+      }, {
+        "count" : 16,
+        "item" : "28"
+      }, {
+        "count" : 15,
+        "item" : "7501"
+      }, {
+        "count" : 14,
+        "item" : "67"
+      }, {
+        "count" : 13,
+        "item" : "12"
+      }, {
+        "count" : 12,
+        "item" : "25"
+      }, {
+        "count" : 11,
+        "item" : "15"
+      }, {
+        "count" : 10,
+        "item" : "18"
+      }, {
+        "count" : 9,
+        "item" : "49"
+      }, {
+        "count" : 8,
+        "item" : "46"
+      }, {
+        "count" : 7,
+        "item" : "52"
+      }, {
+        "count" : 6,
+        "item" : "88"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "76"
+      }, {
+        "count" : 3,
+        "item" : "58"
+      }, {
+        "count" : 2,
+        "item" : "34"
+      }, {
+        "count" : 1,
+        "item" : "51"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961021,
+    "name" : "LP_NUMBER",
+    "dataTypeName" : "text",
+    "description" : "LP_NUMBER",
+    "fieldName" : "lp_number",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564841,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "LP-2337",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LP-2204"
+      }, {
+        "count" : 19,
+        "item" : "LP-0320"
+      }, {
+        "count" : 18,
+        "item" : "LP-0709"
+      }, {
+        "count" : 17,
+        "item" : "LP-1647"
+      }, {
+        "count" : 16,
+        "item" : "LP-0489"
+      }, {
+        "count" : 15,
+        "item" : "LP-0099"
+      }, {
+        "count" : 14,
+        "item" : "LP-1024"
+      }, {
+        "count" : 13,
+        "item" : "LP-2017"
+      }, {
+        "count" : 12,
+        "item" : "LP-0973"
+      }, {
+        "count" : 11,
+        "item" : "LP-0768"
+      }, {
+        "count" : 10,
+        "item" : "LP-1051"
+      }, {
+        "count" : 9,
+        "item" : "LP-0695"
+      }, {
+        "count" : 8,
+        "item" : "LP-1831"
+      }, {
+        "count" : 7,
+        "item" : "LP-1957"
+      }, {
+        "count" : 6,
+        "item" : "LP-1609"
+      }, {
+        "count" : 5,
+        "item" : "LP-1248"
+      }, {
+        "count" : 4,
+        "item" : "LP-1961"
+      }, {
+        "count" : 3,
+        "item" : "LP-1235"
+      }, {
+        "count" : 2,
+        "item" : "LP-2258"
+      }, {
+        "count" : 1,
+        "item" : "LP-0948"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961022,
+    "name" : "LM_NAME",
+    "dataTypeName" : "text",
+    "description" : "LM_NAME",
+    "fieldName" : "lm_name",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564842,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Young Men's Institute Building",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Crown Heights North Historic District"
+      }, {
+        "count" : 19,
+        "item" : "Cobble Hill Historic District"
+      }, {
+        "count" : 18,
+        "item" : "Park Slope Historic District"
+      }, {
+        "count" : 17,
+        "item" : "Upper West Side/Central Park West Historic District"
+      }, {
+        "count" : 16,
+        "item" : "Greenwich Village Historic District"
+      }, {
+        "count" : 15,
+        "item" : "Brooklyn Heights Historic District"
+      }, {
+        "count" : 14,
+        "item" : "Prospect Lefferts Gardens Historic District"
+      }, {
+        "count" : 13,
+        "item" : "Clinton Hill Historic District"
+      }, {
+        "count" : 12,
+        "item" : "Fort Greene Historic District"
+      }, {
+        "count" : 11,
+        "item" : "SoHo-Cast Iron Historic District"
+      }, {
+        "count" : 10,
+        "item" : "Upper East Side Historic District"
+      }, {
+        "count" : 9,
+        "item" : "Stuyvesant Heights Historic District"
+      }, {
+        "count" : 8,
+        "item" : "Jackson Heights Historic District"
+      }, {
+        "count" : 7,
+        "item" : "Douglaston Historic District"
+      }, {
+        "count" : 6,
+        "item" : "Ladies' Mile Historic District"
+      }, {
+        "count" : 5,
+        "item" : "Greenpoint Historic District"
+      }, {
+        "count" : 4,
+        "item" : "Street Plan of New Amsterdam and Colonial New York"
+      }, {
+        "count" : 3,
+        "item" : "Sunnyside Gardens Historic District"
+      }, {
+        "count" : 2,
+        "item" : "South Street Seaport Historic District"
+      }, {
+        "count" : 1,
+        "item" : "Expanded Carnegie Hill Historic District"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961023,
+    "name" : "OTHER_NAME",
+    "dataTypeName" : "text",
+    "description" : "OTHER_NAME",
+    "fieldName" : "other_name",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564843,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Zion Lutheran Church",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Negros Burying Ground and the Commons Historic District"
+      }, {
+        "count" : 18,
+        "item" : "Interborough Rapid Transit System Control House"
+      }, {
+        "count" : 17,
+        "item" : "Greenwich Street House (No. 402) / Canal Street House (502)"
+      }, {
+        "count" : 16,
+        "item" : "Purdy Hotel"
+      }, {
+        "count" : 15,
+        "item" : "Squadron \"A\" Armory"
+      }, {
+        "count" : 14,
+        "item" : "Good Shepherd Community Ecumenical Center"
+      }, {
+        "count" : 13,
+        "item" : "St. Pauls P.E. Church & Rectory"
+      }, {
+        "count" : 12,
+        "item" : "(Former) 66th Police Precinct House"
+      }, {
+        "count" : 11,
+        "item" : "New York City Lunatic Asylum"
+      }, {
+        "count" : 10,
+        "item" : "James Blackwell House"
+      }, {
+        "count" : 9,
+        "item" : "Benjamin T. Pike House"
+      }, {
+        "count" : 8,
+        "item" : "St. John's P.E. Church"
+      }, {
+        "count" : 7,
+        "item" : "Dry Dock #1, Navy Yard"
+      }, {
+        "count" : 6,
+        "item" : "Paul J. Rainey Memorial Gates"
+      }, {
+        "count" : 5,
+        "item" : "Zion Lutheran Church"
+      }, {
+        "count" : 4,
+        "item" : "Strecker Memorial Laboratory"
+      }, {
+        "count" : 3,
+        "item" : "Morris B. Sanders Studio and Apartment"
+      }, {
+        "count" : 2,
+        "item" : "LeBrun Fire House"
+      }, {
+        "count" : 1,
+        "item" : "Lee's Art Shop"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961024,
+    "name" : "HOUSE_NUMB",
+    "dataTypeName" : "text",
+    "description" : "HOUSE_NUMB",
+    "fieldName" : "house_numb",
+    "position" : 15,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564844,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "NO NUMBER",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "287"
+      }, {
+        "count" : 17,
+        "item" : "162"
+      }, {
+        "count" : 16,
+        "item" : "518"
+      }, {
+        "count" : 15,
+        "item" : "576"
+      }, {
+        "count" : 14,
+        "item" : "209"
+      }, {
+        "count" : 13,
+        "item" : "145"
+      }, {
+        "count" : 12,
+        "item" : "NO NUMBER"
+      }, {
+        "count" : 11,
+        "item" : "222"
+      }, {
+        "count" : 10,
+        "item" : "94"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961025,
+    "name" : "STREET_NAM",
+    "dataTypeName" : "text",
+    "description" : "STREET_NAM",
+    "fieldName" : "street_nam",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564845,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GOVERNORS ISLAND"
+      }, {
+        "count" : 19,
+        "item" : "LOCUST STREET"
+      }, {
+        "count" : 18,
+        "item" : "GOSMAN AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "46 STREET"
+      }, {
+        "count" : 16,
+        "item" : "47 STREET"
+      }, {
+        "count" : 15,
+        "item" : "39 AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "PACKARD STREET"
+      }, {
+        "count" : 13,
+        "item" : "43 STREET"
+      }, {
+        "count" : 12,
+        "item" : "SKILLMAN AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "CENTRAL PARK WEST"
+      }, {
+        "count" : 10,
+        "item" : "WEST 76 STREET"
+      }, {
+        "count" : 9,
+        "item" : "WEST 73 STREET"
+      }, {
+        "count" : 8,
+        "item" : "EAST 18 STREET"
+      }, {
+        "count" : 7,
+        "item" : "EAST 19 STREET"
+      }, {
+        "count" : 6,
+        "item" : "EAST 17 STREET"
+      }, {
+        "count" : 5,
+        "item" : "BOND STREET"
+      }, {
+        "count" : 4,
+        "item" : "GREAT JONES STREET"
+      }, {
+        "count" : 3,
+        "item" : " "
+      }, {
+        "count" : 2,
+        "item" : "ALICE COURT"
+      }, {
+        "count" : 1,
+        "item" : "AGATE COURT"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961026,
+    "name" : "DESIG_ADDR",
+    "dataTypeName" : "text",
+    "description" : "DESIG_ADDR",
+    "fieldName" : "desig_addr",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564846,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "308 EAST 12 STREET"
+      }, {
+        "count" : 19,
+        "item" : "261 11 AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "MANHATTAN AVENUE, MORNINGSIDE AVENUE, MORNINGSIDE DRIVE, WEST 110 STREET (CATHEDRAL PARKWAY), WEST 123 STREET"
+      }, {
+        "count" : 17,
+        "item" : "605 WEST 156 STREET"
+      }, {
+        "count" : 16,
+        "item" : "601 WEST 156 STREET (AKA 3757-3763 BROADWAY)"
+      }, {
+        "count" : 15,
+        "item" : "3765 BROADWAY (AKA 3765-3779 BROADWAY; 600 WEST 157 STREET)"
+      }, {
+        "count" : 14,
+        "item" : "602 WEST 157 STREET (AKA 602-608 WEST 157 STREET)"
+      }, {
+        "count" : 13,
+        "item" : "614 WEST 157 STREET (AKA 610-616 WEST 157 STREET)"
+      }, {
+        "count" : 12,
+        "item" : "21 WADSWORTH AVENUE (AKA 21-27 WADSWORTH AVENUE; 617-619 WEST 174 STREET)"
+      }, {
+        "count" : 11,
+        "item" : "CENTRAL PARK"
+      }, {
+        "count" : 10,
+        "item" : " "
+      }, {
+        "count" : 9,
+        "item" : "1 GOVERNORS ISLAND"
+      }, {
+        "count" : 8,
+        "item" : "165A ST MARK'S AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "565A CARLTON AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "637A VANDERBILT AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "593 1/2 AND 593A VANDERBILT AVENUE"
+      }, {
+        "count" : 4,
+        "item" : "214A ST MARK'S AVENUE"
+      }, {
+        "count" : 3,
+        "item" : "617A VANDERBILT AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "626A BERGEN STREET"
+      }, {
+        "count" : 1,
+        "item" : "618A BERGEN STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961027,
+    "name" : "DESIG_DATE",
+    "dataTypeName" : "date",
+    "description" : "DESIG_DATE",
+    "fieldName" : "desig_date",
+    "position" : 18,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1564847,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27209,
+      "smallest" : -133030800,
+      "null" : 2,
+      "largest" : 1245740400,
+      "top" : [ {
+        "count" : 20,
+        "item" : 1177398000
+      }, {
+        "count" : 19,
+        "item" : -144000
+      }, {
+        "count" : 18,
+        "item" : 111740400
+      }, {
+        "count" : 17,
+        "item" : 640940400
+      }, {
+        "count" : 16,
+        "item" : -21315600
+      }, {
+        "count" : 15,
+        "item" : -129571200
+      }, {
+        "count" : 14,
+        "item" : 308300400
+      }, {
+        "count" : 13,
+        "item" : 374227200
+      }, {
+        "count" : 12,
+        "item" : 275641200
+      }, {
+        "count" : 11,
+        "item" : 114159600
+      }, {
+        "count" : 10,
+        "item" : 359103600
+      }, {
+        "count" : 9,
+        "item" : 53679600
+      }, {
+        "count" : 8,
+        "item" : 751014000
+      }, {
+        "count" : 7,
+        "item" : 867135600
+      }, {
+        "count" : 6,
+        "item" : 610095600
+      }, {
+        "count" : 5,
+        "item" : 400834800
+      }, {
+        "count" : 4,
+        "item" : 723801600
+      }, {
+        "count" : 3,
+        "item" : 866530800
+      }, {
+        "count" : 2,
+        "item" : 424422000
+      }, {
+        "count" : 1,
+        "item" : -72118800
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961028,
+    "name" : "PUBLIC_HEA",
+    "dataTypeName" : "text",
+    "description" : "PUBLIC_HEA",
+    "fieldName" : "public_hea",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564848,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "LP-307: 6/14/1966",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "LP-0804: 7/24/1973"
+      }, {
+        "count" : 18,
+        "item" : "10/16/2007"
+      }, {
+        "count" : 17,
+        "item" : "3/18/2008"
+      }, {
+        "count" : 16,
+        "item" : "5/13/2008; 6/3/2008"
+      }, {
+        "count" : 15,
+        "item" : "10/30/2007"
+      }, {
+        "count" : 14,
+        "item" : "1/30/2007"
+      }, {
+        "count" : 13,
+        "item" : "06/24/2008"
+      }, {
+        "count" : 12,
+        "item" : "09/16/2008"
+      }, {
+        "count" : 11,
+        "item" : "10/28/2008"
+      }, {
+        "count" : 10,
+        "item" : "4/10/2007"
+      }, {
+        "count" : 9,
+        "item" : "03/18/2008"
+      }, {
+        "count" : 8,
+        "item" : "01/30/2007"
+      }, {
+        "count" : 7,
+        "item" : "3/18/2008; 4/15/2008"
+      }, {
+        "count" : 6,
+        "item" : "12/16/2008"
+      }, {
+        "count" : 5,
+        "item" : "6/24/2008; 1/13/2009"
+      }, {
+        "count" : 4,
+        "item" : "12/12/2006"
+      }, {
+        "count" : 3,
+        "item" : "6/24/2008"
+      }, {
+        "count" : 2,
+        "item" : "11/28/2008"
+      }, {
+        "count" : 1,
+        "item" : "9/16/2008"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961029,
+    "name" : "LM_TYPE",
+    "dataTypeName" : "text",
+    "description" : "LM_TYPE",
+    "fieldName" : "lm_type",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564849,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Scenic Landmark",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Historic District"
+      }, {
+        "count" : 19,
+        "item" : "Individual Landmark"
+      }, {
+        "count" : 18,
+        "item" : "Interior Landmark"
+      }, {
+        "count" : 17,
+        "item" : "Scenic Landmark"
+      }, {
+        "count" : 16,
+        "item" : "Individual Landmark - Turned Back"
+      }, {
+        "count" : 15,
+        "item" : "Interior Landmark - Amended"
+      }, {
+        "count" : 14,
+        "item" : "Individual Landmark - Demolished"
+      }, {
+        "count" : 13,
+        "item" : "Individual Landmark - Rescinded"
+      }, {
+        "count" : 12,
+        "item" : "Individual Landmark - De-Calendared"
+      }, {
+        "count" : 11,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961030,
+    "name" : "HIST_DISTR",
+    "dataTypeName" : "text",
+    "description" : "HIST_DISTR",
+    "fieldName" : "hist_distr",
+    "position" : 21,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564850,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Yes. Morris High School",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Yes, Crown Heights North"
+      }, {
+        "count" : 19,
+        "item" : "Yes, Cobble Hill"
+      }, {
+        "count" : 18,
+        "item" : "No"
+      }, {
+        "count" : 17,
+        "item" : "Yes, Park Slope"
+      }, {
+        "count" : 16,
+        "item" : "Yes, Ladies' Mile"
+      }, {
+        "count" : 15,
+        "item" : "Yes, Upper West Side/Central Park West"
+      }, {
+        "count" : 14,
+        "item" : "Yes, SoHo-Cast Iron"
+      }, {
+        "count" : 13,
+        "item" : "Yes, Greenwich Village"
+      }, {
+        "count" : 12,
+        "item" : "Yes, Brooklyn Heights"
+      }, {
+        "count" : 11,
+        "item" : "Yes, Prospect Lefferts Gardens"
+      }, {
+        "count" : 10,
+        "item" : "Yes, Clinton Hill"
+      }, {
+        "count" : 9,
+        "item" : "Yes, Fort Greene"
+      }, {
+        "count" : 8,
+        "item" : "Yes, Upper East Side"
+      }, {
+        "count" : 7,
+        "item" : "Yes, Expanded Carnegie Hill"
+      }, {
+        "count" : 6,
+        "item" : "Yes, Stuyvesant Heights"
+      }, {
+        "count" : 5,
+        "item" : "Yes, Jackson Heights"
+      }, {
+        "count" : 4,
+        "item" : "Yes, Douglaston"
+      }, {
+        "count" : 3,
+        "item" : "Yes, Fieldston"
+      }, {
+        "count" : 2,
+        "item" : "Yes, Boerum Hill"
+      }, {
+        "count" : 1,
+        "item" : "Yes, Greenpoint"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961031,
+    "name" : "BOUNDARIES",
+    "dataTypeName" : "text",
+    "description" : "BOUNDARIES",
+    "fieldName" : "boundaries",
+    "position" : 22,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564851,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Turned back",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Block & Lot"
+      }, {
+        "count" : 19,
+        "item" : "See designation report"
+      }, {
+        "count" : 18,
+        "item" : "Partial lot"
+      }, {
+        "count" : 17,
+        "item" : "Portion of sidewalk"
+      }, {
+        "count" : 16,
+        "item" : "Partial Lot"
+      }, {
+        "count" : 15,
+        "item" : "Property on which the lamppost is situated"
+      }, {
+        "count" : 14,
+        "item" : "Interior lot"
+      }, {
+        "count" : 13,
+        "item" : "Turned back"
+      }, {
+        "count" : 12,
+        "item" : "Demolished"
+      }, {
+        "count" : 11,
+        "item" : "Rescinded"
+      }, {
+        "count" : 10,
+        "item" : "BlockLot"
+      }, {
+        "count" : 9,
+        "item" : " "
+      }, {
+        "count" : 8,
+        "item" : "No"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961032,
+    "name" : "NOTES",
+    "dataTypeName" : "text",
+    "description" : "NOTES",
+    "fieldName" : "notes",
+    "position" : 23,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564852,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Vacant land at time of designation",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Also: South Street Seaport Historic District (LP-0948; 5/10/1977)"
+      }, {
+        "count" : 18,
+        "item" : "Also: Upper East Side Historic District (LP-1051; 5/19/1981)"
+      }, {
+        "count" : 17,
+        "item" : "Also: Central Park West - 76th Street Historic District (LP-0713; 4/19/1973)"
+      }, {
+        "count" : 16,
+        "item" : "Also: Upper West Side/Central Park West Historic District (LP-1647; 4/24/1990)"
+      }, {
+        "count" : 15,
+        "item" : "Also: Expanded Carnegie Hill Historic District (LP-1834; 12/21/1993)"
+      }, {
+        "count" : 14,
+        "item" : "Also: Central Park West - West 73rd-74th Street Historic District (LP-0964; 7/12/1977)"
+      }, {
+        "count" : 13,
+        "item" : "Also: Governors Island Historic District (LP-1946; 6/18/1966)"
+      }, {
+        "count" : 12,
+        "item" : "Also: Individual Designation (LP-0543; 9/19/1967)"
+      }, {
+        "count" : 11,
+        "item" : "Also: Individual Designation (LP-0241; 12/9/1969)"
+      }, {
+        "count" : 10,
+        "item" : "Also: Portions of Manhattan Bridge, see designation report"
+      }, {
+        "count" : 9,
+        "item" : "Also: Interior Landmark"
+      }, {
+        "count" : 8,
+        "item" : "Fountain of Life"
+      }, {
+        "count" : 7,
+        "item" : "Tulip Tree Allee"
+      }, {
+        "count" : 6,
+        "item" : "Historic Lot 10"
+      }, {
+        "count" : 5,
+        "item" : "The High Line"
+      }, {
+        "count" : 4,
+        "item" : "Vacant land at time of designation"
+      }, {
+        "count" : 3,
+        "item" : "Historic Lot 167 (now condo lots 1101-1143)"
+      }, {
+        "count" : 2,
+        "item" : "Now condo lots 1201-1365"
+      }, {
+        "count" : 1,
+        "item" : "Interior building."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45961033,
+    "name" : "STATUS",
+    "dataTypeName" : "text",
+    "description" : "STATUS",
+    "fieldName" : "status",
+    "position" : 24,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564853,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 27211,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "TURNED BACK",
+      "top" : [ {
+        "count" : 20,
+        "item" : "DESIGNATED"
+      }, {
+        "count" : 19,
+        "item" : "TURNED BACK"
+      }, {
+        "count" : 18,
+        "item" : "AMENDED"
+      }, {
+        "count" : 17,
+        "item" : "DEMOLISHED"
+      }, {
+        "count" : 16,
+        "item" : "RESCINDED"
+      }, {
+        "count" : 15,
+        "item" : "DE-CALENDARED"
+      }, {
+        "count" : 14,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.75284802798,
+      "ymax" : 40.758158286759,
+      "xmin" : -73.969795981265,
+      "xmax" : -73.943415919166
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "sper-c9ks",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564832
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1564831,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564832
+      } ],
+      "latitudeId" : 1564830
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/LPC_points_001_23June2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "LM_NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "LPC_points_001_23June2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "3ejm-2gh4",
+    "displayName" : "J",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1361411094,
+    "screenName" : "J"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "historic", "landmark", "preservation", "preserve", "conservation", "conserve", "interior", "scenic", "building", "district" ]
+}

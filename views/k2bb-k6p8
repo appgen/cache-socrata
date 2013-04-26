@@ -1,0 +1,88 @@
+{
+  "id" : "k2bb-k6p8",
+  "name" : "Municipal Court Districts (water areas included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "DCP_nymcwiav_001.zip",
+  "blobFileSize" : 287239,
+  "blobId" : "6e0Chqrk_2xVL6C_E7NpeyFzZZ9ggRkUyut_Txa_dRY",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1366310219,
+  "description" : "GIS data: Boundaries of Municipal Court Districts (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3254890,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366310223,
+  "publicationGroup" : 804692,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 804692,
+  "totalTimesRated" : 0,
+  "viewCount" : 2,
+  "viewLastModified" : 1366310324,
+  "viewType" : "geo",
+  "childViews" : [ "5urb-5ucc" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/k2bb-k6p8",
+      "bbox" : "-74.2571589754619,40.495992205016016,-73.6992151836567,40.915565528731186",
+      "layers" : "geo_k2bb-k6p8-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_k2bb-k6p8"
+    },
+    "attachments" : [ {
+      "blobId" : "F267FFCE-A47F-49ED-A4F0-101F275C5BFB",
+      "name" : "DCP_nymcwiav_001.zip",
+      "filename" : "DCP_nymcwiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "municipal court districts (water areas included)", "dcp", "city planning", "gis", "map" ],
+  "flags" : [ "default" ]
+}

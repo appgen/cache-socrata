@@ -1,0 +1,373 @@
+{
+  "id" : "pwhj-ikym",
+  "name" : "Primary Commercial Zoning by lot",
+  "attribution" : "Economic Development Corporation (EDC)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1318117001,
+  "description" : "Primary Zoning by lot Based on PLUTO 2005",
+  "displayType" : "map",
+  "downloadCount" : 73,
+  "numberOfComments" : 0,
+  "oid" : 342306,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117011,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244160,
+  "totalTimesRated" : 0,
+  "viewCount" : 313,
+  "viewLastModified" : 1361280810,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989527,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564773,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1",
+      "sum" : "15",
+      "null" : 0,
+      "average" : "3",
+      "largest" : "5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989528,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564774,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2989529,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564775,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "1",
+      "sum" : "261",
+      "null" : 0,
+      "average" : "52.2",
+      "largest" : "176",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "176"
+      }, {
+        "count" : 18,
+        "item" : "40"
+      }, {
+        "count" : 17,
+        "item" : "15"
+      }, {
+        "count" : 16,
+        "item" : "29"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989530,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564776,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "BK",
+      "null" : 0,
+      "largest" : "SI",
+      "top" : [ {
+        "count" : 20,
+        "item" : "MN"
+      }, {
+        "count" : 19,
+        "item" : "BX"
+      }, {
+        "count" : 18,
+        "item" : "BK"
+      }, {
+        "count" : 17,
+        "item" : "QN"
+      }, {
+        "count" : 16,
+        "item" : "SI"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989531,
+    "name" : "ZONEDIST1",
+    "dataTypeName" : "text",
+    "description" : "ZONEDIST1",
+    "fieldName" : "zonedist1",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564777,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "C3",
+      "null" : 0,
+      "largest" : "R6A",
+      "top" : [ {
+        "count" : 20,
+        "item" : "R10A"
+      }, {
+        "count" : 19,
+        "item" : "C8-3"
+      }, {
+        "count" : 18,
+        "item" : "C4-3"
+      }, {
+        "count" : 17,
+        "item" : "R6A"
+      }, {
+        "count" : 16,
+        "item" : "C3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989532,
+    "name" : "VERSION",
+    "dataTypeName" : "text",
+    "description" : "VERSION",
+    "fieldName" : "version",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564778,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "05D",
+      "null" : 0,
+      "largest" : "05D",
+      "top" : [ {
+        "count" : 20,
+        "item" : "05D"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989533,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564779,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "481038.5561774791567586362361907958984375",
+      "sum" : "10274833.8486320047522895038127899169921875",
+      "null" : 0,
+      "average" : "2054966.769726401",
+      "largest" : "3590378.663638033904135227203369140625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2454269.2930517191998660564422607421875"
+      }, {
+        "count" : 19,
+        "item" : "481038.5561774791567586362361907958984375"
+      }, {
+        "count" : 18,
+        "item" : "3590378.663638033904135227203369140625"
+      }, {
+        "count" : 17,
+        "item" : "2894361.3156925030052661895751953125"
+      }, {
+        "count" : 16,
+        "item" : "854786.02007226948626339435577392578125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989534,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564780,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 5,
+      "smallest" : "47485182.431859739124774932861328125",
+      "sum" : "609572348.939442113041877746582031250",
+      "null" : 0,
+      "average" : "121914469.7878884",
+      "largest" : "183800754.2678386867046356201171875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "131545371.1623184680938720703125"
+      }, {
+        "count" : 19,
+        "item" : "47485182.431859739124774932861328125"
+      }, {
+        "count" : 18,
+        "item" : "183800754.2678386867046356201171875"
+      }, {
+        "count" : 17,
+        "item" : "180846761.8055044710636138916015625"
+      }, {
+        "count" : 16,
+        "item" : "65894279.271920748054981231689453125"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564774,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564775
+      } ],
+      "latitudeId" : 1564773
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/EDC_PrimaryZoningCommercial_001_14AUG2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "BOROUGH",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "EDC_PrimaryZoningCommercial_001_14AUG2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "03F17F45-D52B-44B5-9F3E-2CACF6DBCB09",
+      "name" : "EDC_PrimaryZoningCommercial_001.zip",
+      "filename" : "EDC_PrimaryZoningCommercial_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2545550325728,
+    "lat" : 40.9015359826631
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.6994628456396,
+    "lat" : 40.5065095495374
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "zoning", "property", "business geographic", "location", "map", "cartography", "commerce", "commercial", "zone", "lot", "pluto", "2005", "economic", "development" ],
+  "flags" : [ "default" ]
+}

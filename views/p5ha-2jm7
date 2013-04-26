@@ -1,0 +1,788 @@
+{
+  "id" : "p5ha-2jm7",
+  "name" : "kidsenviromap",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1361733325,
+  "description" : "Location of day care centers in the city with basic descriptive information.",
+  "displayType" : "map",
+  "downloadCount" : 5,
+  "numberOfComments" : 0,
+  "oid" : 2620760,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318012082,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243832,
+  "totalTimesRated" : 0,
+  "viewCount" : 10,
+  "viewLastModified" : 1361733325,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 46720447,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560061,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : "1",
+      "sum" : "1846081",
+      "null" : 0,
+      "average" : "961",
+      "largest" : "1921",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1887"
+      }, {
+        "count" : 19,
+        "item" : "1888"
+      }, {
+        "count" : 18,
+        "item" : "1889"
+      }, {
+        "count" : 17,
+        "item" : "1890"
+      }, {
+        "count" : 16,
+        "item" : "1891"
+      }, {
+        "count" : 15,
+        "item" : "1892"
+      }, {
+        "count" : 14,
+        "item" : "1893"
+      }, {
+        "count" : 13,
+        "item" : "1894"
+      }, {
+        "count" : 12,
+        "item" : "1895"
+      }, {
+        "count" : 11,
+        "item" : "1896"
+      }, {
+        "count" : 10,
+        "item" : "1897"
+      }, {
+        "count" : 9,
+        "item" : "1898"
+      }, {
+        "count" : 8,
+        "item" : "1899"
+      }, {
+        "count" : 7,
+        "item" : "1900"
+      }, {
+        "count" : 6,
+        "item" : "1901"
+      }, {
+        "count" : 5,
+        "item" : "1902"
+      }, {
+        "count" : 4,
+        "item" : "1903"
+      }, {
+        "count" : 3,
+        "item" : "1904"
+      }, {
+        "count" : 2,
+        "item" : "1905"
+      }, {
+        "count" : 1,
+        "item" : "1906"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46720448,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560062,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : {
+        "longitude" : "-74.16265171899994",
+        "latitude" : "40.60269980600009"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.11837967199995",
+        "latitude" : "40.55864492100005"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.96038219799993",
+          "latitude" : "40.80625512800009"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.96028717199994",
+          "latitude" : "40.81029452000007"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.00259383999992",
+          "latitude" : "40.64521923400008"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9611720879999",
+          "latitude" : "40.712249229000065"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.95753842899995",
+          "latitude" : "40.67657139500005"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.95142176099995",
+          "latitude" : "40.67285065200008"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9208727429999",
+          "latitude" : "40.67071796600004"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.8690519509999",
+          "latitude" : "40.672985114000085"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.88753338099991",
+          "latitude" : "40.66345675800005"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.96911384299995",
+          "latitude" : "40.690774677000036"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.88800959699995",
+          "latitude" : "40.74540376600004"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.83006959099993",
+          "latitude" : "40.75681921200004"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.8761777439999",
+          "latitude" : "40.73236805800008"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.86399817699993",
+          "latitude" : "40.73618983600005"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.8434636259999",
+          "latitude" : "40.72539136900008"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.81060831899993",
+          "latitude" : "40.72809576100008"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.8737238409999",
+          "latitude" : "40.711690109000074"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.99835025899995",
+          "latitude" : "40.692967829000054"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.95966728899992",
+          "latitude" : "40.70689688200008"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.9612313479999",
+          "latitude" : "40.65409790400008"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 46720449,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560063,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : "1199 Future Of America Learning Center",
+      "null" : 0,
+      "largest" : "Zion Lutheran Preschool",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Columbia Green House"
+      }, {
+        "count" : 19,
+        "item" : "Rita Gold Ecc Center For Infants & Parents"
+      }, {
+        "count" : 18,
+        "item" : "Christ United Methodist Headstart"
+      }, {
+        "count" : 17,
+        "item" : "Nuestros Ninos Iii Dc"
+      }, {
+        "count" : 16,
+        "item" : "St. Mark's Day Care Ctr"
+      }, {
+        "count" : 15,
+        "item" : "Haitian American Dcc #3"
+      }, {
+        "count" : 14,
+        "item" : "Unique Start Inc."
+      }, {
+        "count" : 13,
+        "item" : "Greater Bright Light Lc"
+      }, {
+        "count" : 12,
+        "item" : "St. Martin's Nur & Kdgn"
+      }, {
+        "count" : 11,
+        "item" : "William T. Dillon Child Study"
+      }, {
+        "count" : 10,
+        "item" : "Jackson Heights Children Center Inc."
+      }, {
+        "count" : 9,
+        "item" : "Red Apple Child Development Center"
+      }, {
+        "count" : 8,
+        "item" : "Happy Dragon Dcc"
+      }, {
+        "count" : 7,
+        "item" : "Sesame Sprout, Inc."
+      }, {
+        "count" : 6,
+        "item" : "Forest Hills Nursery &Kdgn"
+      }, {
+        "count" : 5,
+        "item" : "Personal Touch Ecc"
+      }, {
+        "count" : 4,
+        "item" : "Ready To Learn"
+      }, {
+        "count" : 3,
+        "item" : "St. Ann's Pre-School"
+      }, {
+        "count" : 2,
+        "item" : "Yeshiva Hs"
+      }, {
+        "count" : 1,
+        "item" : "Happy Child Day, Inc."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46720450,
+    "name" : "HOUSENUM",
+    "dataTypeName" : "text",
+    "description" : "HOUSENUM",
+    "fieldName" : "housenum",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560064,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "995",
+      "top" : [ {
+        "count" : 20,
+        "item" : "525"
+      }, {
+        "count" : 19,
+        "item" : "510"
+      }, {
+        "count" : 18,
+        "item" : "30"
+      }, {
+        "count" : 17,
+        "item" : "161"
+      }, {
+        "count" : 16,
+        "item" : "505"
+      }, {
+        "count" : 15,
+        "item" : "813"
+      }, {
+        "count" : 14,
+        "item" : "1746"
+      }, {
+        "count" : 13,
+        "item" : "1320"
+      }, {
+        "count" : 12,
+        "item" : "657"
+      }, {
+        "count" : 11,
+        "item" : "239"
+      }, {
+        "count" : 10,
+        "item" : "77-04"
+      }, {
+        "count" : 9,
+        "item" : "133-32"
+      }, {
+        "count" : 8,
+        "item" : "86-02"
+      }, {
+        "count" : 7,
+        "item" : "96-08"
+      }, {
+        "count" : 6,
+        "item" : "108-56"
+      }, {
+        "count" : 5,
+        "item" : "158-13"
+      }, {
+        "count" : 4,
+        "item" : "67-52"
+      }, {
+        "count" : 3,
+        "item" : "26"
+      }, {
+        "count" : 2,
+        "item" : "206"
+      }, {
+        "count" : 1,
+        "item" : "144"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46720451,
+    "name" : "STREETNAME",
+    "dataTypeName" : "text",
+    "description" : "STREETNAME",
+    "fieldName" : "streetname",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560065,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : "101 AVENUE",
+      "null" : 0,
+      "largest" : "YORK AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NOSTRAND AVENUE"
+      }, {
+        "count" : 19,
+        "item" : "LEFFERTS AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "WEST 120 STREET"
+      }, {
+        "count" : 17,
+        "item" : "WEST 145 STREET"
+      }, {
+        "count" : 16,
+        "item" : "WEST 15 STREET"
+      }, {
+        "count" : 15,
+        "item" : "STERLING PLACE"
+      }, {
+        "count" : 14,
+        "item" : "SUTTER AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "VAN SICLEN AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "VANDERBILT AVENUE"
+      }, {
+        "count" : 11,
+        "item" : "41 AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "41 ROAD"
+      }, {
+        "count" : 9,
+        "item" : "57 AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "69 AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "72 AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "79 STREET"
+      }, {
+        "count" : 5,
+        "item" : "WILLOW PLACE"
+      }, {
+        "count" : 4,
+        "item" : "WILSON STREET"
+      }, {
+        "count" : 3,
+        "item" : "WOODRUFF AVENUE"
+      }, {
+        "count" : 2,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "5 AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46720452,
+    "name" : "ZIP",
+    "dataTypeName" : "text",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560066,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : "10001",
+      "null" : 0,
+      "largest" : "11697",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11226"
+      }, {
+        "count" : 19,
+        "item" : "11203"
+      }, {
+        "count" : 18,
+        "item" : "10002"
+      }, {
+        "count" : 17,
+        "item" : "11221"
+      }, {
+        "count" : 16,
+        "item" : "10457"
+      }, {
+        "count" : 15,
+        "item" : "11206"
+      }, {
+        "count" : 14,
+        "item" : "11208"
+      }, {
+        "count" : 13,
+        "item" : "11230"
+      }, {
+        "count" : 12,
+        "item" : "11201"
+      }, {
+        "count" : 11,
+        "item" : "10027"
+      }, {
+        "count" : 10,
+        "item" : "10031"
+      }, {
+        "count" : 9,
+        "item" : "10025"
+      }, {
+        "count" : 8,
+        "item" : "11216"
+      }, {
+        "count" : 7,
+        "item" : "10128"
+      }, {
+        "count" : 6,
+        "item" : "11211"
+      }, {
+        "count" : 5,
+        "item" : "11373"
+      }, {
+        "count" : 4,
+        "item" : "11204"
+      }, {
+        "count" : 3,
+        "item" : "11215"
+      }, {
+        "count" : 2,
+        "item" : "11429"
+      }, {
+        "count" : 1,
+        "item" : "11411"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 46720453,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560067,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 1921,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Woodside",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Staten Island"
+      }, {
+        "count" : 19,
+        "item" : "Bronx"
+      }, {
+        "count" : 18,
+        "item" : "Oakland Gardens"
+      }, {
+        "count" : 17,
+        "item" : "Bayside"
+      }, {
+        "count" : 16,
+        "item" : "Springfield Gardens"
+      }, {
+        "count" : 15,
+        "item" : "Astoria"
+      }, {
+        "count" : 14,
+        "item" : "Rosedale"
+      }, {
+        "count" : 13,
+        "item" : "New York"
+      }, {
+        "count" : 12,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 11,
+        "item" : "Jamaica"
+      }, {
+        "count" : 10,
+        "item" : "Hollis"
+      }, {
+        "count" : 9,
+        "item" : "Flushing"
+      }, {
+        "count" : 8,
+        "item" : "Queens Village"
+      }, {
+        "count" : 7,
+        "item" : "Cambria Heights"
+      }, {
+        "count" : 6,
+        "item" : "Ridgewood"
+      }, {
+        "count" : 5,
+        "item" : "Jackson Heights"
+      }, {
+        "count" : 4,
+        "item" : "Kew Gardens"
+      }, {
+        "count" : 3,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 2,
+        "item" : "Far Rockaway"
+      }, {
+        "count" : 1,
+        "item" : "Elmhurst"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    } ],
+    "viewport" : {
+      "ymin" : 39.838063703926,
+      "ymax" : 54.005535473448,
+      "xmin" : -145.05029294855,
+      "xmax" : -87.859863269018
+    },
+    "distinctLegend" : true,
+    "exclusiveLayers" : false,
+    "viewDefinitions" : [ {
+      "uid" : "arq3-7z49",
+      "flyoutsNoLabel" : false,
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1559898
+        } ],
+        "titleId" : 1559896
+      }
+    }, {
+      "uid" : "ymhw-9cz9",
+      "plotStyle" : "point",
+      "plot" : {
+        "locationId" : 1540045
+      }
+    }, {
+      "uid" : "6ej9-7qyi",
+      "flyoutsNoLabel" : false,
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1561054
+        } ],
+        "titleId" : 1561052
+      }
+    }, {
+      "uid" : "dqv3-x5im",
+      "flyoutsNoLabel" : false,
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1565385
+        } ],
+        "titleId" : 1565381
+      }
+    } ]
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.url" : "2600FD18",
+        "symbol.height" : "10",
+        "symbol.type" : "esriPMS",
+        "symbol.contentType" : "image/png",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "10",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAV1JREFUKJGNkL9LAnEYh5/vddC/EC0WlUObXOFW0Y/p0KWiy0YVjKBLoVoaHQJJSZIUL5r0KpoCNwezIaRcG0SopaampgjsWsrKvoHP+r7P5+XzqvyDUypNAAhdr8rmqkxwGo08pukGeE+lGsLtDncGqDJBNJvtBRGNuhkevuwMUAHeT+1bTFP7Kfyi2fwOsE/ryvLSmAqwvXCtbQzF6c+WwbLknYMhnmYi7F15tPbFhJImoaWJ5daIRWz6s2WEddQWHqcjJKoe0gFF/pykkiGpZTBzq2xFbJzGCLsVDwcrCp38+SrAvnLIi/bKW8qgUJDXlordoAIYGK0TTnq6EQIBWsXipxgk2DfrzJ7nRX6yRk0qeL0QDlNxuZhvi3Ni7hmYKjml8TvuznbYGfgSenshHnfuR0fFoq6LurSjLvQbYPDCuQg98LDbGgPDYNPnU46lHTvxC78FWLD+b9cPW6h/ZDFPKL0AAAAASUVORK5CYII="
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DayCareCentersWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DayCareCenters",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      },
+      "active" : {
+        "page" : {
+          "id" : "dqv3-x5im"
+        },
+        "fatrow" : {
+          "id" : "6ej9-7qyi"
+        },
+        "table" : {
+          "id" : "arq3-7z49"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "2F243BF6-7277-4F87-8E4B-3070CACB383C",
+      "name" : "DOITT_DAY_CARE_CENTER.zip",
+      "filename" : "DOITT_DAY_CARE_CENTER.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "s4a4-xxv6",
+    "displayName" : "jaye bea",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1361733324,
+    "screenName" : "jaye bea"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "services", "day care", "day", "care", "center", "site" ]
+}

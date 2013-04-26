@@ -1,0 +1,794 @@
+{
+  "id" : "4u36-44pe",
+  "name" : "OACE (Office of Adult and Continuing Education) Sites",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Community Service",
+  "createdAt" : 1318116088,
+  "description" : "Adult and Continuing Education Sites",
+  "displayType" : "map",
+  "downloadCount" : 56,
+  "numberOfComments" : 0,
+  "oid" : 342276,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116100,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244131,
+  "totalTimesRated" : 0,
+  "viewCount" : 212,
+  "viewLastModified" : 1363728859,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989069,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564360,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "1",
+      "sum" : "17020",
+      "null" : 0,
+      "average" : "92.5",
+      "largest" : "184",
+      "top" : [ {
+        "count" : 20,
+        "item" : "165"
+      }, {
+        "count" : 19,
+        "item" : "166"
+      }, {
+        "count" : 18,
+        "item" : "167"
+      }, {
+        "count" : 17,
+        "item" : "168"
+      }, {
+        "count" : 16,
+        "item" : "169"
+      }, {
+        "count" : 15,
+        "item" : "170"
+      }, {
+        "count" : 14,
+        "item" : "171"
+      }, {
+        "count" : 13,
+        "item" : "172"
+      }, {
+        "count" : 12,
+        "item" : "173"
+      }, {
+        "count" : 11,
+        "item" : "174"
+      }, {
+        "count" : 10,
+        "item" : "175"
+      }, {
+        "count" : 9,
+        "item" : "176"
+      }, {
+        "count" : 8,
+        "item" : "177"
+      }, {
+        "count" : 7,
+        "item" : "178"
+      }, {
+        "count" : 6,
+        "item" : "179"
+      }, {
+        "count" : 5,
+        "item" : "180"
+      }, {
+        "count" : 4,
+        "item" : "181"
+      }, {
+        "count" : 3,
+        "item" : "182"
+      }, {
+        "count" : 2,
+        "item" : "183"
+      }, {
+        "count" : 1,
+        "item" : "184"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989070,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564361,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : {
+        "longitude" : "-73.91563979499995",
+        "latitude" : "40.849472985000034"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.8168202949999",
+        "latitude" : "40.67529005600005"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.8239880559999",
+          "latitude" : "40.758566650000034"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.88461707399995",
+          "latitude" : "40.75307421200006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.75834880899993",
+          "latitude" : "40.59965534600008"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.81104720899992",
+          "latitude" : "40.761699425000074"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.77799288299991",
+          "latitude" : "40.736628550000034"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.8414827979999",
+          "latitude" : "40.68257980800007"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.90486134399993",
+          "latitude" : "40.711386305000076"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.91205761399993",
+          "latitude" : "40.703845673000046"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.78326270299993",
+          "latitude" : "40.71100906600009"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.86004425599992",
+          "latitude" : "40.69432322600005"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9406580939999",
+          "latitude" : "40.75012534000007"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.83374221199995",
+          "latitude" : "40.69503984600004"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.7711147949999",
+          "latitude" : "40.67467936300005"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.8354369619999",
+          "latitude" : "40.69875640300006"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.82023334599995",
+          "latitude" : "40.69952964000004"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.8153155679999",
+          "latitude" : "40.701841191000085"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.79211250399993",
+          "latitude" : "40.69368678900008"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.77029793699995",
+          "latitude" : "40.595405553000035"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.82861502299994",
+          "latitude" : "40.764165055000035"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.8168202949999",
+          "latitude" : "40.67529005600005"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2989071,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564362,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "1",
+      "sum" : "17020",
+      "null" : 0,
+      "average" : "92.5",
+      "largest" : "184",
+      "top" : [ {
+        "count" : 20,
+        "item" : "165"
+      }, {
+        "count" : 19,
+        "item" : "166"
+      }, {
+        "count" : 18,
+        "item" : "167"
+      }, {
+        "count" : 17,
+        "item" : "168"
+      }, {
+        "count" : 16,
+        "item" : "169"
+      }, {
+        "count" : 15,
+        "item" : "170"
+      }, {
+        "count" : 14,
+        "item" : "171"
+      }, {
+        "count" : 13,
+        "item" : "172"
+      }, {
+        "count" : 12,
+        "item" : "173"
+      }, {
+        "count" : 11,
+        "item" : "174"
+      }, {
+        "count" : 10,
+        "item" : "175"
+      }, {
+        "count" : 9,
+        "item" : "176"
+      }, {
+        "count" : 8,
+        "item" : "177"
+      }, {
+        "count" : 7,
+        "item" : "178"
+      }, {
+        "count" : 6,
+        "item" : "179"
+      }, {
+        "count" : 5,
+        "item" : "180"
+      }, {
+        "count" : 4,
+        "item" : "181"
+      }, {
+        "count" : 3,
+        "item" : "182"
+      }, {
+        "count" : 2,
+        "item" : "183"
+      }, {
+        "count" : 1,
+        "item" : "184"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989072,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564363,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "Academy for Language and Technology",
+      "null" : 0,
+      "largest" : "Y.W.C.A. Family Resource Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "P.S. 20"
+      }, {
+        "count" : 19,
+        "item" : "P.S. 212"
+      }, {
+        "count" : 18,
+        "item" : "P.S. 215"
+      }, {
+        "count" : 17,
+        "item" : "P.S. 22"
+      }, {
+        "count" : 16,
+        "item" : "P.S. 26"
+      }, {
+        "count" : 15,
+        "item" : "P.S. 65"
+      }, {
+        "count" : 14,
+        "item" : "P.S. 71"
+      }, {
+        "count" : 13,
+        "item" : "P.S. 81"
+      }, {
+        "count" : 12,
+        "item" : "P.S. 95"
+      }, {
+        "count" : 11,
+        "item" : "P.S. 97"
+      }, {
+        "count" : 10,
+        "item" : "Queens Adult Learning Center"
+      }, {
+        "count" : 9,
+        "item" : "Richmond Hill High School"
+      }, {
+        "count" : 8,
+        "item" : "Rochdale Village Community Center"
+      }, {
+        "count" : 7,
+        "item" : "Saint John's Lutheran Church"
+      }, {
+        "count" : 6,
+        "item" : "Samaritan Village Inc."
+      }, {
+        "count" : 5,
+        "item" : "South Jamaica II Cornerstone Community Center"
+      }, {
+        "count" : 4,
+        "item" : "St. Gertrude's Parish"
+      }, {
+        "count" : 3,
+        "item" : "Tzu Chi Buddhist Foundation"
+      }, {
+        "count" : 2,
+        "item" : "Virgil Grissom M.S. 226"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989073,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564364,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "100-00 Beach Channel Drive",
+      "null" : 0,
+      "largest" : "Mabon Building #3, Wards Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "142-30 Barclay Avenue"
+      }, {
+        "count" : 19,
+        "item" : "34-25 82nd Street"
+      }, {
+        "count" : 18,
+        "item" : "535 Briar Place"
+      }, {
+        "count" : 17,
+        "item" : "153-01 Sanford Avenue"
+      }, {
+        "count" : 16,
+        "item" : "195-02 69th Avenue"
+      }, {
+        "count" : 15,
+        "item" : "103-22 99th Street"
+      }, {
+        "count" : 14,
+        "item" : "62-85 Forest Avenue"
+      }, {
+        "count" : 13,
+        "item" : "559 Cypress Avenue"
+      }, {
+        "count" : 12,
+        "item" : "179-01 90th Avenue"
+      }, {
+        "count" : 11,
+        "item" : "85-52 85th Street"
+      }, {
+        "count" : 10,
+        "item" : "42-15 Crescent Street"
+      }, {
+        "count" : 9,
+        "item" : "89-40 114th Street"
+      }, {
+        "count" : 8,
+        "item" : "169-65 137th Avenue"
+      }, {
+        "count" : 7,
+        "item" : "86-20 114th Street"
+      }, {
+        "count" : 6,
+        "item" : "130-20 89th Road"
+      }, {
+        "count" : 5,
+        "item" : "88-83 Van Wyck Expressway"
+      }, {
+        "count" : 4,
+        "item" : "109-04 160th Street"
+      }, {
+        "count" : 3,
+        "item" : "336 Beach 38th Street"
+      }, {
+        "count" : 2,
+        "item" : "137-77 Northern Boulevard"
+      }, {
+        "count" : 1,
+        "item" : "121-10 Rockaway Boulevard"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989074,
+    "name" : "ZIP_CODE",
+    "dataTypeName" : "number",
+    "description" : "ZIP_CODE",
+    "fieldName" : "zip_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564365,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "10001",
+      "sum" : "2004568",
+      "null" : 0,
+      "average" : "10894.39130434783",
+      "largest" : "11694",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10453"
+      }, {
+        "count" : 19,
+        "item" : "10452"
+      }, {
+        "count" : 18,
+        "item" : "10457"
+      }, {
+        "count" : 17,
+        "item" : "10467"
+      }, {
+        "count" : 16,
+        "item" : "10025"
+      }, {
+        "count" : 15,
+        "item" : "10002"
+      }, {
+        "count" : 14,
+        "item" : "11237"
+      }, {
+        "count" : 13,
+        "item" : "11206"
+      }, {
+        "count" : 12,
+        "item" : "11232"
+      }, {
+        "count" : 11,
+        "item" : "11235"
+      }, {
+        "count" : 10,
+        "item" : "11207"
+      }, {
+        "count" : 9,
+        "item" : "11210"
+      }, {
+        "count" : 8,
+        "item" : "11203"
+      }, {
+        "count" : 7,
+        "item" : "11220"
+      }, {
+        "count" : 6,
+        "item" : "10301"
+      }, {
+        "count" : 5,
+        "item" : "11435"
+      }, {
+        "count" : 4,
+        "item" : "11432"
+      }, {
+        "count" : 3,
+        "item" : "11355"
+      }, {
+        "count" : 2,
+        "item" : "11428"
+      }, {
+        "count" : 1,
+        "item" : "11101"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989075,
+    "name" : "CONTACT_PH",
+    "dataTypeName" : "text",
+    "description" : "CONTACT_PH",
+    "fieldName" : "contact_ph",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564366,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "(212) 666-1920",
+      "null" : 0,
+      "largest" : "(718) 863-4057",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 863-4057"
+      }, {
+        "count" : 19,
+        "item" : "(212) 868-1650"
+      }, {
+        "count" : 18,
+        "item" : "(212) 666-1920"
+      }, {
+        "count" : 17,
+        "item" : "(718) 398-7668"
+      }, {
+        "count" : 16,
+        "item" : "(718) 622-3000"
+      }, {
+        "count" : 15,
+        "item" : "(718) 638-2635"
+      }, {
+        "count" : 14,
+        "item" : "(718) 361-9480"
+      }, {
+        "count" : 13,
+        "item" : "(718) 557-2567"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989076,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564367,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 184,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Woodhaven",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "New York"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      }, {
+        "count" : 16,
+        "item" : "Long Island City"
+      }, {
+        "count" : 15,
+        "item" : "Jamaica"
+      }, {
+        "count" : 14,
+        "item" : "Rockaway Park"
+      }, {
+        "count" : 13,
+        "item" : "Arverne"
+      }, {
+        "count" : 12,
+        "item" : "Richmond Hill"
+      }, {
+        "count" : 11,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 10,
+        "item" : "Astoria"
+      }, {
+        "count" : 9,
+        "item" : "Kew Gardens"
+      }, {
+        "count" : 8,
+        "item" : "Flushing"
+      }, {
+        "count" : 7,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 6,
+        "item" : "Elmhurst"
+      }, {
+        "count" : 5,
+        "item" : "Corona"
+      }, {
+        "count" : 4,
+        "item" : "Queens Village"
+      }, {
+        "count" : 3,
+        "item" : "Springfield Gardens"
+      }, {
+        "count" : 2,
+        "item" : "South Ozone Park"
+      }, {
+        "count" : 1,
+        "item" : "Bellerose"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564361,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564362
+      } ],
+      "latitudeId" : 1564360
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_OACE_SITE_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_OACE_SITE_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "BCC52D49-A8AF-4795-8D54-C8891CE0FE94",
+      "name" : "DOITT_OACE_SITE.zip",
+      "filename" : "DOITT_OACE_SITE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0793961039307,
+    "lat" : 40.8915424425142
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7169806657958,
+    "lat" : 40.5744111204338
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "jobs and economic development", "location", "map", "cartography", "basemap", "oace", "adult", "education", "continuing", "site", "school" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,637 @@
+{
+  "id" : "mh97-dfdk",
+  "name" : "tree search",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1354730651,
+  "description" : "Manhattan street tree census inventory\r\n\r\nUpdate Frequency: As Needed",
+  "displayType" : "map",
+  "downloadCount" : 2,
+  "numberOfComments" : 0,
+  "oid" : 1912653,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117386,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "searchString" : "bitternut hickory",
+  "signed" : false,
+  "tableId" : 244170,
+  "totalTimesRated" : 0,
+  "viewCount" : 25,
+  "viewLastModified" : 1354730651,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 32972967,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564891,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972968,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564892,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 32972969,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564893,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972970,
+    "name" : "TREEID",
+    "dataTypeName" : "number",
+    "description" : "TREEID",
+    "fieldName" : "treeid",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564894,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972971,
+    "name" : "ONSTREET",
+    "dataTypeName" : "text",
+    "description" : "ONSTREET",
+    "fieldName" : "onstreet",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564895,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972972,
+    "name" : "PARITY",
+    "dataTypeName" : "text",
+    "description" : "PARITY",
+    "fieldName" : "parity",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564896,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972973,
+    "name" : "CROSSSTREE",
+    "dataTypeName" : "text",
+    "description" : "CROSSSTREE",
+    "fieldName" : "crossstree",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564897,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972974,
+    "name" : "CROSSSTR_1",
+    "dataTypeName" : "text",
+    "description" : "CROSSSTR_1",
+    "fieldName" : "crossstr_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564898,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972975,
+    "name" : "BUILDINGNU",
+    "dataTypeName" : "text",
+    "description" : "BUILDINGNU",
+    "fieldName" : "buildingnu",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564899,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972976,
+    "name" : "BUILDINGST",
+    "dataTypeName" : "text",
+    "description" : "BUILDINGST",
+    "fieldName" : "buildingst",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564900,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972977,
+    "name" : "TREELOCATI",
+    "dataTypeName" : "number",
+    "description" : "TREELOCATI",
+    "fieldName" : "treelocati",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564901,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972978,
+    "name" : "SITE",
+    "dataTypeName" : "number",
+    "description" : "SITE",
+    "fieldName" : "site",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564902,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972979,
+    "name" : "TREEPIT",
+    "dataTypeName" : "text",
+    "description" : "TREEPIT",
+    "fieldName" : "treepit",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564903,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972980,
+    "name" : "TREECONDIT",
+    "dataTypeName" : "number",
+    "description" : "TREECONDIT",
+    "fieldName" : "treecondit",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564904,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972981,
+    "name" : "DIAMETER",
+    "dataTypeName" : "number",
+    "description" : "DIAMETER",
+    "fieldName" : "diameter",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564905,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972982,
+    "name" : "SPECIES",
+    "dataTypeName" : "text",
+    "description" : "SPECIES",
+    "fieldName" : "species",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564906,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972983,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564907,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972984,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "text",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564908,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972985,
+    "name" : "FID_1",
+    "dataTypeName" : "number",
+    "description" : "FID_1",
+    "fieldName" : "fid_1",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564909,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 32972986,
+    "name" : "COMMDIST",
+    "dataTypeName" : "number",
+    "description" : "COMMDIST",
+    "fieldName" : "commdist",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564910,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "sum" : "0",
+      "null" : 0
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "e6n3-m3vc",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564893
+        } ]
+      }
+    } ],
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564893
+      } ],
+      "longitudeId" : 1564892,
+      "latitudeId" : 1564891
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/ManhattanTree_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "ONSTREET",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "ManhattanTree",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "fatrow" : true,
+        "page" : true,
+        "map" : true
+      },
+      "active" : {
+        "fatrow" : {
+          "id" : "e6n3-m3vc"
+        },
+        "page" : {
+          "id" : "e6n3-m3vc"
+        }
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "query" : {
+      "e6n3-m3vc" : {
+        "filterCondition" : {
+          "value" : "AND",
+          "children" : [ {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 2989649,
+                "type" : "column"
+              }, {
+                "value" : "wythe",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "undefined" : 1564895
+              },
+              "operator" : "EQUALS"
+            }
+          }, {
+            "value" : "OR",
+            "children" : [ {
+              "value" : "EQUALS",
+              "children" : [ {
+                "columnId" : 2989651,
+                "type" : "column"
+              }, {
+                "value" : "9th",
+                "type" : "literal"
+              } ],
+              "type" : "operator",
+              "metadata" : {
+                "freeform" : true
+              }
+            } ],
+            "type" : "operator",
+            "metadata" : {
+              "tableColumnId" : {
+                "undefined" : 1564897
+              },
+              "operator" : "EQUALS"
+            }
+          } ],
+          "type" : "operator",
+          "metadata" : {
+            "unifiedVersion" : 2
+          }
+        }
+      }
+    },
+    "attachments" : [ {
+      "blobId" : "8F144FF9-227C-4589-909C-3A787B011E8D",
+      "name" : "DPR_ManhattanStreetTrees_001.zip",
+      "filename" : "DPR_ManhattanStreetTrees_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "6wkg-58sb",
+    "displayName" : "lmnett",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1354730651,
+    "screenName" : "lmnett"
+  },
+  "query" : {
+    "filterCondition" : {
+      "type" : "operator",
+      "value" : "AND",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 32972971,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "wythe"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "undefined" : 1564895
+          },
+          "operator" : "EQUALS"
+        }
+      }, {
+        "type" : "operator",
+        "value" : "OR",
+        "children" : [ {
+          "type" : "operator",
+          "value" : "EQUALS",
+          "children" : [ {
+            "columnId" : 32972973,
+            "type" : "column"
+          }, {
+            "type" : "literal",
+            "value" : "9th"
+          } ],
+          "metadata" : {
+            "freeform" : true
+          }
+        } ],
+        "metadata" : {
+          "tableColumnId" : {
+            "undefined" : 1564897
+          },
+          "operator" : "EQUALS"
+        }
+      } ],
+      "metadata" : {
+        "unifiedVersion" : 2
+      }
+    }
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "tree", "census", "arbor", "geographic", "manhattan" ],
+  "viewFilters" : {
+    "type" : "operator",
+    "value" : "AND",
+    "children" : [ {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 32972971,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "wythe"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "undefined" : 1564895
+        },
+        "operator" : "EQUALS"
+      }
+    }, {
+      "type" : "operator",
+      "value" : "OR",
+      "children" : [ {
+        "type" : "operator",
+        "value" : "EQUALS",
+        "children" : [ {
+          "columnId" : 32972973,
+          "type" : "column"
+        }, {
+          "type" : "literal",
+          "value" : "9th"
+        } ],
+        "metadata" : {
+          "freeform" : true
+        }
+      } ],
+      "metadata" : {
+        "tableColumnId" : {
+          "undefined" : 1564897
+        },
+        "operator" : "EQUALS"
+      }
+    } ],
+    "metadata" : {
+      "unifiedVersion" : 2
+    }
+  }
+}

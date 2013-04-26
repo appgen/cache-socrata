@@ -1,0 +1,663 @@
+{
+  "id" : "ars3-eqan",
+  "name" : "Hoods",
+  "attribution" : "Department of City Planning (DCP)",
+  "attributionLink" : "http://www.nyc.gov/html/dcp/download/bytes/nyc_nhoodsnames20101.zip",
+  "averageRating" : 0,
+  "category" : "Other",
+  "createdAt" : 1359609555,
+  "description" : "GIS data: neighborhood labels as depicted in New York City: A City of Neighborhoods",
+  "displayType" : "map",
+  "downloadCount" : 9,
+  "numberOfComments" : 0,
+  "oid" : 2389552,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318117416,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244171,
+  "totalTimesRated" : 0,
+  "viewCount" : 31,
+  "viewLastModified" : 1359609555,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 42153769,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564911,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "300",
+      "sum" : "134251",
+      "null" : 0,
+      "average" : "449",
+      "largest" : "598",
+      "top" : [ {
+        "count" : 20,
+        "item" : "587"
+      }, {
+        "count" : 19,
+        "item" : "588"
+      }, {
+        "count" : 18,
+        "item" : "589"
+      }, {
+        "count" : 17,
+        "item" : "590"
+      }, {
+        "count" : 16,
+        "item" : "591"
+      }, {
+        "count" : 15,
+        "item" : "592"
+      }, {
+        "count" : 14,
+        "item" : "593"
+      }, {
+        "count" : 13,
+        "item" : "594"
+      }, {
+        "count" : 12,
+        "item" : "595"
+      }, {
+        "count" : 11,
+        "item" : "596"
+      }, {
+        "count" : 10,
+        "item" : "597"
+      }, {
+        "count" : 9,
+        "item" : "598"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153770,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564912,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : {
+        "longitude" : "-73.84720178099991",
+        "latitude" : "40.89471345700008"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.94841642999995",
+        "latitude" : "40.60938592200006"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-74.13208580999992",
+          "latitude" : "40.60371514000008"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-74.21776771899994",
+          "latitude" : "40.54114812100005"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-74.12727373799993",
+          "latitude" : "40.57912695200008"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.89213885799995",
+          "latitude" : "40.56738410400004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.95918587299991",
+          "latitude" : "40.598533314000065"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.88114445299993",
+          "latitude" : "40.71642275600004"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.20152691699991",
+          "latitude" : "40.526272264000056"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.13792797299993",
+          "latitude" : "40.576514502000066"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.22957216799995",
+          "latitude" : "40.51954965200008"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.82667881899994",
+          "latitude" : "40.790609818000064"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.8902822469999",
+          "latitude" : "40.68249374900006"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.94841642999995",
+          "latitude" : "40.60938592200006"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 42153771,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564913,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "1",
+      "sum" : "44850",
+      "null" : 0,
+      "average" : "150",
+      "largest" : "299",
+      "top" : [ {
+        "count" : 20,
+        "item" : "288"
+      }, {
+        "count" : 19,
+        "item" : "289"
+      }, {
+        "count" : 18,
+        "item" : "290"
+      }, {
+        "count" : 17,
+        "item" : "291"
+      }, {
+        "count" : 16,
+        "item" : "292"
+      }, {
+        "count" : 15,
+        "item" : "293"
+      }, {
+        "count" : 14,
+        "item" : "294"
+      }, {
+        "count" : 13,
+        "item" : "295"
+      }, {
+        "count" : 12,
+        "item" : "296"
+      }, {
+        "count" : 11,
+        "item" : "297"
+      }, {
+        "count" : 10,
+        "item" : "298"
+      }, {
+        "count" : 9,
+        "item" : "299"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153772,
+    "name" : "Name",
+    "dataTypeName" : "text",
+    "description" : "Name",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564914,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "Annadale",
+      "null" : 0,
+      "largest" : "Yorkville",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Willowbrook"
+      }, {
+        "count" : 19,
+        "item" : "Sandy Ground"
+      }, {
+        "count" : 18,
+        "item" : "Egbertville"
+      }, {
+        "count" : 17,
+        "item" : "Roxbury"
+      }, {
+        "count" : 16,
+        "item" : "Homecrest"
+      }, {
+        "count" : 15,
+        "item" : "Middle Village"
+      }, {
+        "count" : 14,
+        "item" : "Prince's Bay"
+      }, {
+        "count" : 13,
+        "item" : "Lighthouse Hill"
+      }, {
+        "count" : 12,
+        "item" : "Richmond Valley"
+      }, {
+        "count" : 11,
+        "item" : "Malba"
+      }, {
+        "count" : 10,
+        "item" : "Highland Park"
+      }, {
+        "count" : 9,
+        "item" : "Madison"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153773,
+    "name" : "Stacked",
+    "dataTypeName" : "number",
+    "description" : "Stacked",
+    "fieldName" : "stacked",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564915,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "1",
+      "sum" : "476",
+      "null" : 0,
+      "average" : "1.591973244147157",
+      "largest" : "3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153774,
+    "name" : "AnnoLine1",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine1",
+    "fieldName" : "annoline1",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564916,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "Annadale",
+      "null" : 0,
+      "largest" : "York-",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New"
+      }, {
+        "count" : 19,
+        "item" : "Mount"
+      }, {
+        "count" : 18,
+        "item" : "Roxbury"
+      }, {
+        "count" : 17,
+        "item" : "Homecrest"
+      }, {
+        "count" : 16,
+        "item" : "Middle"
+      }, {
+        "count" : 15,
+        "item" : "Prince's"
+      }, {
+        "count" : 14,
+        "item" : "Lighthouse"
+      }, {
+        "count" : 13,
+        "item" : "Richmond"
+      }, {
+        "count" : 12,
+        "item" : "Malba"
+      }, {
+        "count" : 11,
+        "item" : "Highland"
+      }, {
+        "count" : 10,
+        "item" : "Madison"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153775,
+    "name" : "AnnoLine2",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine2",
+    "fieldName" : "annoline2",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564917,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Yard",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "City"
+      }, {
+        "count" : 18,
+        "item" : "Hill"
+      }, {
+        "count" : 17,
+        "item" : "Island"
+      }, {
+        "count" : 16,
+        "item" : "Park"
+      }, {
+        "count" : 15,
+        "item" : "Heights"
+      }, {
+        "count" : 14,
+        "item" : "Point"
+      }, {
+        "count" : 13,
+        "item" : "Gardens"
+      }, {
+        "count" : 12,
+        "item" : "Beach"
+      }, {
+        "count" : 11,
+        "item" : "Terrace"
+      }, {
+        "count" : 10,
+        "item" : "Village"
+      }, {
+        "count" : 9,
+        "item" : "Corona"
+      }, {
+        "count" : 8,
+        "item" : "Hills"
+      }, {
+        "count" : 7,
+        "item" : "Brighton"
+      }, {
+        "count" : 6,
+        "item" : "Dorp"
+      }, {
+        "count" : 5,
+        "item" : "Head"
+      }, {
+        "count" : 4,
+        "item" : "Center"
+      }, {
+        "count" : 3,
+        "item" : "South"
+      }, {
+        "count" : 2,
+        "item" : "Town"
+      }, {
+        "count" : 1,
+        "item" : "Acres"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153776,
+    "name" : "AnnoLine3",
+    "dataTypeName" : "text",
+    "description" : "AnnoLine3",
+    "fieldName" : "annoline3",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564918,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Side",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Gardens"
+      }, {
+        "count" : 18,
+        "item" : "Side"
+      }, {
+        "count" : 17,
+        "item" : "City"
+      }, {
+        "count" : 16,
+        "item" : "Hills"
+      }, {
+        "count" : 15,
+        "item" : "Beach"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153777,
+    "name" : "AnnoAngle",
+    "dataTypeName" : "number",
+    "description" : "AnnoAngle",
+    "fieldName" : "annoangle",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564919,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "0",
+      "sum" : "56",
+      "null" : 0,
+      "average" : "0.1872909698996656",
+      "largest" : "56",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      }, {
+        "count" : 19,
+        "item" : "56"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 42153778,
+    "name" : "Borough",
+    "dataTypeName" : "text",
+    "description" : "Borough",
+    "fieldName" : "borough",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564920,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 299,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Bronx"
+      }, {
+        "count" : 19,
+        "item" : "Manhattan"
+      }, {
+        "count" : 18,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Staten Island"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.678488466067,
+      "ymax" : 40.702503160953,
+      "xmin" : -73.995601076925,
+      "xmax" : -73.88436450468
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "99bc-9p23",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564913
+        } ]
+      }
+    } ],
+    "plot" : {
+      "longitudeId" : 1564912,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564913
+      } ],
+      "latitudeId" : 1564911
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/NHoodNameCentroids_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "Name",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "NHoodNameCentroids",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "5E5A591E-C24B-4C0B-A83E-9627A752A1AC",
+      "name" : "DCP_nyc_nhoodsnames_001.zip",
+      "filename" : "DCP_nyc_nhoodsnames_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "rnbh-gy7g",
+    "displayName" : "mstearne",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1333521822,
+    "screenName" : "mstearne"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "neighborhood", "historic", "scenic", "interest", "area of interest", "areas of interest", "dcp", "city planning", "neighborhood names", "gis" ]
+}

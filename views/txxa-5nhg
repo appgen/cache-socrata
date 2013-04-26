@@ -1,0 +1,766 @@
+{
+  "id" : "txxa-5nhg",
+  "name" : "Classical Music",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1318024462,
+  "description" : "Classical Music",
+  "displayType" : "map",
+  "downloadCount" : 39,
+  "numberOfComments" : 0,
+  "oid" : 341815,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318024475,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243899,
+  "totalTimesRated" : 0,
+  "viewCount" : 287,
+  "viewLastModified" : 1360611203,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980077,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561198,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "1",
+      "sum" : "210",
+      "null" : 0,
+      "average" : "10.5",
+      "largest" : "20",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      }, {
+        "count" : 7,
+        "item" : "14"
+      }, {
+        "count" : 6,
+        "item" : "15"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "17"
+      }, {
+        "count" : 3,
+        "item" : "18"
+      }, {
+        "count" : 2,
+        "item" : "19"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980078,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1561199,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : {
+        "longitude" : "-73.99184539799995",
+        "latitude" : "40.725323992000085"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.98299395599992",
+        "latitude" : "40.775253716000066"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.99184539799995",
+          "latitude" : "40.725323992000085"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.9822437489999",
+          "latitude" : "40.766906609000046"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.98145510099994",
+          "latitude" : "40.76405047500003"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99527705299994",
+          "latitude" : "40.70313388000005"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.99166690299995",
+          "latitude" : "40.69425851500006"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.98258591799993",
+          "latitude" : "40.773483131000035"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.95951466199995",
+          "latitude" : "40.77249615100004"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.98268973699993",
+          "latitude" : "40.76884069400006"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.98315213299992",
+          "latitude" : "40.77262112900007"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.98266455499993",
+          "latitude" : "40.768615227000055"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.98479206099995",
+          "latitude" : "40.77288058600004"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.9836392169999",
+          "latitude" : "40.771958279000046"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.98387224899994",
+          "latitude" : "40.771632072000045"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.97937987899991",
+          "latitude" : "40.763944705000085"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.97101219299992",
+          "latitude" : "40.77267496800005"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.98292039099994",
+          "latitude" : "40.77296405000004"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.91843737199991",
+          "latitude" : "40.872635443000036"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-74.00315244799992",
+          "latitude" : "40.626659662000066"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.97991704999993",
+          "latitude" : "40.76500730100008"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.98299395599992",
+          "latitude" : "40.775253716000066"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2980079,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561200,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Amato Opera Company",
+      "null" : 0,
+      "largest" : "Regina Opera Company",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Amato Opera Company"
+      }, {
+        "count" : 19,
+        "item" : "American Composers Orchestra"
+      }, {
+        "count" : 18,
+        "item" : "American Symphony Orchestra"
+      }, {
+        "count" : 17,
+        "item" : "Bargemusic"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn Philharmonic"
+      }, {
+        "count" : 15,
+        "item" : "Chamber Music Society of Lincoln Center - Alice Tully Hall"
+      }, {
+        "count" : 14,
+        "item" : "Dicapo Opera Theatre"
+      }, {
+        "count" : 13,
+        "item" : "Jazz at Lincoln Center"
+      }, {
+        "count" : 12,
+        "item" : "Lincoln Center - Avery Fisher Hall"
+      }, {
+        "count" : 11,
+        "item" : "Frederick P. Rose Hall: Rose Theater - Lincoln Center"
+      }, {
+        "count" : 10,
+        "item" : "Metropolitan Opera House - Lincoln Center"
+      }, {
+        "count" : 9,
+        "item" : "New York State Theater - David H. Koch Theater - Lincoln Center"
+      }, {
+        "count" : 8,
+        "item" : "New York City Opera"
+      }, {
+        "count" : 7,
+        "item" : "New York City Center"
+      }, {
+        "count" : 6,
+        "item" : "New York Grand Opera"
+      }, {
+        "count" : 5,
+        "item" : "New York Philharmonic"
+      }, {
+        "count" : 4,
+        "item" : "Opera Company of Brooklyn"
+      }, {
+        "count" : 3,
+        "item" : "Regina Opera Company"
+      }, {
+        "count" : 2,
+        "item" : "Carnegie Hall"
+      }, {
+        "count" : 1,
+        "item" : "Merkin Concert Hall at The Kaufman Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980080,
+    "name" : "TEL",
+    "dataTypeName" : "text",
+    "description" : "TEL",
+    "fieldName" : "tel",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561201,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "(212) 228-8200",
+      "null" : 0,
+      "largest" : "(866) 809-4709",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 228-8200"
+      }, {
+        "count" : 19,
+        "item" : "(212) 977-8495"
+      }, {
+        "count" : 18,
+        "item" : "(212) 581-1365"
+      }, {
+        "count" : 17,
+        "item" : "(718) 624-2083"
+      }, {
+        "count" : 16,
+        "item" : "(718) 622-5555"
+      }, {
+        "count" : 15,
+        "item" : "(212) 875-5775"
+      }, {
+        "count" : 14,
+        "item" : "(212) 288-9438"
+      }, {
+        "count" : 13,
+        "item" : "(212) 258-9800"
+      }, {
+        "count" : 12,
+        "item" : "(866) 809-4709"
+      }, {
+        "count" : 11,
+        "item" : "(212) 875-5000"
+      }, {
+        "count" : 10,
+        "item" : "(212) 870-5630"
+      }, {
+        "count" : 9,
+        "item" : "(212) 769-1000"
+      }, {
+        "count" : 8,
+        "item" : "(212) 245-8837"
+      }, {
+        "count" : 7,
+        "item" : "(212) 874-9021"
+      }, {
+        "count" : 6,
+        "item" : "(212) 567-3283"
+      }, {
+        "count" : 5,
+        "item" : "(718) 232-3555"
+      }, {
+        "count" : 4,
+        "item" : "(212) 903-9600"
+      }, {
+        "count" : 3,
+        "item" : "(212) 501-3303"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980081,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561202,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "http://kaufman-center.org/merkin-concert-hall",
+      "null" : 0,
+      "largest" : "http://www.reginaopera.org/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.amato.org/"
+      }, {
+        "count" : 19,
+        "item" : "http://www.americancomposers.org/"
+      }, {
+        "count" : 18,
+        "item" : "http://www.americanorchestras.org/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.bargemusic.org/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.brooklynphilharmonic.org/"
+      }, {
+        "count" : 15,
+        "item" : "http://www.chambermusicsociety.org/?gclid=CMuUrK6Z950CFchn5QodfnSIpw"
+      }, {
+        "count" : 14,
+        "item" : "http://www.dicapo.com/"
+      }, {
+        "count" : 13,
+        "item" : "http://www.jalc.org/"
+      }, {
+        "count" : 12,
+        "item" : "http://new.lincolncenter.org/live/"
+      }, {
+        "count" : 11,
+        "item" : "http://www.lincolncenter.org/load_screen.asp?screen=visitorinfo_accessibility_frh"
+      }, {
+        "count" : 10,
+        "item" : "http://www.metoperafamily.org/metopera/"
+      }, {
+        "count" : 9,
+        "item" : "http://www.lincolncenter.org/load_screen.asp?screen=visitorinfo_hallinfo_nyst"
+      }, {
+        "count" : 8,
+        "item" : "http://www.nycopera.com/"
+      }, {
+        "count" : 7,
+        "item" : "http://www.nycitycenter.org/"
+      }, {
+        "count" : 6,
+        "item" : "http://www.newyorkgrandopera.org/"
+      }, {
+        "count" : 5,
+        "item" : "http://nyphil.org/"
+      }, {
+        "count" : 4,
+        "item" : "http://www.operabrooklyn.com/"
+      }, {
+        "count" : 3,
+        "item" : "http://www.reginaopera.org/"
+      }, {
+        "count" : 2,
+        "item" : "http://www.carnegiehall.org"
+      }, {
+        "count" : 1,
+        "item" : "http://kaufman-center.org/merkin-concert-hall"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980082,
+    "name" : "ADDRESS1",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS1",
+    "fieldName" : "address1",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561203,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "10 Lincoln Center Plaza",
+      "null" : 0,
+      "largest" : "Time Warner Center",
+      "top" : [ {
+        "count" : 20,
+        "item" : "319 Bowery"
+      }, {
+        "count" : 19,
+        "item" : "1775 Broadway"
+      }, {
+        "count" : 18,
+        "item" : "850 Seventh Avenue"
+      }, {
+        "count" : 17,
+        "item" : "Fulton Ferry Landing"
+      }, {
+        "count" : 16,
+        "item" : "189 Montague Street"
+      }, {
+        "count" : 15,
+        "item" : "60 Lincoln Center Plaza"
+      }, {
+        "count" : 14,
+        "item" : "184 East 76th Street"
+      }, {
+        "count" : 13,
+        "item" : "Time Warner Center"
+      }, {
+        "count" : 12,
+        "item" : "10 Lincoln Center Plaza"
+      }, {
+        "count" : 11,
+        "item" : "30 Lincoln Center Plaza"
+      }, {
+        "count" : 10,
+        "item" : "20 Lincoln Center Plz"
+      }, {
+        "count" : 9,
+        "item" : "130 West 56th Street"
+      }, {
+        "count" : 8,
+        "item" : "Central Park, Naumberg Bandshall"
+      }, {
+        "count" : 7,
+        "item" : "33 Indian Road"
+      }, {
+        "count" : 6,
+        "item" : "1230 65th Street"
+      }, {
+        "count" : 5,
+        "item" : "Carnegie Hall"
+      }, {
+        "count" : 4,
+        "item" : "129 West 67th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980083,
+    "name" : "ADDRESS2",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS2",
+    "fieldName" : "address2",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561204,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Suite 525",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Suite 525"
+      }, {
+        "count" : 18,
+        "item" : "Suite 503"
+      }, {
+        "count" : 17,
+        "item" : "BAM Opera House"
+      }, {
+        "count" : 16,
+        "item" : "Alice Tully Hall"
+      }, {
+        "count" : 15,
+        "item" : "Avery Fisher Hall at Lincoln Center"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980084,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561205,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "Brooklyn",
+      "null" : 0,
+      "largest" : "New York",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Brooklyn"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980085,
+    "name" : "ZIP",
+    "dataTypeName" : "number",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561206,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 20,
+      "smallest" : "0",
+      "sum" : "193961",
+      "null" : 0,
+      "average" : "9698.05",
+      "largest" : "11219",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10003"
+      }, {
+        "count" : 19,
+        "item" : "10019"
+      }, {
+        "count" : 18,
+        "item" : "10018"
+      }, {
+        "count" : 17,
+        "item" : "11201"
+      }, {
+        "count" : 16,
+        "item" : "10023"
+      }, {
+        "count" : 15,
+        "item" : "10021"
+      }, {
+        "count" : 14,
+        "item" : "0"
+      }, {
+        "count" : 13,
+        "item" : "10034"
+      }, {
+        "count" : 12,
+        "item" : "11219"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1561199,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561200
+      } ],
+      "latitudeId" : 1561198
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_CLASSICAL_MUSIC_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_CLASSICAL_MUSIC_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "0F8F963F-FFEA-4054-B048-E8D18D738765",
+      "name" : "DOITT_CLASSICAL_MUSIC.zip",
+      "filename" : "DOITT_CLASSICAL_MUSIC.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0031641109947,
+    "lat" : 40.8726642670169
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.9184373715755,
+    "lat" : 40.6266309871889
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "music", "culture", "classic", "classical", "site", "historic", "history", "doitt gis" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,88 @@
+{
+  "id" : "hkpx-aaxc",
+  "name" : "Fire Divisions",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyfd_12c.zip",
+  "blobFileSize" : 644519,
+  "blobId" : "ffsDtOMP3v2bCEp6RgoWUUcexu27ag1MjLea-E8EkBQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Public Safety",
+  "createdAt" : 1359493969,
+  "description" : "GIS data: Boundaries of Fire Divisions",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2376573,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366234773,
+  "publicationGroup" : 644434,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644434,
+  "totalTimesRated" : 0,
+  "viewCount" : 9,
+  "viewLastModified" : 1366234802,
+  "viewType" : "geo",
+  "childViews" : [ "i9bn-zch5" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/hkpx-aaxc",
+      "bbox" : "-74.2571589754658,40.49599220496974,-73.69921518232718,40.915565529736185",
+      "layers" : "geo_hkpx-aaxc-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_hkpx-aaxc"
+    },
+    "attachments" : [ {
+      "blobId" : "F37404F3-DF8B-4659-990C-4D994E193DD7",
+      "name" : "DCP_nyfdav_001.zip",
+      "filename" : "DCP_nyfdav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "fire divisions", "dcp", "geographic", "location", "map", "cartography", "safety", "fire", "flame", "boundary", "fireman", "firemen", "division" ],
+  "flags" : [ "default" ]
+}

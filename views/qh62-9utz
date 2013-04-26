@@ -1,0 +1,88 @@
+{
+  "id" : "qh62-9utz",
+  "name" : "State Assembly Districts (water areas included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "DCP_nyadwiav_001.zip",
+  "blobFileSize" : 237614,
+  "blobId" : "ZRn98xAysSL3fN6nvNadXur7-j4K-CO7SC0WzIkwkik",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1366309957,
+  "description" : "GIS data: Boundaries of State Assembly Districts (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3254852,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366309961,
+  "publicationGroup" : 804676,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 804676,
+  "totalTimesRated" : 0,
+  "viewCount" : 1,
+  "viewLastModified" : 1366310034,
+  "viewType" : "geo",
+  "childViews" : [ "h7ep-wf9j" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/qh62-9utz",
+      "bbox" : "-74.26038033006296,40.485807576105586,-73.69920557301919,40.917688959607275",
+      "layers" : "geo_qh62-9utz-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_qh62-9utz"
+    },
+    "attachments" : [ {
+      "blobId" : "34B3DBFE-E8EB-438A-99C6-C690B6CFF395",
+      "name" : "DCP_nyadwiav_001.zip",
+      "filename" : "DCP_nyadwiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "state assembly districts (water areas included)", "dcp", "city planning", "maps", "gis" ],
+  "flags" : [ "default" ]
+}

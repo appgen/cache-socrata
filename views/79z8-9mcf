@@ -1,0 +1,1495 @@
+{
+  "id" : "79z8-9mcf",
+  "name" : "MINY Vendors",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1318115924,
+  "description" : "MINY Vendors",
+  "displayType" : "map",
+  "downloadCount" : 1139,
+  "numberOfComments" : 0,
+  "oid" : 342271,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115938,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244126,
+  "totalTimesRated" : 0,
+  "viewCount" : 425,
+  "viewLastModified" : 1360608265,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989028,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564319,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "1",
+      "sum" : "402753",
+      "null" : 0,
+      "average" : "449",
+      "largest" : "897",
+      "top" : [ {
+        "count" : 20,
+        "item" : "862"
+      }, {
+        "count" : 19,
+        "item" : "863"
+      }, {
+        "count" : 18,
+        "item" : "864"
+      }, {
+        "count" : 17,
+        "item" : "865"
+      }, {
+        "count" : 16,
+        "item" : "866"
+      }, {
+        "count" : 15,
+        "item" : "867"
+      }, {
+        "count" : 14,
+        "item" : "868"
+      }, {
+        "count" : 13,
+        "item" : "869"
+      }, {
+        "count" : 12,
+        "item" : "870"
+      }, {
+        "count" : 11,
+        "item" : "871"
+      }, {
+        "count" : 10,
+        "item" : "872"
+      }, {
+        "count" : 9,
+        "item" : "873"
+      }, {
+        "count" : 8,
+        "item" : "874"
+      }, {
+        "count" : 7,
+        "item" : "875"
+      }, {
+        "count" : 6,
+        "item" : "876"
+      }, {
+        "count" : 5,
+        "item" : "877"
+      }, {
+        "count" : 4,
+        "item" : "878"
+      }, {
+        "count" : 3,
+        "item" : "879"
+      }, {
+        "count" : 2,
+        "item" : "880"
+      }, {
+        "count" : 1,
+        "item" : "881"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989029,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564320,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : {
+        "longitude" : "-73.98565431999992",
+        "latitude" : "40.74440784500007"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.68773640499995",
+        "latitude" : "40.66414578700005"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.9902708379999",
+          "latitude" : "40.71754044000005"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.9910703729999",
+          "latitude" : "40.754235109000035"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.96817433899992",
+          "latitude" : "40.757758057000046"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99555177899992",
+          "latitude" : "40.72196257200005"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.96741115499992",
+          "latitude" : "40.760952726000085"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.95591013599994",
+          "latitude" : "40.73738316400005"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.98445501499992",
+          "latitude" : "40.75144574400008"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.99836186099992",
+          "latitude" : "40.73293618300005"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.97885631699995",
+          "latitude" : "40.75387944300007"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.94658231099993",
+          "latitude" : "40.62663245600004"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.99146866299992",
+          "latitude" : "40.71623403000007"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.98693194399993",
+          "latitude" : "40.746390225000084"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.99396111099992",
+          "latitude" : "40.74893506600006"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-73.99674232599995",
+          "latitude" : "40.72142189500005"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.99978709399994",
+          "latitude" : "40.73889505300008"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.99454304999995",
+          "latitude" : "40.748787004000064"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.98693894099995",
+          "latitude" : "40.74751557400003"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.99366443299994",
+          "latitude" : "40.72774294200008"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.99157225599993",
+          "latitude" : "40.75282434800005"
+        }
+      }, {
+        "count" : 1,
+        "item" : {
+          "longitude" : "-73.98908706399993",
+          "latitude" : "40.72088070700005"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2989030,
+    "name" : "ID",
+    "dataTypeName" : "number",
+    "description" : "ID",
+    "fieldName" : "id",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564321,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "1",
+      "sum" : "444346",
+      "null" : 0,
+      "average" : "495.3690078037904",
+      "largest" : "1010",
+      "top" : [ {
+        "count" : 20,
+        "item" : "910"
+      }, {
+        "count" : 19,
+        "item" : "911"
+      }, {
+        "count" : 18,
+        "item" : "912"
+      }, {
+        "count" : 17,
+        "item" : "914"
+      }, {
+        "count" : 16,
+        "item" : "915"
+      }, {
+        "count" : 15,
+        "item" : "971"
+      }, {
+        "count" : 14,
+        "item" : "917"
+      }, {
+        "count" : 13,
+        "item" : "918"
+      }, {
+        "count" : 12,
+        "item" : "919"
+      }, {
+        "count" : 11,
+        "item" : "920"
+      }, {
+        "count" : 10,
+        "item" : "921"
+      }, {
+        "count" : 9,
+        "item" : "923"
+      }, {
+        "count" : 8,
+        "item" : "924"
+      }, {
+        "count" : 7,
+        "item" : "927"
+      }, {
+        "count" : 6,
+        "item" : "928"
+      }, {
+        "count" : 5,
+        "item" : "930"
+      }, {
+        "count" : 4,
+        "item" : "931"
+      }, {
+        "count" : 3,
+        "item" : "932"
+      }, {
+        "count" : 2,
+        "item" : "933"
+      }, {
+        "count" : 1,
+        "item" : "935"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989031,
+    "name" : "CATEGORY",
+    "dataTypeName" : "text",
+    "description" : "CATEGORY",
+    "fieldName" : "category",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564322,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "Accounting Services",
+      "null" : 0,
+      "largest" : "Wardrobe",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Hotels"
+      }, {
+        "count" : 19,
+        "item" : "Jewelry"
+      }, {
+        "count" : 18,
+        "item" : "Food & Restaurants"
+      }, {
+        "count" : 17,
+        "item" : "Camera, Grip & Lighting"
+      }, {
+        "count" : 16,
+        "item" : "Moving, Storage & Trailers"
+      }, {
+        "count" : 15,
+        "item" : "Casting & Talent"
+      }, {
+        "count" : 14,
+        "item" : "Location & Rental Space"
+      }, {
+        "count" : 13,
+        "item" : "Event Planning & Marketing"
+      }, {
+        "count" : 12,
+        "item" : "Music, Audio & Sound"
+      }, {
+        "count" : 11,
+        "item" : "Props"
+      }, {
+        "count" : 10,
+        "item" : "Manufacturing & Supplies"
+      }, {
+        "count" : 9,
+        "item" : "Marine & Water Services"
+      }, {
+        "count" : 8,
+        "item" : "Medical Services"
+      }, {
+        "count" : 7,
+        "item" : "Museums, Galleries & Tours"
+      }, {
+        "count" : 6,
+        "item" : "Production Company"
+      }, {
+        "count" : 5,
+        "item" : "Office Supplies & Services"
+      }, {
+        "count" : 4,
+        "item" : "Software & Internet Services"
+      }, {
+        "count" : 3,
+        "item" : "Payrolling & Personnel"
+      }, {
+        "count" : 2,
+        "item" : "Post Production & Training"
+      }, {
+        "count" : 1,
+        "item" : "Books & Magazines"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989032,
+    "name" : "VENDORNAME",
+    "dataTypeName" : "text",
+    "description" : "VENDORNAME",
+    "fieldName" : "vendorname",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564323,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "\"Murdered by the Mob\" Interactive Comedy Mystery Dinner",
+      "null" : 0,
+      "largest" : "Zohreh Uomo, Inc.",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Applebees Neighborhood Bar and Grill"
+      }, {
+        "count" : 19,
+        "item" : "SUPERCUTS"
+      }, {
+        "count" : 18,
+        "item" : "J. Levine Judaica"
+      }, {
+        "count" : 17,
+        "item" : "Kaufman Furs"
+      }, {
+        "count" : 16,
+        "item" : "Malia Mills Swimwear"
+      }, {
+        "count" : 15,
+        "item" : "Mask Arts Company"
+      }, {
+        "count" : 14,
+        "item" : "RRRentals"
+      }, {
+        "count" : 13,
+        "item" : "Saint Laurie Merchant Tailors"
+      }, {
+        "count" : 12,
+        "item" : "Screaming Mimi's"
+      }, {
+        "count" : 11,
+        "item" : "Stanley Pleating & Stitching Co."
+      }, {
+        "count" : 10,
+        "item" : "Ted's Formal Wear"
+      }, {
+        "count" : 9,
+        "item" : "The Shirt Store Inc."
+      }, {
+        "count" : 8,
+        "item" : "Tiecrafters"
+      }, {
+        "count" : 7,
+        "item" : "Ultimate Impressions"
+      }, {
+        "count" : 6,
+        "item" : "Uncle Sam's Army Navy Deals"
+      }, {
+        "count" : 5,
+        "item" : "Uniforms by Park Coats, Inc."
+      }, {
+        "count" : 4,
+        "item" : "Hamburger Woolen Co. Inc."
+      }, {
+        "count" : 3,
+        "item" : "Visual Merchandising d/b/a Fabulous Fit"
+      }, {
+        "count" : 2,
+        "item" : "Numax, Inc."
+      }, {
+        "count" : 1,
+        "item" : "Red Line Studios, Inc"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989033,
+    "name" : "WEBSITE",
+    "dataTypeName" : "text",
+    "description" : "WEBSITE",
+    "fieldName" : "website",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564324,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "http://www.zaro.com",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "http://www.applemetrorestaurants.com"
+      }, {
+        "count" : 18,
+        "item" : "http://www.supercuts.com"
+      }, {
+        "count" : 17,
+        "item" : "http://www.hwcny.com"
+      }, {
+        "count" : 16,
+        "item" : "http://www.fabulousfit.com"
+      }, {
+        "count" : 15,
+        "item" : "http://www.yourtools4less.com"
+      }, {
+        "count" : 14,
+        "item" : "http://www.redlinestudios.net"
+      }, {
+        "count" : 13,
+        "item" : "http://www.ripleysnewyork.com"
+      }, {
+        "count" : 12,
+        "item" : "http://www.secureeventcorp.com"
+      }, {
+        "count" : 11,
+        "item" : "http://www.sunbeltrentals.com"
+      }, {
+        "count" : 10,
+        "item" : "http://www.deesnyc.com"
+      }, {
+        "count" : 9,
+        "item" : "http://www.OrielleCreativeCompany.com"
+      }, {
+        "count" : 8,
+        "item" : "http://www.QJETS.com"
+      }, {
+        "count" : 7,
+        "item" : "http://www.VIP-InternationalNY.com"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989034,
+    "name" : "ADDRESS",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS",
+    "fieldName" : "address",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564325,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "100-15 Ditmars Blvd.",
+      "null" : 0,
+      "largest" : "Two West Street",
+      "top" : [ {
+        "count" : 20,
+        "item" : "72 Orchard Street"
+      }, {
+        "count" : 19,
+        "item" : "262 West 38th Street"
+      }, {
+        "count" : 18,
+        "item" : "220 East 54th Street"
+      }, {
+        "count" : 17,
+        "item" : "211 Mott Street"
+      }, {
+        "count" : 16,
+        "item" : "968 Third Avenue"
+      }, {
+        "count" : 15,
+        "item" : "19-21 Box Street"
+      }, {
+        "count" : 14,
+        "item" : "34 West 38th Street"
+      }, {
+        "count" : 13,
+        "item" : "42 West 8th Street"
+      }, {
+        "count" : 12,
+        "item" : "340 Madison Avenue"
+      }, {
+        "count" : 11,
+        "item" : "3004 Avenue J"
+      }, {
+        "count" : 10,
+        "item" : "85 Hester Street"
+      }, {
+        "count" : 9,
+        "item" : "5 West 30th Street"
+      }, {
+        "count" : 8,
+        "item" : "232 West 30th Street"
+      }, {
+        "count" : 7,
+        "item" : "199 Mulberry Street"
+      }, {
+        "count" : 6,
+        "item" : "203 West 14th Street"
+      }, {
+        "count" : 5,
+        "item" : "245 West 29th Street"
+      }, {
+        "count" : 4,
+        "item" : "22 West 32nd Street"
+      }, {
+        "count" : 3,
+        "item" : "382 Lafayette Street"
+      }, {
+        "count" : 2,
+        "item" : "242 West 36th Street"
+      }, {
+        "count" : 1,
+        "item" : "155 Orchard Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989035,
+    "name" : "ADDRESS2",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS2",
+    "fieldName" : "address2",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564326,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "West 38th Street at 12th Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "2nd Floor"
+      }, {
+        "count" : 18,
+        "item" : "5th Floor"
+      }, {
+        "count" : 17,
+        "item" : "7th Floor"
+      }, {
+        "count" : 16,
+        "item" : "4th Floor"
+      }, {
+        "count" : 15,
+        "item" : "11th Floor"
+      }, {
+        "count" : 14,
+        "item" : "1920"
+      }, {
+        "count" : 13,
+        "item" : "3rd Floor"
+      }, {
+        "count" : 12,
+        "item" : "Suite 114"
+      }, {
+        "count" : 11,
+        "item" : "Suite 530"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989036,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564327,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "Arverne",
+      "null" : 0,
+      "largest" : "Yonkers",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "East Elmhurst"
+      }, {
+        "count" : 18,
+        "item" : "Long Island City"
+      }, {
+        "count" : 17,
+        "item" : "Staten Island"
+      }, {
+        "count" : 16,
+        "item" : "Bronx"
+      }, {
+        "count" : 15,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 14,
+        "item" : "Maspeth"
+      }, {
+        "count" : 13,
+        "item" : "Yonkers"
+      }, {
+        "count" : 12,
+        "item" : "Astoria"
+      }, {
+        "count" : 11,
+        "item" : "Forest Hills"
+      }, {
+        "count" : 10,
+        "item" : "Bayside"
+      }, {
+        "count" : 9,
+        "item" : "Jamaica"
+      }, {
+        "count" : 8,
+        "item" : "Elmsford"
+      }, {
+        "count" : 7,
+        "item" : "St. Albans"
+      }, {
+        "count" : 6,
+        "item" : "Queens"
+      }, {
+        "count" : 5,
+        "item" : "West Babylon"
+      }, {
+        "count" : 4,
+        "item" : "Massapequa"
+      }, {
+        "count" : 3,
+        "item" : "Queens Village"
+      }, {
+        "count" : 2,
+        "item" : "New Hyde Park"
+      }, {
+        "count" : 1,
+        "item" : "New Windsor"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989037,
+    "name" : "STATE",
+    "dataTypeName" : "text",
+    "description" : "STATE",
+    "fieldName" : "state",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564328,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "NJ",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      }, {
+        "count" : 19,
+        "item" : "NJ"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989038,
+    "name" : "ZIP",
+    "dataTypeName" : "number",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564329,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "0",
+      "sum" : "9222840",
+      "null" : 0,
+      "average" : "10281.87290969900",
+      "largest" : "12553",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10011"
+      }, {
+        "count" : 19,
+        "item" : "10017"
+      }, {
+        "count" : 18,
+        "item" : "10036"
+      }, {
+        "count" : 17,
+        "item" : "10022"
+      }, {
+        "count" : 16,
+        "item" : "10019"
+      }, {
+        "count" : 15,
+        "item" : "10001"
+      }, {
+        "count" : 14,
+        "item" : "10013"
+      }, {
+        "count" : 13,
+        "item" : "10018"
+      }, {
+        "count" : 12,
+        "item" : "10010"
+      }, {
+        "count" : 11,
+        "item" : "11201"
+      }, {
+        "count" : 10,
+        "item" : "10021"
+      }, {
+        "count" : 9,
+        "item" : "10003"
+      }, {
+        "count" : 8,
+        "item" : "11101"
+      }, {
+        "count" : 7,
+        "item" : "10004"
+      }, {
+        "count" : 6,
+        "item" : "10007"
+      }, {
+        "count" : 5,
+        "item" : "10016"
+      }, {
+        "count" : 4,
+        "item" : "10002"
+      }, {
+        "count" : 3,
+        "item" : "10014"
+      }, {
+        "count" : 2,
+        "item" : "10038"
+      }, {
+        "count" : 1,
+        "item" : "11217"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989039,
+    "name" : "TELEPHONE",
+    "dataTypeName" : "text",
+    "description" : "TELEPHONE",
+    "fieldName" : "telephone",
+    "position" : 12,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564330,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "multiple",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(212) 262-4022"
+      }, {
+        "count" : 19,
+        "item" : "(212) 357-6733"
+      }, {
+        "count" : 18,
+        "item" : "(212) 564-0050"
+      }, {
+        "count" : 17,
+        "item" : "(212) 625-2311"
+      }, {
+        "count" : 16,
+        "item" : "(212) 243-4039"
+      }, {
+        "count" : 15,
+        "item" : "(212) 242-6120"
+      }, {
+        "count" : 14,
+        "item" : "(212) 643-1916"
+      }, {
+        "count" : 13,
+        "item" : "(212) 677-6464"
+      }, {
+        "count" : 12,
+        "item" : "(212) 868-2920"
+      }, {
+        "count" : 11,
+        "item" : "(212) 966-2029"
+      }, {
+        "count" : 10,
+        "item" : "(212) 557-8040"
+      }, {
+        "count" : 9,
+        "item" : "(212) 629-5800"
+      }, {
+        "count" : 8,
+        "item" : "(212) 234-3360"
+      }, {
+        "count" : 7,
+        "item" : "(212) 674-2222"
+      }, {
+        "count" : 6,
+        "item" : "(718) 499-1182 ext. 10"
+      }, {
+        "count" : 5,
+        "item" : "(516) 352-7400"
+      }, {
+        "count" : 4,
+        "item" : "(718) 788-1088"
+      }, {
+        "count" : 3,
+        "item" : "(800) 842-4230"
+      }, {
+        "count" : 2,
+        "item" : "(212) 566-2031"
+      }, {
+        "count" : 1,
+        "item" : "(212) 348-3133"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989040,
+    "name" : "CONTACT",
+    "dataTypeName" : "text",
+    "description" : "CONTACT",
+    "fieldName" : "contact",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564331,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Zoe Schwartz",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "Stephen R. Ekstrom"
+      }, {
+        "count" : 18,
+        "item" : "Jeanne E. Hauser/Stephanie Melstein"
+      }, {
+        "count" : 17,
+        "item" : "Renate Lindlar"
+      }, {
+        "count" : 16,
+        "item" : "Andrew Kozinn"
+      }, {
+        "count" : 15,
+        "item" : "Laura Wills"
+      }, {
+        "count" : 14,
+        "item" : "Stuart A. Meyer"
+      }, {
+        "count" : 13,
+        "item" : "Charles Buchholz"
+      }, {
+        "count" : 12,
+        "item" : "Anthony Sibio"
+      }, {
+        "count" : 11,
+        "item" : "Andrew Tarshis"
+      }, {
+        "count" : 10,
+        "item" : "Jeff Rosenblum"
+      }, {
+        "count" : 9,
+        "item" : "Betsy F"
+      }, {
+        "count" : 8,
+        "item" : "Katherine Haymando"
+      }, {
+        "count" : 7,
+        "item" : "Ilene H. Rosen"
+      }, {
+        "count" : 6,
+        "item" : "Ron Hunkapiller"
+      }, {
+        "count" : 5,
+        "item" : "Anastasia Konstantinou"
+      }, {
+        "count" : 4,
+        "item" : "Michael Hirsch"
+      }, {
+        "count" : 3,
+        "item" : "Charles P. Gallogly"
+      }, {
+        "count" : 2,
+        "item" : "Joe Cardinale"
+      }, {
+        "count" : 1,
+        "item" : "George Tsiatis"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989041,
+    "name" : "CONTACTEMA",
+    "dataTypeName" : "text",
+    "description" : "CONTACTEMA",
+    "fieldName" : "contactema",
+    "position" : 14,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564332,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "zohreh.nyc@verizon.net",
+      "top" : [ {
+        "count" : 20,
+        "item" : "no email"
+      }, {
+        "count" : 19,
+        "item" : " "
+      }, {
+        "count" : 18,
+        "item" : "stephen.ekstrom@applemetro.com"
+      }, {
+        "count" : 17,
+        "item" : "Jeannepsu@comcast.net"
+      }, {
+        "count" : 16,
+        "item" : "marketing@myshobha.com"
+      }, {
+        "count" : 15,
+        "item" : "ziaziprin@hotmail.com"
+      }, {
+        "count" : 14,
+        "item" : "dlevineny@aol.com"
+      }, {
+        "count" : 13,
+        "item" : "kaufmanfurs@aol.com"
+      }, {
+        "count" : 12,
+        "item" : "carol@maliamills.com"
+      }, {
+        "count" : 11,
+        "item" : "stanley@maskarts.com"
+      }, {
+        "count" : 10,
+        "item" : "info@rrrentalsny.com"
+      }, {
+        "count" : 9,
+        "item" : "tailor@saintlaurie.com"
+      }, {
+        "count" : 8,
+        "item" : "sales@screamingmimis.com"
+      }, {
+        "count" : 7,
+        "item" : "stanleyplt@aol.com"
+      }, {
+        "count" : 6,
+        "item" : "anthony@shirtstore.com"
+      }, {
+        "count" : 5,
+        "item" : "tiecrafter@aol.com"
+      }, {
+        "count" : 4,
+        "item" : "tshirts@gmail.com"
+      }, {
+        "count" : 3,
+        "item" : "betsy@armynavydeals.com"
+      }, {
+        "count" : 2,
+        "item" : "dhaymando@uniformsbypark.com"
+      }, {
+        "count" : 1,
+        "item" : "irosen@hwcny.com"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989042,
+    "name" : "TYPED",
+    "dataTypeName" : "date",
+    "description" : "TYPED",
+    "fieldName" : "typed",
+    "position" : 15,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1564333,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 0,
+      "null" : 897
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989043,
+    "name" : "CAMERAICON",
+    "dataTypeName" : "text",
+    "description" : "CAMERAICON",
+    "fieldName" : "cameraicon",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564334,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989044,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564335,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Manhattan"
+      }, {
+        "count" : 19,
+        "item" : "Queens"
+      }, {
+        "count" : 18,
+        "item" : "Staten Island"
+      }, {
+        "count" : 17,
+        "item" : "Bronx"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "New York State"
+      }, {
+        "count" : 14,
+        "item" : "Long Island"
+      }, {
+        "count" : 13,
+        "item" : "New Jersey"
+      }, {
+        "count" : 12,
+        "item" : "Long Island (Nassau)"
+      }, {
+        "count" : 11,
+        "item" : "Orange County"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989045,
+    "name" : "BCODE",
+    "dataTypeName" : "number",
+    "description" : "BCODE",
+    "fieldName" : "bcode",
+    "position" : 18,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564336,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "0",
+      "sum" : "1599",
+      "null" : 0,
+      "average" : "1.782608695652174",
+      "largest" : "6",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "4"
+      }, {
+        "count" : 18,
+        "item" : "5"
+      }, {
+        "count" : 17,
+        "item" : "2"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989046,
+    "name" : "HOUSENUM",
+    "dataTypeName" : "text",
+    "description" : "HOUSENUM",
+    "fieldName" : "housenum",
+    "position" : 19,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564337,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "HANGER 5",
+      "top" : [ {
+        "count" : 20,
+        "item" : "72"
+      }, {
+        "count" : 19,
+        "item" : "262"
+      }, {
+        "count" : 18,
+        "item" : "220"
+      }, {
+        "count" : 17,
+        "item" : "211"
+      }, {
+        "count" : 16,
+        "item" : "968"
+      }, {
+        "count" : 15,
+        "item" : "19"
+      }, {
+        "count" : 14,
+        "item" : "34"
+      }, {
+        "count" : 13,
+        "item" : "42"
+      }, {
+        "count" : 12,
+        "item" : "340"
+      }, {
+        "count" : 11,
+        "item" : "3004"
+      }, {
+        "count" : 10,
+        "item" : "85"
+      }, {
+        "count" : 9,
+        "item" : "5"
+      }, {
+        "count" : 8,
+        "item" : "232"
+      }, {
+        "count" : 7,
+        "item" : "199"
+      }, {
+        "count" : 6,
+        "item" : "203"
+      }, {
+        "count" : 5,
+        "item" : "245"
+      }, {
+        "count" : 4,
+        "item" : "22"
+      }, {
+        "count" : 3,
+        "item" : "382"
+      }, {
+        "count" : 2,
+        "item" : "242"
+      }, {
+        "count" : 1,
+        "item" : "155"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989047,
+    "name" : "STREETNAME",
+    "dataTypeName" : "text",
+    "description" : "STREETNAME",
+    "fieldName" : "streetname",
+    "position" : 20,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564338,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 897,
+      "smallest" : "10 AVENUE",
+      "null" : 0,
+      "largest" : "WYTHE AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 19,
+        "item" : "MADISON AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "WEST 26 STREET"
+      }, {
+        "count" : 17,
+        "item" : "WEST 57 STREET"
+      }, {
+        "count" : 16,
+        "item" : "WEST 35 STREET"
+      }, {
+        "count" : 15,
+        "item" : "JAMAICA AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "HAVEMEYER STREET"
+      }, {
+        "count" : 13,
+        "item" : "WASHINGTON AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "FRANKLIN STREET"
+      }, {
+        "count" : 11,
+        "item" : "10 AVENUE"
+      }, {
+        "count" : 10,
+        "item" : "CLINTON STREET"
+      }, {
+        "count" : 9,
+        "item" : "PARK AVENUE"
+      }, {
+        "count" : 8,
+        "item" : "WEST 36 STREET"
+      }, {
+        "count" : 7,
+        "item" : "6 AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "ORCHARD STREET"
+      }, {
+        "count" : 5,
+        "item" : "WEST 38 STREET"
+      }, {
+        "count" : 4,
+        "item" : "EAST 54 STREET"
+      }, {
+        "count" : 3,
+        "item" : "MOTT STREET"
+      }, {
+        "count" : 2,
+        "item" : "THIRD AVENUE"
+      }, {
+        "count" : 1,
+        "item" : "BOX STREET"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564320,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564321
+      } ],
+      "latitudeId" : 1564319
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_MINY_VENDOR_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "VENDORNAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_MINY_VENDOR_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "39968D13-1D79-466C-A13D-3B7E594D14A2",
+      "name" : "DOITT_MINY_VENDOR.zip",
+      "filename" : "DOITT_MINY_VENDOR.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.2735247549344,
+    "lat" : 41.4508598241574
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -72.9880834723355,
+    "lat" : 40.502053054818
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "location", "map", "cartography", "basemap", "miny", "vendor", "made in ny incentive program", "incentive", "program", "development", "economic", "economy" ],
+  "flags" : [ "default" ]
+}

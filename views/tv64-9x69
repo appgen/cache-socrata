@@ -1,0 +1,88 @@
+{
+  "id" : "tv64-9x69",
+  "name" : "Borough Boundaries (Water Areas Included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nybbwi_12c.zip",
+  "blobFileSize" : 30993,
+  "blobId" : "RkEgR4WbnSfJ2UcGTR3AqYp7zODtEJbZAtk4TlnVd04",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1359501320,
+  "description" : "GIS data: Boundaries of Boroughs (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2377303,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366235807,
+  "publicationGroup" : 644657,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644657,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1366235840,
+  "viewType" : "geo",
+  "childViews" : [ "q773-kfca" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/tv64-9x69",
+      "bbox" : "-74.26038033006296,40.48580757610566,-73.69920557304853,40.917688959607275",
+      "layers" : "geo_tv64-9x69-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_tv64-9x69"
+    },
+    "attachments" : [ {
+      "blobId" : "515F0774-06AC-4534-8FB7-6EE93AE0E053",
+      "name" : "DCP_nybbwiav_001.zip",
+      "filename" : "DCP_nybbwiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "borough boundaries (water areas included)", "dcp", "geographic", "location", "map", "cartography", "borough", "boundary", "water" ],
+  "flags" : [ "default" ]
+}

@@ -1,0 +1,690 @@
+{
+  "id" : "zypt-a7kw",
+  "name" : "LPC Landmark Districts",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1318115596,
+  "description" : "Landmark Districts",
+  "displayType" : "map",
+  "downloadCount" : 61,
+  "numberOfComments" : 0,
+  "oid" : 342264,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318115606,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244120,
+  "totalTimesRated" : 0,
+  "viewCount" : 261,
+  "viewLastModified" : 1360611259,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2988967,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564269,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "1",
+      "sum" : "6903",
+      "null" : 0,
+      "average" : "59",
+      "largest" : "117",
+      "top" : [ {
+        "count" : 20,
+        "item" : "83"
+      }, {
+        "count" : 19,
+        "item" : "84"
+      }, {
+        "count" : 18,
+        "item" : "85"
+      }, {
+        "count" : 17,
+        "item" : "86"
+      }, {
+        "count" : 16,
+        "item" : "87"
+      }, {
+        "count" : 15,
+        "item" : "88"
+      }, {
+        "count" : 14,
+        "item" : "89"
+      }, {
+        "count" : 13,
+        "item" : "90"
+      }, {
+        "count" : 12,
+        "item" : "91"
+      }, {
+        "count" : 11,
+        "item" : "92"
+      }, {
+        "count" : 10,
+        "item" : "93"
+      }, {
+        "count" : 9,
+        "item" : "94"
+      }, {
+        "count" : 8,
+        "item" : "95"
+      }, {
+        "count" : 7,
+        "item" : "96"
+      }, {
+        "count" : 6,
+        "item" : "97"
+      }, {
+        "count" : 5,
+        "item" : "98"
+      }, {
+        "count" : 4,
+        "item" : "99"
+      }, {
+        "count" : 3,
+        "item" : "100"
+      }, {
+        "count" : 2,
+        "item" : "101"
+      }, {
+        "count" : 1,
+        "item" : "102"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988968,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564270,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2988969,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564271,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "African Burial Ground & The Commons Historic District",
+      "null" : 0,
+      "largest" : "West End - Collegiate Historic District",
+      "top" : [ {
+        "count" : 20,
+        "item" : "SoHo-Cast Iron Historic District"
+      }, {
+        "count" : 19,
+        "item" : "Fort Greene Historic District"
+      }, {
+        "count" : 18,
+        "item" : "Governors Island Historic District"
+      }, {
+        "count" : 17,
+        "item" : "Clinton Hill Historic District"
+      }, {
+        "count" : 16,
+        "item" : "Cobble Hill Historic District"
+      }, {
+        "count" : 15,
+        "item" : "Cobble Hill Historic District Extension"
+      }, {
+        "count" : 14,
+        "item" : "Brooklyn Academy of Music Historic District"
+      }, {
+        "count" : 13,
+        "item" : "Boerum Hill Historic District"
+      }, {
+        "count" : 12,
+        "item" : "Stuyvesant Heights Historic District"
+      }, {
+        "count" : 11,
+        "item" : "Carroll Gardens Historic District"
+      }, {
+        "count" : 10,
+        "item" : "Park Slope Historic District"
+      }, {
+        "count" : 9,
+        "item" : "Prospect Lefferts Gardens Historic District"
+      }, {
+        "count" : 8,
+        "item" : "Albemarle-Kenmore Terraces Historic District"
+      }, {
+        "count" : 7,
+        "item" : "Prospect Park South Historic District"
+      }, {
+        "count" : 6,
+        "item" : "St. George / New Brighton Historic District"
+      }, {
+        "count" : 5,
+        "item" : "Ditmas Park Historic District"
+      }, {
+        "count" : 4,
+        "item" : "New York City Farm Colony- Seaview Hospital Historic District"
+      }, {
+        "count" : 3,
+        "item" : "Hamilton Heights/Sugar Hill Northwest Historic District"
+      }, {
+        "count" : 2,
+        "item" : "Murray Hill Historic District"
+      }, {
+        "count" : 1,
+        "item" : "Tribeca South Historic District Extension"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988970,
+    "name" : "LP_NUMBER",
+    "dataTypeName" : "text",
+    "description" : "LP_NUMBER",
+    "fieldName" : "lp_number",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564272,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "LP-0099",
+      "null" : 0,
+      "largest" : "LP-2373",
+      "top" : [ {
+        "count" : 20,
+        "item" : "LP-0768"
+      }, {
+        "count" : 19,
+        "item" : "LP-0973"
+      }, {
+        "count" : 18,
+        "item" : "LP-1946"
+      }, {
+        "count" : 17,
+        "item" : "LP-2017"
+      }, {
+        "count" : 16,
+        "item" : "LP-0320"
+      }, {
+        "count" : 15,
+        "item" : "LP-1554"
+      }, {
+        "count" : 14,
+        "item" : "LP-1003"
+      }, {
+        "count" : 13,
+        "item" : "LP-0767"
+      }, {
+        "count" : 12,
+        "item" : "LP-0695"
+      }, {
+        "count" : 11,
+        "item" : "LP-0696"
+      }, {
+        "count" : 10,
+        "item" : "LP-0709"
+      }, {
+        "count" : 9,
+        "item" : "LP-1024"
+      }, {
+        "count" : 8,
+        "item" : "LP-0989"
+      }, {
+        "count" : 7,
+        "item" : "LP-0979"
+      }, {
+        "count" : 6,
+        "item" : "LP-1883"
+      }, {
+        "count" : 5,
+        "item" : "LP-1236"
+      }, {
+        "count" : 4,
+        "item" : "LP-1408"
+      }, {
+        "count" : 3,
+        "item" : "LP-2105"
+      }, {
+        "count" : 2,
+        "item" : "LP-2102"
+      }, {
+        "count" : 1,
+        "item" : "LP-2122"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988971,
+    "name" : "DESIGNATED",
+    "dataTypeName" : "date",
+    "description" : "DESIGNATED",
+    "fieldName" : "designated",
+    "position" : 5,
+    "renderTypeName" : "date",
+    "tableColumnId" : 1564273,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : -129571200,
+      "null" : 0,
+      "largest" : 1273561200,
+      "top" : [ {
+        "count" : 20,
+        "item" : 765529200
+      }, {
+        "count" : 19,
+        "item" : -111430800
+      }, {
+        "count" : 18,
+        "item" : 723801600
+      }, {
+        "count" : 17,
+        "item" : -144000
+      }, {
+        "count" : 16,
+        "item" : 581670000
+      }, {
+        "count" : 15,
+        "item" : 275641200
+      }, {
+        "count" : 14,
+        "item" : 122630400
+      }, {
+        "count" : 13,
+        "item" : 53679600
+      }, {
+        "count" : 12,
+        "item" : 117788400
+      }, {
+        "count" : 11,
+        "item" : 111740400
+      }, {
+        "count" : 10,
+        "item" : 308300400
+      }, {
+        "count" : 9,
+        "item" : 268988400
+      }, {
+        "count" : 8,
+        "item" : 287308800
+      }, {
+        "count" : 7,
+        "item" : 774601200
+      }, {
+        "count" : 6,
+        "item" : 365151600
+      }, {
+        "count" : 5,
+        "item" : 480672000
+      }, {
+        "count" : 4,
+        "item" : 1024383600
+      }, {
+        "count" : 3,
+        "item" : 1012291200
+      }, {
+        "count" : 2,
+        "item" : 1037692800
+      }, {
+        "count" : 1,
+        "item" : 1056438000
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988972,
+    "name" : "EXTENSION",
+    "dataTypeName" : "text",
+    "description" : "EXTENSION",
+    "fieldName" : "extension",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564274,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "No",
+      "null" : 0,
+      "largest" : "Yes",
+      "top" : [ {
+        "count" : 20,
+        "item" : "No"
+      }, {
+        "count" : 19,
+        "item" : "Yes"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988973,
+    "name" : "AREA",
+    "dataTypeName" : "number",
+    "description" : "AREA",
+    "fieldName" : "area",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564275,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "0",
+      "sum" : "0",
+      "null" : 0,
+      "average" : "0",
+      "largest" : "0",
+      "top" : [ {
+        "count" : 20,
+        "item" : "0"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988974,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564276,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "http://www.nyc.gov/html/lpc",
+      "null" : 0,
+      "largest" : "http://www.nyc.gov/html/lpc",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.nyc.gov/html/lpc"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988975,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564277,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "226.548126916977480505011044442653656005859375",
+      "sum" : "608260.90358927671093169919913634657859802246093750",
+      "null" : 0,
+      "average" : "5198.811141788690",
+      "largest" : "29149.0829184555332176387310028076171875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "7708.80728968268886092118918895721435546875"
+      }, {
+        "count" : 19,
+        "item" : "11799.602800700102307018823921680450439453125"
+      }, {
+        "count" : 18,
+        "item" : "7722.1322775343187458929605782032012939453125"
+      }, {
+        "count" : 17,
+        "item" : "12309.645684268731201882474124431610107421875"
+      }, {
+        "count" : 16,
+        "item" : "8665.852153705904129310511052608489990234375"
+      }, {
+        "count" : 15,
+        "item" : "522.5594824784010370422038249671459197998046875"
+      }, {
+        "count" : 14,
+        "item" : "3361.49388458163593895733356475830078125"
+      }, {
+        "count" : 13,
+        "item" : "4768.9351596554579373332671821117401123046875"
+      }, {
+        "count" : 12,
+        "item" : "9860.964781093714918824844062328338623046875"
+      }, {
+        "count" : 11,
+        "item" : "2885.81849051799463268253020942211151123046875"
+      }, {
+        "count" : 10,
+        "item" : "23319.30514350295197800733149051666259765625"
+      }, {
+        "count" : 9,
+        "item" : "9834.1557400181409320794045925140380859375"
+      }, {
+        "count" : 8,
+        "item" : "1247.573606304582199300057254731655120849609375"
+      }, {
+        "count" : 7,
+        "item" : "6369.765773342094689724035561084747314453125"
+      }, {
+        "count" : 6,
+        "item" : "6118.1669090548484746250323951244354248046875"
+      }, {
+        "count" : 5,
+        "item" : "5189.516821520710436743684113025665283203125"
+      }, {
+        "count" : 4,
+        "item" : "17221.48136477815569378435611724853515625"
+      }, {
+        "count" : 3,
+        "item" : "4059.9192300664735739701427519321441650390625"
+      }, {
+        "count" : 2,
+        "item" : "3667.981695273110744892619550228118896484375"
+      }, {
+        "count" : 1,
+        "item" : "1520.3687194835301852435804903507232666015625"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2988976,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564278,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 117,
+      "smallest" : "2984.19380353877977540832944214344024658203125",
+      "sum" : "156129190.69265525950186201953329145908355712890625",
+      "null" : 0,
+      "average" : "1334437.527287652",
+      "largest" : "15189621.081599771976470947265625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "3219949.3154214806854724884033203125"
+      }, {
+        "count" : 19,
+        "item" : "4509102.543592435307800769805908203125"
+      }, {
+        "count" : 18,
+        "item" : "4095171.9670096584595739841461181640625"
+      }, {
+        "count" : 17,
+        "item" : "4055717.558868515305221080780029296875"
+      }, {
+        "count" : 16,
+        "item" : "3386793.227784208953380584716796875"
+      }, {
+        "count" : 15,
+        "item" : "17038.95062185768256313167512416839599609375"
+      }, {
+        "count" : 14,
+        "item" : "374437.3885722662671469151973724365234375"
+      }, {
+        "count" : 13,
+        "item" : "828674.972483881167136132717132568359375"
+      }, {
+        "count" : 12,
+        "item" : "1535551.124785871244966983795166015625"
+      }, {
+        "count" : 11,
+        "item" : "490565.791369416168890893459320068359375"
+      }, {
+        "count" : 10,
+        "item" : "6121323.092743844725191593170166015625"
+      }, {
+        "count" : 9,
+        "item" : "2694797.9995534312911331653594970703125"
+      }, {
+        "count" : 8,
+        "item" : "80839.83955107364454306662082672119140625"
+      }, {
+        "count" : 7,
+        "item" : "1995518.99122557300142943859100341796875"
+      }, {
+        "count" : 6,
+        "item" : "793532.0770478039048612117767333984375"
+      }, {
+        "count" : 5,
+        "item" : "1569500.60338769410736858844757080078125"
+      }, {
+        "count" : 4,
+        "item" : "15189621.081599771976470947265625"
+      }, {
+        "count" : 3,
+        "item" : "500987.8236254455405287444591522216796875"
+      }, {
+        "count" : 2,
+        "item" : "201235.2567828244646079838275909423828125"
+      }, {
+        "count" : 1,
+        "item" : "91560.174691563355736434459686279296875"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564270,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564271
+      } ],
+      "latitudeId" : 1564269
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_LANDMARK_DISTRICT_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_LANDMARK_DISTRICT_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "47F7A87A-BD24-4260-AD1E-B591373C2CA7",
+      "name" : "LPC_districts_001.zip",
+      "filename" : "LPC_districts_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1446239269842,
+    "lat" : 40.9034159366878
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7433125961302,
+    "lat" : 40.5856605747627
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "basemap", "landmark", "district", "interest", "history", "historical" ],
+  "flags" : [ "default" ]
+}

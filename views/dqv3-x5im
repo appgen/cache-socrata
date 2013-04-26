@@ -1,0 +1,687 @@
+{
+  "id" : "dqv3-x5im",
+  "name" : "Map of Playgrounds",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Facilities and Structures",
+  "createdAt" : 1318119258,
+  "description" : "GIS Map of Playgrounds in New York City Department of Parks & Recreation properties.",
+  "displayType" : "map",
+  "downloadCount" : 77,
+  "numberOfComments" : 0,
+  "oid" : 342363,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318119269,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244217,
+  "totalTimesRated" : 0,
+  "viewCount" : 446,
+  "viewLastModified" : 1363706429,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2990133,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565379,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "1",
+      "sum" : "59340",
+      "null" : 0,
+      "average" : "172.5",
+      "largest" : "344",
+      "top" : [ {
+        "count" : 20,
+        "item" : "329"
+      }, {
+        "count" : 19,
+        "item" : "330"
+      }, {
+        "count" : 18,
+        "item" : "331"
+      }, {
+        "count" : 17,
+        "item" : "332"
+      }, {
+        "count" : 16,
+        "item" : "333"
+      }, {
+        "count" : 15,
+        "item" : "334"
+      }, {
+        "count" : 14,
+        "item" : "335"
+      }, {
+        "count" : 13,
+        "item" : "336"
+      }, {
+        "count" : 12,
+        "item" : "337"
+      }, {
+        "count" : 11,
+        "item" : "338"
+      }, {
+        "count" : 10,
+        "item" : "339"
+      }, {
+        "count" : 9,
+        "item" : "340"
+      }, {
+        "count" : 8,
+        "item" : "341"
+      }, {
+        "count" : 7,
+        "item" : "342"
+      }, {
+        "count" : 6,
+        "item" : "343"
+      }, {
+        "count" : 5,
+        "item" : "344"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990134,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1565380,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2990135,
+    "name" : "DESCRIPTIO",
+    "dataTypeName" : "text",
+    "description" : "DESCRIPTIO",
+    "fieldName" : "descriptio",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565381,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "Aesop Playground",
+      "null" : 0,
+      "largest" : "Yellowstone Municipal Park-Katzman Playground",
+      "top" : [ {
+        "count" : 20,
+        "item" : "St Nicholas Park-St Nicholas"
+      }, {
+        "count" : 19,
+        "item" : "Morningside Park-Morningside Park"
+      }, {
+        "count" : 18,
+        "item" : "Tompkins Square Park-Tompkins Square Park"
+      }, {
+        "count" : 17,
+        "item" : "Marcus Garvey Memorial Park-Marcus Garvey Memorial Park"
+      }, {
+        "count" : 16,
+        "item" : "Thomas Jefferson Park-Thomas Jefferson Park"
+      }, {
+        "count" : 15,
+        "item" : "Carl Schurz Park-Catbird Playground"
+      }, {
+        "count" : 14,
+        "item" : "Fort Washington Park-Ft Washington"
+      }, {
+        "count" : 13,
+        "item" : "Marine Park-Ps 278 Playground"
+      }, {
+        "count" : 12,
+        "item" : "Fort Four Park-Strong Street Playground"
+      }, {
+        "count" : 11,
+        "item" : "I.s. 90 Manhattan-Playground"
+      }, {
+        "count" : 10,
+        "item" : "Columbus Park-Playground"
+      }, {
+        "count" : 9,
+        "item" : "Clason Point Park"
+      }, {
+        "count" : 8,
+        "item" : "Highbridge Park-Coogan's Bluff Playground"
+      }, {
+        "count" : 7,
+        "item" : "Baisley Pond Park-Baisley Pond Park"
+      }, {
+        "count" : 6,
+        "item" : "Bronx River Parkwy-227th Street Playground"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990136,
+    "name" : "GISPROPNUM",
+    "dataTypeName" : "text",
+    "description" : "GISPROPNUM",
+    "fieldName" : "gispropnum",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565382,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "B007",
+      "null" : 0,
+      "largest" : "XS06",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Q015"
+      }, {
+        "count" : 19,
+        "item" : "Q099"
+      }, {
+        "count" : 18,
+        "item" : "M010"
+      }, {
+        "count" : 17,
+        "item" : "X010"
+      }, {
+        "count" : 16,
+        "item" : "X002"
+      }, {
+        "count" : 15,
+        "item" : "B052"
+      }, {
+        "count" : 14,
+        "item" : "B073"
+      }, {
+        "count" : 13,
+        "item" : "R005"
+      }, {
+        "count" : 12,
+        "item" : "R030"
+      }, {
+        "count" : 11,
+        "item" : "R046"
+      }, {
+        "count" : 10,
+        "item" : "R031"
+      }, {
+        "count" : 9,
+        "item" : "X039"
+      }, {
+        "count" : 8,
+        "item" : "M029"
+      }, {
+        "count" : 7,
+        "item" : "M042"
+      }, {
+        "count" : 6,
+        "item" : "M071"
+      }, {
+        "count" : 5,
+        "item" : "M072"
+      }, {
+        "count" : 4,
+        "item" : "M140"
+      }, {
+        "count" : 3,
+        "item" : "M077"
+      }, {
+        "count" : 2,
+        "item" : "M056"
+      }, {
+        "count" : 1,
+        "item" : "M144"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990137,
+    "name" : "OMPPROPID",
+    "dataTypeName" : "text",
+    "description" : "OMPPROPID",
+    "fieldName" : "omppropid",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565383,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "B007-01",
+      "null" : 0,
+      "largest" : "XS06",
+      "top" : [ {
+        "count" : 20,
+        "item" : "M058-07"
+      }, {
+        "count" : 19,
+        "item" : "M058-06"
+      }, {
+        "count" : 18,
+        "item" : "M058-01"
+      }, {
+        "count" : 17,
+        "item" : "M047-01"
+      }, {
+        "count" : 16,
+        "item" : "M047-03"
+      }, {
+        "count" : 15,
+        "item" : "M273-01"
+      }, {
+        "count" : 14,
+        "item" : "M081-02"
+      }, {
+        "count" : 13,
+        "item" : "M028-03"
+      }, {
+        "count" : 12,
+        "item" : "B057-03"
+      }, {
+        "count" : 11,
+        "item" : "X038-01"
+      }, {
+        "count" : 10,
+        "item" : "MS03"
+      }, {
+        "count" : 9,
+        "item" : "M015"
+      }, {
+        "count" : 8,
+        "item" : "X088-01"
+      }, {
+        "count" : 7,
+        "item" : "M037-08"
+      }, {
+        "count" : 6,
+        "item" : "Q005-06"
+      }, {
+        "count" : 5,
+        "item" : "X004-01"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990138,
+    "name" : "LOCATION",
+    "dataTypeName" : "text",
+    "description" : "LOCATION",
+    "fieldName" : "location",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565384,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "Yellowstone Bl Bet 68 Av & 68 Rd",
+      "top" : [ {
+        "count" : 20,
+        "item" : "124 St Btwn 5 Ave And Mt Morris Park Wes"
+      }, {
+        "count" : 19,
+        "item" : "5 Ave Nr Madison & 124 St"
+      }, {
+        "count" : 18,
+        "item" : "E 122 St & Madison Ave"
+      }, {
+        "count" : 17,
+        "item" : "E 114 St & Pleasant"
+      }, {
+        "count" : 16,
+        "item" : "E 111 St & 1 Ave"
+      }, {
+        "count" : 15,
+        "item" : "E 124th Street betw1-2 Aves"
+      }, {
+        "count" : 14,
+        "item" : "East 84 St & East End Ave"
+      }, {
+        "count" : 13,
+        "item" : "W 165 St, Henry Hudson Pky"
+      }, {
+        "count" : 12,
+        "item" : "Fillmore Ave, Madison Pl"
+      }, {
+        "count" : 11,
+        "item" : "Strong St, Reservoir Ave"
+      }, {
+        "count" : 10,
+        "item" : "21 Jumel Place"
+      }, {
+        "count" : 9,
+        "item" : "Baxter, Mulberry, Bayard & Park Sts"
+      }, {
+        "count" : 8,
+        "item" : "CLASON PT & SOUNDVIEW AV/E RIVER"
+      }, {
+        "count" : 7,
+        "item" : "Edgecombe Ave betw 155 & 157 Sts"
+      }, {
+        "count" : 6,
+        "item" : "119 Av & 155 St"
+      }, {
+        "count" : 5,
+        "item" : "E 227 St/bronx River Parkway"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990139,
+    "name" : "SIGNNAME",
+    "dataTypeName" : "text",
+    "description" : "SIGNNAME",
+    "fieldName" : "signname",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1565385,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "101st St. Soccer Field",
+      "null" : 0,
+      "largest" : "World's Fair Playground",
+      "top" : [ {
+        "count" : 20,
+        "item" : "St Nicholas"
+      }, {
+        "count" : 19,
+        "item" : "Morningside Park"
+      }, {
+        "count" : 18,
+        "item" : "Tompkins Square Park"
+      }, {
+        "count" : 17,
+        "item" : "Thomas Jefferson Park"
+      }, {
+        "count" : 16,
+        "item" : "Othmar Ammann Playground"
+      }, {
+        "count" : 15,
+        "item" : "Catbird Playground"
+      }, {
+        "count" : 14,
+        "item" : "Ft Washington"
+      }, {
+        "count" : 13,
+        "item" : "Ps 278 Plgd"
+      }, {
+        "count" : 12,
+        "item" : "Strong Street Plgd"
+      }, {
+        "count" : 11,
+        "item" : "I.s. 90 - Manhattan"
+      }, {
+        "count" : 10,
+        "item" : "Columbus Park"
+      }, {
+        "count" : 9,
+        "item" : "Clason Point Park"
+      }, {
+        "count" : 8,
+        "item" : "Coogan's Bluff"
+      }, {
+        "count" : 7,
+        "item" : "Baisley Pond Park"
+      }, {
+        "count" : 6,
+        "item" : "227th Street Playground"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990140,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565386,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "77.2258349597297097943737753666937351226806640625",
+      "sum" : "244743.5865771914073292236935230903327465057373046875",
+      "null" : 0,
+      "average" : "711.4639144685797",
+      "largest" : "4338.8540176933611292042769491672515869140625",
+      "top" : [ {
+        "count" : 20,
+        "item" : "382.10087195227441725364769808948040008544921875"
+      }, {
+        "count" : 19,
+        "item" : "396.58704068004675491465604864060878753662109375"
+      }, {
+        "count" : 18,
+        "item" : "657.7849770115145702220615930855274200439453125"
+      }, {
+        "count" : 17,
+        "item" : "1290.930549373744497643201611936092376708984375"
+      }, {
+        "count" : 16,
+        "item" : "870.20056801040345817455090582370758056640625"
+      }, {
+        "count" : 15,
+        "item" : "846.401521260490198983461596071720123291015625"
+      }, {
+        "count" : 14,
+        "item" : "1096.825872313650279465946368873119354248046875"
+      }, {
+        "count" : 13,
+        "item" : "431.65429248627111746827722527086734771728515625"
+      }, {
+        "count" : 12,
+        "item" : "1063.5446420621110519277863204479217529296875"
+      }, {
+        "count" : 11,
+        "item" : "707.9521579641515245384653098881244659423828125"
+      }, {
+        "count" : 10,
+        "item" : "939.8695026333283522035344503819942474365234375"
+      }, {
+        "count" : 9,
+        "item" : "1874.580577892027349662384949624538421630859375"
+      }, {
+        "count" : 8,
+        "item" : "1380.0976251457732359995134174823760986328125"
+      }, {
+        "count" : 7,
+        "item" : "413.75743947887445983724319376051425933837890625"
+      }, {
+        "count" : 6,
+        "item" : "1433.19374490559266632772050797939300537109375"
+      }, {
+        "count" : 5,
+        "item" : "532.0068539708489652184653095901012420654296875"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2990141,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 9,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1565387,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 344,
+      "smallest" : "371.291497763091001615975983440876007080078125",
+      "sum" : "10536294.193819844398149143671616911888122558593750",
+      "null" : 0,
+      "average" : "30628.76219133676",
+      "largest" : "430612.957372817094437777996063232421875",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6772.1921240695019150734879076480865478515625"
+      }, {
+        "count" : 19,
+        "item" : "7046.2724883959481303463689982891082763671875"
+      }, {
+        "count" : 18,
+        "item" : "29888.60668729917961172759532928466796875"
+      }, {
+        "count" : 17,
+        "item" : "81773.9032075631548650562763214111328125"
+      }, {
+        "count" : 16,
+        "item" : "45359.750474134503747336566448211669921875"
+      }, {
+        "count" : 15,
+        "item" : "38721.209789472748525440692901611328125"
+      }, {
+        "count" : 14,
+        "item" : "72080.462667403029627166688442230224609375"
+      }, {
+        "count" : 13,
+        "item" : "9681.592185704163057380355894565582275390625"
+      }, {
+        "count" : 12,
+        "item" : "70062.329260594662628136575222015380859375"
+      }, {
+        "count" : 11,
+        "item" : "23167.75397038980736397206783294677734375"
+      }, {
+        "count" : 10,
+        "item" : "31569.71267892276591737754642963409423828125"
+      }, {
+        "count" : 9,
+        "item" : "154814.80666704275063239037990570068359375"
+      }, {
+        "count" : 8,
+        "item" : "116817.96991700422950088977813720703125"
+      }, {
+        "count" : 7,
+        "item" : "8518.47684471687171026133000850677490234375"
+      }, {
+        "count" : 6,
+        "item" : "69893.6597038786276243627071380615234375"
+      }, {
+        "count" : 5,
+        "item" : "16973.882196839913376607000827789306640625"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1565380,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1565381
+      } ],
+      "latitudeId" : 1565379
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/Playground_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "SIGNNAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Playground",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "070508D6-5555-4727-AC1C-535C145CB6E3",
+      "name" : "DPR_Playgrounds_001.zip",
+      "filename" : "DPR_Playgrounds_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.231922200504,
+    "lat" : 40.9004838290366
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.725711578034,
+    "lat" : 40.5091141288567
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "location", "map", "cartography", "field", "play", "playground", "game", "children", "child", "geographic", "healthy living" ],
+  "flags" : [ "default" ]
+}

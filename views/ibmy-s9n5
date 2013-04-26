@@ -1,0 +1,531 @@
+{
+  "id" : "ibmy-s9n5",
+  "name" : "nyc_museum_gal_2",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Cultural Affairs",
+  "createdAt" : 1322949015,
+  "description" : "Museums and Galleries",
+  "displayType" : "map",
+  "downloadCount" : 64,
+  "numberOfComments" : 0,
+  "oid" : 385654,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318013296,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243846,
+  "totalTimesRated" : 0,
+  "viewCount" : 136,
+  "viewLastModified" : 1360613138,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 3842484,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560285,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : "Alexander Hamilton U.S. Custom House",
+      "null" : 0,
+      "largest" : "YIVO Institute for Jewish Research",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Wyckoff Farmhouse Museum"
+      }, {
+        "count" : 19,
+        "item" : "Leo Baeck Institute"
+      }, {
+        "count" : 18,
+        "item" : "American Sephardi Federation / Sephardic House"
+      }, {
+        "count" : 17,
+        "item" : "YIVO Institute for Jewish Research"
+      }, {
+        "count" : 16,
+        "item" : "American Jewish Historical Society"
+      }, {
+        "count" : 15,
+        "item" : "Yeshiva University Museum"
+      }, {
+        "count" : 14,
+        "item" : "Center For Jewish History"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3842485,
+    "name" : "ADRESS1",
+    "dataTypeName" : "text",
+    "description" : "ADRESS1",
+    "fieldName" : "adress1",
+    "position" : 2,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560288,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : "1000 Fifth Avenue",
+      "null" : 0,
+      "largest" : "West 249th Street & Independence Avenue",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5816 Clarendon Ave"
+      }, {
+        "count" : 19,
+        "item" : "15 W. 16th St."
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3842486,
+    "name" : "ADDRESS2",
+    "dataTypeName" : "text",
+    "description" : "ADDRESS2",
+    "fieldName" : "address2",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560289,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : " Suite 401",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : " 11th Floor"
+      }, {
+        "count" : 18,
+        "item" : " 5th Floor"
+      }, {
+        "count" : 17,
+        "item" : " Pelham Bay Park"
+      }, {
+        "count" : 16,
+        "item" : "Carl Schurz Park"
+      }, {
+        "count" : 15,
+        "item" : "75 Varick Street 2nd Floor"
+      }, {
+        "count" : 14,
+        "item" : "Fiorello H. LaGuardia Community College/CUNY Room E-238"
+      }, {
+        "count" : 13,
+        "item" : " Suite 301"
+      }, {
+        "count" : 12,
+        "item" : "Flatbush and Ocean Avenues and Empire Boulevard"
+      }, {
+        "count" : 11,
+        "item" : " 3rd Floor"
+      }, {
+        "count" : 10,
+        "item" : " Suite 401"
+      }, {
+        "count" : 9,
+        "item" : " 20th Floor"
+      }, {
+        "count" : 8,
+        "item" : "Flushing Meadows Corona Park"
+      }, {
+        "count" : 7,
+        "item" : " Sony Plaza"
+      }, {
+        "count" : 6,
+        "item" : " Suite 2D"
+      }, {
+        "count" : 5,
+        "item" : "Broadway at West 246th Street"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3842487,
+    "name" : "TEL",
+    "dataTypeName" : "text",
+    "description" : "TEL",
+    "fieldName" : "tel",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560286,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "1 (800) WHITNEY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "(718) 629-5400"
+      }, {
+        "count" : 19,
+        "item" : "(212) 744-6400"
+      }, {
+        "count" : 18,
+        "item" : "(212) 294-8350"
+      }, {
+        "count" : 17,
+        "item" : "(212) 246-6860"
+      }, {
+        "count" : 16,
+        "item" : "(212) 294-6160"
+      }, {
+        "count" : 15,
+        "item" : "(212) 294-8330"
+      }, {
+        "count" : 14,
+        "item" : "(212) 294-8301"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3842489,
+    "name" : "CITY",
+    "dataTypeName" : "text",
+    "description" : "CITY",
+    "fieldName" : "city",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560290,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : "Bronx",
+      "null" : 0,
+      "largest" : "Staten Island",
+      "top" : [ {
+        "count" : 20,
+        "item" : "New York"
+      }, {
+        "count" : 19,
+        "item" : "Staten Island"
+      }, {
+        "count" : 18,
+        "item" : "Bronx"
+      }, {
+        "count" : 17,
+        "item" : "Queens"
+      }, {
+        "count" : 16,
+        "item" : "Brooklyn"
+      }, {
+        "count" : 15,
+        "item" : "Long Island City"
+      }, {
+        "count" : 14,
+        "item" : "Jackson Heights"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3842490,
+    "name" : "ZIP",
+    "dataTypeName" : "number",
+    "description" : "ZIP",
+    "fieldName" : "zip",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560291,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : "0",
+      "sum" : "1278027",
+      "null" : 0,
+      "average" : "9830.976923076923",
+      "largest" : "11432",
+      "top" : [ {
+        "count" : 20,
+        "item" : "10004"
+      }, {
+        "count" : 19,
+        "item" : "10032"
+      }, {
+        "count" : 18,
+        "item" : "10019"
+      }, {
+        "count" : 17,
+        "item" : "0"
+      }, {
+        "count" : 16,
+        "item" : "10024"
+      }, {
+        "count" : 15,
+        "item" : "10013"
+      }, {
+        "count" : 14,
+        "item" : "10021"
+      }, {
+        "count" : 13,
+        "item" : "10012"
+      }, {
+        "count" : 12,
+        "item" : "10011"
+      }, {
+        "count" : 11,
+        "item" : "10128"
+      }, {
+        "count" : 10,
+        "item" : "10022"
+      }, {
+        "count" : 9,
+        "item" : "10028"
+      }, {
+        "count" : 8,
+        "item" : "10036"
+      }, {
+        "count" : 7,
+        "item" : "10001"
+      }, {
+        "count" : 6,
+        "item" : "11101"
+      }, {
+        "count" : 5,
+        "item" : "10016"
+      }, {
+        "count" : 4,
+        "item" : "10280"
+      }, {
+        "count" : 3,
+        "item" : "10301"
+      }, {
+        "count" : 2,
+        "item" : "10002"
+      }, {
+        "count" : 1,
+        "item" : "10038"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 3842491,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 7,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560284,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : {
+        "longitude" : "-74.01375579499995",
+        "latitude" : "40.703816550000056"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.99386877199993",
+        "latitude" : "40.737987098000076"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.9207962989999",
+          "latitude" : "40.64434101400008"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.99376449399995",
+          "latitude" : "40.73802787500006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.9938857969999",
+          "latitude" : "40.73807756700006"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9937942709999",
+          "latitude" : "40.73796028000004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9939289049999",
+          "latitude" : "40.73801571700005"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.99381736999993",
+          "latitude" : "40.738046017000045"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.99386877199993",
+          "latitude" : "40.737987098000076"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 3842488,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560287,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 130,
+      "smallest" : "http://as.americas-society.org/",
+      "null" : 0,
+      "largest" : "https://www.nyhistory.org/web/",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.wyckoffassociation.org/"
+      }, {
+        "count" : 19,
+        "item" : "http://www.lbi.org/"
+      }, {
+        "count" : 18,
+        "item" : "http://www.americansephardifederation.org/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.yivoinstitute.org/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.ajhs.org/"
+      }, {
+        "count" : 15,
+        "item" : "http://www.yumuseum.org/"
+      }, {
+        "count" : 14,
+        "item" : "http://www.cjh.org"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "color" : "#0000ff",
+    "layers" : [ {
+      "type" : "tile",
+      "url" : "https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer",
+      "options" : {
+        "opacity" : 1
+      }
+    } ],
+    "flyoutsNoLabel" : false,
+    "type" : "esri",
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560285
+      } ],
+      "titleId" : 1560285
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.height" : "9",
+        "symbol.url" : "935C8E52",
+        "symbol.type" : "esriPMS",
+        "symbol.yoffset" : "0",
+        "symbol.contentType" : "image/png",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "10",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAA4AAAAMCAYAAABSgIzaAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAX1JREFUKJGdkT1rFFEUhp85uTt33buFrsaQKp2VlYW1IWWQIUgam/0HSZBNmgRBEBZhbab2DyRB7GIRSRUbf4JlEIJoxo/VzN7ZmXMtMllNEARPdTjnfXjPh+E/w1wurN5nJhaSUHItMvhQsDd4zfu/gt0uzemvJJT2diT+yAzZHjveFsrCVMz8+qLtVuI/tK6w83SHkwl4/bPtI34twr+o4E5wPFG12w3hAPVawRuB56OchysrLKQphQGQ0g+IWTPKY2A+wC3b8pvliJkg5LbpN8cjliMlTVOKiWNjzI9xDGVODnzDMOzvctpLOFG1eX/Xnz5atN+BIfjfO1YWB1A1aIvgwLpa4MALgIhvqdK+cJwgZyAGV4td3XeAnOdT4C6A0HGQEei0IavhifgcbMElx6iZfQkFL03880E4G3O/l7CF8ikI2kvYipS9ynA0ATeWmNYRzxCuBvV3//jxPQAUgLkAiLLaW+p8HLzK3hll9iYcH9aCf0ZUZDcAfgEmB41Uan9MSAAAAABJRU5ErkJggg=="
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/MuseumsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "Museums",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "fatrow" : true,
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "4D831E82-973D-4714-BC65-E44AE44362CD",
+      "name" : "DOITT_MUSEUM.zip",
+      "filename" : "DOITT_MUSEUM.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "8gcy-48hp",
+    "displayName" : "Christian Artin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/7538/2964/C_artin_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7538/2964/C_artin_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7538/2964/C_artin_tiny.jpg",
+    "profileLastModified" : 1330126628,
+    "screenName" : "Christian Artin"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "museums", "galleries", "art", "culture", "museo" ]
+}

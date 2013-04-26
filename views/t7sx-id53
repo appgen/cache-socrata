@@ -1,0 +1,89 @@
+{
+  "id" : "t7sx-id53",
+  "name" : "Public Pay Telephone Locations",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "blobFilename" : "payphone locations 20121024.zip",
+  "blobFileSize" : 453538,
+  "blobId" : "0zgYodvwerNkkwZrbXbPktXWSEn31cbOiorxVk-0pa4",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Facilities and Structures",
+  "createdAt" : 1359485853,
+  "description" : "This is the payphone location data from January 2013.",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2375484,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1360788975,
+  "publicationGroup" : 644164,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 644164,
+  "totalTimesRated" : 0,
+  "viewCount" : 750,
+  "viewLastModified" : 1360789010,
+  "viewType" : "geo",
+  "childViews" : [ "vzju-a4ks" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "Historical Data"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/t7sx-id53",
+      "bbox" : "-74.24810295592104,40.509022695860196,-73.70916662338581,40.910651842862634",
+      "layers" : "geo_t7sx-id53-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_t7sx-id53"
+    }
+  },
+  "owner" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1365432220,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "x539-akqs",
+    "displayName" : "Andrew Nicklin",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/4798/2643/My_Photo_3_large.png",
+    "profileImageUrlMedium" : "/images/profile/4798/2643/My_Photo_3_thumb.png",
+    "profileImageUrlSmall" : "/images/profile/4798/2643/My_Photo_3_tiny.png",
+    "profileLastModified" : 1365432220,
+    "roleName" : "administrator",
+    "screenName" : "Andrew Nicklin",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "public pay telephones", "ppt", "payphones", "reinvent payphones" ],
+  "flags" : [ "default" ]
+}

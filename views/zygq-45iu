@@ -1,0 +1,633 @@
+{
+  "id" : "zygq-45iu",
+  "name" : "Business Improvement District Boundaries",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1318024299,
+  "description" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_BUSINESS_IMPROVEMENT_DISTRICT_01_13SEPT2010_WM/MapServer/0",
+  "displayType" : "map",
+  "downloadCount" : 95,
+  "numberOfComments" : 0,
+  "oid" : 341813,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318024311,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243897,
+  "totalTimesRated" : 0,
+  "viewCount" : 517,
+  "viewLastModified" : 1366919013,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2980062,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561183,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : "1",
+      "sum" : "2080",
+      "null" : 0,
+      "average" : "32.5",
+      "largest" : "64",
+      "top" : [ {
+        "count" : 20,
+        "item" : "42"
+      }, {
+        "count" : 19,
+        "item" : "43"
+      }, {
+        "count" : 18,
+        "item" : "44"
+      }, {
+        "count" : 17,
+        "item" : "45"
+      }, {
+        "count" : 16,
+        "item" : "46"
+      }, {
+        "count" : 15,
+        "item" : "47"
+      }, {
+        "count" : 14,
+        "item" : "48"
+      }, {
+        "count" : 13,
+        "item" : "49"
+      }, {
+        "count" : 12,
+        "item" : "50"
+      }, {
+        "count" : 11,
+        "item" : "51"
+      }, {
+        "count" : 10,
+        "item" : "52"
+      }, {
+        "count" : 9,
+        "item" : "53"
+      }, {
+        "count" : 8,
+        "item" : "54"
+      }, {
+        "count" : 7,
+        "item" : "55"
+      }, {
+        "count" : 6,
+        "item" : "56"
+      }, {
+        "count" : 5,
+        "item" : "57"
+      }, {
+        "count" : 4,
+        "item" : "58"
+      }, {
+        "count" : 3,
+        "item" : "59"
+      }, {
+        "count" : 2,
+        "item" : "60"
+      }, {
+        "count" : 1,
+        "item" : "61"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980063,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 3,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1561184,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 2980064,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561185,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : "125th Street BID",
+      "null" : 0,
+      "largest" : "Woodhaven Boulevard BID",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Forest Avenue BID"
+      }, {
+        "count" : 19,
+        "item" : "Alliance for Downtown New York"
+      }, {
+        "count" : 18,
+        "item" : "Hub-Third Avenue BID"
+      }, {
+        "count" : 17,
+        "item" : "Pitkin Avenue BID"
+      }, {
+        "count" : 16,
+        "item" : "East New York Industrial BID"
+      }, {
+        "count" : 15,
+        "item" : "Montague Street BID"
+      }, {
+        "count" : 14,
+        "item" : "Fulton Mall BID"
+      }, {
+        "count" : 13,
+        "item" : "MetroTech BID"
+      }, {
+        "count" : 12,
+        "item" : "North Flatbush Avenue BID"
+      }, {
+        "count" : 11,
+        "item" : "Sunset Park-5th Avenue BID"
+      }, {
+        "count" : 10,
+        "item" : "86th Street-Bay Ridge BID"
+      }, {
+        "count" : 9,
+        "item" : "Church Avenue BID"
+      }, {
+        "count" : 8,
+        "item" : "Flatbush Avenue BID"
+      }, {
+        "count" : 7,
+        "item" : "Kings Highway BID"
+      }, {
+        "count" : 6,
+        "item" : "Brighton Beach BID"
+      }, {
+        "count" : 5,
+        "item" : "Downtown Flushing Transit Hub"
+      }, {
+        "count" : 4,
+        "item" : "Sutphin Boulevard BID"
+      }, {
+        "count" : 3,
+        "item" : "Jamaica Center BID"
+      }, {
+        "count" : 2,
+        "item" : "165th Street BID"
+      }, {
+        "count" : 1,
+        "item" : "180th Street BID"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980065,
+    "name" : "AREA",
+    "dataTypeName" : "number",
+    "description" : "AREA",
+    "fieldName" : "area",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561186,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : "194589.4521637000143527984619140625",
+      "sum" : "135602961.8967743602697737514972686767578125",
+      "null" : 0,
+      "average" : "2118796.279637099",
+      "largest" : "11476466.77566529996693134307861328125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1359657.571884159930050373077392578125"
+      }, {
+        "count" : 19,
+        "item" : "11476466.77566529996693134307861328125"
+      }, {
+        "count" : 18,
+        "item" : "1427906.86352538992650806903839111328125"
+      }, {
+        "count" : 17,
+        "item" : "1055165.6712493901140987873077392578125"
+      }, {
+        "count" : 16,
+        "item" : "5136234.05307007022202014923095703125"
+      }, {
+        "count" : 15,
+        "item" : "479647.529373169993050396442413330078125"
+      }, {
+        "count" : 14,
+        "item" : "1437573.15290833008475601673126220703125"
+      }, {
+        "count" : 13,
+        "item" : "3486065.0016937297768890857696533203125"
+      }, {
+        "count" : 12,
+        "item" : "1016468.661163329961709678173065185546875"
+      }, {
+        "count" : 11,
+        "item" : "1712016.8375701899640262126922607421875"
+      }, {
+        "count" : 10,
+        "item" : "754905.50138855003751814365386962890625"
+      }, {
+        "count" : 9,
+        "item" : "602230.929138179984875023365020751953125"
+      }, {
+        "count" : 8,
+        "item" : "1541699.346557619981467723846435546875"
+      }, {
+        "count" : 7,
+        "item" : "1125549.1420593298971652984619140625"
+      }, {
+        "count" : 6,
+        "item" : "1077196.6928405798971652984619140625"
+      }, {
+        "count" : 5,
+        "item" : "2240171.1401367201469838619232177734375"
+      }, {
+        "count" : 4,
+        "item" : "2126690.4896850599907338619232177734375"
+      }, {
+        "count" : 3,
+        "item" : "1490408.4942321800626814365386962890625"
+      }, {
+        "count" : 2,
+        "item" : "365916.354843139997683465480804443359375"
+      }, {
+        "count" : 1,
+        "item" : "1960105.02027892996557056903839111328125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980066,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1561187,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "http://www.woodhavenbid.com/",
+      "top" : [ {
+        "count" : 20,
+        "item" : " "
+      }, {
+        "count" : 19,
+        "item" : "http://www.shopthehub.com/"
+      }, {
+        "count" : 18,
+        "item" : "http://www.pitkinbid.org/"
+      }, {
+        "count" : 17,
+        "item" : "http://www.eastbrooklynbid.org/"
+      }, {
+        "count" : 16,
+        "item" : "http://www.montaguebid.com/"
+      }, {
+        "count" : 15,
+        "item" : "http://www.fultonstreet.org/"
+      }, {
+        "count" : 14,
+        "item" : "http://www.metrotechbid.org/"
+      }, {
+        "count" : 13,
+        "item" : "http://www.nfbid.com/"
+      }, {
+        "count" : 12,
+        "item" : "http://www.sunsetparkbid.org/"
+      }, {
+        "count" : 11,
+        "item" : "http://www.86bid.org/"
+      }, {
+        "count" : 10,
+        "item" : "http://www.churchavenue.org/"
+      }, {
+        "count" : 9,
+        "item" : "http://www.flatbushavebid.com/"
+      }, {
+        "count" : 8,
+        "item" : "http://www.kingshighwaybid.org/"
+      }, {
+        "count" : 7,
+        "item" : "http://www.shopbrighton.org/"
+      }, {
+        "count" : 6,
+        "item" : "http://www.flushingbid.com/"
+      }, {
+        "count" : 5,
+        "item" : "http://www.sutphinblvdbid.org/"
+      }, {
+        "count" : 4,
+        "item" : "http://www.jamaicacenter.org/"
+      }, {
+        "count" : 3,
+        "item" : "http://www.woodhavenbid.com/"
+      }, {
+        "count" : 2,
+        "item" : "http://www.ridgewood-ny.com/"
+      }, {
+        "count" : 1,
+        "item" : "http://www.steinwaystreet.org/"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980067,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561188,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : "2532.504390584841530653648078441619873046875",
+      "sum" : "980793.1710789020144147798418998718261718750000",
+      "null" : 0,
+      "average" : "15324.89329810784",
+      "largest" : "52957.9368153270406764931976795196533203125",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11565.421917690271584433503448963165283203125"
+      }, {
+        "count" : 19,
+        "item" : "16549.6951648445610771887004375457763671875"
+      }, {
+        "count" : 18,
+        "item" : "7121.505583992306128493510186672210693359375"
+      }, {
+        "count" : 17,
+        "item" : "10417.130857565891346894204616546630859375"
+      }, {
+        "count" : 16,
+        "item" : "9031.03456636818009428679943084716796875"
+      }, {
+        "count" : 15,
+        "item" : "5076.7718090063017370994202792644500732421875"
+      }, {
+        "count" : 14,
+        "item" : "8288.012577848026921856217086315155029296875"
+      }, {
+        "count" : 13,
+        "item" : "12230.5344849166940548457205295562744140625"
+      }, {
+        "count" : 12,
+        "item" : "10995.409280380714335478842258453369140625"
+      }, {
+        "count" : 11,
+        "item" : "15614.41963199092424474656581878662109375"
+      }, {
+        "count" : 10,
+        "item" : "5671.461456736111358623020350933074951171875"
+      }, {
+        "count" : 9,
+        "item" : "9663.85411365304389619268476963043212890625"
+      }, {
+        "count" : 8,
+        "item" : "12634.84267319107311777770519256591796875"
+      }, {
+        "count" : 7,
+        "item" : "11389.00462440491901361383497714996337890625"
+      }, {
+        "count" : 6,
+        "item" : "10060.522136490451885038055479526519775390625"
+      }, {
+        "count" : 5,
+        "item" : "16371.93160995999278384260833263397216796875"
+      }, {
+        "count" : 4,
+        "item" : "12749.956903884567509521730244159698486328125"
+      }, {
+        "count" : 3,
+        "item" : "14295.231276565556981950066983699798583984375"
+      }, {
+        "count" : 2,
+        "item" : "3183.4408648842700131353922188282012939453125"
+      }, {
+        "count" : 1,
+        "item" : "9346.65646316840502549894154071807861328125"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2980068,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1561189,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 64,
+      "smallest" : "194589.4203171876142732799053192138671875",
+      "sum" : "135602961.8385569782112725079059600830078125",
+      "null" : 0,
+      "average" : "2118796.278727453",
+      "largest" : "11476466.79804757796227931976318359375",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1359657.69970735604874789714813232421875"
+      }, {
+        "count" : 19,
+        "item" : "11476466.79804757796227931976318359375"
+      }, {
+        "count" : 18,
+        "item" : "1427906.88031786237843334674835205078125"
+      }, {
+        "count" : 17,
+        "item" : "1055165.45553122111596167087554931640625"
+      }, {
+        "count" : 16,
+        "item" : "5136234.244628784246742725372314453125"
+      }, {
+        "count" : 15,
+        "item" : "479647.5405276042292825877666473388671875"
+      }, {
+        "count" : 14,
+        "item" : "1437573.14085914171300828456878662109375"
+      }, {
+        "count" : 13,
+        "item" : "3486065.018415735103189945220947265625"
+      }, {
+        "count" : 12,
+        "item" : "1016468.722230728133581578731536865234375"
+      }, {
+        "count" : 11,
+        "item" : "1712016.72304708068259060382843017578125"
+      }, {
+        "count" : 10,
+        "item" : "754905.53071718919090926647186279296875"
+      }, {
+        "count" : 9,
+        "item" : "602230.88230884703807532787322998046875"
+      }, {
+        "count" : 8,
+        "item" : "1541699.46449508960358798503875732421875"
+      }, {
+        "count" : 7,
+        "item" : "1125549.1435353751294314861297607421875"
+      }, {
+        "count" : 6,
+        "item" : "1077196.549464617855846881866455078125"
+      }, {
+        "count" : 5,
+        "item" : "2240171.1878820019774138927459716796875"
+      }, {
+        "count" : 4,
+        "item" : "2126690.460183420218527317047119140625"
+      }, {
+        "count" : 3,
+        "item" : "1490408.69769168528728187084197998046875"
+      }, {
+        "count" : 2,
+        "item" : "365916.5038385377847589552402496337890625"
+      }, {
+        "count" : 1,
+        "item" : "1960104.90692542330361902713775634765625"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "self",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1561185
+        } ]
+      }
+    } ],
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1561185
+      } ],
+      "longitudeId" : 1561184,
+      "latitudeId" : 1561183
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.type" : "esriSFS",
+        "symbol.style" : "esriSFSSolid"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_BUSINESS_IMPROVEMENT_DISTRICT_01_13SEPT2010_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_BUSINESS_IMPROVEMENT_DISTRICT_01_13SEPT2010",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "8524C07B-FE31-4C53-9807-F2910112781A",
+      "name" : "DOITT_BUSINESS_IMPROVEMENT_DISTRICT_01_13SEPT2010.zip",
+      "filename" : "DOITT_BUSINESS_IMPROVEMENT_DISTRICT_01_13SEPT2010.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.116713599379,
+    "lat" : 40.8844580817092
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7651267393367,
+    "lat" : 40.5747098150161
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "geographic", "location", "map", "cartography", "property", "business", "economic", "boundary", "improvement", "district", "doitt gis" ],
+  "flags" : [ "default" ]
+}

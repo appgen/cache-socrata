@@ -1,0 +1,88 @@
+{
+  "id" : "gx7x-82rk",
+  "name" : "2010 Census Tracts (water areas included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nyct2010wi_12c.zip",
+  "blobFileSize" : 922521,
+  "blobId" : "CeU3Afagnl3SkIl3pg13ZzSQdhLZnYK4iKPVQ7Ptsr0",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1358979705,
+  "description" : "GIS data: Boundaries of 2010 Census Tracts (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2319754,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366227267,
+  "publicationGroup" : 632074,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 632074,
+  "totalTimesRated" : 0,
+  "viewCount" : 23,
+  "viewLastModified" : 1366227530,
+  "viewType" : "geo",
+  "childViews" : [ "merv-qsss" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/gx7x-82rk",
+      "bbox" : "-74.26038033006296,40.48580757610566,-73.69920557304853,40.91768895960728",
+      "layers" : "geo_gx7x-82rk-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_gx7x-82rk"
+    },
+    "attachments" : [ {
+      "blobId" : "478D4D81-DB3E-4D0C-8333-3F40335FF40F",
+      "name" : "DCP_nyct2010wiav_001.zip",
+      "filename" : "DCP_nyct2010wiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "2010 census tracts (water areas included)", "dcp", "city planning", "census", "water areas" ],
+  "flags" : [ "default" ]
+}

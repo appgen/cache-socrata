@@ -1,0 +1,1288 @@
+{
+  "id" : "ztcw-bzc8",
+  "name" : "Street Tree Census (Brooklyn)",
+  "attribution" : "Department of Parks and Recreation (DPR)",
+  "averageRating" : 0,
+  "category" : "Environmental Sustainability",
+  "createdAt" : 1318023155,
+  "description" : "Brooklyn street tree census inventory",
+  "displayType" : "map",
+  "downloadCount" : 131,
+  "numberOfComments" : 0,
+  "oid" : 341794,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318023172,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243878,
+  "totalTimesRated" : 0,
+  "viewCount" : 841,
+  "viewLastModified" : 1363706294,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2979604,
+    "name" : "OBJECTID_1",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID_1",
+    "fieldName" : "objectid_1",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560725,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "1",
+      "sum" : "11327307355",
+      "null" : 0,
+      "average" : "75257.5",
+      "largest" : "150514",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150512"
+      }, {
+        "count" : 19,
+        "item" : "150513"
+      }, {
+        "count" : 18,
+        "item" : "150514"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979605,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1560726,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 149568,
+      "smallest" : {
+        "longitude" : "-73.93279090199991",
+        "latitude" : "40.707686755000054"
+      },
+      "null" : 946,
+      "largest" : {
+        "longitude" : "-73.86379746999995",
+        "latitude" : "40.68115999100007"
+      }
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2979606,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 3,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560727,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "1",
+      "sum" : "11327307355",
+      "null" : 0,
+      "average" : "75257.5",
+      "largest" : "150514",
+      "top" : [ {
+        "count" : 20,
+        "item" : "150412"
+      }, {
+        "count" : 19,
+        "item" : "150413"
+      }, {
+        "count" : 18,
+        "item" : "150443"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979607,
+    "name" : "TREEID",
+    "dataTypeName" : "number",
+    "description" : "TREEID",
+    "fieldName" : "treeid",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560728,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "250",
+      "sum" : "41835450350",
+      "null" : 0,
+      "average" : "277950.5584198148",
+      "largest" : "636834",
+      "top" : [ {
+        "count" : 20,
+        "item" : "564622"
+      }, {
+        "count" : 19,
+        "item" : "564623"
+      }, {
+        "count" : 18,
+        "item" : "632337"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979608,
+    "name" : "ONSTREET",
+    "dataTypeName" : "text",
+    "description" : "ONSTREET",
+    "fieldName" : "onstreet",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560729,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "100 STREET",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "EASTERN PARKWAY"
+      }, {
+        "count" : 19,
+        "item" : "OCEAN PARKWAY"
+      }, {
+        "count" : 18,
+        "item" : "FLATBUSH AVENUE EXTENSION"
+      }, {
+        "count" : 17,
+        "item" : "SHORE PARKWAY SR SOUTH"
+      }, {
+        "count" : 16,
+        "item" : "SHORE PARKWAY SR NORTH"
+      }, {
+        "count" : 15,
+        "item" : "HARKNESS AVENUE"
+      }, {
+        "count" : 14,
+        "item" : "QUENTIN STREET"
+      }, {
+        "count" : 13,
+        "item" : "LINDEN BOULEVARD"
+      }, {
+        "count" : 12,
+        "item" : "EAST   42 STREET"
+      }, {
+        "count" : 11,
+        "item" : "EAST   59 STREET"
+      }, {
+        "count" : 10,
+        "item" : "EAST   88 STREET"
+      }, {
+        "count" : 9,
+        "item" : "EAST   95 STREET"
+      }, {
+        "count" : 8,
+        "item" : "CYPRESS AVENUE"
+      }, {
+        "count" : 7,
+        "item" : "HENRY STREET"
+      }, {
+        "count" : 6,
+        "item" : "LORRAINE STREET"
+      }, {
+        "count" : 5,
+        "item" : "COLUMBIA STREET"
+      }, {
+        "count" : 4,
+        "item" : "BAY STREET"
+      }, {
+        "count" : 3,
+        "item" : "bAY STREET"
+      }, {
+        "count" : 2,
+        "item" : "PROSPECT PARK WEST"
+      }, {
+        "count" : 1,
+        "item" : "BAY RIDGE AVENUE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979609,
+    "name" : "PARITY",
+    "dataTypeName" : "text",
+    "description" : "PARITY",
+    "fieldName" : "parity",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560730,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "odd",
+      "top" : [ {
+        "count" : 20,
+        "item" : "odd"
+      }, {
+        "count" : 19,
+        "item" : "even"
+      }, {
+        "count" : 18,
+        "item" : " "
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979610,
+    "name" : "CROSSSTREE",
+    "dataTypeName" : "text",
+    "description" : "CROSSSTREE",
+    "fieldName" : "crossstree",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560731,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "100 STREET",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "FARRAGUT ROAD"
+      }, {
+        "count" : 19,
+        "item" : "MYRTLE AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "GREENE AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "BROOKLYN AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "GILL HODGES MEMORIAL BRIDGE"
+      }, {
+        "count" : 15,
+        "item" : "KNAPP STREET"
+      }, {
+        "count" : 14,
+        "item" : "SHORE BOULEVARD"
+      }, {
+        "count" : 13,
+        "item" : "TILDEN AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "CLARENDON ROAD"
+      }, {
+        "count" : 11,
+        "item" : "AVENUE K"
+      }, {
+        "count" : 10,
+        "item" : "AVENUE J"
+      }, {
+        "count" : 9,
+        "item" : "AVENUE T"
+      }, {
+        "count" : 8,
+        "item" : "AVENUE P"
+      }, {
+        "count" : 7,
+        "item" : "STARR STREET"
+      }, {
+        "count" : 6,
+        "item" : "WEST   12 STREET"
+      }, {
+        "count" : 5,
+        "item" : "HENRY STREET"
+      }, {
+        "count" : 4,
+        "item" : "COLUMBIA STREET"
+      }, {
+        "count" : 3,
+        "item" : "not listed"
+      }, {
+        "count" : 2,
+        "item" : "ballfield west"
+      }, {
+        "count" : 1,
+        "item" : "HICKS STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979611,
+    "name" : "CROSSSTR_1",
+    "dataTypeName" : "text",
+    "description" : "CROSSSTR_1",
+    "fieldName" : "crossstr_1",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560732,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "''dead end",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "GLENWOOD ROAD"
+      }, {
+        "count" : 19,
+        "item" : "PARK AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "HICKS STREET"
+      }, {
+        "count" : 17,
+        "item" : "BROOKLYN AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "BELT PARKWAY"
+      }, {
+        "count" : 15,
+        "item" : "DEAD END"
+      }, {
+        "count" : 14,
+        "item" : "PLUMB    3 STREET"
+      }, {
+        "count" : 13,
+        "item" : "AVENUE X"
+      }, {
+        "count" : 12,
+        "item" : "AVENUE D"
+      }, {
+        "count" : 11,
+        "item" : "AVENUE K"
+      }, {
+        "count" : 10,
+        "item" : "WILLOUGHBY AVENUE"
+      }, {
+        "count" : 9,
+        "item" : "BAY   52 STREET"
+      }, {
+        "count" : 8,
+        "item" : "BAY STREET"
+      }, {
+        "count" : 7,
+        "item" : "not listed"
+      }, {
+        "count" : 6,
+        "item" : "HALLECK STREET"
+      }, {
+        "count" : 5,
+        "item" : "NOT LISTED"
+      }, {
+        "count" : 4,
+        "item" : "COURT STREET"
+      }, {
+        "count" : 3,
+        "item" : "Not listed"
+      }, {
+        "count" : 2,
+        "item" : "AVENUE O"
+      }, {
+        "count" : 1,
+        "item" : "1 STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979612,
+    "name" : "BUILDINGNU",
+    "dataTypeName" : "text",
+    "description" : "BUILDINGNU",
+    "fieldName" : "buildingnu",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560733,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "?",
+      "null" : 0,
+      "largest" : "unclear",
+      "top" : [ {
+        "count" : 20,
+        "item" : "not listed on"
+      }, {
+        "count" : 19,
+        "item" : "2605"
+      }, {
+        "count" : 18,
+        "item" : "3907"
+      }, {
+        "count" : 17,
+        "item" : "?"
+      }, {
+        "count" : 16,
+        "item" : "5800"
+      }, {
+        "count" : 15,
+        "item" : "1420"
+      }, {
+        "count" : 14,
+        "item" : "8801"
+      }, {
+        "count" : 13,
+        "item" : "9502"
+      }, {
+        "count" : 12,
+        "item" : "1012"
+      }, {
+        "count" : 11,
+        "item" : "201"
+      }, {
+        "count" : 10,
+        "item" : "1002"
+      }, {
+        "count" : 9,
+        "item" : "Col David Marc"
+      }, {
+        "count" : 8,
+        "item" : "Six Diamonds b"
+      }, {
+        "count" : 7,
+        "item" : "Calvert vaux n"
+      }, {
+        "count" : 6,
+        "item" : "Not listed on"
+      }, {
+        "count" : 5,
+        "item" : "Parkside"
+      }, {
+        "count" : 4,
+        "item" : "Parkside added"
+      }, {
+        "count" : 3,
+        "item" : "red hook ballf"
+      }, {
+        "count" : 2,
+        "item" : "red hook west"
+      }, {
+        "count" : 1,
+        "item" : "Parkside - no"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979613,
+    "name" : "BUILDINGST",
+    "dataTypeName" : "text",
+    "description" : "BUILDINGST",
+    "fieldName" : "buildingst",
+    "position" : 10,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560734,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "100 STREET",
+      "null" : 0,
+      "largest" : "YORK STREET",
+      "top" : [ {
+        "count" : 20,
+        "item" : "EASTERN PARKWAY"
+      }, {
+        "count" : 19,
+        "item" : "OCEAN PARKWAY"
+      }, {
+        "count" : 18,
+        "item" : "CLINTON AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "FLATBUSH AVENUE EXTENSION"
+      }, {
+        "count" : 16,
+        "item" : "SHORE PARKWAY SR SOUTH"
+      }, {
+        "count" : 15,
+        "item" : "SHORE PARKWAY SR NORTH"
+      }, {
+        "count" : 14,
+        "item" : "HARKNESS AVENUE"
+      }, {
+        "count" : 13,
+        "item" : "QUENTIN STREET"
+      }, {
+        "count" : 12,
+        "item" : "EAST   59 STREET"
+      }, {
+        "count" : 11,
+        "item" : "EAST   42 STREET"
+      }, {
+        "count" : 10,
+        "item" : "EAST   68 STREET"
+      }, {
+        "count" : 9,
+        "item" : "EAST   88 STREET"
+      }, {
+        "count" : 8,
+        "item" : "EAST   95 STREET"
+      }, {
+        "count" : 7,
+        "item" : "WASHINGTON AVENUE"
+      }, {
+        "count" : 6,
+        "item" : "CYPRESS AVENUE"
+      }, {
+        "count" : 5,
+        "item" : "EAST    5 STREET"
+      }, {
+        "count" : 4,
+        "item" : "HENRY STREET"
+      }, {
+        "count" : 3,
+        "item" : "SIGOURNEY STREET"
+      }, {
+        "count" : 2,
+        "item" : "LORRAINE STREET"
+      }, {
+        "count" : 1,
+        "item" : "COLUMBIA STREET"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979614,
+    "name" : "TREELOCATI",
+    "dataTypeName" : "number",
+    "description" : "TREELOCATI",
+    "fieldName" : "treelocati",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560735,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "0",
+      "sum" : "303761",
+      "null" : 0,
+      "average" : "2.018157779342785",
+      "largest" : "127",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "14"
+      }, {
+        "count" : 12,
+        "item" : "12"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "8"
+      }, {
+        "count" : 9,
+        "item" : "13"
+      }, {
+        "count" : 8,
+        "item" : "11"
+      }, {
+        "count" : 7,
+        "item" : "9"
+      }, {
+        "count" : 6,
+        "item" : "0"
+      }, {
+        "count" : 5,
+        "item" : "16"
+      }, {
+        "count" : 4,
+        "item" : "18"
+      }, {
+        "count" : 3,
+        "item" : "15"
+      }, {
+        "count" : 2,
+        "item" : "17"
+      }, {
+        "count" : 1,
+        "item" : "19"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979615,
+    "name" : "SITE",
+    "dataTypeName" : "number",
+    "description" : "SITE",
+    "fieldName" : "site",
+    "position" : 12,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560736,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "1",
+      "sum" : "271031",
+      "null" : 0,
+      "average" : "1.800702924644884",
+      "largest" : "9",
+      "top" : [ {
+        "count" : 20,
+        "item" : "8"
+      }, {
+        "count" : 19,
+        "item" : "1"
+      }, {
+        "count" : 18,
+        "item" : "4"
+      }, {
+        "count" : 17,
+        "item" : "2"
+      }, {
+        "count" : 16,
+        "item" : "3"
+      }, {
+        "count" : 15,
+        "item" : "5"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "9"
+      }, {
+        "count" : 12,
+        "item" : "6"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979616,
+    "name" : "TREEPIT",
+    "dataTypeName" : "text",
+    "description" : "TREEPIT",
+    "fieldName" : "treepit",
+    "position" : 13,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560737,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "3",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "1"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979617,
+    "name" : "TREECONDIT",
+    "dataTypeName" : "number",
+    "description" : "TREECONDIT",
+    "fieldName" : "treecondit",
+    "position" : 14,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560738,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "1",
+      "sum" : "318094",
+      "null" : 0,
+      "average" : "2.113384801413822",
+      "largest" : "7",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "7"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "5"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979618,
+    "name" : "DIAMETER",
+    "dataTypeName" : "number",
+    "description" : "DIAMETER",
+    "fieldName" : "diameter",
+    "position" : 15,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560739,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "0",
+      "sum" : "2015104",
+      "null" : 0,
+      "average" : "13.38814993954051",
+      "largest" : "1635",
+      "top" : [ {
+        "count" : 20,
+        "item" : "5"
+      }, {
+        "count" : 19,
+        "item" : "3"
+      }, {
+        "count" : 18,
+        "item" : "23"
+      }, {
+        "count" : 17,
+        "item" : "7"
+      }, {
+        "count" : 16,
+        "item" : "29"
+      }, {
+        "count" : 15,
+        "item" : "10"
+      }, {
+        "count" : 14,
+        "item" : "8"
+      }, {
+        "count" : 13,
+        "item" : "28"
+      }, {
+        "count" : 12,
+        "item" : "11"
+      }, {
+        "count" : 11,
+        "item" : "6"
+      }, {
+        "count" : 10,
+        "item" : "2"
+      }, {
+        "count" : 9,
+        "item" : "4"
+      }, {
+        "count" : 8,
+        "item" : "9"
+      }, {
+        "count" : 7,
+        "item" : "12"
+      }, {
+        "count" : 6,
+        "item" : "17"
+      }, {
+        "count" : 5,
+        "item" : "13"
+      }, {
+        "count" : 4,
+        "item" : "15"
+      }, {
+        "count" : 3,
+        "item" : "0"
+      }, {
+        "count" : 2,
+        "item" : "16"
+      }, {
+        "count" : 1,
+        "item" : "20"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979619,
+    "name" : "SPECIES",
+    "dataTypeName" : "text",
+    "description" : "SPECIES",
+    "fieldName" : "species",
+    "position" : 16,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560740,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "ZESE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ZESE"
+      }, {
+        "count" : 19,
+        "item" : "UNK"
+      }, {
+        "count" : 18,
+        "item" : "PLAC"
+      }, {
+        "count" : 17,
+        "item" : "GIBI"
+      }, {
+        "count" : 16,
+        "item" : "GLTR"
+      }, {
+        "count" : 15,
+        "item" : "TICO"
+      }, {
+        "count" : 14,
+        "item" : "FRPE"
+      }, {
+        "count" : 13,
+        "item" : "STJA2"
+      }, {
+        "count" : 12,
+        "item" : "TITO"
+      }, {
+        "count" : 11,
+        "item" : " "
+      }, {
+        "count" : 10,
+        "item" : "PRVISH"
+      }, {
+        "count" : 9,
+        "item" : "QURU"
+      }, {
+        "count" : 8,
+        "item" : "ACPLCR"
+      }, {
+        "count" : 7,
+        "item" : "PYCA"
+      }, {
+        "count" : 6,
+        "item" : "ACPL"
+      }, {
+        "count" : 5,
+        "item" : "QUPA"
+      }, {
+        "count" : 4,
+        "item" : "ACSA1"
+      }, {
+        "count" : 3,
+        "item" : "TIAM"
+      }, {
+        "count" : 2,
+        "item" : "ULAM"
+      }, {
+        "count" : 1,
+        "item" : "ACRU"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979620,
+    "name" : "BOROUGH",
+    "dataTypeName" : "text",
+    "description" : "BOROUGH",
+    "fieldName" : "borough",
+    "position" : 17,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560741,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "Brooklyn",
+      "null" : 0,
+      "largest" : "Brooklyn",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Brooklyn"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979621,
+    "name" : "ZIPCODE",
+    "dataTypeName" : "text",
+    "description" : "ZIPCODE",
+    "fieldName" : "zipcode",
+    "position" : 18,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1560742,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : " ",
+      "null" : 0,
+      "largest" : "11239",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11206"
+      }, {
+        "count" : 19,
+        "item" : "11237"
+      }, {
+        "count" : 18,
+        "item" : "11222"
+      }, {
+        "count" : 17,
+        "item" : "11217"
+      }, {
+        "count" : 16,
+        "item" : "11216"
+      }, {
+        "count" : 15,
+        "item" : "11205"
+      }, {
+        "count" : 14,
+        "item" : "11233"
+      }, {
+        "count" : 13,
+        "item" : "11207"
+      }, {
+        "count" : 12,
+        "item" : "11208"
+      }, {
+        "count" : 11,
+        "item" : "11215"
+      }, {
+        "count" : 10,
+        "item" : "11220"
+      }, {
+        "count" : 9,
+        "item" : "11218"
+      }, {
+        "count" : 8,
+        "item" : "11219"
+      }, {
+        "count" : 7,
+        "item" : "11230"
+      }, {
+        "count" : 6,
+        "item" : "11204"
+      }, {
+        "count" : 5,
+        "item" : "11232"
+      }, {
+        "count" : 4,
+        "item" : "11213"
+      }, {
+        "count" : 3,
+        "item" : "11238"
+      }, {
+        "count" : 2,
+        "item" : "11225"
+      }, {
+        "count" : 1,
+        "item" : "11226"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979622,
+    "name" : "FID_1",
+    "dataTypeName" : "number",
+    "description" : "FID_1",
+    "fieldName" : "fid_1",
+    "position" : 19,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560743,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "0",
+      "sum" : "5595649",
+      "null" : 0,
+      "average" : "37.17693370716345",
+      "largest" : "56",
+      "top" : [ {
+        "count" : 20,
+        "item" : "28"
+      }, {
+        "count" : 19,
+        "item" : "29"
+      }, {
+        "count" : 18,
+        "item" : "30"
+      }, {
+        "count" : 17,
+        "item" : "32"
+      }, {
+        "count" : 16,
+        "item" : "33"
+      }, {
+        "count" : 15,
+        "item" : "34"
+      }, {
+        "count" : 14,
+        "item" : "37"
+      }, {
+        "count" : 13,
+        "item" : "39"
+      }, {
+        "count" : 12,
+        "item" : "35"
+      }, {
+        "count" : 11,
+        "item" : "36"
+      }, {
+        "count" : 10,
+        "item" : "38"
+      }, {
+        "count" : 9,
+        "item" : "40"
+      }, {
+        "count" : 8,
+        "item" : "41"
+      }, {
+        "count" : 7,
+        "item" : "42"
+      }, {
+        "count" : 6,
+        "item" : "43"
+      }, {
+        "count" : 5,
+        "item" : "44"
+      }, {
+        "count" : 4,
+        "item" : "45"
+      }, {
+        "count" : 3,
+        "item" : "31"
+      }, {
+        "count" : 2,
+        "item" : "46"
+      }, {
+        "count" : 1,
+        "item" : "49"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2979623,
+    "name" : "COMMDIST",
+    "dataTypeName" : "number",
+    "description" : "COMMDIST",
+    "fieldName" : "commdist",
+    "position" : 20,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1560744,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 150514,
+      "smallest" : "0",
+      "sum" : "46433703",
+      "null" : 0,
+      "average" : "308.5008902826315",
+      "largest" : "409",
+      "top" : [ {
+        "count" : 20,
+        "item" : "301"
+      }, {
+        "count" : 19,
+        "item" : "302"
+      }, {
+        "count" : 18,
+        "item" : "303"
+      }, {
+        "count" : 17,
+        "item" : "305"
+      }, {
+        "count" : 16,
+        "item" : "306"
+      }, {
+        "count" : 15,
+        "item" : "307"
+      }, {
+        "count" : 14,
+        "item" : "310"
+      }, {
+        "count" : 13,
+        "item" : "312"
+      }, {
+        "count" : 12,
+        "item" : "308"
+      }, {
+        "count" : 11,
+        "item" : "309"
+      }, {
+        "count" : 10,
+        "item" : "311"
+      }, {
+        "count" : 9,
+        "item" : "313"
+      }, {
+        "count" : 8,
+        "item" : "314"
+      }, {
+        "count" : 7,
+        "item" : "315"
+      }, {
+        "count" : 6,
+        "item" : "316"
+      }, {
+        "count" : 5,
+        "item" : "317"
+      }, {
+        "count" : 4,
+        "item" : "318"
+      }, {
+        "count" : 3,
+        "item" : "304"
+      }, {
+        "count" : 2,
+        "item" : "355"
+      }, {
+        "count" : 1,
+        "item" : "402"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1560726,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1560727
+      } ],
+      "latitudeId" : 1560725
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/BrooklynTreeWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "ONSTREET",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "BrooklynTree",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "Annually"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "CB3E3F30-636D-449B-BA5C-6BC9AB34847C",
+      "name" : "DPR_BrooklynStreetTrees_001.zip",
+      "filename" : "DPR_BrooklynStreetTrees_001.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0408808931303,
+    "lat" : 40.7381622023535
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.8572002590052,
+    "lat" : 40.5719817412844
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "park", "parks", "nature", "recreation", "tree", "census", "arbor", "geographic", "brooklyn", "healthy living" ],
+  "flags" : [ "default" ]
+}

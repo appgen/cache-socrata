@@ -1,0 +1,88 @@
+{
+  "id" : "62dw-nwnq",
+  "name" : "Congressional Districts (water areas included)",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "DCP_nycgwiav_001.zip",
+  "blobFileSize" : 102160,
+  "blobId" : "-FuxDmQpI50sGf4HH7uWNbR6lsJAXcBYmV3CUTFMmkQ",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1366309145,
+  "description" : "GIS data: Boundaries of Congressional Districts (water areas included)",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 3254786,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366309368,
+  "publicationGroup" : 804652,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 804652,
+  "totalTimesRated" : 0,
+  "viewCount" : 4,
+  "viewLastModified" : 1366309368,
+  "viewType" : "geo",
+  "childViews" : [ "rq8q-7xgc" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "layers" : "geo_62dw-nwnq-1",
+      "bbox" : "-74.26038033006296,40.4858075761058,-73.69920557309834,40.917688959607275",
+      "bboxCrs" : "EPSG:4326",
+      "featureIdAttribute" : "_SocrataID",
+      "owsUrl" : "/api/geospatial/62dw-nwnq",
+      "namespace" : "geo_62dw-nwnq"
+    },
+    "attachments" : [ {
+      "blobId" : "1EB04DBC-0A5C-4C28-B08E-0880E51FC7E3",
+      "name" : "DCP_nycgwiav_001.zip",
+      "filename" : "DCP_nycgwiav_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "congressional districts (water areas included)", "dcp", "congress", "gis", "maps" ],
+  "flags" : [ "default" ]
+}

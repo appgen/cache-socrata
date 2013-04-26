@@ -1,0 +1,506 @@
+{
+  "id" : "3ndg-kc2x",
+  "name" : "Transportation Structures",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1357748806,
+  "description" : "Planimetric basemap polygon layer containing transportation structures, such as bridges, tunnels and overpasses.",
+  "displayType" : "map",
+  "downloadCount" : 7,
+  "numberOfComments" : 0,
+  "oid" : 2191442,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116583,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244146,
+  "totalTimesRated" : 0,
+  "viewCount" : 87,
+  "viewLastModified" : 1357748806,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 38290050,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564654,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "1",
+      "sum" : "62647221",
+      "null" : 0,
+      "average" : "5597",
+      "largest" : "11193"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38290051,
+    "name" : "Shape",
+    "dataTypeName" : "geospatial",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "geospatial",
+    "tableColumnId" : 1564655,
+    "width" : 100,
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding", "geometry" ]
+  }, {
+    "id" : 38290052,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564656,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "Gil Hodges Memorial Bridge",
+      "null" : 0,
+      "largest" : "NO NAME",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NO NAME"
+      }, {
+        "count" : 19,
+        "item" : "Gil Hodges Memorial Bridge"
+      }, {
+        "count" : 18,
+        "item" : "Goethals Bridge"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38290053,
+    "name" : "SOURCE_ID",
+    "dataTypeName" : "number",
+    "description" : "SOURCE_ID",
+    "fieldName" : "source_id",
+    "position" : 4,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564657,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "1214000022",
+      "sum" : "161653338784227",
+      "null" : 0,
+      "average" : "14442360295.20477",
+      "largest" : "24248500349"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38290054,
+    "name" : "FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "FEATURE_CODE",
+    "fieldName" : "feature_code",
+    "position" : 5,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564658,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "2140",
+      "sum" : "26923630",
+      "null" : 0,
+      "average" : "2405.398910033056",
+      "largest" : "2485",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2330"
+      }, {
+        "count" : 19,
+        "item" : "2320"
+      }, {
+        "count" : 18,
+        "item" : "2300"
+      }, {
+        "count" : 17,
+        "item" : "2160"
+      }, {
+        "count" : 16,
+        "item" : "2140"
+      }, {
+        "count" : 15,
+        "item" : "2485"
+      }, {
+        "count" : 14,
+        "item" : "2310"
+      }, {
+        "count" : 13,
+        "item" : "2350"
+      }, {
+        "count" : 12,
+        "item" : "2470"
+      }, {
+        "count" : 11,
+        "item" : "2340"
+      }, {
+        "count" : 10,
+        "item" : "2480"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38290055,
+    "name" : "SUB_FEATURE_CODE",
+    "dataTypeName" : "number",
+    "description" : "SUB_FEATURE_CODE",
+    "fieldName" : "sub_feature_code",
+    "position" : 6,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564659,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "214000",
+      "sum" : "2692339200",
+      "null" : 0,
+      "average" : "240537.7646743500",
+      "largest" : "248510",
+      "top" : [ {
+        "count" : 20,
+        "item" : "233000"
+      }, {
+        "count" : 19,
+        "item" : "232000"
+      }, {
+        "count" : 18,
+        "item" : "230000"
+      }, {
+        "count" : 17,
+        "item" : "216000"
+      }, {
+        "count" : 16,
+        "item" : "214000"
+      }, {
+        "count" : 15,
+        "item" : "248510"
+      }, {
+        "count" : 14,
+        "item" : "231000"
+      }, {
+        "count" : 13,
+        "item" : "235000"
+      }, {
+        "count" : 12,
+        "item" : "248500"
+      }, {
+        "count" : 11,
+        "item" : "247000"
+      }, {
+        "count" : 10,
+        "item" : "234000"
+      }, {
+        "count" : 9,
+        "item" : "248000"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38290056,
+    "name" : "Shape_Length",
+    "dataTypeName" : "number",
+    "description" : "Shape_Length",
+    "fieldName" : "shape_length",
+    "position" : 7,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564660,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "8.8954560838883924844822104205377399921417236328125",
+      "sum" : "4306741.2937014101657329234740245738066732883453369140625",
+      "null" : 0,
+      "average" : "384.7709544984732",
+      "largest" : "132330.84651003961334936320781707763671875"
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 38290057,
+    "name" : "Shape_Area",
+    "dataTypeName" : "number",
+    "description" : "Shape_Area",
+    "fieldName" : "shape_area",
+    "position" : 8,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564661,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 11193,
+      "smallest" : "4.6363196326529330093535463674925267696380615234375",
+      "sum" : "77137357.20094244784652204316444112919270992279052734375000",
+      "null" : 0,
+      "average" : "6891.571267840833",
+      "largest" : "2264899.5923105082474648952484130859375"
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "opacity" : 1,
+      "layerName" : "World Street Map (ESRI)"
+    } ],
+    "viewport" : {
+      "ymin" : 40.700275166114,
+      "ymax" : 40.708605350115,
+      "xmin" : -74.018990663313,
+      "xmax" : -73.998133806017
+    },
+    "plotStyle" : "point",
+    "distinctLegend" : true,
+    "viewDefinitions" : [ {
+      "uid" : "zpua-wef3",
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1564656
+        } ]
+      }
+    } ],
+    "plot" : {
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564656
+      } ],
+      "longitudeId" : 1564655,
+      "latitudeId" : 1564654
+    }
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "types_6.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "233000",
+        "codedValues_1.name" : "Pedestrian Bridge"
+      },
+      "types_10.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dTransitEntrance"
+      },
+      "types_10.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "248510",
+        "codedValues_1.code" : "248500",
+        "codedValues_1.name" : "Transit Entrance",
+        "codedValues_2.name" : "Transit Entrance, Hidden "
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "types_9" : {
+        "id" : "2350",
+        "name" : "Overpass"
+      },
+      "types_8" : {
+        "id" : "2340",
+        "name" : "Railroad Viaduct"
+      },
+      "types_7" : {
+        "id" : "2470",
+        "name" : "Ventilation Grate"
+      },
+      "types_6" : {
+        "id" : "2330",
+        "name" : "Pedestrian Bridge"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.defaultLabel" : "<all other values>",
+        "renderer.field1" : "FEATURE_CODE",
+        "renderer.fieldDelimiter" : ", ",
+        "renderer.type" : "uniqueValue"
+      },
+      "drawingInfo.renderer" : {
+        "defaultSymbol.type" : "esriSFS",
+        "defaultSymbol.style" : "esriSFSSolid"
+      },
+      "types_1" : {
+        "id" : "2480",
+        "name" : "Emergence Exit"
+      },
+      "types_9.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "235000",
+        "codedValues_1.name" : "Overpass"
+      },
+      "types_2.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dRailStation"
+      },
+      "types_1.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dEmergencyExit_2"
+      },
+      "types_4.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "232000",
+        "codedValues_1.name" : "Rail Bridge"
+      },
+      "types_4" : {
+        "id" : "2320",
+        "name" : "Rail Bridge"
+      },
+      "types_5" : {
+        "id" : "2300",
+        "name" : "Bridge"
+      },
+      "types_9.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dOverpass"
+      },
+      "types_2" : {
+        "id" : "2160",
+        "name" : "Subway/Train Station"
+      },
+      "types_3" : {
+        "id" : "2140",
+        "name" : "Elevated Subway/Train Station"
+      },
+      "types_8.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "234000",
+        "codedValues_1.name" : "Railroad Viaduct"
+      },
+      "types_5.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "230000",
+        "codedValues_1.name" : "Bridge"
+      },
+      "drawingInfo.renderer.defaultSymbol" : {
+        "outline.type" : "esriSLS",
+        "outline.width" : "0.4",
+        "outline.style" : "esriSLSSolid"
+      },
+      "types_7.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "247010",
+        "codedValues_1.code" : "247000",
+        "codedValues_1.name" : "Ventilation grate",
+        "codedValues_2.name" : "Ventilation Grate, Hidden"
+      },
+      "types_2.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "216000",
+        "codedValues_1.name" : "Subway/train station"
+      },
+      "types_11" : {
+        "id" : "2310",
+        "name" : "Tunnel"
+      },
+      "types_4.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dRailBridge"
+      },
+      "types_10" : {
+        "id" : "2485",
+        "name" : "Transit Entrance"
+      },
+      "types_8.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dRailroadViaduct"
+      },
+      "types_11.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dTunnel"
+      },
+      "types_7.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dVentiGrate"
+      },
+      "types_1.domains.SUB_FEATURE_CODE" : {
+        "codedValues_2.code" : "248010",
+        "codedValues_1.code" : "248000",
+        "codedValues_1.name" : "Emergency exit",
+        "codedValues_2.name" : "Emergency Exit, Hidden"
+      },
+      "types_3.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "214000",
+        "codedValues_1.name" : "Elevated subway/train station"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_TRANSPORTATION_STRUCTURE_01_28JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_TRANSPORTATION_STRUCTURE_01_28JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "typeIdField" : "FEATURE_CODE",
+        "Spatial Reference wkid" : "102100",
+        "maxScale" : "0",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPolygon"
+      },
+      "types_6.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dPedestrianBridge"
+      },
+      "types_5.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dBridge"
+      },
+      "types_3.domains" : {
+        "SUB_FEATURE_CODE.type" : "codedValue",
+        "SUB_FEATURE_CODE.name" : "dElevRailStation"
+      },
+      "types_11.domains.SUB_FEATURE_CODE" : {
+        "codedValues_1.code" : "231000",
+        "codedValues_1.name" : "Tunnel"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "9CD08965-8CA6-42E7-A191-C3713CA95155",
+      "name" : "DOITT_TRANSPORTATION_STRUCTURE.zip",
+      "filename" : "DOITT_TRANSPORTATION_STRUCTURE.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "owner" : {
+    "id" : "nxmk-pn5a",
+    "displayName" : "Dan McHugh",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1357747198,
+    "screenName" : "Dan McHugh"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "planimetric basemap polygon layer containing transportation structures", "such as bridges", "tunnels and overpasses." ]
+}

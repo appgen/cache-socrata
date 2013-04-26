@@ -1,0 +1,350 @@
+{
+  "id" : "n6ct-9993",
+  "name" : "Path Station Locations",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318116243,
+  "description" : "Location of PATH stations.",
+  "displayType" : "map",
+  "downloadCount" : 39,
+  "numberOfComments" : 0,
+  "oid" : 342280,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318116251,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 244135,
+  "totalTimesRated" : 0,
+  "viewCount" : 725,
+  "viewLastModified" : 1360607788,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2989175,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1564466,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "1",
+      "sum" : "91",
+      "null" : 0,
+      "average" : "7",
+      "largest" : "13",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1"
+      }, {
+        "count" : 19,
+        "item" : "2"
+      }, {
+        "count" : 18,
+        "item" : "3"
+      }, {
+        "count" : 17,
+        "item" : "4"
+      }, {
+        "count" : 16,
+        "item" : "5"
+      }, {
+        "count" : 15,
+        "item" : "6"
+      }, {
+        "count" : 14,
+        "item" : "7"
+      }, {
+        "count" : 13,
+        "item" : "8"
+      }, {
+        "count" : 12,
+        "item" : "9"
+      }, {
+        "count" : 11,
+        "item" : "10"
+      }, {
+        "count" : 10,
+        "item" : "11"
+      }, {
+        "count" : 9,
+        "item" : "12"
+      }, {
+        "count" : 8,
+        "item" : "13"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2989176,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1564467,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : {
+        "longitude" : "-73.98843386199991",
+        "latitude" : "40.748528330000056"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-74.15701890199995",
+        "latitude" : "40.73844099300004"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.98843386199991",
+          "latitude" : "40.748528330000056"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.99301569699992",
+          "latitude" : "40.74281005800009"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99706238499994",
+          "latitude" : "40.73736314100006"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.99867212499993",
+          "latitude" : "40.73407064400004"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-74.00726152999994",
+          "latitude" : "40.732988108000086"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-74.02766734499994",
+          "latitude" : "40.73498246200006"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-74.03379773799992",
+          "latitude" : "40.72703599200008"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-74.0324622899999",
+          "latitude" : "40.71680138000005"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-74.01072598499991",
+          "latitude" : "40.711769265000044"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-74.0426276959999",
+          "latitude" : "40.719602776000045"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-74.06247084299991",
+          "latitude" : "40.73186885500007"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.1635568989999",
+          "latitude" : "40.73507477800007"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-74.15701890199995",
+          "latitude" : "40.73844099300004"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2989177,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1564468,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 13,
+      "smallest" : "14th Street",
+      "null" : 0,
+      "largest" : "World Trade Center Station",
+      "top" : [ {
+        "count" : 20,
+        "item" : "33rd Street"
+      }, {
+        "count" : 19,
+        "item" : "23rd Street"
+      }, {
+        "count" : 18,
+        "item" : "14th Street"
+      }, {
+        "count" : 17,
+        "item" : "9th Street"
+      }, {
+        "count" : 16,
+        "item" : "Christopher Street"
+      }, {
+        "count" : 15,
+        "item" : "Hoboken"
+      }, {
+        "count" : 14,
+        "item" : "Pavonia/Newport"
+      }, {
+        "count" : 13,
+        "item" : "Exchange Place"
+      }, {
+        "count" : 12,
+        "item" : "World Trade Center Station"
+      }, {
+        "count" : 11,
+        "item" : "Grove Street"
+      }, {
+        "count" : 10,
+        "item" : "Journal Square"
+      }, {
+        "count" : 9,
+        "item" : "Newark"
+      }, {
+        "count" : 8,
+        "item" : "Harrison"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1564467,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1564468
+      } ],
+      "latitudeId" : 1564466
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.size" : "4",
+        "symbol.type" : "esriSMS",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.style" : "esriSMSCircle"
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/DOITT_PATH_STATION_01_29JUL2009_WM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "DOITT_PATH_STATION_01_29JUL2009",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo.renderer.symbol" : {
+        "outline.width" : "1"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "2315A687-3051-4EB0-A04F-CC725E61AC57",
+      "name" : "DOITT_PATH_STATION.zip",
+      "filename" : "DOITT_PATH_STATION.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.1635896449677,
+    "lat" : 40.7485289040214
+  },
+  "owner" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.9884338617701,
+    "lat" : 40.7116536569071
+  },
+  "tableAuthor" : {
+    "id" : "5fuc-pqz2",
+    "displayName" : "NYC OpenData",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1331656907,
+    "roleName" : "administrator",
+    "screenName" : "NYC OpenData",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "doitt gis", "geographic", "location", "map", "cartography", "transportation", "nj", "new jersey", "train", "station", "path", "transport", "transit", "traffic" ],
+  "flags" : [ "default" ]
+}

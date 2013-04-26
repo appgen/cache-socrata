@@ -1,0 +1,896 @@
+{
+  "id" : "489r-gebn",
+  "name" : "Electronic Store w/ flyouts",
+  "attribution" : "Department of Consumer Affairs (DCA)",
+  "averageRating" : 0,
+  "category" : "Business and Economic",
+  "createdAt" : 1361380163,
+  "description" : "A list of electronics stores that have a current DCA license as of the run date.",
+  "displayType" : "map",
+  "downloadCount" : 1,
+  "numberOfComments" : 0,
+  "oid" : 2575457,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318009745,
+  "publicationGroup" : 219939,
+  "publicationStage" : "published",
+  "rowsUpdatedAt" : 1318009727,
+  "rowsUpdatedBy" : "txun-eb7e",
+  "signed" : false,
+  "tableId" : 243813,
+  "totalTimesRated" : 0,
+  "viewCount" : 22,
+  "viewLastModified" : 1361380163,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 45878191,
+    "name" : "Entity Type",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_type",
+    "position" : 1,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412083,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "ELECTRONICS STORE",
+      "null" : 0,
+      "largest" : "ELECTRONICS STORE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "ELECTRONICS STORE"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878192,
+    "name" : "License Number",
+    "dataTypeName" : "number",
+    "fieldName" : "license_number",
+    "position" : 2,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1412084,
+    "width" : 238,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "800016",
+      "sum" : "3954081768",
+      "null" : 0,
+      "average" : "1231417.554655870",
+      "largest" : "1361562",
+      "top" : [ {
+        "count" : 20,
+        "item" : "1353884"
+      }, {
+        "count" : 19,
+        "item" : "1354471"
+      }, {
+        "count" : 18,
+        "item" : "1356102"
+      }, {
+        "count" : 17,
+        "item" : "1356376"
+      }, {
+        "count" : 16,
+        "item" : "1357221"
+      }, {
+        "count" : 15,
+        "item" : "1359388"
+      }, {
+        "count" : 14,
+        "item" : "1359932"
+      }, {
+        "count" : 13,
+        "item" : "1360460"
+      }, {
+        "count" : 12,
+        "item" : "1360467"
+      }, {
+        "count" : 11,
+        "item" : "1360742"
+      }, {
+        "count" : 10,
+        "item" : "1360856"
+      }, {
+        "count" : 9,
+        "item" : "1361188"
+      }, {
+        "count" : 8,
+        "item" : "1361562"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "aggregate" : "sum",
+      "noCommas" : "true",
+      "align" : "right"
+    }
+  }, {
+    "id" : 45878193,
+    "name" : "Entity Name",
+    "dataTypeName" : "text",
+    "fieldName" : "entity_name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412085,
+    "width" : 202,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "# 1 GNQ WIRELESS INC.",
+      "null" : 0,
+      "largest" : "ZOU, QIN MING",
+      "top" : [ {
+        "count" : 20,
+        "item" : "RADIOSHACK CORPORATION"
+      }, {
+        "count" : 19,
+        "item" : "T-MOBILE NORTHEAST LLC"
+      }, {
+        "count" : 18,
+        "item" : "T MOBILE NORTHEAST LLC"
+      }, {
+        "count" : 17,
+        "item" : "BASIC SELL INC."
+      }, {
+        "count" : 16,
+        "item" : "SAMI'S METRO PARTNER ASSOCIATE CORP"
+      }, {
+        "count" : 15,
+        "item" : "188 WIRELESS INC"
+      }, {
+        "count" : 14,
+        "item" : "SKYLINE CELLULAR INC"
+      }, {
+        "count" : 13,
+        "item" : "WIRELESS CITY REPAIR INC"
+      }, {
+        "count" : 12,
+        "item" : "DUKES, KEVIN"
+      }, {
+        "count" : 11,
+        "item" : "ZAINY GAME DEPOT,INC"
+      }, {
+        "count" : 10,
+        "item" : "FORMULA 1 HAND CAR WASH INC"
+      }, {
+        "count" : 9,
+        "item" : "1759 WORLDWIDE ELECTRONICS CORP"
+      }, {
+        "count" : 8,
+        "item" : "DYNAMIC CELLULAR OF BAYSHORE INC"
+      }, {
+        "count" : 7,
+        "item" : "CELL NATION Q111 INC."
+      }, {
+        "count" : 6,
+        "item" : "Z & S WIRELESS INC"
+      }, {
+        "count" : 5,
+        "item" : "ARJAY TELECOMMUNICATIONS INC"
+      }, {
+        "count" : 4,
+        "item" : "C MOBILE OF NY INC"
+      }, {
+        "count" : 3,
+        "item" : "PREPAID PAYMENT CENTER 2 INC."
+      }, {
+        "count" : 2,
+        "item" : "NEW SKYLIGHT CELLULAR CORP."
+      }, {
+        "count" : 1,
+        "item" : "CHAVEZ, PATRICIA"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878194,
+    "name" : "Camis Trade Name",
+    "dataTypeName" : "text",
+    "fieldName" : "camis_trade_name",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412086,
+    "width" : 262,
+    "cachedContents" : {
+      "non_null" : 1024,
+      "smallest" : ".",
+      "null" : 2187,
+      "largest" : "ZOOM WIRELESS",
+      "top" : [ {
+        "count" : 20,
+        "item" : "VERIZON WIRELESS"
+      }, {
+        "count" : 19,
+        "item" : "AT & T MOBILITY"
+      }, {
+        "count" : 18,
+        "item" : "AT&T MOBILITY"
+      }, {
+        "count" : 17,
+        "item" : "GAMESTOP"
+      }, {
+        "count" : 16,
+        "item" : "T-MOBILE"
+      }, {
+        "count" : 15,
+        "item" : "METRO PCS"
+      }, {
+        "count" : 14,
+        "item" : "CELLULAR PLUS"
+      }, {
+        "count" : 13,
+        "item" : "METROPCS AUTHORIZED DEALER"
+      }, {
+        "count" : 12,
+        "item" : "AT & T WIRELESS SERVICE"
+      }, {
+        "count" : 11,
+        "item" : "HIGHBRIDGE INTERNET CAFE"
+      }, {
+        "count" : 10,
+        "item" : "HIPOINT WIRELESS"
+      }, {
+        "count" : 9,
+        "item" : "T MOBILE"
+      }, {
+        "count" : 8,
+        "item" : "RIDGE COMPUTER SERVICES"
+      }, {
+        "count" : 7,
+        "item" : "HOT DEALS COMMUNICATION AND REPAIR/WARRANTY"
+      }, {
+        "count" : 6,
+        "item" : "EXTREME AUTO SOUND"
+      }, {
+        "count" : 5,
+        "item" : "HERO AUTO SOUND AND SECURITY"
+      }, {
+        "count" : 4,
+        "item" : "K'S WIRELESS"
+      }, {
+        "count" : 3,
+        "item" : "BROADWAY INTERNET AND WIRELESS"
+      }, {
+        "count" : 2,
+        "item" : "TURNER"
+      }, {
+        "count" : 1,
+        "item" : "ARJAY WIRELESS"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878195,
+    "name" : "Address Bldg",
+    "dataTypeName" : "text",
+    "fieldName" : "address_bldg",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412087,
+    "width" : 214,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "0",
+      "null" : 0,
+      "largest" : "9-May",
+      "top" : [ {
+        "count" : 20,
+        "item" : "87-76"
+      }, {
+        "count" : 19,
+        "item" : "423"
+      }, {
+        "count" : 18,
+        "item" : "2478"
+      }, {
+        "count" : 17,
+        "item" : "3203"
+      }, {
+        "count" : 16,
+        "item" : "17"
+      }, {
+        "count" : 15,
+        "item" : "71-06"
+      }, {
+        "count" : 14,
+        "item" : "711"
+      }, {
+        "count" : 13,
+        "item" : "3047"
+      }, {
+        "count" : 12,
+        "item" : "13101"
+      }, {
+        "count" : 11,
+        "item" : "66"
+      }, {
+        "count" : 10,
+        "item" : "3022"
+      }, {
+        "count" : 9,
+        "item" : "4614"
+      }, {
+        "count" : 8,
+        "item" : "8"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878196,
+    "name" : "Address Street Name",
+    "dataTypeName" : "text",
+    "fieldName" : "address_street_name",
+    "position" : 6,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412088,
+    "width" : 298,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "101 AVENUE",
+      "null" : 0,
+      "largest" : "ZEREGA AVENUE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "BROADWAY"
+      }, {
+        "count" : 19,
+        "item" : "ROOSEVELT AVENUE"
+      }, {
+        "count" : 18,
+        "item" : "JAMAICA AVENUE"
+      }, {
+        "count" : 17,
+        "item" : "3 AVENUE"
+      }, {
+        "count" : 16,
+        "item" : "5 AVENUE"
+      }, {
+        "count" : 15,
+        "item" : "FULTON STREET"
+      }, {
+        "count" : 14,
+        "item" : "MAIN STREET"
+      }, {
+        "count" : 13,
+        "item" : "LIBERTY AVENUE"
+      }, {
+        "count" : 12,
+        "item" : "E FORDHAM RD"
+      }, {
+        "count" : 11,
+        "item" : "LEGION STREET"
+      }, {
+        "count" : 10,
+        "item" : "GRAND AVE"
+      }, {
+        "count" : 9,
+        "item" : "8TH AVE"
+      }, {
+        "count" : 8,
+        "item" : "91TH ST"
+      }, {
+        "count" : 7,
+        "item" : "39TH AVE"
+      }, {
+        "count" : 6,
+        "item" : "E BROADWAY"
+      }, {
+        "count" : 5,
+        "item" : "STEINWAY ST"
+      }, {
+        "count" : 4,
+        "item" : "5TH AVE"
+      }, {
+        "count" : 3,
+        "item" : "BAY 25TH ST"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878197,
+    "name" : "Address Location",
+    "dataTypeName" : "text",
+    "fieldName" : "address_location",
+    "position" : 7,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412089,
+    "width" : 262,
+    "cachedContents" : {
+      "non_null" : 356,
+      "smallest" : "#01889",
+      "null" : 2855,
+      "largest" : "WEST STORE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "2ND FLOOR"
+      }, {
+        "count" : 19,
+        "item" : "1ST FLOOR"
+      }, {
+        "count" : 18,
+        "item" : "GROUND FLOOR"
+      }, {
+        "count" : 17,
+        "item" : "STORE B"
+      }, {
+        "count" : 16,
+        "item" : "STORE 1"
+      }, {
+        "count" : 15,
+        "item" : "STORE #6-117"
+      }, {
+        "count" : 14,
+        "item" : "STORE  4"
+      }, {
+        "count" : 13,
+        "item" : "# LEFTSIDE"
+      }, {
+        "count" : 12,
+        "item" : "#MW12B"
+      }, {
+        "count" : 11,
+        "item" : "#42"
+      }, {
+        "count" : 10,
+        "item" : "CU# 8"
+      }, {
+        "count" : 9,
+        "item" : "BRUCKNER PLAZA"
+      }, {
+        "count" : 8,
+        "item" : "SPACE# K-4"
+      }, {
+        "count" : 7,
+        "item" : "F16"
+      }, {
+        "count" : 6,
+        "item" : "ELECTCHESTER SHOPPING CENTER/14"
+      }, {
+        "count" : 5,
+        "item" : "BASEMENT"
+      }, {
+        "count" : 4,
+        "item" : "SPC K-7"
+      }, {
+        "count" : 3,
+        "item" : "SUITE B"
+      }, {
+        "count" : 2,
+        "item" : "SUITE 1"
+      }, {
+        "count" : 1,
+        "item" : "SUITE 7"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878198,
+    "name" : "Address City",
+    "dataTypeName" : "text",
+    "fieldName" : "address_city",
+    "position" : 8,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412090,
+    "width" : 214,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "ASTORIA",
+      "null" : 0,
+      "largest" : "WOODSIDE",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NEW YORK"
+      }, {
+        "count" : 19,
+        "item" : "QUEENS"
+      }, {
+        "count" : 18,
+        "item" : "BRONX"
+      }, {
+        "count" : 17,
+        "item" : "MANHATTAN"
+      }, {
+        "count" : 16,
+        "item" : "BROOKLYN"
+      }, {
+        "count" : 15,
+        "item" : "FLUSHING"
+      }, {
+        "count" : 14,
+        "item" : "JAMAICA"
+      }, {
+        "count" : 13,
+        "item" : "REGO PARK"
+      }, {
+        "count" : 12,
+        "item" : "OZONE PARK"
+      }, {
+        "count" : 11,
+        "item" : "RIDGEWOOD"
+      }, {
+        "count" : 10,
+        "item" : "ELMHURST"
+      }, {
+        "count" : 9,
+        "item" : "ASTORIA"
+      }, {
+        "count" : 8,
+        "item" : "WOODSIDE"
+      }, {
+        "count" : 7,
+        "item" : "STATEN ISLAND"
+      }, {
+        "count" : 6,
+        "item" : "JACKSON HEIGHTS"
+      }, {
+        "count" : 5,
+        "item" : "FAR ROCKAWAY"
+      }, {
+        "count" : 4,
+        "item" : "BAYSIDE"
+      }, {
+        "count" : 3,
+        "item" : "RICHMOND HILL"
+      }, {
+        "count" : 2,
+        "item" : "SUNNYSIDE"
+      }, {
+        "count" : 1,
+        "item" : "WOODHAVEN"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878199,
+    "name" : "Address State",
+    "dataTypeName" : "text",
+    "fieldName" : "address_state",
+    "position" : 9,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1412091,
+    "width" : 226,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : "NY",
+      "null" : 0,
+      "largest" : "NY",
+      "top" : [ {
+        "count" : 20,
+        "item" : "NY"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878200,
+    "name" : "Address Zip Code",
+    "dataTypeName" : "number",
+    "fieldName" : "address_zip_code",
+    "position" : 10,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1412092,
+    "width" : 262,
+    "cachedContents" : {
+      "non_null" : 3198,
+      "smallest" : "10001",
+      "sum" : "148737727",
+      "null" : 13,
+      "average" : "46509.60819262039",
+      "largest" : "114203020",
+      "top" : [ {
+        "count" : 20,
+        "item" : "11372"
+      }, {
+        "count" : 19,
+        "item" : "10002"
+      }, {
+        "count" : 18,
+        "item" : "11220"
+      }, {
+        "count" : 17,
+        "item" : "11354"
+      }, {
+        "count" : 16,
+        "item" : "10001"
+      }, {
+        "count" : 15,
+        "item" : "10458"
+      }, {
+        "count" : 14,
+        "item" : "11209"
+      }, {
+        "count" : 13,
+        "item" : "11419"
+      }, {
+        "count" : 12,
+        "item" : "10013"
+      }, {
+        "count" : 11,
+        "item" : "10468"
+      }, {
+        "count" : 10,
+        "item" : "10314"
+      }, {
+        "count" : 9,
+        "item" : "11432"
+      }, {
+        "count" : 8,
+        "item" : "10459"
+      }, {
+        "count" : 7,
+        "item" : "11226"
+      }, {
+        "count" : 6,
+        "item" : "11101"
+      }, {
+        "count" : 5,
+        "item" : "10029"
+      }, {
+        "count" : 4,
+        "item" : "11368"
+      }, {
+        "count" : 3,
+        "item" : "11208"
+      }, {
+        "count" : 2,
+        "item" : "11374"
+      }, {
+        "count" : 1,
+        "item" : "10467"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 45878201,
+    "name" : "Telephone Number",
+    "dataTypeName" : "number",
+    "fieldName" : "telephone_number",
+    "position" : 11,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1412093,
+    "width" : 262,
+    "cachedContents" : {
+      "non_null" : 3204,
+      "smallest" : "0",
+      "sum" : "19195103221905",
+      "null" : 7,
+      "average" : "5990981030.557116",
+      "largest" : "9999999999",
+      "top" : [ {
+        "count" : 20,
+        "item" : "9737751275"
+      }, {
+        "count" : 19,
+        "item" : "7182061234"
+      }, {
+        "count" : 18,
+        "item" : "9175601110"
+      }, {
+        "count" : 17,
+        "item" : "7189563080"
+      }, {
+        "count" : 16,
+        "item" : "6463532137"
+      }, {
+        "count" : 15,
+        "item" : "9174593887"
+      } ]
+    },
+    "format" : {
+      "precisionStyle" : "standard",
+      "align" : "right"
+    }
+  }, {
+    "id" : 45878202,
+    "name" : "Location",
+    "dataTypeName" : "location",
+    "fieldName" : "location",
+    "position" : 12,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1412094,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 3211,
+      "smallest" : {
+        "longitude" : "-73.9512209586388",
+        "latitude" : "40.7822690581095",
+        "human_address" : "{\"address\":\"1 AVENUE\",\"city\":\"MANHATTAN\",\"state\":\"NY\",\"zip\":\"10128\"}"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.8440757320681",
+        "latitude" : "40.8291147426157",
+        "human_address" : "{\"address\":\"ZEREGA AVENUE\",\"city\":\"BRONX\",\"state\":\"NY\",\"zip\":\"10462\"}"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.8312424067099",
+          "latitude" : "40.7632663836304",
+          "human_address" : "{\"address\":\"NORTHERN BOULEVARD\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11354\"}"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.9961510872227",
+          "latitude" : "40.749686620988",
+          "human_address" : "{\"address\":\"9TH AVE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10001\"}"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.9617879924831",
+          "latitude" : "40.6053544285056",
+          "human_address" : "{\"address\":\"CONEY ISLAND AVENUE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11223\"}"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.9425245146155",
+          "latitude" : "40.7620702853314",
+          "human_address" : "{\"address\":\"36TH AVE\",\"city\":\"ASTORIA\",\"state\":\"NY\",\"zip\":\"11106\"}"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9164441757658",
+          "latitude" : "40.6614181638122",
+          "human_address" : "{\"address\":\"LEGION STREET\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11212\"}"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.9084761825862",
+          "latitude" : "40.7231566211236",
+          "human_address" : "{\"address\":\"GRAND AVE\",\"city\":\"MASPETH\",\"state\":\"NY\",\"zip\":\"\"}"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9898738194582",
+          "latitude" : "40.7593273531421",
+          "human_address" : "{\"address\":\"8TH AVE\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10036\"}"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.8712352573529",
+          "latitude" : "40.7643635565061",
+          "human_address" : "{\"address\":\"91TH ST\",\"city\":\"EAST ELMHURST\",\"state\":\"NY\",\"zip\":\"11369\"}"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.8345249321169",
+          "latitude" : "40.7589946039912",
+          "human_address" : "{\"address\":\"39TH AVE\",\"city\":\"FLUSHING\",\"state\":\"NY\",\"zip\":\"11354\"}"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.9830029991543",
+          "latitude" : "40.7148288991323",
+          "human_address" : "{\"address\":\"E BROADWAY\",\"city\":\"NEW YORK\",\"state\":\"NY\",\"zip\":\"10002\"}"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.9106075757957",
+          "latitude" : "40.7691119768209",
+          "human_address" : "{\"address\":\"STEINWAY ST\",\"city\":\"ASTORIA\",\"state\":\"NY\",\"zip\":\"11103\"}"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-74.0190208464278",
+          "latitude" : "40.6367227808876",
+          "human_address" : "{\"address\":\"5TH AVE\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11220\"}"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.9975360431478",
+          "latitude" : "40.6041493369863",
+          "human_address" : "{\"address\":\"BAY 25TH ST\",\"city\":\"BROOKLYN\",\"state\":\"NY\",\"zip\":\"11214\"}"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  } ],
+  "displayFormat" : {
+    "bkgdLayers" : [ {
+      "alias" : "Roadmap",
+      "opacity" : 1,
+      "layerName" : "Google Roadmap"
+    }, {
+      "alias" : "Satellite",
+      "opacity" : 1,
+      "layerName" : "Google Satellite"
+    }, {
+      "alias" : "Terrain",
+      "opacity" : 1,
+      "layerName" : "Google Terrain"
+    } ],
+    "viewport" : {
+      "center" : {
+        "lng" : -73.85874822482043,
+        "lat" : 40.733059719988596
+      },
+      "ymin" : 40.825750326759,
+      "ymax" : 40.837030868586,
+      "zoom" : 12,
+      "xmin" : -73.912695233468,
+      "xmax" : -73.874882523665
+    },
+    "distinctLegend" : true,
+    "exclusiveLayers" : true,
+    "viewDefinitions" : [ {
+      "uid" : "2nju-4jd4",
+      "plotStyle" : "point",
+      "color" : "#0000ff",
+      "flyoutsNoLabel" : false,
+      "plot" : {
+        "descriptionColumns" : [ {
+          "tableColumnId" : 1412087
+        }, {
+          "tableColumnId" : 1412088
+        }, {
+          "tableColumnId" : 1412093
+        } ],
+        "locationId" : 1412094,
+        "titleId" : 1412085
+      }
+    } ]
+  },
+  "grants" : [ {
+    "inherited" : true,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true,
+        "table" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0"
+  },
+  "owner" : {
+    "id" : "v4c9-bc9b",
+    "displayName" : "cpbride",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/7222/5776/29f1b58_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/7222/5776/29f1b58_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/7222/5776/29f1b58_tiny.jpg",
+    "profileLastModified" : 1364239685,
+    "screenName" : "cpbride"
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "b9n8-g9sn",
+    "displayName" : "Todd Stavish",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/6203/4159/iphone_225_large.jpeg",
+    "profileImageUrlMedium" : "/images/profile/6203/4159/iphone_225_thumb.jpeg",
+    "profileImageUrlSmall" : "/images/profile/6203/4159/iphone_225_tiny.jpeg",
+    "profileLastModified" : 1305838514,
+    "screenName" : "Todd Stavish"
+  },
+  "tags" : [ "retail", "sale", "sell", "license", "store", "electronics", "consumer affairs", "dca" ]
+}

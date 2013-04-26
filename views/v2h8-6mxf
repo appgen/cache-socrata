@@ -1,0 +1,88 @@
+{
+  "id" : "v2h8-6mxf",
+  "name" : "2010 Census Blocks",
+  "attribution" : "Department of City Planning (DCP)",
+  "averageRating" : 0,
+  "blobFilename" : "nycb2010_12c.zip",
+  "blobFileSize" : 5593213,
+  "blobId" : "0ZaZv87wFvlymlrrDaHXIMGzIWvehEQR4L5zRERRnv4",
+  "blobMimeType" : "application/zip; charset=binary",
+  "category" : "Government",
+  "createdAt" : 1358979983,
+  "description" : "GIS data: 2010 Census Blocks",
+  "displayType" : "map",
+  "downloadCount" : 0,
+  "numberOfComments" : 0,
+  "oid" : 2319767,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1366228076,
+  "publicationGroup" : 632081,
+  "publicationStage" : "published",
+  "signed" : false,
+  "tableId" : 632081,
+  "totalTimesRated" : 0,
+  "viewCount" : 91,
+  "viewLastModified" : 1366228182,
+  "viewType" : "geo",
+  "childViews" : [ "y9us-utpn" ],
+  "columns" : [ ],
+  "displayFormat" : {
+    "plotStyle" : "point"
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "Update" : {
+        "Update Frequency" : "As needed"
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "geo" : {
+      "owsUrl" : "/api/geospatial/v2h8-6mxf",
+      "bbox" : "-74.2571589754619,40.49599220501982,-73.69921518371501,40.915565528731186",
+      "layers" : "geo_v2h8-6mxf-1",
+      "featureIdAttribute" : "_SocrataID",
+      "bboxCrs" : "EPSG:4326",
+      "namespace" : "geo_v2h8-6mxf"
+    },
+    "attachments" : [ {
+      "blobId" : "828E6E24-03EA-4437-AC6F-6AE2F1A96DD5",
+      "name" : "DCP_nycb2010av_001.zip",
+      "filename" : "DCP_nycb2010av_001.zip"
+    } ]
+  },
+  "owner" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "tableAuthor" : {
+    "id" : "txun-eb7e",
+    "displayName" : "Albert Webber",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileLastModified" : 1364930827,
+    "roleName" : "administrator",
+    "screenName" : "Albert Webber",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ]
+  },
+  "tags" : [ "2010 census blocks", "census", "2010", "gis", "map", "dcp" ],
+  "flags" : [ "default" ]
+}

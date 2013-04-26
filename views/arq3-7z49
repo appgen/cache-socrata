@@ -1,0 +1,523 @@
+{
+  "id" : "arq3-7z49",
+  "name" : "Subway Stations",
+  "attribution" : "Department of Information Technology & Telecommunications (DoITT)",
+  "averageRating" : 0,
+  "category" : "Transportation",
+  "createdAt" : 1318010151,
+  "description" : "City Subway Stations",
+  "displayType" : "map",
+  "downloadCount" : 312,
+  "numberOfComments" : 0,
+  "oid" : 341715,
+  "publicationAppendEnabled" : false,
+  "publicationDate" : 1318010211,
+  "publicationStage" : "published",
+  "rowClass" : "",
+  "signed" : false,
+  "tableId" : 243815,
+  "totalTimesRated" : 0,
+  "viewCount" : 1021,
+  "viewLastModified" : 1360607239,
+  "viewType" : "tabular",
+  "columns" : [ {
+    "id" : 2978470,
+    "name" : "OBJECTID",
+    "dataTypeName" : "number",
+    "description" : "OBJECTID",
+    "fieldName" : "objectid",
+    "position" : 1,
+    "renderTypeName" : "number",
+    "tableColumnId" : 1559894,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 470,
+      "smallest" : "1",
+      "sum" : "110685",
+      "null" : 0,
+      "average" : "235.5",
+      "largest" : "470",
+      "top" : [ {
+        "count" : 20,
+        "item" : "452"
+      }, {
+        "count" : 19,
+        "item" : "453"
+      }, {
+        "count" : 18,
+        "item" : "454"
+      }, {
+        "count" : 17,
+        "item" : "455"
+      }, {
+        "count" : 16,
+        "item" : "456"
+      }, {
+        "count" : 15,
+        "item" : "457"
+      }, {
+        "count" : 14,
+        "item" : "458"
+      }, {
+        "count" : 13,
+        "item" : "459"
+      }, {
+        "count" : 12,
+        "item" : "460"
+      }, {
+        "count" : 11,
+        "item" : "461"
+      }, {
+        "count" : 10,
+        "item" : "462"
+      }, {
+        "count" : 9,
+        "item" : "463"
+      }, {
+        "count" : 8,
+        "item" : "464"
+      }, {
+        "count" : 7,
+        "item" : "465"
+      }, {
+        "count" : 6,
+        "item" : "466"
+      }, {
+        "count" : 5,
+        "item" : "467"
+      }, {
+        "count" : 4,
+        "item" : "468"
+      }, {
+        "count" : 3,
+        "item" : "469"
+      }, {
+        "count" : 2,
+        "item" : "470"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978471,
+    "name" : "Shape",
+    "dataTypeName" : "location",
+    "description" : "Shape",
+    "fieldName" : "shape",
+    "position" : 2,
+    "renderTypeName" : "location",
+    "tableColumnId" : 1559895,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 470,
+      "smallest" : {
+        "longitude" : "-74.00030814799993",
+        "latitude" : "40.73225482700008"
+      },
+      "null" : 0,
+      "largest" : {
+        "longitude" : "-73.98123599799993",
+        "latitude" : "40.57728133300009"
+      },
+      "top" : [ {
+        "count" : 20,
+        "item" : {
+          "longitude" : "-73.95558899999992",
+          "latitude" : "40.779492332000075"
+        }
+      }, {
+        "count" : 19,
+        "item" : {
+          "longitude" : "-73.98688499999992",
+          "latitude" : "40.69974300100006"
+        }
+      }, {
+        "count" : 18,
+        "item" : {
+          "longitude" : "-73.99053100099991",
+          "latitude" : "40.699337333000074"
+        }
+      }, {
+        "count" : 17,
+        "item" : {
+          "longitude" : "-73.97394599799992",
+          "latitude" : "40.68611333400008"
+        }
+      }, {
+        "count" : 16,
+        "item" : {
+          "longitude" : "-73.9505892009999",
+          "latitude" : "40.667883937000056"
+        }
+      }, {
+        "count" : 15,
+        "item" : {
+          "longitude" : "-73.87875099899992",
+          "latitude" : "40.88603733400004"
+        }
+      }, {
+        "count" : 14,
+        "item" : {
+          "longitude" : "-73.9946589999999",
+          "latitude" : "40.72591500000004"
+        }
+      }, {
+        "count" : 13,
+        "item" : {
+          "longitude" : "-73.94747800099992",
+          "latitude" : "40.79060033300004"
+        }
+      }, {
+        "count" : 12,
+        "item" : {
+          "longitude" : "-73.87210599999992",
+          "latitude" : "40.67537733200004"
+        }
+      }, {
+        "count" : 11,
+        "item" : {
+          "longitude" : "-73.8514699989999",
+          "latitude" : "40.679843335000044"
+        }
+      }, {
+        "count" : 10,
+        "item" : {
+          "longitude" : "-73.96379005499995",
+          "latitude" : "40.64094049800008"
+        }
+      }, {
+        "count" : 9,
+        "item" : {
+          "longitude" : "-73.94161699799992",
+          "latitude" : "40.798629334000054"
+        }
+      }, {
+        "count" : 8,
+        "item" : {
+          "longitude" : "-73.86081599999994",
+          "latitude" : "40.833226333000084"
+        }
+      }, {
+        "count" : 7,
+        "item" : {
+          "longitude" : "-74.00688600299992",
+          "latitude" : "40.71931833500008"
+        }
+      }, {
+        "count" : 6,
+        "item" : {
+          "longitude" : "-73.85899200099993",
+          "latitude" : "40.67937133400005"
+        }
+      }, {
+        "count" : 5,
+        "item" : {
+          "longitude" : "-73.98196299799991",
+          "latitude" : "40.753821334000065"
+        }
+      }, {
+        "count" : 4,
+        "item" : {
+          "longitude" : "-73.99714099999994",
+          "latitude" : "40.722301333000075"
+        }
+      }, {
+        "count" : 3,
+        "item" : {
+          "longitude" : "-73.93759399999993",
+          "latitude" : "40.80413833400007"
+        }
+      }, {
+        "count" : 2,
+        "item" : {
+          "longitude" : "-73.98123599799993",
+          "latitude" : "40.57728133300009"
+        }
+      } ]
+    },
+    "format" : {
+    },
+    "subColumnTypes" : [ "human_address", "latitude", "longitude", "machine_address", "needs_recoding" ]
+  }, {
+    "id" : 2978472,
+    "name" : "NAME",
+    "dataTypeName" : "text",
+    "description" : "NAME",
+    "fieldName" : "name",
+    "position" : 3,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559896,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 470,
+      "smallest" : "103rd St",
+      "null" : 0,
+      "largest" : "Zerega Ave",
+      "top" : [ {
+        "count" : 20,
+        "item" : "Fulton St"
+      }, {
+        "count" : 19,
+        "item" : "Canal St"
+      }, {
+        "count" : 18,
+        "item" : "Wall St"
+      }, {
+        "count" : 17,
+        "item" : "Rector St"
+      }, {
+        "count" : 16,
+        "item" : "14th St"
+      }, {
+        "count" : 15,
+        "item" : "103rd St"
+      }, {
+        "count" : 14,
+        "item" : "Euclid Ave"
+      }, {
+        "count" : 13,
+        "item" : "88th St"
+      }, {
+        "count" : 12,
+        "item" : "Cortelyou Rd"
+      }, {
+        "count" : 11,
+        "item" : "116th St"
+      }, {
+        "count" : 10,
+        "item" : "Parkchester"
+      }, {
+        "count" : 9,
+        "item" : "Franklin St"
+      }, {
+        "count" : 8,
+        "item" : "80th St"
+      }, {
+        "count" : 7,
+        "item" : "5th Ave - Bryant Pk"
+      }, {
+        "count" : 6,
+        "item" : "Spring St"
+      }, {
+        "count" : 5,
+        "item" : "125th St"
+      }, {
+        "count" : 4,
+        "item" : "Coney Island - Stillwell Av"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978473,
+    "name" : "URL",
+    "dataTypeName" : "text",
+    "description" : "URL",
+    "fieldName" : "url",
+    "position" : 4,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559897,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 470,
+      "smallest" : "http://www.mta.info/nyct/subway/index.html",
+      "null" : 0,
+      "largest" : "http://www.mta.info/nyct/subway/index.html",
+      "top" : [ {
+        "count" : 20,
+        "item" : "http://www.mta.info/nyct/subway/index.html"
+      } ]
+    },
+    "format" : {
+    }
+  }, {
+    "id" : 2978474,
+    "name" : "LINE",
+    "dataTypeName" : "text",
+    "description" : "LINE",
+    "fieldName" : "line",
+    "position" : 5,
+    "renderTypeName" : "text",
+    "tableColumnId" : 1559898,
+    "width" : 100,
+    "cachedContents" : {
+      "non_null" : 470,
+      "smallest" : "1",
+      "null" : 0,
+      "largest" : "S",
+      "top" : [ {
+        "count" : 20,
+        "item" : "6-6 Express"
+      }, {
+        "count" : 19,
+        "item" : "4-6-6 Express"
+      }, {
+        "count" : 18,
+        "item" : "1-2"
+      }, {
+        "count" : 17,
+        "item" : "2-5"
+      }, {
+        "count" : 16,
+        "item" : "7-7 Express"
+      }, {
+        "count" : 15,
+        "item" : "A-S"
+      }, {
+        "count" : 14,
+        "item" : "G"
+      }, {
+        "count" : 13,
+        "item" : "B-Q"
+      }, {
+        "count" : 12,
+        "item" : "A-C"
+      }, {
+        "count" : 11,
+        "item" : "A"
+      }, {
+        "count" : 10,
+        "item" : "L"
+      }, {
+        "count" : 9,
+        "item" : "1"
+      }, {
+        "count" : 8,
+        "item" : "A-B-C"
+      }, {
+        "count" : 7,
+        "item" : "4"
+      }, {
+        "count" : 6,
+        "item" : "B-D"
+      }, {
+        "count" : 5,
+        "item" : "E-M-R"
+      }, {
+        "count" : 4,
+        "item" : "J"
+      }, {
+        "count" : 3,
+        "item" : "J-Z"
+      }, {
+        "count" : 2,
+        "item" : "3-4"
+      }, {
+        "count" : 1,
+        "item" : "7"
+      } ]
+    },
+    "format" : {
+    }
+  } ],
+  "displayFormat" : {
+    "plotStyle" : "point",
+    "plot" : {
+      "longitudeId" : 1559895,
+      "descriptionColumns" : [ {
+        "tableColumnId" : 1559896
+      } ],
+      "latitudeId" : 1559894
+    }
+  },
+  "grants" : [ {
+    "inherited" : false,
+    "type" : "viewer",
+    "flags" : [ "public" ]
+  } ],
+  "metadata" : {
+    "custom_fields" : {
+      "drawingInfo.renderer" : {
+        "symbol.url" : "9A85D018",
+        "symbol.height" : "6",
+        "symbol.type" : "esriPMS",
+        "symbol.contentType" : "image/png",
+        "symbol.yoffset" : "0",
+        "symbol.xoffset" : "0",
+        "symbol.angle" : "0",
+        "symbol.width" : "6",
+        "symbol.imageData" : "iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAIpJREFUGJV1zyGqAlEYBeAPuTig7ZomuwaL4AZcgcFidwFWu+AGbK+pyV2IYHMN1/QnywThlQFF9GuHc8pJWjnnUURM8MAJd0joYBcRCy9bLLBPWLbhXQ9/uCTMfdfFLCH/GKiqapBwxfDboGmaS6rrel1KmaL/0Z9xTKWUW855EhEbjNubB6zw/AfGKCNQOUHLWAAAAABJRU5ErkJggg=="
+      },
+      "Basic" : {
+        "copyrightText" : "",
+        "type" : "Feature Layer",
+        "definitionExpression" : "",
+        "Source" : "http://nycopendata.esri.com/ArcGIS/rest/services/DOITTServices/SubwayStationsWM/MapServer/0",
+        "id" : "0",
+        "minScale" : "0",
+        "displayField" : "NAME",
+        "htmlPopupType" : "esriServerHTMLPopupTypeAsHTMLText",
+        "name" : "SubwayStations",
+        "currentVersion" : "10.02",
+        "hasAttachments" : "false",
+        "capabilities" : "Map,Query,Data",
+        "maxScale" : "0",
+        "Spatial Reference wkid" : "102100",
+        "defaultVisibility" : "true",
+        "geometryType" : "esriGeometryPoint"
+      },
+      "Update" : {
+        "Update Frequency" : "As needed"
+      },
+      "drawingInfo" : {
+        "transparency" : "0",
+        "renderer.description" : "",
+        "renderer.type" : "simple",
+        "renderer.label" : ""
+      }
+    },
+    "renderTypeConfig" : {
+      "visible" : {
+        "map" : true
+      }
+    },
+    "availableDisplayTypes" : [ "map", "table", "fatrow", "page" ],
+    "rdfSubject" : "0",
+    "attachments" : [ {
+      "blobId" : "2067EBAB-6254-417A-B924-FC11A3FE6419",
+      "name" : "DOITT_SUBWAY_STATION.zip",
+      "filename" : "DOITT_SUBWAY_STATION.zip"
+    } ],
+    "rowIdentifier" : "0",
+    "rdfClass" : ""
+  },
+  "northWest" : {
+    "long" : -74.0310091399555,
+    "lat" : 40.9032219719368
+  },
+  "owner" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "query" : {
+  },
+  "rights" : [ "read" ],
+  "southEast" : {
+    "long" : -73.7543047727411,
+    "lat" : 40.5757765032568
+  },
+  "tableAuthor" : {
+    "id" : "i7d8-sc4w",
+    "displayName" : "Chris Metcalf",
+    "emailUnsubscribed" : false,
+    "privacyControl" : "login",
+    "profileImageUrlLarge" : "/images/profile/3353/3169/project_managing_reasonably_sized_large.jpg",
+    "profileImageUrlMedium" : "/images/profile/3353/3169/project_managing_reasonably_sized_thumb.jpg",
+    "profileImageUrlSmall" : "/images/profile/3353/3169/project_managing_reasonably_sized_tiny.jpg",
+    "profileLastModified" : 1360171451,
+    "screenName" : "Chris Metcalf",
+    "rights" : [ "create_datasets", "edit_others_datasets", "edit_sdp", "edit_site_theme", "moderate_comments", "manage_users", "chown_datasets", "edit_nominations", "approve_nominations", "feature_items", "federations", "manage_stories", "manage_approval", "change_configurations", "view_domain", "view_others_datasets", "edit_pages", "create_pages", "short_session" ],
+    "flags" : [ "admin" ]
+  },
+  "tags" : [ "location", "map", "cartography", "basemap", "transit", "transportation", "train", "subway", "travel", "entrance", "station", "transfer" ],
+  "flags" : [ "default" ]
+}
